@@ -4,124 +4,59 @@
     "mode": true,
     "lista": [
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/u4ikorO4E3PouLRRwGaRuhFvsl3.jpg",
-        "name": "Hellraiser",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlAq7LVn3frsSMKAOE/+1wiPADnMyFBUvEV2LidZDl60w=="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
+        "name": "Avatar: El sentido del agua",
+        "uri": "It4hL9cGNnGI8hUqRaPD5+XB4oIowb/nTiZ4UT3iHq4vKCLb/lmwasdmUTzUY//McauBP/2chALBoVgiJveopQ=="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hqBeKurpfqoV5msTH5XttGLwFUv.jpg",
-        "name": "Noche sin paz",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmiWyapW6veJ4DxxNPDzdGtQQ98uMp+wgiG71b0DabiXi8d2s2tht5Aj2Iwh1s9QaY="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/1RbvTtVXwmjJqB9cZXBtM5uz5ou.jpg",
+        "name": "Sin respiro",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXnprkAi5CmMCjfA/DDpB0Lgn0wPfU0oIXPO14W6J+MDJA=="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/moBrEYoOxLRc1LsFl8IXeilYwtq.jpg",
-        "name": "NO ESTARAS SOLA",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXk2lBmPpOzWmvg/K5yNpLL//dksJC9fPjduWzSz6xq3cJ+WKBXyQirwKtlNAKXLeHw="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/AqnFoTOKLAtVIf3HtfM5GUd1ivW.jpg",
+        "name": "Sin aliento",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkomUj7isxZ6bMDb1/FV4+9iG+gYBU7JLzIekT/jBdEDPvTRTr64Q1fwqP+7kD4IsI="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w300/Akrpgc25QorDhlSAfntjL65Mp6M.jpg",
-        "name": "Matrimilla",
-        "uri": "EyC6GGwicYe2173kOnxiAmHqsc8e0UvLibojieH8jX2zbU49vBNiRe35lTwFYMMAITe/FbR4XUK4gJ6QHKDwMn6+DyrSIrbE70H1UDK3bF9yLlCo0JCvwZIg6aHCuKUr"
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg",
+        "name": "Resurrección",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXnt4xVFYcBkyGFdF12rfblnuAXN6ZkvC4CRkaTWG6jiDw=="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/7/w1280/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",
-        "name": "La guerra del mañana",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmkrxRCAv7s4ZpZwIKwXwZqwo5PmqgObOLlXkeKNxC+YzHyEMZj783U0O9UD0uR8lk="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/tcHe72gXZD0gyfWiHZrGEFfuULE.jpg",
+        "name": "Todavía creo en Santa",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXliNU076K9V5KZCRVmtqdWnN8Yu80E+qgsoQLjtVz0qexu/mdGlzOq9wvYX9/Hju3s="
       },
       {
-        "icon": "http://tuvideo.tv/poster/w200/7189301664320807i.jpg",
-        "name": "Tren Bala",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmfNrEhQmC8+Cyrux7sJg7LROtTMLT1CjJn\ntgMxVGZBVkR2EtPsK4Dc6Hgj89nqwvQ="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/wGE4ImqYjJZQi3xFu4I2OLm8m0w.jpg",
+        "name": "Bull Shark",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXn+ZXlnRCV9DL4VTmuQGuJESsUvvpP6JUxcSTtaN9bU1A=="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/j9NcPdkrBY0aFOKpTtjDQJdvT4c.jpg",
-        "name": "Noche en el museo: El regreso de Kahmunrah",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnG6cSayc8srnHHyXnSlyB66AcPmXdSOSGU\ncrdypPwG7w=="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/nchaDv1TpVNAATnYoW2mrncGsKV.jpg",
+        "name": "Sueños de Marte",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXnrgtELcH7BxMSaQjiFrcGjhjyYKkYRVG5qbuvdCmeFPw=="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",
-        "name": "Emancipación: Hacia la libertad",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnG6cSayc8srnHHyXnSlyB6n4EGQO2CeHoA\nGYq2sdAbyw=="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ySBDRXsZSKVBNtZZAEKccNHPZ5o.jpg",
+        "name": "Stargirl en Hollywood",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXnoCyLWYFFriy345VlzoHkpNKKR7Ji9GMNkXkwFhSyTB4N8j4w3MWSYXzVW7Zmhcwg="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg",
-        "name": "Pinocho de Guillermo del Toro",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnG6cSayc8srnHHyXnSlyB6ip+svpPqxaaC\nZ/W/9bsICg=="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/cbVvBYu3POY30cw4C9jtEIygiTf.jpg",
+        "name": "South park: Las guerras de los streaming",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXn76Z4ON6UwuoQLRJSndCQyG3kNRAutzr3gEICHRwewYC7LSUj9lDs0ibCFJRlJgkTQvMyYDyHG2ZeJM0e9xEj3"
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/qDukjmqZsgyLN7UKsaGoO69Txcq.jpg",
-        "name": "La maldicion del hombre lobo",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlV4ssdDdhzGhbXxz+J2qKof/7DNMrSJK3u\nGd86cxuHKQ=="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/nUyM9VBcIuGzACORtXEMD9tcgWv.jpg",
+        "name": "Sociedad de Honor",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXn0cRQ6VEMoBaBaHjZCtpmKfR7y3trv0S8oePOgOEybYpILPlMYy7A112+Gwnbzo/E="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/fUqIFYsmzR2w0pPrkm2xyp5Suct.jpg",
-        "name": "Boleto de Fuga",
-        "uri": "It4hL9cGNnGI8hUqRaPD55fA4YVO9MB+lkMnzSkutr81OPyhPmmX+Dih+5Uqe47PNfakuqXSjl7E\nBwEAGzHIkA=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/gOXTTRXjSo2Lk9LO6oxLL6lMP7U.jpg",
-        "name": "Diorama",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlcqdvEr/5wmUfjxpk+0bOmbwJJO/zrEW3u\nNkMT9RMSXw=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w300/jUtlgyDFzEVP9EQaveQwpvE61ly.jpg",
-        "name": "Desencantada",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlSlwQZIZRFicJk8nKKdBW97IshBzAdwTxe\nuvvB/1WxBQ=="
-      },
-      {
-        "icon": "http://tuvideo.tv/poster/w200/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg",
-        "name": "Troll",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlxchpqc+dxGJYBtM0TcpZcBDYY1mzZemhR\n+VoQaECAkQ=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/l76aJTcLlx8pUiqQd2CIadiEfpj.jpg",
-        "name": "Robo entre ladrones",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmi2FJ0Q/VIimNcyBZLWYiawcfQKDFStfeb32VGX+6EEw=="
-      },
-      {
-        "icon": "http://tuvideo.tv/poster/w200/7244951669164641i.jpg",
-        "name": "La mujer Rey",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlSBelIPixaw+k6xQzQ1VccOXPXMEbpYmFi\n8xULEhICCw=="
-      },
-      {
-        "icon": "http://tuvideo.tv/poster/w200/6268721668910086i.jpg",
-        "name": "Emergencia en el Aire",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWQXSQJhtTFoAPGKqp8tDoh1hB7fHYHfd9bNTZMg1uWoIDWuin72/pAGM\n286LvDsTMKJ1Y3WtyFOefd8/LP9ZQSk="
-      },
-      {
-        "icon": "http://tuvideo.tv/poster/w200/4774621668909552i.jpg",
-        "name": "The TWin",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWZOl5rKlR5iAVy2vNZjDSI08LpL2U0yDvzFa4JpUP7aENPR47moO3XmQ\nilIG57pK6A=="
-      },
-      {
-        "icon": "http://tuvideo.tv/poster/w200/8031141667008380i.jpg",
-        "name": "The Requin",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWU/wFVNv3iAMnjd3my0xdY13W6qePFQRs+9qRsJZl0vplyP7bRS7T+fQ\n88cDfvTdFA=="
-      },
-      {
-        "icon": "http://tuvideo.tv/poster/w200/8237661668909740i.jpg",
-        "name": "The Wonder",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWatXN3ARFhPPNbjcbnqsU46MxDZT6dhZlaRciKykC987XrFZFroV9ZWC\niQZQIdVSPg=="
-      },
-      {
-        "icon": "http://tuvideo.tv/poster/w200/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
-        "name": "Palmer",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWburNqiFY6ZM37IMoh9eQdgfEBr60p3/kRmAnAxN4SiB+k90HkBICbLi\nlyDh/3MlcA=="
-      },
-      {
-        "icon": "http://tuvideo.tv/poster/w200/7803821668825004i.jpg",
-        "name": "El Lobo el y el Leon",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWaP+HU5phvc0SYCq3M+L94NJrITaoHHvztslbnqH5eQwOM9Uzc6rYUIT\nJg7Oc+6L8w=="
-      },
-      {
-        "icon": "https://i.imgur.com/N2xgEfg.jpg",
-        "name": "My Policeman",
-        "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95UaiNA3rIR6Ro5q\nmQPoZgjWaS6fiBCgkm1YezpGXvoQ2ky43B0frKjNbeUvF9oS1aSV5rWZ+Pp/pMx6yiXirVEz1VsN\nH1RnnjIEZ1PufP08lTE="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/g4eZO1621AiA3h7Ph8yO0I58bdG.jpg",
-        "name": "Kal",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnw23LD+vMUIowh3kD30Dk+ivTCPJShuOu0\nzrTdbrwfqg=="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/aw05OSgJFxsMiLAN0UQG2gCdTGY.jpg",
+        "name": "Sonrie",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlcvPdmunSJMUtd+6EQ+wDkfC0kAj1Tof1g28yd9UYVRw=="
       }
     ]
   },
@@ -129,6 +64,11 @@
     "name": "CINE ARGENTINO",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w300/Akrpgc25QorDhlSAfntjL65Mp6M.jpg",
+        "name": "Matrimilla",
+        "uri": "EyC6GGwicYe2173kOnxiAmHqsc8e0UvLibojieH8jX2zbU49vBNiRe35lTwFYMMAITe/FbR4XUK4gJ6QHKDwMn6+DyrSIrbE70H1UDK3bF9yLlCo0JCvwZIg6aHCuKUr"
+      },
       {
         "icon": "https://i.imgur.com/q9lmVCw.jpg",
         "name": "30 noches con mi ex",
@@ -460,6 +400,252 @@
     "name": "SERIES",
     "mode": true,
     "lista": [
+      {
+        "name": "El cartel de los sapos el origen",
+        "icon": "https://www.themoviedb.org/t/p/w500/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPKGj2fKonCWSQFrnMM8dfzs="
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPPO+zrovoctbJaubrnbCjPE="
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPGCHnoqolcPv2bFUaj1QJF8="
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPHFVxmQZ0Zpb0j1ToRwB6Jo="
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPHq5e6MX4btV2ySvJdrrO00="
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPLiUMIpz7fAdZSE+sM5tqdA="
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPIcUTritbwxH6KDdHDuD9SQ="
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPDOJzqqEvmPYO8rLDzBsm6A="
+          },
+          {
+            "name": "CAPITULO 9",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPFiI08V+FIPavT5bota6CdQ="
+          },
+          {
+            "name": "CAPITULO 10",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPNwM+qZxNBf0lea2AtDE06A="
+          },
+          {
+            "name": "CAPITULO 11",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPNqs1PHsj39GgbtHEwZyOuk="
+          },
+          {
+            "name": "CAPITULO 12",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPMbDBorS6dB8HZsxnX18bAg="
+          },
+          {
+            "name": "CAPITULO 13",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPPloZmgfavsazIylekDTYRg="
+          },
+          {
+            "name": "CAPITULO 14",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPIYgJESSVxAyIeQrqfpHJag="
+          },
+          {
+            "name": "CAPITULO 15",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPETIjzo0PFiWMnU4zl2/vuQ="
+          },
+          {
+            "name": "CAPITULO 16",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPEE9oTSrgM9XkZopjvLDFrw="
+          },
+          {
+            "name": "CAPITULO 17",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPG+3aeWC2N3QzZwEUD+ILrE="
+          },
+          {
+            "name": "CAPITULO 18",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPOeE76hLIs+cFah/ZBOn9fw="
+          },
+          {
+            "name": "CAPITULO 19",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPB4GN2XsQhGrZXgW16Gj4rE="
+          },
+          {
+            "name": "CAPITULO 20",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPMNSmZQIPFMBCoAvwyOK/NY="
+          },
+          {
+            "name": "CAPITULO 21",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPFGRLfOAEay1RPajAqgOeCQ="
+          },
+          {
+            "name": "CAPITULO 22",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPGb1D4mkLm+GliKQbysBpn4="
+          },
+          {
+            "name": "CAPITULO 23",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPDQmAEvfyZttIfPHfwxdAgo="
+          },
+          {
+            "name": "CAPITULO 24",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPG9raVz3A26XPZfTi9QzO68="
+          },
+          {
+            "name": "CAPITULO 25",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPF7A0KbUid+oCWPBxMtbBeo="
+          },
+          {
+            "name": "CAPITULO 26",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPBN+z9ZtXjuU6gCTxcqMyAU="
+          },
+          {
+            "name": "CAPITULO 27",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPKKPavop6yYLeR1lvqYFQ2M="
+          },
+          {
+            "name": "CAPITULO 28",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPFKK5CadNGsGXybYnfLtVKs="
+          },
+          {
+            "name": "CAPITULO 29",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPF8rmoeBBQkzjE+AKofppek="
+          },
+          {
+            "name": "CAPITULO 30",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPLaja3GPEpfnTBEXvgm5JVk="
+          },
+          {
+            "name": "CAPITULO 31",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPEfVe1JjlNrUmq5TIWRBWiM="
+          },
+          {
+            "name": "CAPITULO 32",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPHVCDgTMBdyrO7h0rcHgLxY="
+          },
+          {
+            "name": "CAPITULO 33",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPCKji1xdrQ2NiYeBI3/ECQw="
+          },
+          {
+            "name": "CAPITULO 34",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPNXGQ5TOA0cdPPwDxI6WnhQ="
+          },
+          {
+            "name": "CAPITULO 35",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPDFLqEeChfSUGkS8NoyLuw0="
+          },
+          {
+            "name": "CAPITULO 36",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPI6DBOJFbK/BKuksJMrfH0I="
+          },
+          {
+            "name": "CAPITULO 37",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPKgQAfT7lAAFg15kOdpHlYE="
+          },
+          {
+            "name": "CAPITULO 38",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPE3zA08mLi5h10msJlTPN8Q="
+          },
+          {
+            "name": "CAPITULO 39",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPD4jqB+DQBavm9RnhbcY8Ho="
+          },
+          {
+            "name": "CAPITULO 40",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPI3YUjz+KSFtLYxTNLUdVMA="
+          },
+          {
+            "name": "CAPITULO 41",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPPO9I1A/+nK7/M3fm+mwaw4="
+          },
+          {
+            "name": "CAPITULO 42",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPLUtux+WCvXvgvR0gowRBYg="
+          },
+          {
+            "name": "CAPITULO 43",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPCvKUy3ZuhwBClcj74vVFlw="
+          },
+          {
+            "name": "CAPITULO 44",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPHpD52axQLHFUH1NvlBFvFU="
+          },
+          {
+            "name": "CAPITULO 45",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPKFOa5/EObnkwntnqfLsK1w="
+          },
+          {
+            "name": "CAPITULO 46",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPB0a5Sj3GBCpim4U7m+XV6E="
+          },
+          {
+            "name": "CAPITULO 47",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPCKpWaVgatMmU4ZivV0+zkc="
+          },
+          {
+            "name": "CAPITULO 48",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPCFY6KAisa1iyawUvyslsbQ="
+          },
+          {
+            "name": "CAPITULO 49",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPOc1WsQz85XmwdOfEVljs7w="
+          },
+          {
+            "name": "CAPITULO 50",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPM+t5jG9xSkwnSWMsXQMlcU="
+          },
+          {
+            "name": "CAPITULO 51",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPPaSZyJw6yGFNlRa7vk8zLM="
+          },
+          {
+            "name": "CAPITULO 52",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPCvlQzBr/WR93ibyz+h02Ec="
+          },
+          {
+            "name": "CAPITULO 53",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPEtDXl5FkgKABHMxnTjclso="
+          },
+          {
+            "name": "CAPITULO 54",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPEc2HAsWcmmbCs4O00nCU1Q="
+          },
+          {
+            "name": "CAPITULO 55",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPL9grANjDk9ZSApUYrPe0W8="
+          },
+          {
+            "name": "CAPITULO 56",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPFnta7/hURv7QMdAnmX1FMM="
+          },
+          {
+            "name": "CAPITULO 57",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPNhBDBiku20OXRJMk/gCqD0="
+          },
+          {
+            "name": "CAPITULO 58",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPM3EAOTPEnbtZK+yn4pY25Q="
+          },
+          {
+            "name": "CAPITULO 59",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPLzFj+qMsYiExbRXeAvBh8Q="
+          },
+          {
+            "name": "CAPITULO 60",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTS\nXNiGDtFCPKgIr/oXsq7pfA5ZNRT70E8="
+          }
+        ]
+      },
       {
         "name": "La casa de papel coreana",
         "icon": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/9c9aT9WDEG0UhNlL7yWP9yM7qiT.jpg",
@@ -1897,7 +2083,7 @@
         ]
       },
       {
-        "name": "Expe",
+        "name": "Expediente secretos X",
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnW3uBGz9kXFNFva724FmfbcPx1GnOG49fxbvRKvb51jqFrnYrPT3HL6wXiS13FPo1Y80&usqp=CAU",
         "temporada": [
           {
@@ -8580,43 +8766,43 @@
         "temporada": [
           {
             "name": "Capitulo. 1",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWaHJadtI45eBUn8+Sgq1m211ioiLt0bpQnbGwSsnnMtV3KgDRVavjbMkap/E/ltduQ=="
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoqJbw1l2Wkj/KnEsPmg5nImJWt4I1ToUi7kXvPInIHM/+CKJxaRqlBzPdOAj9a4/zLI9TQnueJMDsdNfAlx1UzwollajTKaunD9Rv8QNGOVw7UAXs1hRo/pPPk2y8o9Bw=="
           },
           {
             "name": "Capitulo. 2",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWaHJadtI45eBUn8+Sgq1m211ioiLt0bpQnbGwSsnnMtVr2LEzDS3Rux7QR0QzBhdxQ=="
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoqJbw1l2Wkj/KnEsPmg5nImJWt4I1ToUi7kXvPInIHMyBkw//cyYNgvILue+T+/lVyl2czlBz1fVvtB8AVHiRryBt5SwgcwqifcQev+zDqaQQKHSH/OGROt+m9044D6Og=="
           },
           {
             "name": "Capitulo. 3",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWaHJadtI45eBUn8+Sgq1m211ioiLt0bpQnbGwSsnnMtVxYbZDk0P8B8oG+UknQ/DAg=="
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoqJbw1l2Wkj/KnEsPmg5nImJWt4I1ToUi7kXvPInIHM50MDaYZtbDgMooqmRLiyH9rngBiIOJPwWhpcHQSx6DOI3d7suqQ2WeP+b0H+F0ztOThVnGIpQ4fA3Hw9VwxYxw=="
           },
           {
             "name": "Capitulo. 4",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWaHJadtI45eBUn8+Sgq1m211ioiLt0bpQnbGwSsnnMtVN3IQPke9Uh5ztKgkeJFDWg=="
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZoqJbw1l2Wkj/KnEsPmg5nImJWt4I1ToUi7kXvPInIHMqIHJsNlU2dvytfBMvctftIXf8kDqdUkrH4ZIiR4WOvxuCOFhej64CiADM0yJW6kCiOL6f6Pw2w3o5xzPrjTTMA=="
           },
           {
             "name": "Capitulo. 5",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWaHJadtI45eBUn8+Sgq1m211ioiLt0bpQnbGwSsnnMtVao/8TKhE+T5lPhp6ibgucg=="
+            "uri": "aqjOEhWtVS9CYLQkJfIDWRC7uyf2Ss6YGWpCPnrW8Skth0S8Dca+JG1KInIZIfAlpyyoNPzjVdg1DR+JV1uGPg=="
           },
           {
             "name": "Capitulo. 6",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWaHJadtI45eBUn8+Sgq1m211ioiLt0bpQnbGwSsnnMtVNVugQjKow4+wXlrZ9mg1oA=="
+            "uri": "aqjOEhWtVS9CYLQkJfIDWRC7uyf2Ss6YGWpCPnrW8Skth0S8Dca+JG1KInIZIfAlwVfxCF+1Bp1aEMsZcDnr3g=="
           },
           {
             "name": "Capitulo. 7",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWRC7uyf2Ss6YGWpCPnrW8Skth0S8Dca+JG1KInIZIfAl4vDUkkUVTIB6xi1QVKS0iA=="
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaHJadtI45eBUn8+Sgq1m211ioiLt0bpQnbGwSsnnMtVNfME49ZgXqeGZvClSh7hvg=="
           },
           {
             "name": "Capitulo. 8",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWRC7uyf2Ss6YGWpCPnrW8Skth0S8Dca+JG1KInIZIfAlcEpepZA1X1/Zhyulhx66IA=="
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaHJadtI45eBUn8+Sgq1m211ioiLt0bpQnbGwSsnnMtVQEts1iamdM9Xw4mDOJwXjg=="
           },
           {
             "name": "Capitulo. 9",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWRC7uyf2Ss6YGWpCPnrW8Skth0S8Dca+JG1KInIZIfAlI2NrqfzYuvExnc8DmIgRkQ=="
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaHJadtI45eBUn8+Sgq1m211ioiLt0bpQnbGwSsnnMtVym2h8txoNFACagUc9kzqjw=="
           },
           {
             "name": "Capitulo. 10",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWaHJadtI45eBUn8+Sgq1m211ioiLt0bpQnbGwSsnnMtV+NR6XMgUXQXciENo1fwb8Q=="
+            "uri": "aqjOEhWtVS9CYLQkJfIDWRC7uyf2Ss6YGWpCPnrW8Skth0S8Dca+JG1KInIZIfAlMrciqpXcRdZOzkYRZ/FiHg=="
           }
         ]
       },
@@ -13325,6 +13511,16 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/nOrnzHn9SCF6JTXfX02eSPyAAXL.jpg",
+        "name": "Scrooge: Cuento de navidad",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmwQLOSIZuVmVsnuOuK2Ql+6fxwAAmQPuI11iSEF6eCzxtFHPqXpoAmgqcqj6W1N+isqB/3fPAD4YEC/HeeY6QM"
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/qvDJbZYs2p4eOdyJ8R2dfdJp2Qq.jpg",
+        "name": "Reyes contra Santa",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkXyTs0/zcU16Ag5NGAwB5V2hz+9nrkw4W58vgax03N/6MkmXjrSZyXl2L/KGXoV8E="
+      },
+      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/qvDJbZYs2p4eOdyJ8R2dfdJp2Qq.jpg",
         "name": "Reyes contra Santa",
         "uri": "EyC6GGwicYe2173kOnxiAmHqsc8e0UvLibojieH8jX2zbU49vBNiRe35lTwFYMMAU+VfBPLpoI7pz52FK2I5yB3A5pHGz9dWcAW+2UpJIX3QUSk6c5HS9fqfRkwFzd+vL9KnyMUi/VyX0AUzJsGs7Q=="
@@ -13337,12 +13533,12 @@
       {
         "icon": "http://tuvideo.tv/poster/w200/7369181670114700i.jpg",
         "name": "El diario de Noel",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWWIeKB5VL69pAtrbkdLBQGqgT27ukd624dBlHCeQq/k2ZeGzlTw8svFouGhcmW+KxA=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmJSvovNKgPXXOZtoiOk/yESH2lGPiZ5Tr0EhhomPpBbxK4ibJdqySYKpBFfd3Nkgw="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/wVrfgf4rHU0dHf5iWmtBH9MibB.jpg",
         "name": "Guardianes de la galaxia: Especial de Navidad ",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWaMJEzkt7Ef0xf5u4+DCoNTYedZm2yfZ5fBl6VTAq1g1V0llc1BpB0pE3Uqa/1H298vwC82TUgB6WxJnlqqnUUvZOka7AljWWuAcf9/TC9NK"
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXksyO+nX+ERjjUcyyYoqI0Gs1IR8w1ztp2fBuEcUyz/p96pVrjIXXzjGpahFecSLRqCFpJsUcuYaF7z9DNfeKKM8m/mdALXkbfsTS2utv00Yw=="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/veh8LYQUF8fBXSKYqpRjwlIStxZ.jpg",
@@ -13422,22 +13618,22 @@
       {
         "icon": "http://tuvideo.tv/poster/w200/8820961640205446.jpg",
         "name": "Navidades en California",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWbjvP7ndn8YjhJSu9JEv/27CKPP76JpvUmzlvoFpUPHWNKrwnoNShn78A1GnrXkZ5dfErgkA1CsosTzaTLD+Ul8G8e1JDbfAtlD3dnTmMUD/"
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlKYR4NloGKqwpqYiffFEtvxw0lrZrHl0EqdrH5bMQfxCeTfP+XA7hAaeKQZG4h6jP3EEA67kCruUt04XVY7bYN"
       },
       {
         "icon": "http://tuvideo.tv/poster/w200/6328561669164439i.jpg",
         "name": "Spirited",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWTZH0wCmtDCLiy7Iioq3EA9TpYwt4jzUsDlbUymEKghLxFh9XmJ3GAwRVyTJJAFX3+wP6XxDKmGBr+mu6p0oN9M="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkcDdFC0qLAJfo0KxaXrySLWCxg6NogPLPSdzkhIl9vmg=="
       },
       {
         "icon": "http://tuvideo.tv/poster/w200/5274351607385495.jpg",
         "name": "Cronicas de Navidad",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWVuUg/V99cWijvSV69WgPGjQMgX++lWHOlP9hGW3HgkHzPIQgdQMRF2/XFigsdptJA=="
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGmQDYObsXtmZu2to1rP1TLNtJvD/EsHqcsgMm+wiRXzFg=="
       },
       {
         "icon": "http://tuvideo.tv/poster/w200/6540281607385555.jpg",
         "name": "Cronicas de Navidad 2",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWVuUg/V99cWijvSV69WgPGjQMgX++lWHOlP9hGW3HgkHvPALqgCwlOHr4oFKE2xyoA=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkzuoo6geHJdc6sG5+q9OSXX6zC7KBs3G9K7YnsAG8uUIhVbhB08XbuPHfDGE+4ZW9TePdkVuU6LKqu+st6FCys"
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/11/w1280/572kONypScXTz8detAOarXGbijI.jpg",
@@ -13577,6 +13773,11 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",
+        "name": "Emancipación: Hacia la libertad",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnG6cSayc8srnHHyXnSlyB6n4EGQO2CeHoA\nGYq2sdAbyw=="
+      },
+      {
         "icon": "https://ennetflix.pe/media/20/manhattan-en-la-oscuridad_80099971.jpg",
         "name": "Noche en manhatta",
         "uri": "Sgd8yKRJ4UYOW9hnqm/efF0pvzaOIpOGvnbO5BhZJAzo1FPpDQCSeJvBGuCC4a8NG/t/qbd1NHN6\nYyGrT5RfrCLdTBcIp6h9ZNz18EWlPCI="
@@ -13629,17 +13830,17 @@
       {
         "icon": "https://es.web.img2.acsta.net/medias/nmedia/18/88/91/08/20306579.jpg",
         "name": "El Hobbit: Un viaje inesperado",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWb1wrCw5rPnGXviYv4s8I+pJ7xyztz916j92VtKh8q7NBFKWEbAqzbSz\niMmp7rMsZIdUJWAfH99NtHYPYlD8Urc="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlMXPivEK8Rt46gWXIhgE4Q4f1z5Vo8ps3EbkDxOkamq1HhIhggn7GdoqRW0Tci8XMFc+XvHD4r8EqrcJbS9Y92"
       },
       {
         "icon": "https://es.web.img3.acsta.net/pictures/13/12/13/11/42/576944.jpg",
         "name": "El Hobbit: La desolación de Smaug",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWb1wrCw5rPnGXviYv4s8I+rTj6g3FVibqUsKRkFNk8wbK9FlfSn6er2N\nKTkn+j0dCohCmeHmzXRnjwdsndz/2Yc="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlMXPivEK8Rt46gWXIhgE4Q6vM9PVfkfcko4zpFoQJqnDSLQUb/nKgVdTeM6DknWC/MC8PSI2pmOGU+1AhazPem"
       },
       {
         "icon": "https://es.web.img2.acsta.net/pictures/14/10/17/13/10/188874.jpg",
-        "name": ",El Hobbit: la batalla de los cinco ejércitos",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWURFUjG4BHMSUfD6Xbn11OWWXXvAwQ1CPGBlnYOMEK+oNZZKcmGw6QTG\nc4QgimS3LDwjrSM/LzyhJfBOtlq2oRRvy14MK07qjG62nw29GfHY"
+        "name": "El Hobbit: la batalla de los cinco ejércitos",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlMXPivEK8Rt46gWXIhgE4QEixAHUGXf5fb\nsTJJqd9PUpQrcnivfs+06lecE19GR5L+YJgswz5khtzw+G0boFNA9Pca2/r4l9SMtpW2NvO/BQ=="
       },
       {
         "icon": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0f803739895d817f236c37077c034d37524e134cd1f24465a9cadfdf0c572d8e._RI_V_TTW_.jpg",
@@ -13679,7 +13880,7 @@
       {
         "icon": "http://tuvideo.tv/poster/w200/1CQLje4eBtysFzCik7Lezd9GUvJ.jpg",
         "name": "Asalto a la casa de la moneda",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWRNOVowKqYthLAQ/aEP1E9rTXNFPJhgS8kgLjDxPAsLzz+S4lX6jBniD\nQAWpRarZa1y5AYlzKoWmweAgg6C9bTo="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkf+iFDxBc/D1IA8yPxNYQY3DfL4lCTg7UA\nVABIOBnMGA=="
       },
       {
         "icon": "https://es.web.img2.acsta.net/medias/nmedia/18/89/76/32/20065582.jpg",
@@ -13739,12 +13940,12 @@
       {
         "icon": "https://www.ecartelera.com/carteles/16400/16435/001_m.jpg",
         "name": "Enola Holmes",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWW4JFRZ0MPJ0ZseMiufqVe/dsDIEuBWzJDQeW63phkG325NOfE5cH4si\nNrY8/231kw=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXk+KSdfqmadV/yZmgZd4UvFhIreY/j8ofDh\nYfswA+X9zg=="
       },
       {
         "icon": "https://i.blogs.es/bfc7e3/enola-holmes-2-poster/450_1000.jpeg",
         "name": "enola Holmes 2",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWb9nvOEdjDXetry1QCTyaxhU455f+oSay8TywnOjnwyteYgImdytInbc\nZN0P0P6Ytw=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXk+KSdfqmadV/yZmgZd4UvFFqka5OSOlnzH\nuN9SjkjGMaqpJA6GNRhslSXGZANxDNg="
       },
       {
         "icon": "https://es.web.img3.acsta.net/c_310_420/pictures/14/03/13/10/11/381575.jpg",
@@ -13902,6 +14103,41 @@
     "name": "PELICULAS ACCION- AVENTURA- CIENCIA FICCION",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hqBeKurpfqoV5msTH5XttGLwFUv.jpg",
+        "name": "Noche de paz",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmiWyapW6veJ4DxxNPDzdGtQQ98uMp+wgiG71b0DabiXi8d2s2tht5Aj2Iwh1s9QaY="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/7/w1280/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",
+        "name": "La guerra del mañana",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmkrxRCAv7s4ZpZwIKwXwZqwo5PmqgObOLlXkeKNxC+YzHyEMZj783U0O9UD0uR8lk="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/7189301664320807i.jpg",
+        "name": "Tren Bala",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmfNrEhQmC8+Cyrux7sJg7LROtTMLT1CjJn\ntgMxVGZBVkR2EtPsK4Dc6Hgj89nqwvQ="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/fUqIFYsmzR2w0pPrkm2xyp5Suct.jpg",
+        "name": "Boleto de Fuga",
+        "uri": "It4hL9cGNnGI8hUqRaPD55fA4YVO9MB+lkMnzSkutr81OPyhPmmX+Dih+5Uqe47PNfakuqXSjl7E\nBwEAGzHIkA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/qDukjmqZsgyLN7UKsaGoO69Txcq.jpg",
+        "name": "La maldicion del hombre lobo",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlV4ssdDdhzGhbXxz+J2qKof/7DNMrSJK3u\nGd86cxuHKQ=="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg",
+        "name": "Troll",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlxchpqc+dxGJYBtM0TcpZcBDYY1mzZemhR\n+VoQaECAkQ=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/l76aJTcLlx8pUiqQd2CIadiEfpj.jpg",
+        "name": "Robo entre ladrones",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmi2FJ0Q/VIimNcyBZLWYiawcfQKDFStfeb32VGX+6EEw=="
+      },
       {
         "icon": "https://c3.cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fh5tZNRH2Ye1Qnj3lLlNe7iegCdx.jpg&w=256&q=75",
         "name": "Erase una vez un Genio",
@@ -14994,6 +15230,11 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w300/jUtlgyDFzEVP9EQaveQwpvE61ly.jpg",
+        "name": "Desencantada",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlSlwQZIZRFicJk8nKKdBW97IshBzAdwTxe\nuvvB/1WxBQ=="
+      },
+      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/4pZdGhTCmpnDYKdoMP3yVUaxefg.jpg",
         "name": "Barba cabello y bigote",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnM9sJzFbun8Xgi0tsw8PdkpFUTNZ5L9md2\nYsnS5rGd+Q=="
@@ -15525,6 +15766,56 @@
     "name": "PELICULAS DRAMA- SUSPENSO- CRIMEN",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/9/w1280/zpqzcMNU3idAlTR9r9DIPaw0bgc.jpg",
+        "name": "Hambre de poder",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXk1eGF9d0fvQMI77JSpGiA2D2yQ3hqTb/IhxWn2yBItXA=="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/7244951669164641i.jpg",
+        "name": "La mujer Rey",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlSBelIPixaw+k6xQzQ1VccOXPXMEbpYmFi\n8xULEhICCw=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/gOXTTRXjSo2Lk9LO6oxLL6lMP7U.jpg",
+        "name": "Diorama",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlcqdvEr/5wmUfjxpk+0bOmbwJJO/zrEW3u\nNkMT9RMSXw=="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/6268721668910086i.jpg",
+        "name": "Emergencia en el Aire",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWQXSQJhtTFoAPGKqp8tDoh1hB7fHYHfd9bNTZMg1uWoIDWuin72/pAGM\n286LvDsTMKJ1Y3WtyFOefd8/LP9ZQSk="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/8031141667008380i.jpg",
+        "name": "The Requin",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWU/wFVNv3iAMnjd3my0xdY13W6qePFQRs+9qRsJZl0vplyP7bRS7T+fQ\n88cDfvTdFA=="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+        "name": "Palmer",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWburNqiFY6ZM37IMoh9eQdgfEBr60p3/kRmAnAxN4SiB+k90HkBICbLi\nlyDh/3MlcA=="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/8237661668909740i.jpg",
+        "name": "The Wonder",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWatXN3ARFhPPNbjcbnqsU46MxDZT6dhZlaRciKykC987XrFZFroV9ZWC\niQZQIdVSPg=="
+      },
+      {
+        "icon": "https://i.imgur.com/N2xgEfg.jpg",
+        "name": "My Policeman",
+        "uri": "q7b+0hmk/K6RCpXq/lWPM0KFVzq9xEChQ3whIgjvuOQ8pI/cwwWdCBzIJP2G95UaiNA3rIR6Ro5q\nmQPoZgjWaS6fiBCgkm1YezpGXvoQ2ky43B0frKjNbeUvF9oS1aSV5rWZ+Pp/pMx6yiXirVEz1VsN\nH1RnnjIEZ1PufP08lTE="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/7803821668825004i.jpg",
+        "name": "El Lobo el y el Leon",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWaP+HU5phvc0SYCq3M+L94NJrITaoHHvztslbnqH5eQwOM9Uzc6rYUIT\nJg7Oc+6L8w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/g4eZO1621AiA3h7Ph8yO0I58bdG.jpg",
+        "name": "Kal",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnw23LD+vMUIowh3kD30Dk+ivTCPJShuOu0\nzrTdbrwfqg=="
+      },
       {
         "icon": "https://m.media-amazon.com/images/I/517TVeL+NkL._SY445_.jpg",
         "name": "La misma luna",
@@ -16197,6 +16488,21 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/u4ikorO4E3PouLRRwGaRuhFvsl3.jpg",
+        "name": "Hellraiser",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlAq7LVn3frsSMKAOE/+1wiPADnMyFBUvEV2LidZDl60w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/moBrEYoOxLRc1LsFl8IXeilYwtq.jpg",
+        "name": "NO ESTARAS SOLA",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXk2lBmPpOzWmvg/K5yNpLL//dksJC9fPjduWzSz6xq3cJ+WKBXyQirwKtlNAKXLeHw="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/4774621668909552i.jpg",
+        "name": "The TWin",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWZOl5rKlR5iAVy2vNZjDSI08LpL2U0yDvzFa4JpUP7aENPR47moO3XmQ\nilIG57pK6A=="
+      },
+      {
         "icon": "https://es.web.img2.acsta.net/pictures/22/07/01/12/26/1883048.jpg",
         "name": "La invitacion",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlV4ssdDdhzGhbXxz+J2qKoZWWIXluwicQW\n2ikidsIYuw=="
@@ -16497,6 +16803,16 @@
     "name": "PELICULAS INFANTILES",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/j9NcPdkrBY0aFOKpTtjDQJdvT4c.jpg",
+        "name": "Noche en el museo: El regreso de Kahmunrah",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnG6cSayc8srnHHyXnSlyB66AcPmXdSOSGU\ncrdypPwG7w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg",
+        "name": "Pinocho de Guillermo del Toro",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnG6cSayc8srnHHyXnSlyB6ip+svpPqxaaC\nZ/W/9bsICg=="
+      },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2006/6/w1280/nqii8TqllZRainaNhQkJLNoSbMv.jpg",
         "name": "Cars",
@@ -17215,6 +17531,31 @@
     "name": "D-C Universe",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/3/w1280/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg",
+        "name": "Shazam!",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmeXluX+pi615STFlw6kZPOiqwqSLHwpVd/ERSFYkWjqg=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/12/w1280/yTzr6Nc4RcTXVw9SsWQNJdcjTz5.jpg",
+        "name": "Aquaman",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmA2T5+jRxj3SodFPSr9JM+g8gKW4yeliNesA+yKWKOsQ=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/3/w1280/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
+        "name": "La Liga de la Justicia de Zack Snyder",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXnv3IJxpmgugmhp80F/MXqWdQOgESjFWCL6tZ90k+cjnkGhRpWKWej0D8SOOXNGosdd//1OaUWwWbJLTh2PMp76"
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/12/w1280/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg",
+        "name": "Mujer Maravilla 1984",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlnFeThsae83+qiXrYYMAt5BlzoYUM8zQuVzBIJWXzUrU6MlJ7a5ZC4C4qJe+cJGlY="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/5/w1280/zx5DUiZksdhRnyUxS2Hkq9NCleh.jpg",
+        "name": "Mujer Maravilla",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlnFeThsae83+qiXrYYMAt5mS2p88KcLFqJoJM9L9fNHVE0FJ07oU5AHTRCkAR7XzA="
+      },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/fQFY3IsdwLl2O5z5YEh97R8A7hY.jpg",
         "name": "Batman y Superman: La Batalla de los super hijos",
