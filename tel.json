@@ -175,7 +175,12 @@
       {
         "icon": "https://pbs.twimg.com/profile_images/1506721612825079819/8x11BiuN_400x400.jpg",
         "name": "CANAL 10 Rio Hondo",
-        "uri": "KsiuEyVQ460Eq9rEW5fR3cj7cG/z/EZY5cc0y7ptYhdUdiUezxUrAB8xXOezFnlCuVVsdquxIGINVfbRcPAXjg=="
+        "uri": "KsiuEyVQ460Eq9rEW5fR3cj7cG/z/EZY5cc0y7ptYhdUdiUezxUrAB8xXOezFnlCuVVsdquxIGINVfbRcPAXjg==",
+        "drm_headers": [
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          }
+        ]
       },
       {
         "icon": "http://static.dplay.tech/imagenes/sptv32.png",
@@ -4599,32 +4604,32 @@
       {
         "icon": "https://i.imgur.com/OmA17NY.jpg",
         "name": "LA GUARDIA TV",
-        "uri": "q3M9/mjSI+LpPGiO0sTCqd0zgvdqNovWNEC8fU+eBvRYaRlgE6hPma2ethx/zVdpWVGNPctzCcu4JGcQs4tB/ZJnHPZI7B2ndCVokxcr9QQKmmmzgHcnbjc7IEkT/by2"
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wts47JCWjDkaupq5gcyv4N/XubBMToXYhvaisFlj7JkIQ"
       },
       {
         "icon": "https://i.imgur.com/OmA17NY.jpg",
         "name": "PD Plus",
-        "uri": "q3M9/mjSI+LpPGiO0sTCqd0zgvdqNovWNEC8fU+eBvRYaRlgE6hPma2ethx/zVdpWVGNPctzCcu4JGcQs4tB/TccWflle1AhqZMEPOcsWk/JzBCTQm9ORJvvwdFMrV+k"
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtojUcxd0V5z6ozfOOUYU//frjrQiJHN3Mvns8upgIkgd"
       },
       {
         "icon": "https://i.imgur.com/OmA17NY.jpg",
         "name": "Pelis 2022",
-        "uri": "q3M9/mjSI+LpPGiO0sTCqd0zgvdqNovWNEC8fU+eBvRYaRlgE6hPma2ethx/zVdpWVGNPctzCcu4JGcQs4tB/eprOoYfdehiO+89OMxpsH41HD5QZIo2eVWlwQ8BFPaZ"
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wturME9ACf98Y6mHr/3NVlMkuGN5VXqry/I7sKOY4z//4"
       },
       {
         "icon": "https://i.imgur.com/OmA17NY.jpg",
         "name": "Pelis Series",
-        "uri": "q3M9/mjSI+LpPGiO0sTCqd0zgvdqNovWNEC8fU+eBvRYaRlgE6hPma2ethx/zVdpWVGNPctzCcu4JGcQs4tB/VUv+ijIQuAL6AsMv8y2GGMxCFF7ro3wCBFLlNTfZ3P3"
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wturME9ACf98Y6mHr/3NVlMkuGN5VXqry/I7sKOY4z//4"
       },
       {
         "icon": "https://i.imgur.com/OmA17NY.jpg",
         "name": "Peliculeando",
-        "uri": "q3M9/mjSI+LpPGiO0sTCqd0zgvdqNovWNEC8fU+eBvRYaRlgE6hPma2ethx/zVdpWVGNPctzCcu4JGcQs4tB/ZIrzQB0N7KxZvL6wBWr8xdYVewSNRTPrPub94p0cidx"
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtqz+dz3W/0sHjpBfaHWYq1q25M/E5HMEKwsaG5g07uyu"
       },
       {
         "icon": "https://i.imgur.com/OmA17NY.jpg",
         "name": "DuxTV",
-        "uri": "q3M9/mjSI+LpPGiO0sTCqd0zgvdqNovWNEC8fU+eBvRYaRlgE6hPma2ethx/zVdpWVGNPctzCcu4JGcQs4tB/UjBVZxNM9OEhfkn5iF0xuk="
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtjQqF+dy4djAJZJd0LCBhDae9CHXzvOYuRro9n6XrlY9"
       },
       {
         "icon": "https://i.pinimg.com/236x/a2/49/e9/a249e904c5083c28b1d6c80cca75ea18.jpg",
