@@ -4,6 +4,11 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://www.universalpictures-latam.com/tl_files/content/movies/puss_in_boots_2/posters/01.jpg",
+        "name": "Gato con botas: el último deseo",
+        "uri": "87EPKu4J1ov2znxaviA1D6X/A6IWDW0folK5hZXWjIdn1khkif8vpfE9pSZks83/078wmG5yB4Ak\nuJIU3VcSdMgQeunMe007DYUemNcn5ZxQsvFxzUzgHGKcAMOv+/4n+nfEDVxPKKQYiTUGNPN0vgJB\nqoU8TC12TYnrnEFEhggMQCDaxSuvdhqP7Jmg3x9JEoY3SJ5ijokqrkbNedS76g=="
+      },
+      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
         "name": "Avatar: El sentido del agua",
         "uri": "It4hL9cGNnGI8hUqRaPD5+XB4oIowb/nTiZ4UT3iHq4vKCLb/lmwasdmUTzUY//McauBP/2chALBoVgiJveopQ=="
@@ -14135,7 +14140,7 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBY5H2mEpqCVJTX8X0NGOgUyWGAybiE3dUL\nSY8s+UOx6mN8vXvGWUcCGLdsWF6oUUt0Oocq6lmHCGLIOxNLTFvuGZNn1/MiKu9pnhYGhKi0XA=="
       },
       {
-        "icon": "https://player.odycdn.com/api/v4/streams/free/werewolfinlondonn/5b671bdd5f96692b3de8f90a58d3d8bda2ea48a5/417549",
+        "icon": "https://images.justwatch.com/poster/8976723/s592/un-hombre-lobo-americano-en-londres",
         "name": "Un hombre lobo americano",
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDcbVJv3oOIcmn2o6IUHWyjmIpYN4kta7h7\nBv+Kj21UzhwXDa4M/0gkCD12atZpvnGZ/0x8SPq6IMVv/D8/AWQ33K/wfAdEdB4q7fXUJp8eUw=="
       },
@@ -14150,7 +14155,7 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAI4AVNNJ55ljLzSSuO1i6xa0E+EtvwPbjQ\nCF7bVR+b8XKfYoIQBLKiIchIsVIQ+5ayObxUWvAZNOUBC+dRFbH+kC5aFxLX7EoUbp/7lkl9uw=="
       },
       {
-        "icon": "https://pics.filmaffinity.com/Infinite-202362671-large.jpg",
+        "icon": "https://www.actionfreunde.de/wp-content/uploads/infinite-mark-wahlberg.jpg",
         "name": "Infinity",
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZOxOVssjUAEi8zsVqFBdn+x/5K0zWZueC\nKpkD9Cb6a5Jck/3KMER3FOkc+y37oHuQ6S4cHBZOx8KDQtVgGvH1IF0f7qY5qDnC03RWQxJFzw=="
       },
@@ -15323,22 +15328,22 @@
       {
         "icon": "https://m.media-amazon.com/images/M/MV5BZTIxYmRmMDMtYjA0MC00MDI0LWFhNWEtMmQwNmE0YTA0YmZjXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
         "name": "Scary Movie 1",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAfkPQvo7AplgdTi0h0twEXmF5BNbVFTjWD\nKUc2E5lLjk4RTk7E4RSFAYoKeP8o5S6/ZW9b8l6BZZUjEsRP4Xj8Xrmewc3pMCPQv40IHND7XRBu\n+UML0GfpAOqWCzSB+N90BHA4HWQiHUQFXUtPRXfeSttq/XpHgq/o5yc7S0HYIw=="
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAwX3TLuWl/WR83QWRdgbRBbduGNZDHjQxb\nCbUEkFoGJz/SgvTfQnmsLwHlclzr2Crvfac2jAUISybmOw7cV4rTFTuzShGuJ3PzxJzS7X01TlEQ\ndYxJtPVGSFXoyPV4ds8YP6u3hW6nB/I2YVXJurXktK97QgeEg0VwPJ4WssG/dZlQp+AXMy0YqBpw\n7CU5en1FIFzEWSk0bLh45WV70rKbmNCgO7BU6WxRmY4xHVjFxDKjKL0jLl+yItFTWQQhLGwjqFWl\nj5kloPqZuIke6boyZ4cqUT2gX/LGexobb4EPSg=="
       },
       {
         "icon": "https://m.media-amazon.com/images/M/MV5BMTM5MTY3MDk5OF5BMl5BanBnXkFtZTcwMjc0ODQ4NA@@._V1_.jpg",
         "name": "Scary movie 2",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAfkPQvo7AplgdTi0h0twEXN9nmMJ7wBaKL\nmGtJWAFHbiVnlzG2kYuxnkR1XFgx52t0HBR1YE2/VHrmB0g/wmzGzV1oqx9CX6TfZxW5M2hPwQvi\n/wURnzKUZRg5cKLZGhxHK7UaCuUO/K94u+piECh/ySEd6R1WXr45SGvz0/Wj+g=="
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAwX3TLuWl/WR83QWRdgbRB8IU4sbuwiTcI\n050XNC5FrHUho3hx5YIJwBBW3H3bgvg7GdPrpB9K4mL/nAb009A0r48LBa0gqX3j/DmJ+r4URuEU\ngmVzQJgGAzCMXedzNa0Y8F549HS2W2xuN8elbUyuKZe/NDR1jLZkEEs/zGx95V9s/0qWYYEwLVCI\nkvE4kyl2JjOD8uMUvJepr1a9HnLrvYzsibR3m//Uo2o3lhNu/AU8BXgs1jWLQZUoQkBphNlAmMMA\nYGZ8j1klTfECBfQyU3UGKuRNy0VL6wbHB0WpfQ=="
       },
       {
         "icon": "https://m.media-amazon.com/images/I/61tgdAUKOHL._SY445_.jpg",
         "name": "Scary movie 3",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECTy0HPIpyk4Ne53u2iNWSZYgY+joW5aDLd\nQ1srigFWqdaGCpfyQrp/bTYUX37Jq/q5GbWpn26C8+xfL3gJdRXwM5F1tzrygfCxubPi7QfXoai1\nwSZVEEolsLg71xuX954="
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAsk8OUe86JWMr5wk4wZHWXsVAuzzD7YVlc\nWCbM7u6VeSbf3DndujoL53Z39k7EG5Qocr5KX1bvBIY1TqO2xVmmZ18Q4IClYhK2irja1ozaj5sM\nHgEVwQda+Ic5OZhACm+SyivKjQFnfskZGAO9akcAqA+fWMz5dYRe+m52WrD9IUi0hJ6nfPCFTVYV\nIdfu3//EhydQaTvfstmaqUpAtMY08m5ALWS5E/wd1ZSElcK7hkhPgyoPuuz2zG+oroI4Luj1eHek\nU1q+uhncnB1AiHng"
       },
       {
         "icon": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
         "name": "Scary movie 4",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECTy0HPIpyk4Ne53u2iNWSZex87cymvbvXU\nH17ftAxHiQtwSEb6iKQ+cZFLCQDvvRnr1jGVUxNS5aX4oilhTmr0Dag2EJ4HEb9Gitbzk2fqlQ=="
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAsk8OUe86JWMr5wk4wZHWXFGymLbrwzA2p\nbjZ8bQjOfS3yKrl1MvU7s4Uq+o///djEsQOyBAX8My6TffKvgi5OIbY+EMWun1YSaJp59BpW10B0\nkXfI6S4CgdaEVpvrjR63iYkwtUmRdHNSL3QcHXgZkgpoAmpTbv3BLHFljnq0np7ytLnGhw2tbobi\n8yrJyMCYPMuOJBNYGuWoOHwrf4yViYR9K+ZLXV6fVcx4DI/nHA=="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/4pZdGhTCmpnDYKdoMP3yVUaxefg.jpg",
