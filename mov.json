@@ -70,6 +70,11 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0nfqWrslFh6s962UtRz7Vqo15YT5KHWRt37f-wvozFPNxa8gNh6yppWkECH2aH05YClw&usqp=CAU",
+        "name": "Sangre en la boca",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAUDUgJse76pmvV6zDlFAKHop2lDPhVy9XjvZK0ijsH1D7u3LxjxqPiivki4htzpYiX6rPNsQVnor6alNwceaZUcFNzvyXcBbKuNht9gRRgCEhO0sMeeXNLskOgjiKih6Q="
+      },
+      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w300/Akrpgc25QorDhlSAfntjL65Mp6M.jpg",
         "name": "Matrimilla",
         "uri": "EyC6GGwicYe2173kOnxiAmHqsc8e0UvLibojieH8jX2zbU49vBNiRe35lTwFYMMAITe/FbR4XUK4gJ6QHKDwMn6+DyrSIrbE70H1UDK3bF9yLlCo0JCvwZIg6aHCuKUr"
@@ -13774,6 +13779,17 @@
     ]
   },
   {
+    "name": "PELICULAS ASIATICAS",
+    "mode": true,
+    "lista": [
+      {
+        "icon": "https://doramedplay.com/wp-content/uploads/2022/10/8kwsdVNBTZyNQ8s4LFqR10fOvk1-200x300.jpg",
+        "name": "Los 800",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAA7UYWXDKT4lKU9TLssDFaP/43sj6Bq+ZS2wdHJXrc+IUBEyOIMqA2CyNXewaElXDych1uBTFRaFTq8b1O/X3yLu29A5tPp+tjdFJffCpCBQ=="
+      }
+    ]
+  },
+  {
     "name": "PELICULAS VARIAS",
     "mode": true,
     "lista": [
@@ -14108,6 +14124,36 @@
     "name": "PELICULAS ACCION- AVENTURA- CIENCIA FICCION",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://static.filmin.es/images/media/29697/3/poster_0_3.png",
+        "name": "Juegos de guerra",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECEM8I4jejb6bhA4IEQpTd4/z7QjSF7Mmeb\nc9uD+sHfhLYPirjiE87LK0mAJoFJLuBoMIqsKnT45QRyBmWuQyH1UtGF3wSFqDZP8HpSa7isVw=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/3/w1280/hE7XhFL3CVgiR5Fh9BZQ0wOOBIT.jpg",
+        "name": "Codigo Fuente",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBY5H2mEpqCVJTX8X0NGOgUyWGAybiE3dUL\nSY8s+UOx6mN8vXvGWUcCGLdsWF6oUUt0Oocq6lmHCGLIOxNLTFvuGZNn1/MiKu9pnhYGhKi0XA=="
+      },
+      {
+        "icon": "https://player.odycdn.com/api/v4/streams/free/werewolfinlondonn/5b671bdd5f96692b3de8f90a58d3d8bda2ea48a5/417549",
+        "name": "Un hombre lobo americano",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDcbVJv3oOIcmn2o6IUHWyjmIpYN4kta7h7\nBv+Kj21UzhwXDa4M/0gkCD12atZpvnGZ/0x8SPq6IMVv/D8/AWQ33K/wfAdEdB4q7fXUJp8eUw=="
+      },
+      {
+        "icon": "https://flxt.tmsimg.com/assets/p11668_p_v8_ap.jpg",
+        "name": "Road House",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBJH1tTzsKgvggUEvgD7lKA0281Kx5u+USj\nJ6zaIPLdjZFGRukeKtj1yVWYCbO0BQYFCRDFiM7qNzZ6fU86NEXZShbfro3SZnoC58ai381s9A=="
+      },
+      {
+        "icon": "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/88993/88993_173x256.jpg",
+        "name": "El Cohete Humano",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAI4AVNNJ55ljLzSSuO1i6xa0E+EtvwPbjQ\nCF7bVR+b8XKfYoIQBLKiIchIsVIQ+5ayObxUWvAZNOUBC+dRFbH+kC5aFxLX7EoUbp/7lkl9uw=="
+      },
+      {
+        "icon": "https://pics.filmaffinity.com/Infinite-202362671-large.jpg",
+        "name": "Infinity",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZOxOVssjUAEi8zsVqFBdn+x/5K0zWZueC\nKpkD9Cb6a5Jck/3KMER3FOkc+y37oHuQ6S4cHBZOx8KDQtVgGvH1IF0f7qY5qDnC03RWQxJFzw=="
+      },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hqBeKurpfqoV5msTH5XttGLwFUv.jpg",
         "name": "Noche de paz",
@@ -15235,9 +15281,64 @@
     "mode": true,
     "lista": [
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w300/jUtlgyDFzEVP9EQaveQwpvE61ly.jpg",
-        "name": "Desencantada",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlSlwQZIZRFicJk8nKKdBW97IshBzAdwTxe\nuvvB/1WxBQ=="
+        "icon": "https://play-lh.googleusercontent.com/hRmzO3WZm3vrvbO58SbT26504OdxV3NtMCeHzP7QXmjrqAQFbi10Ign3jxa8g27gUyS_nw",
+        "name": "Y DONDE ESTAN LAS RUBIAS",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAyF7uDp3aDPg/QxNEkzb6JNR4cw1Xvg1Ww\nFwME4g9GUUGKDXjO1ze8w2MW3r8bmLjuBpmvJF8SSqgryx05g8wOKyIMPGPoKBBV+8nUtwxpme+8\n/fWq/YUjATexSfoSka8="
+      },
+      {
+        "icon": "https://mx.web.img3.acsta.net/pictures/19/09/25/00/36/1491409.jpg",
+        "name": "Ni idea",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAfkPQvo7AplgdTi0h0twEXLQ2UscQblXzisb4FlX5/urRtnYp4Uls8wbTxgqXb5/fMxx+/1L96Vi8LTfVNVHlgN+3C6WQ7dmDJ44DoqYbkrksIEZaSN1CiOt+h0qoK58ROgSsocYuvriuyFYy9QqWcaee9ckDG3VGzVVFwMGnrIA=="
+      },
+      {
+        "icon": "https://multimediagay.com/wp-content/uploads/2021/01/Boat-Trip.jpg",
+        "name": "Este barco es un peligro",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAfkPQvo7AplgdTi0h0twEXcuizXQoezTQX\nIq+aolt5BwFDYlTLwZ/s7tNmc5fR+nN8IFrd1ttUAft57+Dvj7ZNtI4EOH/3wjLAZCO7wB1NrpcY\n5GAB63BIpdJcfiBwL6zRWXukNb7L2Kn6FhxgTGl3hvu6a0OoeYn0sL4fHKM9qQ=="
+      },
+      {
+        "icon": "https://decine21.com/img/upload/obras/soy-o-no-soy-4706/soy-o-no-soy-4706-c.jpg",
+        "name": "Soy y No Soy",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDG81ABCg2TrUMfVLvs7bjzA8Arx5YZWhSP\n72YUvTPP9CDi7LwmebjwOrbTeXc+M5dJpv0eMrB1zBxibgTO6H1b8s3f89rqUnubwlTBxIfBSQ=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/6/64/10Cosasqueodiodeti.jpg/revision/latest?cb=20210727000357&path-prefix=es",
+        "name": "10 cosas que odio de ti",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDhiLUD32Q86S9W4PIHxWrg7bNWkEZqR/rI\nCHfJGrltAGy4kF/oenCbsZdPdnkap/UKVpAQnqqYX9rfPS28uLgT6UF4EzP+U4l6Ms55iVsy54vZ\nXznP4gaWYf+VmAm/rIU="
+      },
+      {
+        "icon": "https://cdn.moviefone.com/image-assets/11041/refYLEQvzkY63i2IHronCPQODex.jpg?d=360x540&q=60",
+        "name": "los campesinos de beverly hills",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBdvKiBD9V4XFOsCJU8QQsT0I6/gI7zd4W/\n7EEMf/K9xyEklgw8OgsoyJ6CG0issf4dG5k64Hg89lk9Oh2kfmJppkyVc7398KpnA2SB/2WSsv17\nbtpjOON/pj+BE8VLQII="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/8/8c/La_Chica_De_Al_Lado.jpg/revision/latest?cb=20200708013533&path-prefix=es",
+        "name": "La chica de al lado",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBcWmfDt2wX2yj24LJHB2IMjavkwTKduD2Y\nnkxoR/5OJX7WS5ggCx3RyTdaqCUSbNyXuRq9wlayeEvxCNpff5DCGyljkLDYZ9q7f8tVqfYaGA=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/en/b/bf/Shanghai_knights.jpg",
+        "name": "Los caballeros del Shanhai",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECHtfGD+A5zNAvXOT3WiWZ6t/YrcMQwdGtR\n15oucvnWDoiirBN6g6/8eWacYeWqed3Mf13Sazp0VLzWSFu5CtXILBNrdZD+JT4CtLZoFFD06g=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BZTIxYmRmMDMtYjA0MC00MDI0LWFhNWEtMmQwNmE0YTA0YmZjXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+        "name": "Scary Movie 1",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAfkPQvo7AplgdTi0h0twEXmF5BNbVFTjWD\nKUc2E5lLjk4RTk7E4RSFAYoKeP8o5S6/ZW9b8l6BZZUjEsRP4Xj8Xrmewc3pMCPQv40IHND7XRBu\n+UML0GfpAOqWCzSB+N90BHA4HWQiHUQFXUtPRXfeSttq/XpHgq/o5yc7S0HYIw=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BMTM5MTY3MDk5OF5BMl5BanBnXkFtZTcwMjc0ODQ4NA@@._V1_.jpg",
+        "name": "Scary movie 2",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAfkPQvo7AplgdTi0h0twEXN9nmMJ7wBaKL\nmGtJWAFHbiVnlzG2kYuxnkR1XFgx52t0HBR1YE2/VHrmB0g/wmzGzV1oqx9CX6TfZxW5M2hPwQvi\n/wURnzKUZRg5cKLZGhxHK7UaCuUO/K94u+piECh/ySEd6R1WXr45SGvz0/Wj+g=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/I/61tgdAUKOHL._SY445_.jpg",
+        "name": "Scary movie 3",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECTy0HPIpyk4Ne53u2iNWSZYgY+joW5aDLd\nQ1srigFWqdaGCpfyQrp/bTYUX37Jq/q5GbWpn26C8+xfL3gJdRXwM5F1tzrygfCxubPi7QfXoai1\nwSZVEEolsLg71xuX954="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
+        "name": "Scary movie 4",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECTy0HPIpyk4Ne53u2iNWSZex87cymvbvXU\nH17ftAxHiQtwSEb6iKQ+cZFLCQDvvRnr1jGVUxNS5aX4oilhTmr0Dag2EJ4HEb9Gitbzk2fqlQ=="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/4pZdGhTCmpnDYKdoMP3yVUaxefg.jpg",
@@ -15771,6 +15872,111 @@
     "name": "PELICULAS DRAMA- SUSPENSO- CRIMEN",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAuKmhxcZrbPDlqsS2jW_uRiPQt8mvWfBS47gKhqgaJiYg0HTNduVspWPseUSxy0T5Kw&usqp=CAU",
+        "name": "Nacido para perder",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBxVfzX/APdRnQMJLu/ah0V7uKnJriyRTHb\nXkeLj8WNT9mtJ8Kbn9z7XH7TC3CBZU/rToQuWLWONIebgNAbisodSt3ERKGI//i4QY7d1BJgg7dy\nsFH0Gb4+QzMLC4XkmvI="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BMTU5NDQxNzE0Ml5BMl5BanBnXkFtZTgwNDMwODE1NzM@._V1_.jpg",
+        "name": "Secuestrada",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAfkPQvo7AplgdTi0h0twEXMdXROOMAUETf\nJ4RCyXT9w/ujsQcCJB2whHR16GA97Uf8rKi5fQhMziAn9VUSqgalAH7q2sl4XW8LiQA7BDHjCzns\np5HQ+emyDS/NapWcsq8dPvTT4WPE8jK0tXKU6ryu1SxjvBuBknqR+OodjoGO0w=="
+      },
+      {
+        "icon": "http://gnula.nu/wp-content/uploads/2019/01/The_Last_American_Virgin_El_ultimo_americano_virgen_poster_usa.jpg",
+        "name": "El ultimo americano virgen",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEC4cvkiWSZ49lmSYcdjcNAFYGHeqZ2DjWtb\nNl+GqkKO9xVRmS77c3SfWPx3oC0iofvwOs3H/kK3muLbCewqzN14CIgfl8AlYmeaNPIv81ZBmyL9\nWxNsGhFUSWRSuc7IqDqIu4flk7Y3Cbf26keBkP7A"
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlTm7NdVB5Xcid2quC4eBjORG5-k206i2L4IR4xU2wj8Dt7YMELAKlHl2gBZKS5KWwGQE&usqp=CAU",
+        "name": "La mano que mese la cuna",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZrkVbgNRgAidNzfHb4Bec7vFGmEkzCybX\nOr83Jf725PC7oaB0aBTKvlVI6fHSd7bBI1F+bmIIG+/35MTNJzWfHcQnTVyK9lAVGJH3aykyzTXh\nLHosG47cReC06NAd8Gk="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BMjJiNmMwNjEtMmIyOS00OTQ5LThlMTgtNTRhOWJhYjk0ZGQxXkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_.jpg",
+        "name": "La otra virginidad",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZrkVbgNRgAidNzfHb4BecDGY3QxqosxOt\nIAn+s1MZMhnxaiW8Wa3HXtRMpF5VPp1OQg/5OK817/QFCvfZgEj6f8flC3x6wezS9PCxVchB7A=="
+      },
+      {
+        "icon": "https://edge.myriad-gn-xcr.xcr.comcast.net/select/image?entityId=6129636385485044112&width=240&height=320",
+        "name": "La sangre enemiga",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZrkVbgNRgAidNzfHb4BecrUmRNom9biGc\n82x/w6m7LNKHtP974N/mlkyMuYJo/CdJG9mojwGgZXVPiVeFSY4bIM8sOC3InnP2tGBv4EOjBHH4\nIgqolaptEJxrDyf22Vk="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/I/71UZMboJooL._SY445_.jpg",
+        "name": "El dia despues",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECGpI3muQC0XPrt4yPl2cTRO+sPm2IuoRyK\nLNgCfpdo9Zmy/c27Fanc1bGIkUrZvupoP74pP0BHnmxt1HSz6FOm3umNu2nSR6mJxtQW2D+XBA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/8/w1280/tWcAb9gFbuQjrAPHA3lfJz0ysJ0.jpg",
+        "name": "Lore",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAA7UYWXDKT4lKU9TLssDFawZb2h6xdGwMb\nBITpmVyUKjwcEJA9SHunotUV6cD1LwKBtrtJRjnTI1Rf/tF/pk4yix4sH/Q1nJkF0lwJ6Vr2hg=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/0/0d/Unsane-UK-Poster_2018.jpg/revision/latest?cb=20190905021330&path-prefix=es",
+        "name": "Unsane",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KED+c/kyyZU52h8OZOiPqKFi+bmvauh3uWI8\n0Jswg7RzLaigI2bEbdDkXaaqnbzm0nm3B71j5VdoHWZuxmquosysHWjrJXdZFufv6HEiWUqXPw=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/I/81JDLawQ56L._AC_SL1500_.jpg",
+        "name": "El castillo de la pureza",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBhIXddZrCykSE8TiViFcqQ0pjO4iZ9/dXLi4mW58FfvbZYC1Iyq/ZUajkePQ7qC3aPpXvRia75hPK5xoKJVCvsu4+yMIM+02vvrVWg/dtpfmWaUJbV0P5P1JRMMm+QHsU="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1981/2/w1280/fotLAnEkqOoeVCjGe2e6LzYEQCK.jpg",
+        "name": "El Noa Noa",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECR/mbNFLSQtfR6N510TZR6FFdEB5LfMbjjyFEBwOGvTc2WkF/MbHreA30nJU+Hs0cAQv6VCJGdKV2fAdQJuCyslefvPDwwLQ80Xg9n6SvBmA=="
+      },
+      {
+        "icon": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0A7AC9642A162CA6ECFA7A46138CC6A5007F586B272ED80195CBFA3AC1E1E6B0/scale?width=506&aspectRatio=2.00&format=jpeg",
+        "name": "El bar coyote",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECSs51Gn0PCj5T2P1byec4aHhxiAwvKAS9s\n4uxBesMcp0zAfqBFt2VGEYihsbJRyhJba1GBqaSWWlPjxMOd5KfJ4AikCFz8+Sl7/6oNqMooyg=="
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/91/45/66/20146269.jpg",
+        "name": "28 Dias",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAEza+kSBtsV+payUGNVksNP4jgTAo/su7h\nNsTMd00oZJ2vDkKZOBmZjcQ+ManvjJVcYMRJ8uhSwSer/R13KHYO/jGMWdX1q5N3ws0O5e1GSw=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/1/w1280/jcjOEPLiI9fnGmznZvQ0lwI06al.jpg",
+        "name": "El Efecto lazaro",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZrkVbgNRgAidNzfHb4BeceeST/AEvb8J/\npRhzv+SEpqe+XWZVsxZWEsCU9Wjhx9Aj7aIR37ik5IMo/TEb7Cqw8RsB8CJroRRyQ0KEhR/rGA=="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/w500/1hdbKq3n88HIklvF90EJklPLt1P.jpg",
+        "name": "La profecia del no nacido",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDQcguQLkNpjc4U2wuT05h8K+eeOvwh1mvC\nxwd0hOJvafbMCI/rqJsO2lBX5PHuEqKR4pzJwL4gHrnQQw59hnAYhz5gHIpK736K9vIrfgTIgcZS\nlxbBNpbCFBUXSPN77SJAucIKHGeS+KTAlcY6oEHH6LqnDRo7fcID76MT76JzYQ=="
+      },
+      {
+        "icon": "https://peliculasrancias.files.wordpress.com/2011/11/insidious.jpg",
+        "name": "Insidious",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZOxOVssjUAEi8zsVqFBdnZcgT7vXlCPPs\nzrGkK1FFm5n7bKQi2M2lj4IbrJUdOq2JNhi1FqbGCaoCoEA97xLVt2Elb1wowzoCa7H0M6e8Eg=="
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw7uM8TEuKKdbSZMA7Aspmr4zUMQ09KT5kEW0qdUp5DZG85btyVqhR4Rk4FQyoQQPE88c&usqp=CAU",
+        "name": "Dolly querida",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAyF7uDp3aDPg/QxNEkzb6J3Tagwk4fddtD\nTRZezQLeIyNnshZRc2cuBDgkTlKmQP+QszavYb2ZpxEqU28Z1QzosYRswfVwLNg60x7mh+kSFQ=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BNTM5Y2MxNDYtNzE0OC00YTI1LTg2ODQtZDRlMTk1NjMwYTg2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "name": "The Crush",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBoKL9aniUF5bmlhNdThkveNu9HukHEQQez\nxbHOq5onI0TSsyGsgZGTQRCjn4s0Q4mMkPb+l4iHSq2knYwXqkJfiDLRurlYwEJtD/APefAqMA=="
+      },
+      {
+        "icon": "https://decine21.com/img/upload/obras/lolita--1997-4165/lolita--1997-4165-c.jpg",
+        "name": "Lolita",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAA7UYWXDKT4lKU9TLssDFalZS90DZuaw6u\nTTPakwlNmh0cP0+22RrFYuC6YbLyCRBPNktHvW/4iVer4XjVvrOC71eBF6W3dZHy/v4XL3Qmaw=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/I/61lk64IaloL._SY445_.jpg",
+        "name": "Abuso de poder",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEA+dQhd7OO4pzWdC6h9l1YwEsxCmbx++sX7WKt5aXjXA2QbeToZiOYQsFWe6H//pkpG+xpUytJrB32PQTTK/OSTVuIdWQoug7UKL8ROiFkP6A=="
+      },
+      {
+        "icon": "https://media.filmelier.com/tit/qsopIk/poster/pantano-azul_ykZGctE.jpeg",
+        "name": "Pantano azul",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECoY6XRSiKHsKod2dA1fXUr3iB20Ohz4cZlaKb/Hyl/E+FhM39RSGCqgP7enZq2N1ZmDX5nrEGn303oBBB/PN2poQQrZ764A1Hcaylh/nXxpw=="
+      },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/9/w1280/zpqzcMNU3idAlTR9r9DIPaw0bgc.jpg",
         "name": "Hambre de poder",
@@ -17356,7 +17562,7 @@
       {
         "icon": "http://c2511031.ferozo.com/portada/red.jpg",
         "name": "-RED",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWVc9ZcoRhboCMLenTl20/MVDYDvRh3gCvtvyZLrRbr0k3jLte6Dz7VXBaR9uMo7h+A=="
+        "uri": "aqjOEhWtVS9CYLQkJfIDWUJLxWKq1KuNYPRm6DoK0keFgny0ElOL9Ykas0cZkMhgvIH78tAfm10bq1556KfOXg=="
       },
       {
         "icon": "http://c2511031.ferozo.com/portada/en.jpg",
