@@ -667,7 +667,15 @@
       {
         "icon": "https://i.imgur.com/siub2Js.jpg",
         "name": "Star+",
-        "uri": "eciHCUCY3qEa8m3tFXalpp2Jgw1Qvxrcg0T28tAk3I3NwczvbA8g63yDUpEpLNOK+IcQRnGKMNenqjzPbwTy2v74eIOFgaLqoUD7TOon1d3EUUPk22m21Cs6Fb4jzuCg"
+        "uri": "eciHCUCY3qEa8m3tFXalpp2Jgw1Qvxrcg0T28tAk3I3NwczvbA8g63yDUpEpLNOK+IcQRnGKMNenqjzPbwTy2v74eIOFgaLqoUD7TOon1d3EUUPk22m21Cs6Fb4jzuCg",
+        "drm_headers": [
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          },
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          }
+        ]
       },
       {
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
