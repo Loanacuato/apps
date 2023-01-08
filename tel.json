@@ -215,7 +215,12 @@
       {
         "icon": "https://static.dplay.tech/imagenes/canalochosanjuan.png",
         "name": "Canal 8 San Juan",
-        "uri": "eciHCUCY3qEa8m3tFXalpp2Jgw1Qvxrcg0T28tAk3I3NwczvbA8g63yDUpEpLNOKuSlohgftTWcw\nEuir+SK6m6XdpUo9PplzwKE/tP4TPG+P3hXFATNh3px78w/m0m0vN4jQ9S/cyFjjww88UbQZ2NAw\nlHOZksmGEytcBWF5zoQ="
+        "uri": "eciHCUCY3qEa8m3tFXalpp2Jgw1Qvxrcg0T28tAk3I3NwczvbA8g63yDUpEpLNOKuSlohgftTWcw\nEuir+SK6m6XdpUo9PplzwKE/tP4TPG+P3hXFATNh3px78w/m0m0vN4jQ9S/cyFjjww88UbQZ2NAw\nlHOZksmGEytcBWF5zoQ=",
+        "drm_headers": [
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          }
+        ]
       },
       {
         "icon": "https://pbs.twimg.com/profile_images/1246950862364250112/3oHiMNvj_400x400.jpg",
