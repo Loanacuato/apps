@@ -666,16 +666,18 @@
     "lista": [
       {
         "icon": "https://i.imgur.com/siub2Js.jpg",
-        "name": "Star+",
-        "uri": "eciHCUCY3qEa8m3tFXalpp2Jgw1Qvxrcg0T28tAk3I3NwczvbA8g63yDUpEpLNOK+IcQRnGKMNenqjzPbwTy2v74eIOFgaLqoUD7TOon1d3EUUPk22m21Cs6Fb4jzuCg",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-          }
-        ]
+        "name": "Star+ 1",
+        "uri": "eciHCUCY3qEa8m3tFXalpp2Jgw1Qvxrcg0T28tAk3I3NwczvbA8g63yDUpEpLNOK+IcQRnGKMNenqjzPbwTy2v74eIOFgaLqoUD7TOon1d3EUUPk22m21Cs6Fb4jzuCg"
+      },
+      {
+        "icon": "https://i.imgur.com/siub2Js.jpg",
+        "name": "Star+ 2",
+        "uri": "T647QmCKR9qp+UWc8koK6Imudml7iMkBkanEh206CMXL11qXInna3LCfHLUFt9xcaKa42Scv9MSq\nZ0EP63maX4g1dP6R+htx7q0zGPyY/F3Wxpjy0bu/N2PcLcrJI73T0UhmZJ5L1KlvTHOX8ushzhy6\nyvlIfgdbtOEHNJwlI3aJAEEEC8gYYgWOJgQfU4qYj6x73Kh0/D3V/yIghrSnrGBcoQc4awdYvTWj\n0GQ22EhbsCRgvZ8xFHC6kg32ptcaREPXttIng7ob48O+CuYIe5CbBkBtUxPxNedRmnnCMmdTYKwt\n3IIKyh0ZhCiOUYPQcaGiF/jSDsmVQM75BqFCF/rcH0xiCDIhx2FuhRvSpWtAILdxHGGJvi4ZCekD\nbCoBjLJzvoKZ+8RY6K3c9Dwl0ck35II2xmelJb9VOsr2Y/hPfwNojm2RhsG9WLYbUV29pOd8ti2n\n5VLc9vUinfVueycRf53n2rPHKdEQuNGSfMEJrKjEwj0wqs2nMqGPndcnuaDYctOvVWddYNRt7QQu\nctAKxa8Du8Vlo3FI5GahOOym9Rvnc00cK1KcsggRXJ3EthPnKd6NX7TiYuJ54pWxUSN95v89A8zT\n710e+TZGVl6944zNhiMg/dgpMVrz81dKCW8pilwXKsp4jnK/PH2l50rFdN0MxDN3dg5guob/abST\njDo/A9AjSMJDRSGHQRQHtH2kQ4WcB402ZqKALpaBY6FjQ6LPR0ztgGFB/FuPNsyXLOOYqeeSpOYQ\nXcqlCKPsvVvQSftn4bIGZMWdPtEVOxUa3QS30NDfcX5W7LLT4NXgPdd1eYr+zNwfXsrkNw98a+5+\n2NDv8pfBXhgFHBcKQuqRSaFcaLbO5qSnVpgdZVKSowZYNYRA9wkt6ckwuE9LilZBqyK7TKxfqJxi\ndWaozYsiY5hB99eISHnhOZR3XJTY1be34ZH5IA7yod2DyBqlRLTr5NLvwmsuWVE3ZqiucAckq8fQ\nKGrZ2VtSzhQFvm3G9DVvpWplLxW65W6X0+Kc12XEih+im/It3+ssorRx+fDOYZQ/dOzWBACVsLeN\n6LqHZiiZSMKACGLrYS9BQuSQha4ug61/QBe+CXl093OjRuHNaHgNHZOCXFegbTnvxHwT+ocWqJTH\nI5RXtEfJeml7fwRP+4HzM0H2iTWYJrK9KCla44Glv02c8jZJTxMPcAGs0Dx+kds9b2EW3cc+MHba\nwcZYc8TIuWKL10kFXD5t8AUrUrJHzSWPCUOIeOHya28i+Bz1ZZ3MfkVFE+BhZnc/S3jhX4QDZBQL\n3V5MADXaUWwNxAF65LUIp+7SEe7MDH8wubNQPOXA0bd+7ku8Zaa0"
+      },
+      {
+        "icon": "https://i.imgur.com/siub2Js.jpg",
+        "name": "Star+ 3",
+        "uri": "T647QmCKR9qp+UWc8koK6Imudml7iMkBkanEh206CMXL11qXInna3LCfHLUFt9xcIuaGuval9BGN\n4oBr+LX+vBjanu+hM2mO2v7x6LHWTjwmcWVp3313kKcBQEaqUlzrZ4KoI2VOWU6ELt8rr7SfHtE6\nEwJNVMP7g8Ujm3Y9aFqxcSWfFGe0gL9a0g9ZqIQ6bvuSe82yEI5o01tusnuh1GaKktnB98TsLYkO\nNBZlf2FE1P9tZQfQPIvog2DfG9ynvwNdMvsxU0cJg4opZosY++xd5F5toHv6ijmoNhLx4xbdJCL8\necQDbHOtcImAviXwtZ6ic/qJEpO6gFQ2QFzVIJ4pTCUpA6h6wznDnla/J57jwW4CI6hHTLUXmZv6\nj3FLOU/Du/vLZX2Huu1QjwvZKq1f6/Fn7UiD+v5lcWDeYKBKg6lfD/SSf4QbggRZJ9YRoVppJD/H\n8cFEvaLY0PDbDFnFRUXe8aLRHPDuXThEHW+rIXfraaDY4906cXE6Ly0Tm4kSL+59gA6Zedrllu0J\nMH/35EXNbFMKwTTJrPYPMHD+rCNC9OHrjzTePAmytTM4ZIWYK6nBqmuzuL+RlVbK93Hm+INf6a4w\nJh9kVuhtVaO/CUlg19Ld8gC2XBwNHJ/pOaxo3VC6o/FsEmIsgP5VheuSaCzg6Hym7LTDANWPdU3g\n9UVPzF2MgcTSHGTVm4QXj1j9GYLEyJYkwo/LFQBSeT/BgXbAiTwbYefjAwr3/L9uC6q5w1cO7oe+\nWSA8EmwHenFMCH0pi7/jR3v+whcEfns52jO+/XCgc331vxsTOtJhHs3vHeBkmhgrUne/eMxC/k02\nX2pwxZHCQq6UY6pi+CnB4HHrO9//ux12CCKLv9JOEIedEe5ogW4Lg1WEtqfoCiTz3z+j4mTUF0XO\nbMuOm7axGMHqhnxRauhQn2A8AG9oXISwstFvhjau85x9Ej3btbQtuR4aMTKHIpHa+YQTUMK/7ydt\n8iWt/KO3eRUpO1j8t5AzbB4ca76/p0jgf8AC0V1/JTMdmcDYwRTneh3w9zNNcEwU57EmWDz7AafK\n5T+T/v4Nmzc7NDskhcPeA1Oej+n1DOcnvQ+DHsfK4dlawf2cAQQXNwClLXAoDt1/J1xpBp6UQLun\nNuJwrF8M+Ocb0uesxQ0dJm31CVUl7OxkSMLm9alVpKURjycr9R7OxwhlGKWDWaFY+sV/J1sZ9iqd\nBf5V4sYGRbeEluvT1Dlct4mxaC9lbtg7qULNdrUBAGnwuPVis4IqpOPEauFjoXH2ClcFupX8CLdA\nZQJNAelh8cEm/ndLs0feCcTMGQ3KpH06/IthJg/a5VRAccOjDopL"
       },
       {
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
