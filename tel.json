@@ -1324,24 +1324,10 @@
     "lista": [
       {
         "icon": "https://megatelevisionhd.com/img/logo_canal/Sony_Channel.png",
-        "name": "PRUEBA",
-        "drm_scheme": "clearkey",
-        "uri": "dX/xn76bO2qtw+qwN9cDSJQmOmSMNqn2R9e8x0VHtyA6Iqx36j8Qw1p2tA8XROYvnRPbVK8LLP49MS7dTiVvA3NFFMeL+lRTJ5VZWDQRrG734xV+KxfIGXrprjFmM71lrhfr7GhE9yU473BODowWzDa8unsLosQFQ0xllGyYuEDOcp8HUUdFhW+v8WSXNOabvrwsBCkSiXa6liPEPS+LFg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQdz2Kx0oS1N1VB1asNs0FLtMnMRs/vttONPLe1fhz4zQ=="
-      },
-      {
-        "icon": "https://megatelevisionhd.com/img/logo_canal/Sony_Channel.png",
         "name": "Sony",
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmhce8uwWU4VQpKQATTXZxT5uZ1dPruB4k1cTw5bNRYmg==",
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTjr8XfMpNMZpHr93+P2ACC67PbXXcxurT3FDicXDrU4A=="
-      },
-      {
-        "icon": "https://megatelevisionhd.com/img/sony_movies.png",
-        "name": "Sony Movies",
-        "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXVBSu6yMA4FI6HKfGKgYgH7kQ7VXiX6fDgZeO4D2DgFg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTjr8XfMpNMZpHr93+P2ACC67lEEVwvwA55Je9cE4Gsug=="
       },
       {
         "icon": "https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_novelas_1.jpg",
