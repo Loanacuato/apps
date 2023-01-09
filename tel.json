@@ -223,16 +223,6 @@
         ]
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/canalochosanjuan.png",
-        "name": "TLS San Juan",
-        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtpaji8wP8DbiDxtGqFrdlq23EAYnWB2pt3vfFk4Qrijzqfr9AvzWLcsmnKGW8GUztzg8zH4aOZaNTZG5Z6lDRqI=",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
         "icon": "https://static.dplay.tech/imagenes/albardontv.png",
         "name": "Albardon TV",
         "uri": "NTiWAUgEVQQJYpfwJWj1j/hAOCtISvSKRSNhJFo+QwzDuakOZNlsmbeSoVeiiRkvBI3R58iMt1SJu7yYydEqwQ=="
@@ -321,11 +311,6 @@
         "icon": "https://geo.edge.pontiscloud.com:9002/images/482/CH_LOGO/80/80/350/500/25885319075824.png",
         "name": "AMERICA TUCUMAN",
         "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVC/iEPb/i/rP0aQWnJy0sZ+"
-      },
-      {
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/482/CH_LOGO/80/80/350/500/25885319075824.png",
-        "name": "AMERICA TUCUMAN",
-        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtso9pUQx+9OgEtfSGN6m+M/AQbKJpXlyRHKXLjubYC3S6vPNVCAbAgtU1dBLpqL7Kg=="
       },
       {
         "icon": "https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-Ocho-Tucutam.png",
@@ -1338,6 +1323,18 @@
     "mode": false,
     "lista": [
       {
+        "icon": "http:/1/static.dplay.tech/imagenes/tvcortoslog.png",
+        "name": "PRUEBA",
+        "uri": "Kk/t5DoQCpFMLd2nfzx+itwgNXx2FlKFzVCb5u7xCOiojtDRiAJ5Or7zD9YFQonL2qFj+HpN3QGKR+0dOfcAbg=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
+        "name": "TV CORTOS",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivQGTbxoloDg5spSaUXjCLHA=="
+      },
+      {
         "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
         "name": "TV CORTOS",
         "drm_scheme": "clearkey",
@@ -1401,16 +1398,23 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Uusk1NAmAXuIJ2KqxfhJaa+2tNJZFN+4uLtzTBSifO98A=="
       },
       {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/2560px-Canal_Golden_logo.svg.png",
+        "name": "Golden",
+        "uri": "D2jLokBxFj/Mr0k2a6m34F4H/9ugWzzOwkrrIpByRaI2HHAUkbXsUtUY9WBw+jlQYSeF8hpwL1II\nw17G9J/vmYZSiV/8lh8gWiZGowPT7sI="
+      },
+      {
         "icon": "https://i.imgur.com/0wduYad.png",
         "name": "GOLDEN PLUS",
-        "uri": "Kk/t5DoQCpFMLd2nfzx+ipIV8+cCF4TmtyMYViVcqCDFC8lEdM7nGvxr71WuL0r57Laj9IpPbPXd\nG+HjEu9Efw=="
+        "drm_scheme": "clearkey",
+        "uri": "kDJWeMQMsWWNqyw2I4pc8M6iQegUBbcC1svJI2fXUN4W1Ly2YWRuAwvxp2L+oucyPqa0xY/z3sUjIa13I0bjnQ==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT0MOzV7XLkZceZ/jXkhXvOA7anDmsgemiwO42t6f2UJQ=="
       },
       {
         "icon": "https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png",
         "name": "GOLDEN PREMIER",
         "drm_scheme": "clearkey",
-        "uri": "Dr2qk+jc1xoOdgsrNsHHuHA8TzNBQ27l+64y5vYJ9OsJSc355R9YroR9vKRBBPeV0lK32c0vJM/aKKdu0UJ7Tw==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam7JZDZ73NQwFQ3TUOVZXPExo1L0qpMFCL1Up7WqqzDo5"
+        "uri": "CNkMxdKH7X9uRVUdhgCc1QWy1D0rx8JQT2eQYfbpuzZWOY22YnKSK1s7VDPKzKpoN0mmyA/GacK9fbQkqW8i+IJCiPghoxfCQAn0AdlJt7k=",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT0MOzV7XLkZceZ/jXkhXvOE0zy+8ieHgqusd2iTZGdQg=="
       },
       {
         "icon": "https://static.flow.com.ar/images/294/CH_LOGO/350/500/0/0/61143889072040.png",
@@ -2764,6 +2768,11 @@
     "name": "ADULTOS XXX 18+",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
+        "name": "Miami TV",
+        "uri": "+ejLJx8owQY8mJ2c0i72H1TZhycvCNDBLEbztb44BjL5ccr8wNBJWNlcVJrhcCl2J8qYvLp9JRuE1nCeR/8BKPz9kUqu1QAd2diUrGisz8ISUhk3pjseqtyqQNiCzAgb"
+      },
       {
         "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
         "name": "PLAY BOY",
@@ -4497,14 +4506,14 @@
     "mode": true,
     "lista": [
       {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/b/b2/The_A-Team_DVD.jpg/revision/latest?cb=20201129214048&path-prefix=es",
-        "name": "Los Magnificos 24/7",
-        "uri": "lvkHsW5Xi9iaP+PsZnvqaGRw9QCGzq/aHyTGycdQ1DD7ArlR9jUEgz5WLgsDzvn6XIjJz7UPcc7TWNM9iLDsDQ=="
+        "icon": "http://static.dplay.tech/imagenes/neongenesisevangelio.jpg",
+        "name": "Neon Genesis Evangelion",
+        "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVDw45xoBepPEEG7nmZ5Jc9H"
       },
       {
-        "icon": "https://images.vix.com/prd/videos/video:mcp:3247437/1dbc3564c5973102dc7ce8680b59b172",
-        "name": "La rosa de guadalupe",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kYNAS8rnqzWpM4vq76p/pow=="
+        "icon": "https://i.imgur.com/eq9q8KW.png",
+        "name": "Locomotion",
+        "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVCPmZGxafWaRX2wFAuFY9wc"
       },
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWlucDDh23U9bcvUUhCewnBR2Ds7fRGm9ht380M17exaDGgXL2hsyLeJGtSFQonS7mta8&usqp=CAU",
