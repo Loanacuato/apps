@@ -225,7 +225,17 @@
       {
         "icon": "https://pbs.twimg.com/profile_images/1246950862364250112/3oHiMNvj_400x400.jpg",
         "name": "Telesol SJ",
-        "uri": "q3M9/mjSI+LpPGiO0sTCqd0zgvdqNovWNEC8fU+eBvRYaRlgE6hPma2ethx/zVdpnms1bX78N3C/bxZbQnn+Wa8kB+CYPzglyCtAn3GOU4URC8iHBn9VocJkR0PO9q5LPwJGP7awAaM6ktI1PeFVtw==",
+        "uri": "By7NjtIbKCp0dbBx3i5jhI8ABUYYWXAMYUQ6gDRT/r3QVIq6i1T73GONd7weEdl4tl0rEFZqqP2N\nuMs4SqQreygBSzyYvydSmOlmXChnhYccgzbRQb65FWHizBjYPQoIW+rkWnhEE2w2la+G82XRffaW\n1iaVXKDf0g4FGjV0Q8E=",
+        "drm_headers": [
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1246950862364250112/3oHiMNvj_400x400.jpg",
+        "name": "Telesol SJ",
+        "uri": "https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=862509",
         "drm_headers": [
           {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
