@@ -223,6 +223,16 @@
         ]
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/canalochosanjuan.png",
+        "name": "TLS San Juan",
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtpaji8wP8DbiDxtGqFrdlq23EAYnWB2pt3vfFk4Qrijzqfr9AvzWLcsmnKGW8GUztzg8zH4aOZaNTZG5Z6lDRqI=",
+        "drm_headers": [
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/albardontv.png",
         "name": "Albardon TV",
         "uri": "NTiWAUgEVQQJYpfwJWj1j/hAOCtISvSKRSNhJFo+QwzDuakOZNlsmbeSoVeiiRkvBI3R58iMt1SJu7yYydEqwQ=="
@@ -310,7 +320,7 @@
       {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/482/CH_LOGO/80/80/350/500/25885319075824.png",
         "name": "AMERICA TUCUMAN",
-        "uri": "q3M9/mjSI+LpPGiO0sTCqd0zgvdqNovWNEC8fU+eBvRYaRlgE6hPma2ethx/zVdpnms1bX78N3C/bxZbQnn+WYFJPQaz4Rnv/weW196c8kuboo1svAxa8MFkygHE7yNT",
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtso9pUQx+9OgEtfSGN6m+M/AQbKJpXlyRHKXLjubYC3S6vPNVCAbAgtU1dBLpqL7Kg==",
         "drm_headers": [
           {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
