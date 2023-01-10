@@ -421,6 +421,28 @@
     "mode": true,
     "lista": [
       {
+        "name": "Tulsa King",
+        "icon": "https://image.tmdb.org/t/p/w185/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg",
+        "temporada": [
+          {
+            "name": "Ve al oeste viejo",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAet4acRIgGcWakd81xJZQkNSmbzf9d7cZM+Gg926UxuToif9l3gHGn5HKbXyJgLYeffuFnhY9rzSZLVoV6MtylWdVTNJKPvgJlIwsN+VrMnQ=="
+          },
+          {
+            "name": "Centro del universo",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAet4acRIgGcWakd81xJZQkSOcy5rjDNZPBmaP1FuLnNIgw68PvWMhCrt/LN5GMD6no2QccgLUMuP0Xz+qgUf2++GngzaOrTWsElVWE95sMsQ=="
+          },
+          {
+            "name": "Capricho",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAet4acRIgGcWakd81xJZQkKWb0+V+C925pc/q96bdhSDsW8kY1wUTCHAGKIiIzAkXrSv7v9OjZtpXaPkQ7OkhRUfXXiZfYtzSBkl8ALfskNA=="
+          },
+          {
+            "name": "Lugar de visita",
+            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0RdFxnGrXKn537mXwdlZHMre1qC5qOhuTSXNiGDtFCPHFVxmQZ0Zpb0j1ToRwB6Jo="
+          }
+        ]
+      },
+      {
         "name": "El cartel de los sapos el origen",
         "icon": "https://www.themoviedb.org/t/p/w500/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg",
         "temporada": [
@@ -13792,6 +13814,21 @@
     "name": "PELICULAS ASIATICAS",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://image.tmdb.org/t/p/w185/rlqvwdyAetUY5M32IfuvWqPUxXl.jpg",
+        "name": "La furia del oceano",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZrkVbgNRgAidNzfHb4BecQ4j+rflzRae5kJzK6Ug2V3uPo1Dch3XW3O+IBqt56nnAjwWaKArL7bbdE/ezAiwBCUEnTVt/XTh7+2EuWQFZfw=="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/w185/jCRqwIBce1ngdAwvwCeyQXig8II.jpg",
+        "name": "Wu kong",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAT3QfAP3oOivgcnbdRsgAEf0q8oC70KJGY1Cyea6vCHnFltrSks4U/o8cKWmrTlAooYDVI+ajGM1HK7P1aYlKDF9WnkhTnl/najnKvoxykLg=="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/4688161667006036i.jpg",
+        "name": "El vuelo del alcon",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEC4cvkiWSZ49lmSYcdjcNAFovSjmY4+JnCrq7ZemHc4tvxINw83yAQA10kR1oYx2EH3nTPw6PJWD4HcZ7vYsCBbDDCD4bNh4SaGJvvehhKvhaVsSA0V6lEidTkk35df9Jc="
+      },
       {
         "icon": "https://doramedplay.com/wp-content/uploads/2022/10/8kwsdVNBTZyNQ8s4LFqR10fOvk1-200x300.jpg",
         "name": "Los 800",
