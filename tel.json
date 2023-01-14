@@ -666,13 +666,13 @@
     "lista": [
       {
         "icon": "https://pbs.twimg.com/profile_images/1599829872473358336/ZpXV8rao_400x400.jpg",
-        "name": "Eventos",
-        "uri": "b9u4klyilWWIJt4HQkXwC3/PzazAOXbfj0jGsADmpdAdo8TuMhpTWlB05x++g4f6GFjvYhqqsutrcDmyVsFymvwk0ah9O4L/r8gpnsg49+M="
+        "name": "Eventos opcion 1",
+        "uri": "NWfnI5li2AgNLuBN0nbJIAFTc0+fwLJX/1nJanYLsQJLsphyeClTvP2r3B5mocJ+"
       },
       {
         "icon": "https://pbs.twimg.com/profile_images/1599829872473358336/ZpXV8rao_400x400.jpg",
-        "name": "Eventos",
-        "uri": "tUJY21IyYazQI2cUOrQtCm1PVf9ZfvjKbFh8Q654qQo9hGCivOdGDv4KXPn+Wn/y"
+        "name": "Eventos opcion 2",
+        "uri": "NWfnI5li2AgNLuBN0nbJIKdJO1HXv8t8TYsCv1H2WlejAFo6YTlfBWhcrjtyKX5L"
       },
       {
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
@@ -2159,6 +2159,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg",
+        "name": "RTV Vida",
+        "uri": "1m6lixyPPMdmdU1L56R99wq/5n0y7GoYCKfAazk2vo1v3jjdQ5sYtLNy0h9RGORpId/gtuE/PQgqTpOkuCRcM9W0ZSkfZoxwwia2g7O9Dbo="
+      },
+      {
         "icon": "https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png",
         "name": "Cristiana TV",
         "uri": "2qLFwhIq/0PpjCdtSKpnXqie5d2xKjzjli7NTlvl33mLZfhH7VufDsTjlL+F3yb335MpLmAQvng2CQPNAcoyH44Y5Yh8ScOtbrIoJCu2kFU="
@@ -2176,7 +2181,7 @@
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXgAOoKn6zMGa2aeiUFzRmSEMGbR37rw3RYQ&usqp=CAU",
         "name": "ENLACE",
-        "uri": "qy7ecdLXuPvt9ofN4k1p5tvVdN+XuipORJVyDLDqM4o+UxV/GTnH6uDs3VfY7juD+zxU7YyMzinVKx1pl4Ik4A=="
+        "uri": "yXJUUDCejatr26OenzTPy5nqOMz4ZHDi8X51ivIgAHrDj6Bd1IMOAUwctX0IymvTPINx4dIvT7NGzhbSSGGdi2JKPO7hK/PDusH2AwTHELE="
       },
       {
         "icon": "https://static.mytuner.mobi/media/tvos_radios/nrpxta9jjd5v.jpg",
@@ -2643,6 +2648,41 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4z6bokQp0z5D6gZowUFbTVJPLTdzDaDPN3OdBJPPUqNly1llOrxGpA3s2LabbTv29s0EoE2UPwJsrW3aT92VHXf",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Us5HaFZt59TlHSDt5u+T0DyBnqn9z7h57XZeBtpNdBkGg=="
+      },
+      {
+        "icon": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200",
+        "name": "Cadenita Elite",
+        "uri": "vaYuAGqCDYYGrIREWrpEOvxUrhxeHJtOG2fZ4/ECMSgdDnezhJHjVgyAsQ+GHM9fm7TSwA2mrTKo4ZWzKBouyw=="
+      },
+      {
+        "icon": "https://graph.facebook.com/fmurban/picture?width=200&height=200",
+        "name": "La Urban",
+        "uri": "ahf3FMeF/itF3ZyXn7E4fM9du518xsu8xBsUEIy8ADTl1nD4qZmsv0QMROhSj/Rx"
+      },
+      {
+        "icon": "https://graph.facebook.com/eurolatinatelevisioneuropa/picture?width=200&height=200",
+        "name": "Euro Latina",
+        "uri": "VYRKAjxx/38OD44jdMmsZjuuNLPBhBvKuYVaTiTsp1lYYU34iw3tAiXQ7rMf6HIGrVSDrNDgtpd0JLnMAOyKMw=="
+      },
+      {
+        "icon": "https://graph.facebook.com/eurolatinatelevisioneuropa/picture?width=200&height=200",
+        "name": "Euro Latina",
+        "uri": "VYRKAjxx/38OD44jdMmsZjuuNLPBhBvKuYVaTiTsp1lYYU34iw3tAiXQ7rMf6HIGrVSDrNDgtpd0JLnMAOyKMw=="
+      },
+      {
+        "icon": "https://graph.faceboRok.com/eurolatinatelevisioneuropa/picture?width=200&height=200",
+        "name": "HqM Latin",
+        "uri": "4Trmc+B7Pdmyzlzjhgnyo3EjJSI5dZCpZRq4UFwV+dDtwuXsKDsl8TMFsN5DIuTIQ1jf8O7nlEYM5rKLu9zNySc4JI2gbAgTJO98Z5bYNLTBfhiyDBAoiqZUPZuTlJ10"
+      },
+      {
+        "icon": "https://graph.faceboRok.com/eurolatinatelevisioneuropa/picture?width=200&height=200",
+        "name": "HqM POP",
+        "uri": "4Trmc+B7Pdmyzlzjhgnyo3EjJSI5dZCpZRq4UFwV+dCO1/TcOXYFdLWzhNhJKhqRbf4n860gI2v0z6jppgsdJ9texcrcFJz9b0xmubJwyAag7/8W5qQXNGVkfB4T3agF"
+      },
+      {
+        "icon": "https://graph.facebook.com/revistahola/picture?width=200&height=200",
+        "name": "hOLA pLAY",
+        "uri": "aZQatXcqeqy3aTjo1Zk0aAxphaSskgIhCd0xgioKSEK4//tBJvi3jqRWtuJ5iqKoQ/We6hIKd55rHDy/JTmpkw=="
       },
       {
         "icon": "http://www.radiosargentina.com.ar/png/VIMUSTOP.png",
@@ -4545,7 +4585,7 @@
       {
         "icon": "https://static.abc.es/media/capitulos/000/068/560/la-punta-del-zoiberrg-1.jpg",
         "name": "Futurama",
-        "uri": "q3M9/mjSI+LpPGiO0sTCqd0zgvdqNovWNEC8fU+eBvRYaRlgE6hPma2ethx/zVdpWVGNPctzCcu4JGcQs4tB/ThSk3DjtY66jj/2xGPNRRpG9xtbaFdI/WISJzCkjIlJ"
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wthvKeO8rxORCJWYu7Hk+xIG14Nsq6bfFES4xtHDusv6I"
       },
       {
         "icon": "https://i.pinimg.com/236x/a2/49/e9/a249e904c5083c28b1d6c80cca75ea18.jpg",
@@ -4670,7 +4710,7 @@
     ]
   },
   {
-    "name": "PELICULAS 24/7 ALTERNATIVOS",
+    "name": "PELICULAS 24/7 ALTERNATIVOS SIN SERVICIO POR EL MOMENTO",
     "mode": true,
     "lista": [
       {
