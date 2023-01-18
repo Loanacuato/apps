@@ -1978,9 +1978,11 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://pbs.twimg.com/profile_images/834359999371603968/LxxCVoSo_400x400.jpg",
-        "name": "Malaga 24",
-        "uri": "eciHCUCY3qEa8m3tFXalpp2Jgw1Qvxrcg0T28tAk3I3NwczvbA8g63yDUpEpLNOKuSlohgftTWcw\nEuir+SK6m6XdpUo9PplzwKE/tP4TPG/Ol6GwyG8kaaMkTT9KN2RFpgEooakTVTHldkUHmeHyes0q\n3+pT8M5WGqujibUA7lwKFVLrI5lHBSf594ZqFOtR"
+        "icon": "https://static.flow.com.ar/images/68/CH_LOGO/350/500/0/0/8527518907875.png",
+        "name": "cuatro HD",
+        "drm_scheme": "clearkey",
+        "uri": "zkvgsEAT6/aKcS9HgLcYD7n0Z2iCZ2FredxIu4HciYH15WG9DY4EeyvM3EPczT+Urfuh/+btW2UeaVvYMTGrQcGbZAlpeThcWJpK6cdBW/0QVvSI8h0zPh2p4PsBwuECGKOGPI4njJ53Kq5hy3Sk9A==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT3xCNl8sMrfDMmLSJbQyJzuTg/50HysWL7UETSjeIFHQ=="
       },
       {
         "icon": "http://www.radiosargentina.com.ar/png/VI----DW.png",
@@ -3952,6 +3954,13 @@
     "name": "ESPAÑA",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://megatelevisionhd.com/img/logo_canal/Cuatro.png",
+        "name": "cuatro HD",
+        "drm_scheme": "clearkey",
+        "uri": "zkvgsEAT6/aKcS9HgLcYD7n0Z2iCZ2FredxIu4HciYH15WG9DY4EeyvM3EPczT+Urfuh/+btW2UeaVvYMTGrQcGbZAlpeThcWJpK6cdBW/0QVvSI8h0zPh2p4PsBwuECGKOGPI4njJ53Kq5hy3Sk9A==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT3xCNl8sMrfDMmLSJbQyJzuTg/50HysWL7UETSjeIFHQ=="
+      },
       {
         "icon": "https://megatelevisionhd.com/img/logo_canal/Antena_3.png",
         "name": "Antena 3",
