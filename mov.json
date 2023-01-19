@@ -467,7 +467,7 @@
           },
           {
             "name": "Capitulo 5",
-            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBG64l6+lKb9h834FrYD9BQeeNvyll+M74O36Pgod6nLz06uSFG4zPRuea34rSRCIv/3a00nWfqolB4wNnNPtGWxCaLCeNN4hIBjy+vpSckVQ=="
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEA1gtlJjJFLBnDU2OtjY8hR4aPQwiXYimlggf55aJUpAYfJTz1t0Bm5cG/93HV/ljZp9dbb+3Al+Zqt0Hu83IwzZW7W2z5PMLheXThgIDwJYQ=="
           },
           {
             "name": "Capitulo 6",
@@ -15535,7 +15535,7 @@
       {
         "icon": "https://static.wikia.nocookie.net/doblaje/images/c/c0/VanHelsingCazadordeMonstruos.jpg/revision/latest?cb=20220313013513&path-prefix=es",
         "name": "Van-Helsing",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDLwi2VbiciWoSlS/NyJL1Ant98PB/xPWw7YBWCdch3GMucg05JsninlqUmwl/6r8a8JXci7w1jgJA31Tz8dbhrpap065IT2Wy21RPLKl07tR0HP/u9R+4BDkzMJmA4d7Fus4SEiLc49TQzP6hF2OgKpnPjhD4BgtImx4D7ybj3SORzf/pFrNC2jrWSRcI5jqCnk81ttuzKYDF9xUk45JhLmYM7LiiZTmRFulxFBFcjQQ=="
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDPBp3SjTB2/txxWb5fCYi25D6bkyJaDyMngKzLFUxCUZP9382MH2bBCZF8kLjj68B6jt0fcZ06xuvkDucxq77ekUm5LySvVb0sd9sm3nxaHfWYCuYcH7Jg+fDO47dB5AgsGf0hygEoNuCSghZf2DM/MtxsHhyVVNWpeMwJMpFcIMCd0YMwrJm0ywhVnHSaVJhHWGQzBNWUf/gPK/KzBxpMijpcnffmrTPxBatLSffaerlg4hdvzejVeE88TI8QF2k="
       },
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZhCPKN_p11j8ZISCLCnB9UfNofi_2IxyEWECm6ba1bTQDs8N25GaVBMtKNyOmPsOvP3Y&usqp=CAU",
@@ -15548,9 +15548,9 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECkAwvEnZBmOOPFMsmSL/GammE+m9EPGyWxifcmjcroylAenGP2g90AcC9jii06ZhfzmpYjrWUowMRGL9ykTleTYSceJa1SftDBmYYutZ5RmC8s4Nv+e6wcXmyo3+R4fJI="
       },
       {
-        "icon": "https://http2.mlstatic.com/D_NQ_NP_780204-MLA41288716764_032020-O.jpg",
-        "name": "Gravedad",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEByfCDO1MlMWYFExtPnTKzkf95DVBxkgz/gm4jbZsjRwRud0X/hp+dviH0tRQbRUhB0FegSO5OpvevRD37Amc4Jj4FJTlvjeBzO3TSX9mbGuO4gaDnblZSNZh1QweRrzfYiOrp7zm3yb2ris+OssVzKameMt8neM2gLb24REEFbUKoGCCGB3M5/tEu5KBHqDGoo4e4ez7JSW6uDPSoen4s/vbQvhrWXFuY/QGiuYbmm4w=="
+        "icon": "http://tuvideo.tv/poster/w200/7C0oiPn46OvaMxET9iq1f5BsyMS.jpg",
+        "name": "Interstellar",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWSNCVCIhyf1WPjetwsfrINUHssYNifGPI6+rL/ALAa7BCpaMV9/43s1D/D+xaS3hAw=="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/6/w1280/qnYBbh8MQLrvSbgp6uKRqy2HxEQ.jpg",
@@ -16719,9 +16719,19 @@
     "mode": true,
     "lista": [
       {
-        "icon": "https://oscuromundo3gp.blogia.com/upload/externo-3f5e87a66f45fa7cbda360372e722e32.jpg",
-        "name": "dracula muerto pero feliz",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAbMBPv4UtzS1Tj+6ZANyrU4GA6QYx39NdbNWwOf2Cgd0ARqd7brDpTDkTpBTUxRZ+NdMrzheMXXTz3yc9Lhn1hgsh/Btem7p5u7FxdC9S4wmvCAEHWCfP0fpkDU80eONyWOlwe4Y2UTZaZZ3hYvELtMd4gc7uJQadq2paqwfT4GPBgB4KcH/P+z+B/DFeUXQUf7WowpmVgvfEhZRQKABqA81/eZ9Mun7wViGmdwXnzS/taC0HAjJdGKQ6k6OnIWp2N4KzT/QY1yB1OQQOIiMG1"
+        "icon": "http://tuvideo.tv/poster/w200/eDLO2nr5xhjOfxDAj3gQao495kw.jpg",
+        "name": "Padre no hay mas que uno",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWSdtnKpqyn/8/q6FJu5LgULZa+DHstAOVJh9PlXZj4zdMVLWd2gszoMwvHEIU8u0uK1FxOWTRhTDCYa5ogLGEqk="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/7MjODwcPV5tAEa1zlje9N4gReGS.jpg",
+        "name": "Padre no hay mas que uno 2",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWSdtnKpqyn/8/q6FJu5LgUJWUkGvytNKXQKdoGGZjNyZdG8/PlohF2Sgcz61CMCDyauft12iUpxndMGbUNyq1DI="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/9751201664675093i.jpg",
+        "name": "Padre no hay mas que uno 3",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWSdtnKpqyn/8/q6FJu5LgULZa+DHstAOVJh9PlXZj4zdBl2g7Bi6Iuot95rMKs9kP24YJQY/r1R9cLx9PR5m9OM="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/6/w1280/si4whlsGDBrjp7fRTJLvMsFZRVr.jpg",
@@ -16729,24 +16739,14 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECL0wDNNhvy8DOMpBrhxsT9PRUGFxwSJsYRMCW5bA8uu0qXVkiWboKOwdKN9uEbGmYW5AK7pvaZ2z75MndJofLa00M6c0U91bjaZB2T7aPvaw=="
       },
       {
-        "icon": "https://play-lh.googleusercontent.com/Pf5cBI-AlfZG1_Tzu2LdsPt8tPCkttsviEkLY1S0EocC5NTvhOYmLqrEGwyd6HC_iCy5yCXxv-Chn42mrkk",
-        "name": "Addams family",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAwX3TLuWl/WR83QWRdgbRB8m8VznhwEwuXSnyOQ6QwL0pdao/gGbYi2xxnKKggi9P2ae0JS2JY/jH2KtZBC3VcjQDvhFJm5ScmVnpDbsfyw4vSA57V0Dg5VJ0mPkwwOUUYdEBLhnQvE4xWrJxXZsx0AfPa0dUjurT7rqzwJCQZ2NK92io8HQKn1enSvBUuiSJqcoMYJfuS62oN9awQuomPVLb1W7XsDpN4JXgmXGgUH/udJ3OaWdrdS9nliohP9KQ="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/3/w1280/jJUB1AXsHTZoGyN7CIagZh9JwiN.jpg",
+        "name": "Los juegos del hambre 2012",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmu4Y0PWNAtL6EZAvZKMq5PclEkN12dzPiVz6S3xumdmg=="
       },
       {
-        "icon": "https://m.media-amazon.com/images/M/MV5BNGZlMzA4YzAtNTU1OS00Zjg0LWEzNmUtNmI2NjY3NjBjNjdiXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
-        "name": "Addams family 1993",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDKcnm2frzpe5fqyAwXb9SG4TGztrNkgTP3qi/Rq2vaSCMG92Jj3y8/dsI8rRmbn2aDHWE6IakKlM2ANgU8VT+QX010nUlZZx+jgmiBrryMvJ0/J1V/qOinlwTFYDjXMg4jak9NFU8GenSf3VacI5tJBOLK4CUosWg35S+hYW5TK3zjwIQyS+EkH8WBau6Oa3uPOTPQSwj23jAOnaS6jZ46CyBE76OZJ7zLiNum9wM+//wPDePp8hxwoZ1YPLawemY="
-      },
-      {
-        "icon": "https://de.web.img2.acsta.net/medias/nmedia/18/91/31/57/20331637.jpg",
-        "name": "Notas perfectas",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEATTKugyIjlGivgmi5g/8I+zxn1T1YAOaPms5ywDD/AQdICXkWeSDJnOCjx6J0az3RPO4o6iMZ8joU2rNEraBU3ii09VD8xpp/Lz6abxsvcuVPK46yPvTmd4GUfUCdnNSI="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/6/w1280/9yc5UCe3i5mrHuIWsGgsKfI37rd.jpg",
-        "name": "Mr.-Right",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEB6ft+dv/D8LAoA9JPXtEOtE70Wyyc6sIjR8PZQ/GYJ6JvJNUEtjO4RyUxDJkfIb81rN8JyKhReo+CEWn0ghOW9TfXLuYDN70tYKZTluHKVQl/UHzR80Fmllhf51QxinfuwsGC7RrBgViB/hgfA96SItM3XT5Tr0S9qt7jjJfzeG4jpyK6+T2tYJsMkEdBiqQByUXo/oaVRECwSQpC0AEB4STkZOgdKOWqTTuvdhhnGZRXepVtBE6wo8mQL1WozEXs="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1991/11/w1280/6RqnaUcDH2dpR2kmdnmSEHTcS0V.jpg",
+        "name": "Los locos addams",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXm7hyzMIvj3iYbbWhxC2j0j0PrIdxLrTVIoX/plL0hZF1J/wKh3FMDARYH2lxqEJEs="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/6/w1280/9yc5UCe3i5mrHuIWsGgsKfI37rd.jpg",
@@ -16759,9 +16759,9 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBVg6gmqaa9P+Zt9BqbOwPXPDSUNlAZMhdTLkkW2L1YnAOHtL/vB0DNQlA/VQNuP5cuNdzhljSK3uK0SA8DdhXJUmr23vLTb4UAfhfzLhBcGQ=="
       },
       {
-        "icon": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/9B3992ED0EE3E9F4F02F53B6A0C5AD7AFBF8A8DD4C9C99D87A74375EF2DAEA57/scale?width=506&aspectRatio=2.00&format=jpeg",
-        "name": "Novato en apuros",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDe2kHpSkJP5IXTEYznKruIxtLb/PZm0V8F9fjG9zylv4ftxBiHOdSkbkOTkxwZE4gH6NWaBwSX7ijUxiOZXcmRJ7MahBmjaWG4WoUNatyPy7QPxDVVp8FnfZYfIk7WWniIgTAGbvHAA6hX8U5d2SnKZSevPQ3mFV9oJeKWimr0e7znHzqjgudz6Fkt0EiAIVzfOWxK+dC13mkxmXUMTNBh2ry98wdAg5yepGcVzhroBSMxmxf30Eh8kZa4T1pMTmk="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/1/w1280/fVg3LhgVkXRfW2B7dmHcaeKasWm.jpg",
+        "name": "Novato en apuros 2",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkKHUZn1QIwZLhcXOLTTM2atnvC4hAwHiRIZ/5gvCKjBQ=="
       },
       {
         "icon": "https://play-lh.googleusercontent.com/KwQiic3RdSbcVFgRPRdzNlt2PWrr4MsCDZWNVv8CTshRxDdC9sjWShFKVgKjiSrrAInbDA",
@@ -16886,12 +16886,17 @@
       {
         "icon": "https://m.media-amazon.com/images/I/61tgdAUKOHL._SY445_.jpg",
         "name": "Scary movie 3",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAsk8OUe86JWMr5wk4wZHWXsVAuzzD7YVlc\nWCbM7u6VeSbf3DndujoL53Z39k7EG5Qocr5KX1bvBIY1TqO2xVmmZ18Q4IClYhK2irja1ozaj5sM\nHgEVwQda+Ic5OZhACm+SyivKjQFnfskZGAO9akcAqA+fWMz5dYRe+m52WrD9IUi0hJ6nfPCFTVYV\nIdfu3//EhydQaTvfstmaqUpAtMY08m5ALWS5E/wd1ZSElcK7hkhPgyoPuuz2zG+oroI4Luj1eHek\nU1q+uhncnB1AiHng"
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECHdKooHSx0+0frFa28sflc0PzXeuDbr7/HgjdfCQ1qcrXGt4q7czAEwtLal7JM1lnB8XjuOqHvVlWGsXthqrnvrwNLfomQA/P1WxWMoYvaQg=="
       },
       {
         "icon": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
         "name": "Scary movie 4",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAsk8OUe86JWMr5wk4wZHWXFGymLbrwzA2p\nbjZ8bQjOfS3yKrl1MvU7s4Uq+o///djEsQOyBAX8My6TffKvgi5OIbY+EMWun1YSaJp59BpW10B0\nkXfI6S4CgdaEVpvrjR63iYkwtUmRdHNSL3QcHXgZkgpoAmpTbv3BLHFljnq0np7ytLnGhw2tbobi\n8yrJyMCYPMuOJBNYGuWoOHwrf4yViYR9K+ZLXV6fVcx4DI/nHA=="
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECHdKooHSx0+0frFa28sflc59bb1JCo4a43/9z9GF2zl5i+L1i054mibJhE69MNu9iMbFHQo2zdxl+poe46lW7CCUXrPT9Bh291qFPJQ7iJKA=="
+      },
+      {
+        "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZhU0nOKOmxRh2GBFBHLI0h0En6IiqbfIKs4aDBi0cyccMeE6O",
+        "name": "Scary movie 5",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECHdKooHSx0+0frFa28sflcVI7c8wJ/icyXYIRXiWhjMOlk8KaKk1iO34bx5UfoQawI49dcBiTg6M8MMiJR/dKii2Afsc08wBh3DmgABib8TQ=="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/4pZdGhTCmpnDYKdoMP3yVUaxefg.jpg",
