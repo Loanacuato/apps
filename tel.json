@@ -774,8 +774,13 @@
       },
       {
         "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
-        "name": "BEIN SPORTS EXTRA",
+        "name": "BEIN SPORTS Ñ 1",
         "uri": "wsX2rHfy0U7EH6776YVNSLHIDw6FVnn+oj69RolvE5LEt1+NBGvzZNjhiNTDbq8m+expz4v/OCYcVmqX8HHeFA=="
+      },
+      {
+        "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
+        "name": "BEIN SPORTS Ñ 2",
+        "uri": "o94z8507wrkes5Bz38inq/H7XAhe93skm+3qtNoWhYyNbpmxzTs6Jfmwy822XHIS6te/nCEFk5zsxvwd0I0dQw=="
       },
       {
         "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
@@ -3110,6 +3115,16 @@
         "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
         "name": "TELEMUNDO SHD",
         "uri": "8qtlIgQJkGI8cj18j6iYlOvbrcEzJx9Wvy9WLzxmqg8MsiWvZYuw2S1x2NP86W/5"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
+        "name": "TELEMUNDO PUERTO RICO",
+        "uri": "MyT/LhLy4u5MDp3IQgcngDjmVLdm+apZ77ptzdk8/Y5C7fMynmOx3ocJSuus9APogowAOH17g1zfHkl5CpMrDFN1UxseXv5uN2uilZbgiz0/dw4gJPaUdf4TMnCsAX6N"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
+        "name": "TELEMUNDO SHD",
+        "uri": "9hMcjzdMuN0Y0JK1CfUQQTL7IxL1Vkt5k1BcGt8DCAkdcwXw7HyWKjsGuSG+IK3FsicDfXTwqmidn0uCCDF1IA=="
       }
     ]
   },
@@ -4775,16 +4790,6 @@
       },
       {
         "icon": "https://i.imgur.com/OmA17NY.jpg",
-        "name": "WEB PRUEBA 1",
-        "uri": "web:9MIhoX6fNEvWUeqzXjndDaKX2peYtUUqTghSznumJ0vXseDwf0UcKXqB4bdFcFvt/3dEGXHVY9cOfAlZnhus3LibmQXIs6LdK71lqy9hZR7dS49XoyXQ/1AAOKCs16P9bro2FmxQ4KTKfINJ2q37uGya2kBrQuVnWjfcPddCMuGpOW/U019PPZls496o+fR++wc+0TOV1KX1tuIK2vjfMSG4CKLls5NVdNQgfmpuRaqv/y1o9A33p5JrfORn6mBy/vIJ4iKRSZ7MEX8ENP8qJB9T73Le3CKn00BnVlv174uLSu2aePJpcFaDs9yRnVZYqKlo1hfohLwIztz+F4LZBZ4AbBe+KVOMDbGpREB9y/RsoWpiByVgLDUFAG7HOxiQrT9CSTfFJKLUJ83UJlOyia2WMOUKYNswzp0zcHffOsNeiwd7Ry4qhHtk+rUaXL5Ti1dUbJN9CY2R2EYv+joMYlli80kmRLSRG2bumCNBGzbXEp5rog9F2xsK9f0p83LBPoF0MvtW8rIM4Y2gRs6q+qHubQz2Od3RyfrJeVbAgt1Oo/5mWgDocH3HHaVMpFhtfuFWAtcYqEf/HOLJHMzJHOGQZrpYsIwYCmimpS/ulBUS4ql8+80+STG69DNXkkog"
-      },
-      {
-        "icon": "https://i.imgur.com/OmA17NY.jpg",
-        "name": "WEB PRUEBA 2",
-        "uri": "web:By7NjtIbKCp0dbBx3i5jhI8ABUYYWXAMYUQ6gDRT/r1mUuF6J9XtYhyqs3kSBBXwEj8wMqpZ61sCM+vkFGQygynC6QBaei9b4Bspz4UYqVABvgNA92OHq+GLRj5wUkXC/1X6dATXCWmNXiHf5uLzKUr96hgE8FdVpd/VmDDOGymy4PCehH3dd+hzvUMiasuWRcszowrDGV9nVFZ+o3oTiyS/37k7UAnwXdotv1HzgE/NfpltcVcd+3LyDTeD8Nwp/VGoJqK3R6k9FSml+5pTtZ2krSfGXLuzYeTdYj3AGpxgP7WsDtngfl4UVRNNjbChEHRwZjPh4mzFFBqDaH16m1y6FobK+YeqwFhxxPDxZ3Qo9g1KgNha8w9Gbd9+rLvSZ53ErH6Jnj600J/XQOlbFQ=="
-      },
-      {
-        "icon": "https://i.imgur.com/OmA17NY.jpg",
         "name": "WEB PRUEBA 4",
         "uri": "web:ZjIq7pARyhuZBG9QdQNazBtkbk6q9znmviwKeQvgjZv6qOhFBgHUP6YdBa4eCqL/ouDrIztnCwIii4nU9s9Z8rtK9yIMwXpYJkLdahywh5LxsN4oFKHwRI9rBQltRux7NGm6WEfYFuJMXjo1WbiiDvcOI2opDh0tRLRIj9MwF5k+ykPCQCI7viELxt4wHGAQt+eTt+aGOJWjOfy+w6o85eoe9yBrGwDGLwzOeThpMPCORIu8d+yXI52pZNai0IGdJlUlLJYzsX6I0eZCs5R7clIT4KJEBes4V7bZyEeLzeY="
       },
@@ -4793,7 +4798,7 @@
         "name": "WEB PRUEBA 5",
         "uri": "web:SisED6PsGrQjYOt26M/tvtTpVg21tA09UrHaxZG5Dif8nvaNXjrKqj6J4B+u4YoAJYh/WVx2G2kMLO9ItQDyjxYfF1zrVXyqX0+34QzgYTOtCfGhOdM0gkaYMmaaZICcdA7TU4M1gPaBl9VM7Bd6YtD2EKwh9QbrMTHRN/uuLTr4edRygZMg93TW+ygJEIl+uAEoGCUlCiFGsFNwGcncIQ==",
         "drm_license_url": "uul9vIHWBe1PiT0s02oYtel5fsO+FC8hlCiLnpLwLn/5KnaIhLTH4iF/z9osI8Dl9on/sQaZL+Y4s5oL02eFIt8bBXAF9kKVO76IlpfUCFq7aNuM2enknfpOTuVrsxH+xV7XM9F/XA/bUbEPrI8CdA=="
-     }
+      }
     ]
   }
 ]
