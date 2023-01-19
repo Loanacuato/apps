@@ -666,13 +666,7 @@
     "lista": [
       {
         "icon": "https://i.imgur.com/OmA17NY.jpg",
-        "name": "PSG vs. Al Nassr/Al Hilal All-Stars",
-        "uri": "web:SisED6PsGrQjYOt26M/tvtTpVg21tA09UrHaxZG5Dif8nvaNXjrKqj6J4B+u4YoAJYh/WVx2G2kMLO9ItQDyjxYfF1zrVXyqX0+34QzgYTP7M95PISAr25wkbE1Qp7pMsm3v2S/ESQZPeg52PeZ5Smpj4uBOz9Pm2SBdpklYCOIu0nIc/1EXLlJAPiFutVzYzWYm36svx++53GHQkkmEmQ==",
-        "drm_license_url": "uul9vIHWBe1PiT0s02oYteUbTQmbhuxzXAnZMpGt3Gn1UcLRK6V0IIktwX4rVnm5CO/N3f07uA6RGVW9FFMMZZwbotNPLNsQ+GUKpjaXVE5ORmoErOWZH0KrJRUjqB9s/hx0wqXKz5oaIPJoBr5yIQ=="
-      },
-      {
-        "icon": "https://i.imgur.com/OmA17NY.jpg",
-        "name": "Amistoso Unión vs. Belgrano",
+        "name": "TEST: Amistoso Unión vs. Belgrano",
         "uri": "web:SisED6PsGrQjYOt26M/tvtTpVg21tA09UrHaxZG5Dif8nvaNXjrKqj6J4B+u4YoAJYh/WVx2G2kMLO9ItQDyjxYfF1zrVXyqX0+34QzgYTNuqcquVxPgNsc3EH1qLbL2dVuc5fWe8LCbuXCuG9Tno0Z3gYMj7GMQE84Zffy3m1OkA7dbwRFrrGC8vKYZwN8u+I/XkU1+01iTJLXuoy+PNg==",
         "drm_license_url": "uul9vIHWBe1PiT0s02oYtQPnDbeShvVMltwBzIXmWMJXZ378QOxVk1aGfxqG952eoYnu2O6+skiSUzZbBXntbDoVJfvfX1cofCPrTix4GFn5LzvAjbGu9LeZafu6KTrvTcY4wmGIaLx4rtBuad6/ZQ=="
       },
@@ -680,6 +674,11 @@
         "icon": "https://pbs.twimg.com/profile_images/1599829872473358336/ZpXV8rao_400x400.jpg",
         "name": "Evento 1",
         "uri": "b9u4klyilWWIJt4HQkXwC3/PzazAOXbfj0jGsADmpdAdo8TuMhpTWlB05x++g4f6OKQwQwMzVulo+EDCkdh3KxkUj9Y7g2wit1M9B2uQK8k="
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1599829872473358336/ZpXV8rao_400x400.jpg",
+        "name": "Evento borrar caches cualquier cosa",
+        "uri": "NWfnI5li2AgNLuBN0nbJIAFTc0+fwLJX/1nJanYLsQJLsphyeClTvP2r3B5mocJ+"
       },
       {
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
