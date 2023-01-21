@@ -4713,13 +4713,18 @@
       },
       {
         "icon": "http://static.dplay.tech/imagenes/sptv32.png",
-        "name": "LOS SIMPSONS",
-        "uri": "Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcAnz5lVZdKHEq6lMpI0cxewBXV0PhKAUGs3xAvzB8p6L",
+        "name": "LOS SIMPSONS prueba",
+        "uri": "Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcNBalsojzhMdJ/CtSL0lDgA+s4mebK9ed9bxM5IMa7Nl",
         "drm_headers": [
           {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
           }
         ]
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
+        "name": "LOS SIMPSONS prueba",
+        "uri": "Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcNBalsojzhMdJ/CtSL0lDgA+s4mebK9ed9bxM5IMa7Nl"
       },
       {
         "icon": "https://www.qualityartworks.com.ar/wp-content/uploads/pi/pi0920/0920pi_negro_estampa-247x296.jpg",
