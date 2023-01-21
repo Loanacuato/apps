@@ -170,6 +170,16 @@
       {
         "icon": "http://static.dplay.tech/imagenes/sptv32.png",
         "name": "SAN PEDRO 32 TV",
+        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtuKcJwSijNFdo0Q75XFzfQhq9LJZsMXQ2M3UrSIickj/",
+        "drm_headers": [
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
+        "name": "SAN PEDRO 32 TV",
         "uri": "iPeoYYZ1jn0KkumPEHy+oGMj8zInDlKxV9cAO+2aOwUJNp1O5vMT5ZnQdNKXPqX3",
         "drm_headers": [
           {
@@ -2181,7 +2191,7 @@
       {
         "icon": "https://www.foromedios.com/uploads/monthly_2019_11/small.TVFamilia2019.png.cb24971864815923cc726b4c6873fa9d.png",
         "name": "tvfamilia",
-        "uri": "vnSPb+Ex3aFkfgr8aR776GO04GcSf+KPSNciJ8xEQrGpsSI05mDwDXDPEz1xrjhJ"
+        "uri": "btmAPnTjm1wLKH/jp9DngJqx2An3qbUAZhMB81/PwXINxUA9wbOJVSOXGiAJ3mirHWxVNJVPPomGJ6+A4l/QF55Jm2wLqGPMDCrYKV5vvFk="
       },
       {
         "icon": "http://c2511031.ferozo.com/portada/r.jpg",
@@ -2191,7 +2201,7 @@
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXgAOoKn6zMGa2aeiUFzRmSEMGbR37rw3RYQ&usqp=CAU",
         "name": "ENLACE",
-        "uri": "yXJUUDCejatr26OenzTPy5nqOMz4ZHDi8X51ivIgAHrDj6Bd1IMOAUwctX0IymvTPINx4dIvT7NGzhbSSGGdi2JKPO7hK/PDusH2AwTHELE="
+        "uri": "GqX4IfoDxynOUCi8m1kpVAIgXHcEdWH7AbLAFBAwr/pFcmktoQRjznWYZkeHfy7TyS+QpjJ7QflMY7UWkph83SSfdaVYgBS3yRM9PCEo6W5XRrNZcmPndXNghlDHpXzY"
       },
       {
         "icon": "https://static.mytuner.mobi/media/tvos_radios/nrpxta9jjd5v.jpg",
@@ -2596,6 +2606,13 @@
     "name": "MUSICA",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://cdn2.sfntv.xyz/webp/logos/optimized/flowmusic.webp",
+        "name": "FMusic",
+        "drm_scheme": "clearkey",
+        "uri": "hSfzDHrQ+u4mu42iSsVD9hIGWK2DGl7MzHI5oNC5rHuFGgAJz23eTK/inCdpKLDmnUzTENf48jBFU4yIaAFmeQL97z/aQbW60kp5brmogRR3lIldJMq3lls08RsfQVpBHiBSMMPA2kw1/e1XfDhi9g==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS37d82E+igq2BPTRn1LTorkJf+9ZcJORGJwfw0kx3lWw=="
+      },
       {
         "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
         "name": "QUIERO TV",
