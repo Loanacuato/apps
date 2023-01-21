@@ -178,16 +178,6 @@
         ]
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
-        "name": "SAN PEDRO 32 TV",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oGMj8zInDlKxV9cAO+2aOwUJNp1O5vMT5ZnQdNKXPqX3",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
         "icon": "https://pbs.twimg.com/profile_images/1532029271610376193/CouxLUR6_400x400.jpg",
         "name": "MULTIVISION CABLE",
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
@@ -4715,6 +4705,11 @@
         "icon": "https://es.web.img3.acsta.net/pictures/19/02/15/17/18/5227942.jpg",
         "name": "LOS SIMPSONS",
         "uri": "gZoLXESq7RwTEos/+k+RctTEnOtEGxKbtfuQWOKAR9SdAbeO/sD/mTVyiW/yGuhx"
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/pictures/19/02/15/17/18/5227942.jpg",
+        "name": "LOS SIMPSONS",
+        "uri": "Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcAnz5lVZdKHEq6lMpI0cxewBXV0PhKAUGs3xAvzB8p6L"
       },
       {
         "icon": "https://www.qualityartworks.com.ar/wp-content/uploads/pi/pi0920/0920pi_negro_estampa-247x296.jpg",
