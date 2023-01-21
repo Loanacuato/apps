@@ -223,6 +223,11 @@
         ]
       },
       {
+        "icon": "https://yt3.googleusercontent.com/1922xR4FfjmQF_dAdDEYpXhOzpUIykJ0Cc4t22cBXBY1pifCZ39B3HIZulq3ZIo9LeDab7xMOw=s900-c-k-c0x00ffffff-no-rj",
+        "name": "Telesol",
+        "uri": "web:tYzKlSJ/Hby0rDhaCy6x88eVIlxzsAwSVucs0v+al7St/vxlVroTYvD3UpzgpGbBGl+0n0+lCh8OI/RH7l8SgghgkUwWVscnNU03tH/QN7w="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/albardontv.png",
         "name": "Albardon TV",
         "uri": "NTiWAUgEVQQJYpfwJWj1j/hAOCtISvSKRSNhJFo+QwzDuakOZNlsmbeSoVeiiRkvBI3R58iMt1SJu7yYydEqwQ=="
@@ -4714,17 +4719,7 @@
       {
         "icon": "https://es.web.img3.acsta.net/pictures/19/02/15/17/18/5227942.jpg",
         "name": "LOS SIMPSONS prueba",
-        "uri": "w3MfLmxo1iRwhwNDAwtfuCTIFgE8ExbWs/GvpMOR1MNeTh6d7m0PfqlZ6HPeyraZBSibkbAEjd5/AvBo2G0/A+7+4bNGYhWH4SY5+9chTc9UQeEM0+srQ5OEgbgqRLSJ",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-          }
-        ]
-      },
-      {
-        "icon": "https://es.web.img3.acsta.net/pictures/19/02/15/17/18/5227942.jpg",
-        "name": "LOS SIMPSONS prueba",
-        "uri": "w3MfLmxo1iRwhwNDAwtfuCTIFgE8ExbWs/GvpMOR1MNeTh6d7m0PfqlZ6HPeyraZBSibkbAEjd5/AvBo2G0/A+7+4bNGYhWH4SY5+9chTc9UQeEM0+srQ5OEgbgqRLSJ"
+        "uri": "web:w3MfLmxo1iRwhwNDAwtfuCTIFgE8ExbWs/GvpMOR1MNeTh6d7m0PfqlZ6HPeyraZBSibkbAEjd5/AvBo2G0/A+7+4bNGYhWH4SY5+9chTc9UQeEM0+srQ5OEgbgqRLSJ"
       },
       {
         "icon": "https://www.qualityartworks.com.ar/wp-content/uploads/pi/pi0920/0920pi_negro_estampa-247x296.jpg",
