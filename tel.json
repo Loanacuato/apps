@@ -1233,7 +1233,7 @@
     ]
   },
   {
-    "name": "(HBO+UNIVERSAL) PREMIUM",
+    "name": "PACK PREMIUM (HBO/UNIVERSAL)",
     "mode": false,
     "lista": [
       {
@@ -1283,7 +1283,7 @@
         "name": "HBO POP",
         "drm_scheme": "clearkey",
         "uri": "iQE5UD32nT8/AcvUGsXHhUhs7QDF8nBcmU4iAkf1oKUkmjbKif22n7CqejmC7SJXGwM2QdHonQRFzhNKE3SPOg==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UuJu8md8gCQf3WQVNfTjAX+f3zTA4Kz3fAmkn8v52do5g=="
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR6Gueoy6pnjIcodBjO96FF3M/6tBc+jx//BtPvkUH5+A=="
       },
       {
         "icon": "https://static.flow.com.ar/images/705/CH_LOGO/350/500/0/0/7754024707334.png",
@@ -1985,7 +1985,7 @@
     ]
   },
   {
-    "name": "VARIOS CANALES",
+    "name": "VARIOS CANALES OPCIONALES",
     "mode": false,
     "lista": [
       {
