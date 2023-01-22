@@ -1990,8 +1990,10 @@
     "lista": [
       {
         "icon": "https://static.flow.com.ar/images/68/CH_LOGO/350/500/0/0/8527518907875.png",
-        "name": "Malaga",
-        "uri": "web:Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVohswKIEUk/dGwXzmKeO6C4amxHR5p3GZwhHRSYMLCmjbTmI8+Fucr1CHzDxB4Qq9"
+        "name": "HBO",
+        "drm_scheme": "clearkey",
+        "uri": "iQE5UD32nT8/AcvUGsXHhUhs7QDF8nBcmU4iAkf1oKWGvjMp+e58af4L5npLlyjEb+a2yHSVSRW/1fPJnxHVjg==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR6Gueoy6pnjIcodBjO96FFRN9v6x9fJlV7KtsXKKgaJQ=="
       },
       {
         "icon": "https://i.imgur.com/QGby81g.png",
