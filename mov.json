@@ -4,6 +4,26 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyJHCpzODvzVbN5jA2qxdWR9fTM.jpg",
+        "name": "El suplente",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDK3sPsgZ0szjVGKrw/Guj3u7UYgn/xAQK4Zf43+H+0Sm8G0iXLGQgSxy0CfZC+H9YXBPhMX4SGAeMk7ucKKmOjO2ce0Sp4w0VJlrmsVhPUtw=="
+      },
+      {
+        "icon": "https://www.ecartelera.com/carteles/17400/17449/001_m.jpg",
+        "name": "Devotion: Una historia de heroes",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBKHdsDIUTCH+YF3FpSwcLyVpOXSgN1HXhUik4cH79bRL9V0j/LcBR+H+ZC1sRDLlh5+Ko7S/xJziIl9gneh+Lvm3gZuE+bKDr5wLakcQAKLw=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/5/5b/La_aldea_siniestra.jpg/revision/latest?cb=20230114055211&path-prefix=es",
+        "name": "La aldea siniestra",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZrkVbgNRgAidNzfHb4Becc23pSVdQRaqWNdEjL0jg+Adaaihs5RRh0S9ovHHC7K50n5KqfrK7yYaJV//DSQ+LZrquiNGRC0FUs17g7S1Zkw=="
+      },
+      {
+        "icon": "https://mcswebsites.blob.core.windows.net/1048/Event_7547/portrait_large/DevilsLight_B1_Nun_Org_Preview.jpg",
+        "name": "Reza por el diablo",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECVxM2g6lQtWBI2yMlboil5xuxymWk6PnzIgx1srPxEA6HSYHS3/IApe3iyexrXOcK6ktgfsiJ7K9CiF255VnckR2uTek9xqhFtBBTkG9LHBQ=="
+      },
+      {
         "icon": "https://image.tmdb.org/t/p/w500/tGmCxGkVMOqig2TrbXAsE9dOVvX.jpg",
         "name": "El organizador de bodas (2023)",
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDK3sPsgZ0szjVGKrw/Guj3nP+rW5fEQ5PnbomnLkbUEpuI3gWTOEFmUB3r5OQSVPNOobR6+6acmlZgevhU+ojhcZTa3ZhM8vgYX2nVBpzTLw=="
@@ -380,6 +400,28 @@
     "name": "SERIES",
     "mode": true,
     "lista": [
+      {
+        "name": "El comandante Fort",
+        "icon": "https://image.tmdb.org/t/p/w185/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEC/F9AIqvWlPCXkV9JiOPA/jpXqHqvGtHtTYKIxcqAiXJi+cMNVO6UKVE8/Ya4DeadcopDZssR5LJ9xhrZrvpTq"
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBcGCuqdDzluiH6Mp+zWkt+F5lLwqyTmiq4PlXrLH7J2ojWaNbH4pdXj68X4D2eK7EgZAXF/PpwXMCG4jq7+ZeP"
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEA9P1u3JBBH4+L5M3+g96CAWevo6g3pEDZNwY2dmEvJ/JgzxQgEal2fr5NWHtBKMSee/9wq9XHbhiZ4AVeQdR2P"
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDBPTtAbjidgIgVy0MRA1izkEmQdSdOVi9o9gjhkd+HCuqOV8gLqCRrpTwxp73r18Z+ie99S/Ufbj45HCe//bMv"
+          }
+        ]
+      },
       {
         "name": "The Last of us",
         "icon": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg",
