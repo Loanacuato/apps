@@ -1582,9 +1582,14 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://play-lh.googleusercontent.com/Ra2CC47LkTahD0GWfn1TGB4AeSEBGb5nX5gKw82CjKBFuEYA6BDsahawII6juijptTk=s150-rw",
-        "name": "SEO PELICULAS",
-        "uri": "oWkh8EtSDxQ+2V4ilSmakfZsLsKtw0YNKWdyRY/rgxo="
+        "icon": "https://blog.flamingtext.com/blog/2022/07/22/flamingtext_com_1658507618_79272422.png",
+        "name": "Classic",
+        "uri": "6AmOPh0CoV0+uf2Fj0YUjY2MB0NFYi1gdbunVIqzP08AeB3abLQYdRRaAPdSbidDSsbKIj7Nejz/8iRW5ZiowQ=="
+      },
+      {
+        "icon": "https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png",
+        "name": "TV Prime Movies",
+        "uri": "WcBaBQlbuaiEjig9Q0Dda5aTzb8WzllsAwK0+H3WuvM9f73ftEkY4HEHcWYPGAP+tZPE7R6TyEi8h9YTZ8dSig=="
       },
       {
         "icon": "https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png",
@@ -2050,6 +2055,26 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Us670M3t5VQMwvyEMHJdA2L2gREJH3vKxN3fMtPFGgrpA=="
       },
       {
+        "icon": "https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png",
+        "name": "Canal 1 Costa Rica",
+        "uri": "AYkFWlnzeXlJv1IN2998tYblbdj+54XNhI5yjRr2HbrsZIVgiGyjQ7CN7PfHHl7FyH7LlFNbZengut0Xo5qh3PcUOdwUkm7YTD9iYZM2kxE="
+      },
+      {
+        "icon": "https://i2.paste.pics/0965c9e6c38022659717eeaac157e453.png",
+        "name": "Norte Informativo Costa Rica",
+        "uri": "nNGAIUf1BYnD61d66Neg36YFjYFEiyCdyQ3AG4wtMYbQNkvHt0fY9d95fKF4qpsF"
+      },
+      {
+        "icon": "https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png",
+        "name": "STV Costa Rica",
+        "uri": "S5b6/e1IUPXRdUrvOkBvDKwM4+TRgsP9frzQH48kACWfTo932gbOmZULuHXUTViKZ8YhWdzmcdinawmym+UbzF4g0SReU4FftJKHUl+rAOw="
+      },
+      {
+        "icon": "https://i2.paste.pics/55978deeb5bf9d20b0c459cff3635225.png",
+        "name": "TV Sur Costa Rica",
+        "uri": "yuIvPNISQL7E5zCpf5L9ahs/3AfMNPqg/B3akOCS+2c+JIQ7VJ1nHSMjqL4ERwJ1QS2Nk2GJ1WkcdJBji3uHxHOZN+HkpgHHv3pIYeq2krc="
+      },
+      {
         "icon": "https://i.imgur.com/QGby81g.png",
         "name": "Lim TV",
         "uri": "2kBVqO9o7tYmoAN+OtLKYTA4Jpu2cs3h6QpniRbMuzbpyv03Q6kMSjVK8Bd95+Vg"
@@ -2227,6 +2252,11 @@
     "name": "RELIGIOSO",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://lh3.googleusercontent.com/-5ca98mWuI48/X1BU1VE-fFI/AAAAAAAA5MM/DPmAa2uFmTIH4MOJAVpjUCCClixnPOP7QCK8BGAsYHg/s0/2020-09-02.png",
+        "name": "DIOS TE VE KIDS",
+        "uri": "3eHJQuhomQ3B7ZhYrB9xpXhGyvsMK1Hehs2OMoU5pU+Ikwc0ygQIBSxMKoVtBQ/vyU/V98kYye5/RztSCj0wiA=="
+      },
       {
         "icon": "https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg",
         "name": "RTV Vida",
@@ -2754,6 +2784,11 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4z6bokQp0z5D6gZowUFbTVJPLTdzDaDPN3OdBJPPUqNly1llOrxGpA3s2LabbTv29s0EoE2UPwJsrW3aT92VHXf",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Us5HaFZt59TlHSDt5u+T0DyBnqn9z7h57XZeBtpNdBkGg=="
+      },
+      {
+        "icon": "https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png",
+        "name": "TV Prime Music",
+        "uri": "WcBaBQlbuaiEjig9Q0Dda5aTzb8WzllsAwK0+H3WuvPeF/YM98CL5vdWZ9x4EMIIJxUo+obOk8EgfFLu/b6Qng=="
       },
       {
         "icon": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200",
@@ -3751,6 +3786,61 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://bestcableperu.com.pe/img/logo/logo.png",
+        "name": "BEST CABLE",
+        "uri": "Juy9F/t7WswNELSt3eKzAeoh8oqyn0oEg3N+CG+g8PCZz5wWy3N2gemtyl+nqbP/h9+5alb82kbM66A1NPKWiA=="
+      },
+      {
+        "icon": "https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg",
+        "name": "BEST CABLE Music",
+        "uri": "Juy9F/t7WswNELSt3eKzAeoh8oqyn0oEg3N+CG+g8PAcqa9mZiH/rkb62fNjoSLEM31aTGQZryKlQJxuY0GzVQ=="
+      },
+      {
+        "icon": "https://bestcableperu.com.pe/img/canales/6.png",
+        "name": "BEST CABLE Deporte",
+        "uri": "Juy9F/t7WswNELSt3eKzAeoh8oqyn0oEg3N+CG+g8PB2iiiRMqkiZmRlBkbjZ9hCzXkBrERAgTBHugl12K3iJA=="
+      },
+      {
+        "icon": "https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg",
+        "name": "HATUN TV",
+        "uri": "Juy9F/t7WswNELSt3eKzAeoh8oqyn0oEg3N+CG+g8PDmzHy5hBAXUkGvL6nLIyRT99szTT9nTujU3hus58Mgmg=="
+      },
+      {
+        "icon": "https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png",
+        "name": "MAS CUEMBIA TV",
+        "uri": "Juy9F/t7WswNELSt3eKzAWehKl2t9WH8qDTlZ2LhM/4d4PajY6R4aZjr7V/t4amzSsm19qpRpRooIwwGPtKErQ=="
+      },
+      {
+        "icon": "https://www.atv.pe/wp-content/uploads/2020/09/logo-atv-player.png",
+        "name": "ATV",
+        "uri": "CFn1+WR7uESUiYZWcQWTIm6NXLYvQ1K7VoJasgREQ14Uvs+DYFa/zqfmdjDFstqesCoNvzMgd7dftURRKM2j9g=="
+      },
+      {
+        "icon": "https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png",
+        "name": "ATV+",
+        "uri": "CFn1+WR7uESUiYZWcQWTIm6NXLYvQ1K7VoJasgREQ17lUHLzQ+JEp4R+6PNK5W+IRN9Oep3j/RbySCswwK3sWg=="
+      },
+      {
+        "icon": "https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png",
+        "name": "ANDES TV",
+        "uri": "Grkv+PEc8LMTbZ1Xu2HYJqWaK/iPJhf/a2MJPud68ygoPiG+bx2lg/0gajmvGgYaqSSQpPF7t1GU5tm/IX27KQ=="
+      },
+      {
+        "icon": "https://adonde.com/peruhoyOLD/images/tv-peru.jpg",
+        "name": "Señal Peru",
+        "uri": "MHtrgTur5X00a6bWbdTYLmr4mTRhoH+xf/j1Q8xosRI7tHKiThGjI+VK2SFlsiP9AQx8+/C7h4r0Y0Q8hByN9Q=="
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png",
+        "name": "UNITEL",
+        "uri": "TaI80y5e+5LWYG4EdcJ8sCXkHmy0BL4hsEfA3ilbWR6gNhjiIBlbXkdSUTw+++6hCyHdK/lWpW5/Es7BJobyfcWy6Rr6j6KodUC6zy62lWQ="
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg",
+        "name": "CINE CLUB",
+        "uri": "Yf0JJFhUSy1UE7PfxH7moxhIrpkz5mvUSEa9Inj3olO1mvHCLjTzfFPVm+GJ4YQbPZObDi3j9T+jlFTE64GbXA=="
+      },
+      {
         "icon": "https://i.ibb.co/Wtr57WC/tvperu-digital.jpg",
         "name": "ATV",
         "uri": "CFn1+WR7uESUiYZWcQWTIm6NXLYvQ1K7VoJasgREQ16UCH5gLt2XzDiSKiey+Y1xoVOvnyDbRVYJCcfzVFp/Iw=="
@@ -3941,6 +4031,26 @@
     "name": "CHILE",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png",
+        "name": "13 Cultura",
+        "uri": "74dGg2EIRs63ic9NUo1OjPi1CSDJGHjnAsztAz2RMAgBSYjghaClLFLNMosDumYkELodE0KJ9qpF4sexGiI960JLflCjU04bDxxFRmIpXJo="
+      },
+      {
+        "icon": "https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png",
+        "name": "13 Prime",
+        "uri": "74dGg2EIRs63ic9NUo1OjPi1CSDJGHjnAsztAz2RMAgTXWIfVg2DTM7UuFnFEKn9iD3Jb8hLIFk5SrQ50U7+RA=="
+      },
+      {
+        "icon": "https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png",
+        "name": "13 entretencion",
+        "uri": "74dGg2EIRs63ic9NUo1OjAArJM69XItHtCUg+7WUfP1VL7eT5M6XRzrdydt68M2w/wObx5cljXOPlBBjMHsGww=="
+      },
+      {
+        "icon": "https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png",
+        "name": "TELE SERIES",
+        "uri": "74dGg2EIRs63ic9NUo1OjAArJM69XItHtCUg+7WUfP19zLAuJLPAK9aNe8Um4TgA3XM0fG+KmtrkGwvGmoxSCg=="
+      },
       {
         "icon": "https://i.ibb.co/dB9xBTM/trececl.png",
         "name": "TRECE",
@@ -4931,6 +5041,11 @@
         "icon": "https://i.imgur.com/Wct9jsp.png",
         "name": "Moni TV",
         "uri": "8fvlyU6hH4sQWCw66i5u7gy52thNT5T7LeF9wV48znk73Ak47G1hvib5AQXH7rE8zCH5FoLDTJwFkdeyZIfgosRYm2ZgVtDa/tfI4iMFxig="
+      },
+      {
+        "icon": "https://i.imgur.com/Wct9jsp.png",
+        "name": "Moni TV 2",
+        "uri": "8fvlyU6hH4sQWCw66i5u7gy52thNT5T7LeF9wV48znk73Ak47G1hvib5AQXH7rE8zxmgot4VCr8VA+J+pfK2QqOSLHms6NugGAelfpEcF90="
       },
       {
         "icon": "https://i.imgur.com/55Juhdx.jpg",
