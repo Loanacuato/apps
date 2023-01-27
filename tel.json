@@ -671,11 +671,6 @@
         "uri": "CTCBGoHCSMv/Wvq7k0Ug0HqeQitFL25jiDPcdjgsce/eID83EagH5gvDuNV+e48e3iOKHac2OLT3OaHx2RNZP2wTzKaZn21+vWGAQIoocLM="
       },
       {
-        "icon": "https://pbs.twimg.com/profile_images/1599829872473358336/ZpXV8rao_400x400.jpg",
-        "name": "Evento 2",
-        "uri": "NWfnI5li2AgNLuBN0nbJIAFTc0+fwLJX/1nJanYLsQJLsphyeClTvP2r3B5mocJ+"
-      },
-      {
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
         "name": "D-Sport",
         "drm_scheme": "clearkey",
@@ -3364,7 +3359,7 @@
       {
         "icon": "https://img.freepik.com/vector-premium/logotipo-eventos-logotipo-sonido-musica_96387-977.jpg?w=826",
         "name": "EVENTOS PY",
-        "uri": "FS6diTk0V5YB6kPwkKQJsNKyB3nvqtkSfKtqScZdmF6QmKSSffyftMPiL703+jZzElY+VCxG15ouqXDPzweSS5O1q35ZwTz47MDUcB3MGgIpyZCkbo/ZgAhb2msEhFTg9RrSl3FIlGUGotCuIPxDaQcXFwKFqDkGsGDQxljOOEpVePl/sOFXcA/3aUKEUf1gCKV+xbDcqP3C9ecF+eeopqBQo8Nqh+Py+A7Muq4dDBfEh19jvqAjEecLNY+keLp/X8FfsnJ2xrAqChs5q8pK3A=="
+        "uri": "CTCBGoHCSMv/Wvq7k0Ug0HqeQitFL25jiDPcdjgsce/eID83EagH5gvDuNV+e48e3iOKHac2OLT3OaHx2RNZP2wTzKaZn21+vWGAQIoocLM="
       },
       {
         "icon": "https://cdn.icon-icons.com/icons2/861/PNG/512/Soccer_icon-icons.com_67819.png",
@@ -5098,8 +5093,7 @@
         "icon": "https://canal12misiones.com/nuevo/wp-content/uploads/2021/01/Doce-Misiones-03.png",
         "name": "WEB PRUEBA 8",
         "drm_scheme": "clearkey",
-        "uri": "web:5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wPqx+qgisclRyP9TaG3crRJpsND4zcqjYuNb7l61EgjSaAgR2GE9E/AdB4+w1PdpwTWdc8iG/nrQM8TalkTQm8",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhKNv+mNAd7LZI/yihgJh3QoC00ALMy46SyDr2BYuoLX4g=="
+        "uri": "web:Gx8isGfuVfRIDNUK7rhb5Lf7hxuDhaNIHL8w/2uIncGTkwJTlfuHTU5GSwgbbPXxpLusHyr/IJCyil478fN9Wkze3ZMfPSANkAeg3cYWBfziyd5WTDSx39K/zvKLi/cJCShltj3ZMNJl6aWaZn4vSxIR55F+x8OVGMi3N/f1Lsnl8cr1/wLiQ3nS7WQYLt55QwB9xLwZ8Oy9f11Cb53xlHlrEKR5c0dkPsj8AibDrThkhL7wzkVr+9VfqZtzPuTi"
       }
     ]
   }
