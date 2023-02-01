@@ -173,11 +173,6 @@
         "uri": "web:Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
-        "name": "SAN PEDRO",
-        "uri": "Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5"
-      },
-      {
         "icon": "https://pbs.twimg.com/profile_images/1532029271610376193/CouxLUR6_400x400.jpg",
         "name": "MULTIVISION CABLE",
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
@@ -216,11 +211,6 @@
         "icon": "https://static.dplay.tech/imagenes/canalochosanjuan.png",
         "name": "Canal 8 San Juan",
         "uri": "tCCYHaXdfeE2UXGmWEN+OGXsoToLdvwzFtWemB0M91ND/HZblgPhzvGgJMCJokA5"
-      },
-      {
-        "icon": "https://yt3.googleusercontent.com/1922xR4FfjmQF_dAdDEYpXhOzpUIykJ0Cc4t22cBXBY1pifCZ39B3HIZulq3ZIo9LeDab7xMOw=s900-c-k-c0x00ffffff-no-rj",
-        "name": "Telesol",
-        "uri": "web:EKH2VCCebW5vadMYFLXA0AQtdYd8I6HpuEZjMkMJ2WHKsn/qcvTNb1wCylat+LaEs3ofGIwM2MZurRUfRRoH6rZlaY39dQRjczuMLeUN0nU="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/albardontv.png",
@@ -668,7 +658,7 @@
         "icon": "https://i.imgur.com/OmA17NY.jpg",
         "name": "Montpellier vs. PSG",
         "uri": "web:SisED6PsGrQjYOt26M/tvtTpVg21tA09UrHaxZG5DidCKhgvWR4NIHzDp7VO2OTYj+Im5qLScQMN45shdPsUuzn7edzCPgrDF8Jn9MhYY8x9RL0JcIXRjrorLeuQ4DCdy6mbKKw5mbiixdnPAcD2zkAxaClgThDDwnjZQTQwBXWBVaCrWYdOyLnjMO4pNHU4O2bXGmoEjYR83DxZ8XnmmA==",
-        "drm_license_url": "KAoDzvz9yWqs9jkTt5nTQmEWyThHB1nZ4ztA7JnBIprYsbtsd6PQvK7y0/1khINXoJiMIYNAH6ds7uQfm3Z5BlFu1VDP9I6K/NR5/AhqWG3f2ot/yPgcRXU13hISB1+Yaaj3ua5cNyvrbz+sRyCXvw=="
+        "drm_license_url": "uul9vIHWBe1PiT0s02oYtdNIjBg6GwRTvRcBloena1tHLL3fQklwhX8r/ALipMfDO2tTjzMqWKEu8wdIkhzKCsl4HWHP6voUPgGGW70xRtNKdBwq87VikZRsFQcKOdZHNKtPnJvFNy200E2cNlGlXA=="
       },
       {
         "icon": "https://pbs.twimg.com/profile_images/1599829872473358336/ZpXV8rao_400x400.jpg",
@@ -716,6 +706,27 @@
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVDZjW/QAc9dYnwpNk8BdsndasIlxwYdYh4fijsPcoVIA==",
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5CeYJ6KQomat/+H6gdf/b+w=="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
+        "name": "ESPN PREMIUM",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wD72BnoY2lcokAA//b2ltPXHA9Ens+NqRvbFIzCOnCX19BDIHmWZQL6xFBSPfB1UMiYxtAQI/gMKBX2wM1kYfSCd+k015dj+Vu85ENn0RPRg==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam3pYFKjiUXOYzaimy92hQ79Zg+wKD5thjHJKwDdQ4d/g"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
+        "name": "TNT SPORTS HD",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVwtvmCTp5rM6kvX4XduF9N8DGKNwg+HhwKLyGnYG9c1A==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSCXRFvoRjmanFLnw2ePpFcIPZBC1xow0ec1wR7Lk0smw=="
+      },
+      {
+        "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1659976544351",
+        "name": "TNT SPORTS HD+",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zVtV4ksMCHtFBsY881P//JBDa2Wq3iZ9h5ZqbVvp3dYkaGRrCKKz4Vzn7bpbIFY2V8M2iiFw230VTF0dqY7hFd",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqrfJXgpmNCXBZaCyVECP7E",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://www.ecured.cu/images/thumb/b/b4/Portada_Rede_Globo.jpg/260px-Portada_Rede_Globo.jpg",
@@ -781,27 +792,6 @@
         "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
         "name": "BEIN SPORTS Ñ 2",
         "uri": "o94z8507wrkes5Bz38inq/H7XAhe93skm+3qtNoWhYyNbpmxzTs6Jfmwy822XHIS6te/nCEFk5zsxvwd0I0dQw=="
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
-        "name": "ESPN PREMIUM",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wD72BnoY2lcokAA//b2ltPXHA9Ens+NqRvbFIzCOnCX19BDIHmWZQL6xFBSPfB1UMiYxtAQI/gMKBX2wM1kYfSCd+k015dj+Vu85ENn0RPRg==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam3pYFKjiUXOYzaimy92hQ79Zg+wKD5thjHJKwDdQ4d/g"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
-        "name": "TNT SPORTS HD",
-        "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVwtvmCTp5rM6kvX4XduF9N8DGKNwg+HhwKLyGnYG9c1A==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSCXRFvoRjmanFLnw2ePpFcIPZBC1xow0ec1wR7Lk0smw=="
-      },
-      {
-        "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1659976544351",
-        "name": "TNT SPORTS HD+",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zVtV4ksMCHtFBsY881P//JBDa2Wq3iZ9h5ZqbVvp3dYkaGRrCKKz4Vzn7bpbIFY2V8M2iiFw230VTF0dqY7hFd",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqrfJXgpmNCXBZaCyVECP7E",
-        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png",
@@ -4991,11 +4981,6 @@
     "name": "PELICULAS 24/7 ALTERNATIVOS SIN SERVICIO POR EL MOMENTO",
     "mode": true,
     "lista": [
-      {
-        "icon": "https://i.imgur.com/OmA17NY.jpg",
-        "name": "ZONDA TV",
-        "uri": "web:EKH2VCCebW5vadMYFLXA0CeTNnCRHTDsAEbPM/9DZ/8H+hqm41sStBrP5QwGNzeMTpLcmA5LsBy3Cmdvmfl6BQ=="
-      },
       {
         "icon": "https://i.imgur.com/oNmtnby.png",
         "name": "ACS NETWORK TV",
