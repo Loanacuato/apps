@@ -173,6 +173,11 @@
         "uri": "web:Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5"
       },
       {
+        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
+        "name": "SAN PEDRO",
+        "uri": "Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5"
+      },
+      {
         "icon": "https://pbs.twimg.com/profile_images/1532029271610376193/CouxLUR6_400x400.jpg",
         "name": "MULTIVISION CABLE",
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
@@ -776,11 +781,6 @@
         "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
         "name": "BEIN SPORTS Ñ 2",
         "uri": "o94z8507wrkes5Bz38inq/H7XAhe93skm+3qtNoWhYyNbpmxzTs6Jfmwy822XHIS6te/nCEFk5zsxvwd0I0dQw=="
-      },
-      {
-        "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
-        "name": "BEIN SPORTS Ñ 3",
-        "uri": "web:o94z8507wrkes5Bz38inq/H7XAhe93skm+3qtNoWhYyNbpmxzTs6Jfmwy822XHISuM6sZ13uag2xKFqZjjEaaA=="
       },
       {
         "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
@@ -5084,10 +5084,11 @@
         "drm_license_url": "uul9vIHWBe1PiT0s02oYtRXQ111cZnvJfD01t5PtbXQqAd30RzrZcjMI8ZuQtulTRtfTiHw5DOjtQ+XNN6EAn/0GzAxohcacoCf4cxe3Md93ONeDhIiR6+EbUfCgvK66kXDqBXsC3t0iavFd9ZoCDw=="
       },
       {
-        "icon": "https://canal12misiones.com/nuevo/wp-content/uploads/2021/01/Doce-Misiones-03.png",
-        "name": "WEB PRUEBA 8",
+        "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
+        "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
-        "uri": "web:Gx8isGfuVfRIDNUK7rhb5Lf7hxuDhaNIHL8w/2uIncGTkwJTlfuHTU5GSwgbbPXxpLusHyr/IJCyil478fN9Wkze3ZMfPSANkAeg3cYWBfziyd5WTDSx39K/zvKLi/cJCShltj3ZMNJl6aWaZn4vSxIR55F+x8OVGMi3N/f1Lsnl8cr1/wLiQ3nS7WQYLt55QwB9xLwZ8Oy9f11Cb53xlHlrEKR5c0dkPsj8AibDrThkhL7wzkVr+9VfqZtzPuTi"
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mLpoZfA/cSkuc/APvkeV785otqZPi8s4Q0CF65ypE4oAmWhN4oM5Rc3YI6BbtDNrxtGJM58ee0TTtuKQnwvEEn4+8wuqK431Xumc9AOJyxy6w==",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6tC1nCcwDwGzlJC0YQUx88n6UmX3RYtH1QW7zzTu4S8r1/S6iKxsqTNz2j59k2nXd+rWD1q2L275fjBt0Zn7RUraH3fE/ZgE1fLXfvPWcKP"
       }
     ]
   }
