@@ -90,6 +90,11 @@
     "mode": true,
     "lista": [
       {
+        "icon": "http://tuvideo.tv/poster/w200/8487631675283769i.jpg",
+        "name": "Mas respeto que soy tu madre",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAq3AIhYGqUGRmX70IemPjsYKBoKe26HUQYDNOKnSYLkLLq0eLSFkFvlHzyJbtRBPIWTvHi6UfUi6OUcSreS+RldAG5DNBMESP2dxf/2xxpwQWRDODTqhannNItlor9+og="
+      },
+      {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0nfqWrslFh6s962UtRz7Vqo15YT5KHWRt37f-wvozFPNxa8gNh6yppWkECH2aH05YClw&usqp=CAU",
         "name": "Sangre en la boca",
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAUDUgJse76pmvV6zDlFAKHop2lDPhVy9XjvZK0ijsH1D7u3LxjxqPiivki4htzpYiX6rPNsQVnor6alNwceaZUcFNzvyXcBbKuNht9gRRgCEhO0sMeeXNLskOgjiKih6Q="
@@ -18527,9 +18532,9 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZrkVbgNRgAidNzfHb4Becm55hNB97fr61jBytsyiMbzrDJG9b3TLKOhONMAF1vYB/6U6HIhidoeIDFVQlKJ2b1jbGfqOnX3wEgpki8ayCAA=="
       },
       {
-        "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/91/38/05/20142392.jpg",
-        "name": "Terror en La Niebla",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEC6WXBzO3yswc+yX4I6VN/ogoZ0eCVE9b/5ogWz7ppKGxBlnl/kW1VLyCPY0JI2kR3sASFQ9TpuP/ver1EQnX5658DcseAwcohbK+Q0A5PfJpfRsjnL0QfwCUo7rGPgl2UMmocfj3rqNO7vzmI0aFmg1AG+b7Z/+VmWqufQyvjPboQFMFxJQtq/BdUvr2Qrs6nfNDjC3lUoxb52JbuFj3loKcD3vREqNLAI/9NlzDZna4ejf7GYV98ZJgg7nCcp0Fk="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2005/4/w1280/Io6R7kDqO8nkj7VE0DSbbVNWuK.jpg",
+        "name": "Terror en Amityville",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXklsXEFxAMDMD7npfqvrjQB9EMLn0IST9nt1tPd53hChjJrXUZg+u9KDPn7dFsaXN8="
       },
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhjhMTOTj7IH7NH95lF2CaPTTT8lD6ROjb8qMsR2VR76-lCxyfMU11oT61a3QXb7qA-w&usqp=CAU",
@@ -18547,9 +18552,9 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBdvKiBD9V4XFOsCJU8QQsTGCAKkJXGU+JX8y/p/YdFFGVJqbDjU0veeDi6BFGihXH6Mi1qT6H7oFKn4mimvfbp43zT874a+2gOGIeshKTOn8Rga1nTWSngT7U3RGwgK90="
       },
       {
-        "icon": "https://http2.mlstatic.com/D_NQ_NP_5305-MLA4315248642_052013-O.jpg",
-        "name": "la revolución de las ratas",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZrkVbgNRgAidNzfHb4BecU5DX9OPN6EMp51V9YGhnUafmj3NRujZUd/W9LdFpGbjj7GFKebhVJPBy35ILbZHoOedkZxnXHjmLo2zgOTClh8pWNCRHyTertb/iE56PETrRA04O6xllJev+M4GehHBK"
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2004/3/w1280/6aue0EtBfftVryNP11acJqOZu2h.jpg",
+        "name": "Amanecer de los muertos (2004)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkzCnRtYNWZ2kg0HLiZldjGQ1B46px2cug+Tc6pWr8HeGxUEjA0xkNmJxkeXXDfykU="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Omen_ver4.jpg/220px-Omen_ver4.jpg",
@@ -18557,9 +18562,9 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDQcguQLkNpjc4U2wuT05h8uCZS0jnAUSEdT1I8ym41x4EcmrAo8EfHyx7lTtIQe5caTBoJj1upEigSqUReJg6v5FtuWaK/wREeVgxfwXS1iEUO6NHjQ6NSJGKLnlor3Jw="
       },
       {
-        "icon": "https://diaryofamoviemaniac.files.wordpress.com/2020/09/devils1.jpg",
-        "name": "The Devil SUB",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAA7UYWXDKT4lKU9TLssDFaUn7NoJ/O5X67J+mBPwgXBEoq1b+Wm7RSygpEsVZNxcaor6yeX7R96Ehi9iFW2ihMxy8jRqSp1pTz6JBGjoiPI5F/oMT3Qy4K94AuYSMaQRU="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/gLgwrlaxqQaSxBAFmjMDPR4gogO.jpg",
+        "name": "Noche de los muertos vivientes (2021)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlkKxRAYYUpyyrmiLAXZu62dFpCIFZ8oxZF2fWWADYnjNDdAAxp8Ff4ceRYcE0Hb3DMzt72hN6Q151ynikJqYs1"
       },
       {
         "icon": "https://static.wikia.nocookie.net/doblaje/images/5/5a/GlassHouse.jpg/revision/latest?cb=20130219010705&path-prefix=es",
@@ -18579,12 +18584,12 @@
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1975/6/w1280/zfBCm213wtHSkwiI1FX6PwbC3mx.jpg",
         "name": "Satánico Pandemonium",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KED5TsSfby4eufqBVEhltb+SzjAA9bIGumnE8Gl7UYP00xgKFBKVC3tENJg7g/+TZqZq7pNHu/Y49OH2y65e6vAbg5hddoWSr8ZifZGIftkX+Yf1k4P0GmsaSnnznOsMXCMZoFVEsAbIiK6fF3hEsGjWeXxSxjZOKaSAz0pPUk8SzWS3Vq4xIsp2iaXafdhyMeR4GDpMZfJ1gF0HhYg9ybNhxEdzunpois5rquBIOK+lUDaJvbMiRFpN0yiLaoVuRExJS6j7u4v1p19Vz92tg+IC"
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEC0eAvz30kRjGfbm42CgfEsoi7pls4iylJi/mGvv7I7depA10DdU8z4bGhZKpm95KuC4WQFc+OJW7kEPRBzbBrzgaqOjuBWgknEtgfj3yOt4ibd9Yuo506/QZd/xHKEwd4="
       },
       {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/8/8c/Boy2016.jpg/revision/latest?cb=20151128055507&path-prefix=es",
-        "name": "El niño",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KED1igB3STWcFTy4eSOSqTCkMV/j1+qFDWVOnW8UQNbGWb0bbUTWd3Q2n5Gg/cdyhLa3Fp840eovWgGW9MqkndTaVEK+HfkI8JAz/5MsPNmlyf9ESRKBFtrOC19qSQ6OgDqztvlGGG7KIpZuj0oSz3buvFG7pktla/jD825gsjKFFakp0Y6r+x9UvN8PhcDVNROXqyeO8L234+ufJOrUFk2Sn58tPcqAlDrMCJmZg9Hjxw=="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/1/w1280/f6Y9beuW9QZ1t7atWCHJCpsAMXJ.jpg",
+        "name": "Mi novio es un zombie (2012)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXnb+WrYBnp4AxTSh/X0W9MjaRW4eUdx/kKgoR/pyxJLZg=="
       },
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5bgvqvnzfVResIFxsL3JRoBeXI_0kD8Zdha4ptrPGvcmgEwzgcDAG2uz6IQABjRmiuw&usqp=CAU",
@@ -18592,14 +18597,19 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDq1ctDmIhztn9ABPKJZSCE8UEEAHQKYli4v56ih3wVXOUY6ZdzLFoaNSqZBacQ6RTSt21Iw8nRChWhe05X1WppGAECu0LZeI8AfkOc24450Krs6QnOPhnLPuCWlfMk2zuY14T0W318jyfp+R9el2hS"
       },
       {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/e/eb/ElConjuroPoster.jpg/revision/latest?cb=20170907214450&path-prefix=es",
-        "name": "El conjuro",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBwYmPg0IOSWAlQdZC1zppIokpXck8WVSugAxmspX22qDUpeT2yTWQ1IlUgZp1SOuYjawPRrA9fMffINK+ee2rGiZ+IAiuUeA4b5wtQMEVMdAVIXLOmttyYa8KzM99xBkSepaX+qfDC/pR1Rl/xAjq3o5n8/kV2wPVZiubdRPjVjrsKftcUxTq++cRUJMwlwCHcM/7U98sgmz9IMrNX8S+3SRU0dCd65CdMXeGxabEctvykaVMjR5llWOtSmKEQmRA="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/7/w1280/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
+        "name": "El conjuro 1 (2013)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlCcY0X86tbcHLgHW/U13Ck8S3FUh/MlCGJAYVwQ2/KYg=="
       },
       {
-        "icon": "https://assets.cinepolisklic.com/images/5875d15b2f79450c8db093a47a76c1f7_250X375.jpg",
-        "name": "Estados alterados",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBz8my0DtbLYAZ6E3iJuaqacupO8gzQU50MCt4c8e63tpr/fj6AH2vDGs3eUipaeODtWHlkgYw1+b2MyQY0ZkerzMV070hM4X9jTPsuWH5gPTyWVKjerDW94Y/cZRuK4/EU3IWZFxmqP6nLiWG5S4ZRUvu33TbF/8Lk90fdpC6NOQ=="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/6/w1280/AtwMXjMs7zDrTAM8L6SnaF5Qqzl.jpg",
+        "name": "El conjuro 2 (2016)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZmCN63NGC5hlYLVG3mMMiDhadc/xYaABWSOIlfbEK5BvRlQS6sd0p6b2MGhCFaaixw=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/5/w1280/ghMQALCyytc6W0wlOlMIKiMSRKV.jpg",
+        "name": "El conjuro 3: Obligado por el demonio (2021)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlCcY0X86tbcHLgHW/U13CkYQNdsa7JnxU1iyv5pvGW35QegjPq4FpUJTUD3P6R2xalMut2gMmFA14zuI1g11bgosUOdesz7nqq+l9x78jSKA=="
       },
       {
         "icon": "https://www.ecartelera.com/carteles/12900/12923/001_p.jpg",
@@ -18632,9 +18642,9 @@
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlV4ssdDdhzGhbXxz+J2qKoZWWIXluwicQW\n2ikidsIYuw=="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/e0inlqmlAQ0dbrrcLRXiQQRJ0fr.jpg",
-        "name": "La leyenda de la Llorona",
-        "uri": "It4hL9cGNnGI8hUqRaPD547YclzW9FvUj8Gdnrb7ZRD+2fJD3i6+IUbHldxumOJ5Aac1whB9KLIZ\nVPaw3CADBQ=="
+        "icon": "http://tuvideo.tv/poster/w200/4804141633621970.jpg",
+        "name": "La maldicion de la Llorona (2019)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWUl7HG8erDyCo4Q96KgmsGA8I9sn9LO7OJRL99/0QGlYA2l788cuWHEJoEhn8P+HZpOx57tdnauahuodR9VgRk4="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/tMJnQ3loIIIjkX5pVxv5foMJeaz.jpg",
@@ -18667,9 +18677,9 @@
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZuAMAnrvAnf0aOb2SOqc6N/872BNtqqGyH5be64LsHdwxnESfLV0Ovk1\nSy5Z9FBiQQ=="
       },
       {
-        "icon": "https://i0.wp.com/www.topcityvibe.com/wp-content/uploads/2022/08/Zombae-2022.jpg",
-        "name": "Zombie",
-        "uri": "EyC6GGwicYe2173kOnxiAmHqsc8e0UvLibojieH8jX0o+s0oNbZNCtyccOvjb6jCiUfB6N2t4eGHRaZPVF4Kud9AkMxgKCEIAAEFya3m1mdvhkkNGWKEwBdMjSXsSeTD"
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/10/w1280/kTdwHo3kk8nQ1VV68lwEs3NiO0U.jpg",
+        "name": "El almacén de la Ouija (2021)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlrYT7xlHJcAyNU3+BMbKKd3eaQvXUy62pOIFIs/3ikxQ=="
       },
       {
         "icon": "https://m.media-amazon.com/images/I/51FKRVuijOL._SY445_.jpg",
@@ -18679,7 +18689,7 @@
       {
         "icon": "https://es.web.img3.acsta.net/pictures/14/04/15/10/46/568345.jpg",
         "name": "El resplandor",
-        "uri": "Sgd8yKRJ4UYOW9hnqm/efFgAYoalYjZUNXqjjLmJWDsRG/pE/TZkD0U0dFzKenpMrrnSxFKFr+PN\nduan+A5cfa8hIKu1Gs+g9jn7uC99LqkD40mchtHHILiQ3B7y0npU"
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlSFNCnj1gMKCpWnHZ2vVr4XmNcCFyyEM83eOGZnVKDSQ=="
       },
       {
         "icon": "https://mx.web.img3.acsta.net/c_310_420/pictures/17/08/15/03/36/174874.jpg",
@@ -18709,12 +18719,12 @@
       {
         "icon": "https://es.web.img2.acsta.net/medias/nmedia/18/85/63/70/20532247.jpg",
         "name": "Gremlins",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZoW4bXSu3k1U3sjKzNcF1RBTYCRBUOf9QH816l2YSHD2yXNQ2gKYfMwS\njcugc+Pqaw=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkTB0Axez4NvR1G/em+Gn431O1Btq9ClvjmdrSsPjI02g=="
       },
       {
         "icon": "https://es.web.img2.acsta.net/medias/nmedia/18/91/15/20/20132214.jpg",
         "name": "Gremlins 2",
-        "uri": "AzPJPbiI838MjmE84hgKqdGmMTBH6SFtY5I3K4fpdyu79LeTZXyPh0l41lU1+xHqKxjYY4I0q1Lu\nzeWYQCKftqG+ualKej48L2VJtmFUqts="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkz9+6+THTjDlePXVdujvMfbLdnDM5rxbNWuQA7cQPUVQ=="
       },
       {
         "icon": "https://m.media-amazon.com/images/I/61NDDpRDDJL._AC_SY741_.jpg",
@@ -18758,13 +18768,13 @@
       },
       {
         "icon": "https://mx.web.img3.acsta.net/pictures/20/06/03/00/57/1768436.png",
-        "name": "Psicopata americano 1",
+        "name": "Psicopata americano ",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZoW4bXSu3k1U3sjKzNcF1RBg8ic4vX3kyphfL5DnL8bDQSa36sn4L4Lf\nB9rG06t+Ph0zoW4hy9TV4E2ejJH/8Zo="
       },
       {
-        "icon": "https://image.tmdb.org/t/p/w185/k6bMO5Y4G5otNPgG2GFJPIHw8lK.jpg",
-        "name": "Psicopata americano 2",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZoW4bXSu3k1U3sjKzNcF1RBg8ic4vX3kyphfL5DnL8bDQSa36sn4L4Lf\nB9rG06t+PnX6mJYpwgKPkePpUzrV9XU="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1960/6/w1280/bpBJXvgGDG52XJJrVSl4zxfIsU9.jpg",
+        "name": "Psicosis (1960)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmkgzYCtV/ateFQjMMFCz2jXGBtx1ZNygatXl+R3/pDcQ=="
       },
       {
         "icon": "https://es.web.img2.acsta.net/r_1280_720/medias/nmedia/00/02/41/82/affresident.jpg",
@@ -18802,9 +18812,9 @@
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZoW4bXSu3k1U3sjKzNcF1RB/77HZTx1GowVZxl8VaxYG+H1ByiyXJPLu\nYsllTlLBkw=="
       },
       {
-        "icon": "https://es.web.img3.acsta.net/pictures/16/02/09/13/22/028575.jpg",
-        "name": "Tesis",
-        "uri": "AzPJPbiI838MjmE84hgKqdGmMTBH6SFtY5I3K4fpdyu79LeTZXyPh0l41lU1+xHqXA1yIoIkIW5G\nBWP1298nhKu8PL5+4NGeBOmRkRwe+9/BEcGypaCVfYs0ZgpnUCMQ"
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/3/w1280/rLcHfQ4fnwaFcElMMCWNfJtIecf.jpg",
+        "name": "Siniestro (2012)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlM0iGplD1F+IC5oGWYQOn7hNhlhr128uAjqAasavi/HQ=="
       },
       {
         "icon": "https://es.web.img2.acsta.net/medias/nmedia/18/92/08/09/20179556.jpg",
@@ -18822,9 +18832,9 @@
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZoW4bXSu3k1U3sjKzNcF1RBecGWzNw3LTFnq4m3kinPh58JH3lPYfNV/\neT3WSwLJkg=="
       },
       {
-        "icon": "https://es.web.img3.acsta.net/pictures/16/02/24/15/34/466376.jpg",
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/10/w1280/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg",
         "name": "Zombieland 2",
-        "uri": "Sgd8yKRJ4UYOW9hnqm/efLjWwjQEufC4AgDOvfwxh9J/GbFgOZ/WndqL/EYE4pflPPlzDIsDVPRB\nu5DEe4cmJpJs48k3r0St/VnYQbVbi7E="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXm52APf6silTfR5rSHArvO5y54eu4iJnwPYqH2zh94syJ6aEH8Mthei1hop/hSapjw="
       },
       {
         "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/69/99/95/20350772.jpg",
@@ -18834,7 +18844,7 @@
       {
         "icon": "https://pelispedia.la/resize/200/storage/47648/eAuJfyKlTImPHHOvjeXBZpr6OzAHDijSQmS9mdoU.jpg",
         "name": "La huérfana: primer asesinato",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZmiEcvyuUkD8sZc5wA/hf5qMcEYlT5T4R04oyF6YgjYU7jh8jnrgo1BYDVt1UA3N2g=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlcIbWbNqdIKGZ+sC7L1NsHGA3KwIRcf4f4AKum0/9YMckSTmxnIVpIT4XGleVzTYQ="
       },
       {
         "icon": "https://play-lh.googleusercontent.com/Co538_L5xZxhxGj-hOpQFdqUassJEPWxOLDP2K-W4hMHvHAhn0dlLy6KpZpTUCNl9kVzWw",
@@ -18879,7 +18889,7 @@
       {
         "icon": "https://pelistorrent.org/wp-content/uploads/2021/09/A0TYRsGrksSkhvAoZXHC87tYq98.jpg",
         "name": "TERAPIA DEL MIEDO",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWQIfemu2NxJZt7mmaKqlsh+1LSsUmbKVKd85TEM7I63qgk1czgtPriU/Mwbx9KSHrQ=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkzov2IypVUc/nXm7HOtKnl4XlNgz96IBMZNUT42jxaULkUm8mckA2ofh0odB/jW8k="
       },
       {
         "icon": "http://c2511031.ferozo.com/portada/pj.jpg",
@@ -18894,27 +18904,27 @@
       {
         "icon": "http://c2511031.ferozo.com/portada/g.jpg",
         "name": "AGUAS PROFUNDAS",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWRZlBaUEQhyH4kmP2CONpmq1kTk4dsWGLHTjcxaOdrh0cofbBj5mABo4v4jGqsMlfw=="
-      },
-      {
-        "icon": "http://c2511031.ferozo.com/portada/py.jpg",
-        "name": "PROYECTO ADAM",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWTHcV+heSB3XKSmHTQWaww08s9Wsa7/1cPeDNi4dILNcS9hyz3xDV+mGNb0hF74lXA=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkgiwsbpZEyfR9nQe9RgVQJldtJKCCtdumsO54GqC86dQ=="
       },
       {
         "icon": "http://c2511031.ferozo.com/portada/cs.jpg",
         "name": "CUANTOS AL CAER LA NOCHE",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWaRuN9/8wEaq8vuece4lYMz9SyYUA7USpmuhH2CyfYhyWk53rvQvr0YpW4zLpkpwYDAYWO9Hdm6+7+LZXTz/oiM="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlIbPXn9EX6iqXu5SphW9y4DXqYEBucGHpo26HplO6Fag=="
       },
       {
         "icon": "http://c2511031.ferozo.com/portada/st.jpg",
         "name": "PASAJERO INESPERADO",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWRjKGKPYeD1iK+TxUhxF1Z63X89aOu/Si8BoT4RZ5c/jQnlSnvOprawV+KLqaGBVLg=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXnY75OxKprmIK2es9nQ8WzI5hTJRWVfU0gihCR+HvX64Q=="
       },
       {
-        "icon": "http://c2511031.ferozo.com/portada/p.jpg",
-        "name": "ACTIVIDAD PARANORMAL 7",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGl2X+3iwWSZfwSb3fNzFMoNuusCcKEXG2u5\nCSDSWbDXlQ=="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/9/w1280/6fuNWZzY0RijO1Xpw46soazDFMb.jpg",
+        "name": "La casa del terror",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlAw0pv+BA110w7wx7Yx05+EOI7VBgMFX3YWRGYywaR2w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/nlu8YdfUNRrxonk1fvgr2jyXkBm.jpg",
+        "name": "Juguetes de terror (2020)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXk4eMZXdzAu5H8TSJy87ZwXck26GlGvjj9VeRUT0GkElqv7K9gOLcjjAJuMObSzFIs="
       },
       {
         "icon": "http://c2511031.ferozo.com/portada/ex.jpg",
@@ -19551,37 +19561,37 @@
       {
         "icon": "https://m.media-amazon.com/images/I/51EmU5i4g0L.jpg",
         "name": "SPIDERMAN 1",
-        "uri": "Sgd8yKRJ4UYOW9hnqm/efPEuXtBzWjzFSJ5P8Y1RnGjXa+ghnnhBzVHvbdA3SVj2rG1u/XNG+4wH\nFldBYLaN1g=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmflKDIzU992JEX6HTOCpPGGx4oHaWkfsA8EjTA9HmJew=="
       },
       {
         "icon": "https://m.media-amazon.com/images/I/51zXl9vpoxL.jpg",
         "name": "SPIDERMAN 2",
-        "uri": "Sgd8yKRJ4UYOW9hnqm/efN3JLWYP/iGZrV+9R/+GhwF2xzxP5ABitM9o3PkIV42R3VURxV1hwDjf\nnFSU6Qlodw=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmflKDIzU992JEX6HTOCpPGQ1mRQVipqXO5BqSZNaIMPg=="
       },
       {
         "icon": "https://m.media-amazon.com/images/I/51e9F6dyErL._AC_SY445_.jpg",
         "name": "SPIDERMAN 3",
-        "uri": "Sgd8yKRJ4UYOW9hnqm/efN3JLWYP/iGZrV+9R/+GhwFLVSFiUWNC2/ZV0/+aZ6AaF2vY+q+4FSJZ\nQSkIlRuinA=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmflKDIzU992JEX6HTOCpPG6wmFZUfjGa8Aph6kMcuAkQ=="
       },
       {
         "icon": "https://es.web.img3.acsta.net/medias/nmedia/18/89/74/47/20160581.jpg",
         "name": "THE AMAZING SPIDERMAN",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWbMhlzCK7F1zlWqyn/yIcxKdgNwGlIz1qzqVS6zW1DkTSDRFhqXAsCb2\nDXkXjlC8431Md9Zn5cSGvwknNBElb3A="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXk6o+YxGZ2j1u31wRxO8FEcTO4sTjlR7sn/PwO/3n9f+aV6ACv9CWtQN8ahab5SdE0="
       },
       {
         "icon": "https://m.media-amazon.com/images/I/91RuCdS7gPL._SY500_.jpg",
         "name": "THE AMAZING 2",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWWcOA5munxZzUIru2r/fTJ9LLPuXc+1bTG4Vrsx0qj038pI+Ils9FC2W\n+rbtJ6YC8N/3Z2jhP8+G1/9DbGAhZhE="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXk6o+YxGZ2j1u31wRxO8FEcNprnxtl4GA9o3qRsqq/Vd7X7cwzAmoduX7If2TA9JRMXv4q11VspZYfUREy8XbjL"
       },
       {
         "icon": "https://m.media-amazon.com/images/I/51ov7rdpe2L._AC_.jpg",
         "name": "DE REGRESO A CASA",
-        "uri": "Sgd8yKRJ4UYOW9hnqm/efFkgyejvucUReIzc+s3y0FdRo5+CGvREGPe6JptNshKg"
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlQwh0Z5QIz+c7O3NLbbCXG50qvrU5icc5zndzBZGulCg/u/qs8H/NWGE6V0wPk87o="
       },
       {
         "icon": "https://image.jimcdn.com/app/cms/image/transf/dimension=322x1024:format=jpg/path/s377ed4f90e823dcc/image/ic9ec9bc65c76afe7/version/1562342454/image.jpg",
         "name": "LEJOS DE CASA",
-        "uri": "Sgd8yKRJ4UYOW9hnqm/efEMi4k1hGasW7z0gwAOLNOkhT3R8We+Mk7u9uNSvmbTxSzW1uwtAgx/h\nD1F1nH+p+g=="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlm6ueGtRgP82Nf813MstCIc3pzMfPs0/uqEWFfptnZAJswLR6w6fKN50nlAKC6YkEJ7Zzy6jGkRvs2vNOMN97W"
       },
       {
         "icon": "http://c2511031.ferozo.com/portada/sp.jpg",
@@ -19591,12 +19601,12 @@
       {
         "icon": "http://tuvideo.tv/poster/w200/yIzHw6az7SHEjxaVYy3hMd1Vyc.jpg",
         "name": "Venom 1",
-        "uri": "Sgd8yKRJ4UYOW9hnqm/efAd7n85ZVily4Ws8y9w5oUs5NpnHvBqMBk7PXbAthMrLGib0sD+YUh3p\nGG+vGs0G5GH/qhQ8rzexU6F5kL5AL6U="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlaFGYvX9Nbb7vZtKFBea/CBgi7g+9GvIyBlwQN18jlow=="
       },
       {
         "icon": "http://tuvideo.tv/poster/w200/5804891637880328.jpg",
         "name": "Venom 2",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWYw6WAwZpfXakzbAbQ+qRzJ2MDFQE2Gox9RGu4L4+VRu8IZjmeVQCQGs\nTMNf8LY7N036TJ1T54GA9RZiiOe5TpI="
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlS/jfOLuqc36hPka950faFwHcFPRnwm/EBt2MuEI/CJtdsUjGGJuQta1rRqlkfigDEgY1cDzQtfy7vmjihh6et"
       }
     ]
   },
@@ -20111,11 +20121,6 @@
     "name": "4k",
     "mode": true,
     "lista": [
-      {
-        "icon": "https://subtituladas.com/wp-content/uploads/2020/04/yIa04BbZMO4pIZ1cvnYB4cZVakd-185x278.jpg",
-        "name": "john wick pacto de sangre",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEA8MmExFFMyuGQh25+pvbl/3sipuJkA7gDjqn8Q48DGc67o2eh4h1+VNaGeX6I4tjdgObvrEpuvQJu3rEX/ss/j3t9IAHtkz+SpdK4i4HLMcg=="
-      },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/1yIM2QL0qLzWMjTGuMX12yZnBtb.jpg",
         "name": "PInocho",
