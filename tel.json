@@ -33,9 +33,9 @@
         "drm_license_url": "GWOVvOU5U2N3R+xEnrKtgPuMEuWyTIgDWFGxt0HsNJdC+pq4SxOxWSMsqjY4ZowF"
       },
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
+        "icon": "https://static.dplay.tech/imagenes/tvp.png",
         "name": "TV PUBLICA",
-        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvVqZyCm8garUqXG4V/LO6nVp0F+7YMCaKBiP4U1inOwzYsmXHDJ/+jWl4VlPMcisM=",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zbuy3al0nLgXNDLLX/JNGESpYCPLd8J4A3bXlKB6YewHkJQNlJ1ekmQ3t4qaSEyug=",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam0OoGzKZPJJZmCEInlAVdedXF/2C0TZdL4EooKUg6VYH"
       },
@@ -59,10 +59,10 @@
         "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5oai3yrxo2VDln6qPF0kgsII0O/N0E+N2xPcUMvujhN+Q=="
       },
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",
+        "icon": "https://static.dplay.tech/imagenes/eltrece.png",
         "name": "EL TRECE",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x5cj3RmYBPeqp7YowvOlBKSde6PL0pefY59SL7usckNuQ2ohbZ6v1W6WKwXCpyBWcTlnWVvyPhJIReLa24RGOf",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x5cj3RmYBPeqp7YowvOlBKSde6PL0pefY59SL7usckNnYark9bybWFPYp0hbN4kws=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5rT9CEstTF1RW4WOGi9AtrSZl4Vs0FS/VCGzMpZftXk"
       },
       {
@@ -74,11 +74,11 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
         "name": "TN NOTICIAS",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yCyVug7xGsO3hyJWmTshGIHzeCkgPd7pRue/aR4W+zB+rFbi98YXXleQCWGxQL/7IMSAEeRdmFxIcBHRfdohLm",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqnn1V+VUsACpa56PCFYH0G"
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVxepM5AiiFlZcnkNk1y7eDQTQnnkz83L86wg2v20LOrA==",
+        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS9QJx0/BvbAdhuZAVGFF1eUN/uJdHEAYBweEIdpS1FIA=="
       },
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",
+        "icon": "https://static.dplay.tech/imagenes/a24.png",
         "name": "A24",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wXvzOm4RyThcziuwr/0ikrZf21dcjZ5rlEVJN/YdmlT1+IZ21Uz0lhhlugxNDo5Mr+nWXAhl83A0RlaTQuw6MH",
@@ -676,22 +676,29 @@
         "icon": "http://static.dplay.tech/imagenes/dtv1.png",
         "name": "Dsport 1",
         "drm_scheme": "clearkey",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OEUvj56AtfTWHQMNYiHIcwvYpNi75yRMkDek+tl1Ufu0",
+        "uri": "L1u9RWZeZGp/nLLgqq5F8NOohIaciVyER7dC/bGpya+GVqh88ZzNzdGKizWW9jNC",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7lEb+XwFPJejPAcPv16QPw"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv2.png",
         "name": "Dsport 2",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVBzVG76tvOAeDlQYPPo4WKc",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5zYFykjqF/ubwX2ZgaJFaZA=="
+        "uri": "L1u9RWZeZGp/nLLgqq5F8NOohIaciVyER7dC/bGpya/RTipyVUQm+UZ42uovTImq",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27"
       },
       {
-        "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/1613.png",
-        "name": "Dsport plus",
+        "icon": "http://static.dplay.tech/imagenes/dtv3.png",
+        "name": "Dsport 3",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVCcv3kbwPYILKstIaDG7AaE",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5zD+PPFvfw3edVoKKjKdMkQ=="
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi6FegYRHISnaCHXn2y+781l"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/dtvfight.png",
+        "name": "DSports Fight",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVBmhggGU5kEOVFjv9xQPaja",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi5/pvsX/MoWnzMickmITM8G"
       },
       {
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/1613.png",
@@ -5072,6 +5079,13 @@
         "name": "WEB PRUEBA 7",
         "uri": "web:SisED6PsGrQjYOt26M/tvtTpVg21tA09UrHaxZG5Dif8nvaNXjrKqj6J4B+u4YoAJYh/WVx2G2kMLO9ItQDyj915YlVAZ3m0pSUL0fkpSdccRB+Mm+yBE39m45DxL8ecUChqZyK8RF5h8DPvfExd39dr+J5M22FaQb3ggiEOu7g44o1Vg4fTvlu9nfpWv/xAtIdAOrPfIOM4vErE/4Vteg==",
         "drm_license_url": "uul9vIHWBe1PiT0s02oYtRXQ111cZnvJfD01t5PtbXQqAd30RzrZcjMI8ZuQtulTRtfTiHw5DOjtQ+XNN6EAn/0GzAxohcacoCf4cxe3Md93ONeDhIiR6+EbUfCgvK66kXDqBXsC3t0iavFd9ZoCDw=="
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/tn.png",
+        "name": "TN NOTICIAS",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVxepM5AiiFlZcnkNk1y7eDQTQnnkz83L86wg2v20LOrA==",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqnn1V+VUsACpa56PCFYH0G"
       }
     ]
   }
