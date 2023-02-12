@@ -2708,13 +2708,6 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://cdn2.sfntv.xyz/webp/logos/optimized/flowmusic.webp",
-        "name": "FMusic",
-        "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9hIGWK2DGl7MzHI5oNC5rHuFGgAJz23eTK/inCdpKLDmnUzTENf48jBFU4yIaAFmeQL97z/aQbW60kp5brmogRR3lIldJMq3lls08RsfQVpBHiBSMMPA2kw1/e1XfDhi9g==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS37d82E+igq2BPTRn1LTorkJf+9ZcJORGJwfw0kx3lWw=="
-      },
-      {
         "icon": "https://static.flow.com.ar/images/715/CH_LOGO/350/500/0/0/80393273073281.png",
         "name": "QUIERO TV",
         "drm_scheme": "clearkey",
