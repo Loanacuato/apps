@@ -661,6 +661,12 @@
         "drm_license_url": "uul9vIHWBe1PiT0s02oYtdNIjBg6GwRTvRcBloena1tHLL3fQklwhX8r/ALipMfDO2tTjzMqWKEu8wdIkhzKCsl4HWHP6voUPgGGW70xRtNKdBwq87VikZRsFQcKOdZHNKtPnJvFNy200E2cNlGlXA=="
       },
       {
+        "icon": "https://megatelevisionhd.com/img/Win_Sports_Premium.webp?",
+        "name": "Win Sports +",
+        "uri": "PwuDTb0e3u0Ac39lUoMrertabMP9Hg8dvPxrJy8YvXS3LCcQes7SPm+12Mwdac/qzipFa+u2eBQGXby4RdWd1g==",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw7FCu7SVM+glVFk1cOotoNnta/clcmvd2Vov4N31GVK3qhM7ENpNpN4i0E1qVmCjsSZInQvcjlfUQbf74b8eFA0TGjhWxGLLQFkAtoK2wj/z"
+      },
+      {
         "icon": "https://pbs.twimg.com/profile_images/1599829872473358336/ZpXV8rao_400x400.jpg",
         "name": "Evento",
         "uri": "CTCBGoHCSMv/Wvq7k0Ug0HqeQitFL25jiDPcdjgsce/eID83EagH5gvDuNV+e48e3iOKHac2OLT3OaHx2RNZP2wTzKaZn21+vWGAQIoocLM="
@@ -780,15 +786,7 @@
         "icon": "http://static.dplay.tech/imagenes/daznf1.png",
         "name": "DAZN F1",
         "drm_scheme": "clearkey",
-        "uri": "XCAa2za6nPqIzLiQ5Z3jEGonX/jLC0ytdSXdQrr9gHuaS1tTMUrjJQaoR4Fd7gd7ai9kCzV9IknXaqy8v8mye2p2Hptn5V6sdEZqvAHDCVU=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamynTD1OUSsrNcRU4OdMGt6Or+pRQFyTSwPbog2XgE8QA"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/daznf1.png",
-        "name": "DAZN F1",
-        "drm_scheme": "clearkey",
-        "uri": "XCAa2za6nPqIzLiQ5Z3jEGonX/jLC0ytdSXdQrr9gHuaS1tTMUrjJQaoR4Fd7gd7ai9kCzV9IknXaqy8v8mye2p2Hptn5V6sdEZqvAHDCVU=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamynTD1OUSsrNcRU4OdMGt6Or+pRQFyTSwPbog2XgE8QA"
+        "uri": "40x7g7hkccM3aNRJjOk+2g9lXQtEvgaLMHV3Ep/8E5x9aNx6p8Wc+NuYVX1m3GUH"
       },
       {
         "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
@@ -850,47 +848,42 @@
       },
       {
         "icon": "https://static.wikia.nocookie.net/prowrestling/images/b/b3/Claro_Sports.png",
-        "name": "CLARO SPORTS 1",
-        "uri": "rr+bsUaKip0Mj2EzdyLwUVChdpQAjd9Ranuuf8jgldmgRN0aJ1GZm4zjFFvw15fEeG0FZ0wTbBcMV0UPmGfChCmDxKht4iz12nR/ijuMtdE="
+        "name": "CLARO SPORTS",
+        "uri": "WlCRWq3Jjheqe7Vpd2XUhgtPqBNR4UavZUH4Lw657TXvtdbzpLqzqVQH3b5w4WFX3A7FjZSV3JfjvFeAQxrb6qMtcuhRCRquC3bhMdkzPU20Jqo/foJdELXnB3jm5efm"
       },
       {
-        "icon": "https://mundialtvdigital.com/logochicotkdtv.png",
-        "name": "Tae Kwon-DO TV",
-        "uri": "IItvvKTdC2OPLJa2sxAI3W40bN/0bFXtAwJoF3XUhqaiQ01y5hdc/kPQOvt1KkPQ"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/73/CH_LOGO/350/500/0/0/8430207607979.png",
-        "name": "FOX SPORTS HD",
+        "icon": "https://megatelevisionhd.com/img/Fox_Sports.png?up",
+        "name": "FOX SPORTS 1",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3eMxJeKBbxYPemMIJOMANzRBAF7f43nAU2tMO3RFQ0S+G/N+Q9U7EDAndGr1XEXdq",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsP3vx7CM1qKswmQ2azlMNgzvdjbcKpp319JdD8UR4ptw=="
       },
       {
-        "icon": "https://static.flow.com.ar/images/292/CH_LOGO/350/500/0/0/59128486072785.png",
-        "name": "FOX SPORTS 2 HD",
+        "icon": "https://megatelevisionhd.com/img/Fox_Sports_2.png?up",
+        "name": "FOX SPORTS 2 ",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3njG8+lP8bbVUx39am16FPP47hFeiWaZVxPKOH5ON1w5zQusKh1O7qkWPK/dI1F5k",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Uu+s54LnFlQmYFHMNSDjnbAQufkk7/27wcDwdSoc369ug=="
       },
       {
-        "icon": "https://static.flow.com.ar/images/293/CH_LOGO/350/500/0/0/12829972072366.png",
-        "name": "FOX SPORTS 3 HD",
+        "icon": "https://megatelevisionhd.com/img/Fox_Sports_3.png?up",
+        "name": "FOX SPORTS 3",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3f5arvKzMd0QXVIshrk9DZ4mim39zwq7/zL5O8RJDgn9RYGeaNxTFGQyU7Hcv/tO1",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtNnNKU27Y7XHIIBtflPIYNrC8GpJdGghvAnX+t3UTniw=="
       },
       {
-        "icon": "https://static.flow.com.ar/images/73/CH_LOGO/350/500/0/0/8430207607979.png",
+        "icon": "https://megatelevisionhd.com/img/Fox_Sports.png?up",
         "name": "FOX SPORTS HD",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsP3vx7CM1qKswmQ2azlMNgzvdjbcKpp319JdD8UR4ptw=="
+        "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5os/CFoI6zHQSastbagb//2b1e1DtjCMhGTsWT+5f6NLA=="
       },
       {
-        "icon": "https://static.flow.com.ar/images/292/CH_LOGO/350/500/0/0/59128486072785.png",
+        "icon": "https://megatelevisionhd.com/img/Fox_Sports_2.png?up",
         "name": "FOX SPORTS 2 HD",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Uu+s54LnFlQmYFHMNSDjnbAQufkk7/27wcDwdSoc369ug=="
+        "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5riRrTuuG6YrxNgsr2J/Ma4ozxxKGlfKnMwE58AWBHBtw=="
       },
       {
-        "icon": "https://static.flow.com.ar/images/293/CH_LOGO/350/500/0/0/12829972072366.png",
+        "icon": "https://megatelevisionhd.com/img/Fox_Sports_3.png?up",
         "name": "FOX SPORTS 3 HD",
         "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5rjXzHCTCGcDtRxdW5Ufcign0CRWfGHFHwZckK/HdxrhQ=="
       },
@@ -987,7 +980,7 @@
         "icon": "https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA",
         "name": "TUDN 1",
         "drm_scheme": "clearkey",
-        "uri": "GC2/ddPzLVut0fvk2/wB4goX8aK3dlw6jkqWAKJxC57j2YIoYljyZYNW41sGSlV2",
+        "uri": "wBSA6kDTej1G72N4d0yBwSGG3m8bGB38wW7mXB/4ZN8TyCfhtiV4nxrBrA8kMmFH",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam8WzunXTO5gYuhG7ekpRnDT54aOL6L2BsBzsENzxzj+G"
       },
       {
@@ -996,6 +989,13 @@
         "drm_scheme": "clearkey",
         "uri": "Ewe4N3IAiRa9aKLlXy/BawBwtnUugL8UfRHpczDpEOjsIm+BEsbL/t/S/a4V3G/yBY28h66iyYkZiUSLb4U39Q==",
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTstETq9bX6fCG6A7mxcZKwXH/42j1btUW7vaw+crSncQ=="
+      },
+      {
+        "icon": "https://megatelevisionhd.com/img/afizzionados_up.png",
+        "name": "Afizzionados",
+        "drm_scheme": "clearkey",
+        "uri": "Ewe4N3IAiRa9aKLlXy/BawBwtnUugL8UfRHpczDpEOjyQiNDh1wu+BCVjSFPVos5mIGgKlAfNY80Mop3hqsqq85ByvVJMMZS6+v64X1ShiU=",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwzU+dfW4Yq8UBGtOHYyMdWuHgZiNGN43JV2ZjBYiCQlBl3n7iDc/gfCP8gSbNSr10uwR+KsoZ76gh1z3tE0uz87kOFv5bPHgZ7cAoA2m0QMO"
       },
       {
         "icon": "https://api.argentinatv.live/logos/tycsportplay.jpg",
@@ -3356,7 +3356,7 @@
         "name": "EVENTOS PY ",
         "uri": "99YIhThxK+6hBhM6RdsaH34CsSlTL623L6g4GiYtrEkzT3ocT7GvXiV7YXJZC0Rjow5fEa8h7+JwfULmTVghijPIIz+DwQ9Yoslwg696zMGmZX+2bSBKpt1+fEjGC3pRhdJz61WYy1lieD1cYic+iVTPmQBmcoE9ujgfKyNAJtV+873ntqm1w94D81/ygLdX79GUbCfod72Z0qPjjEZdcWizyWJP84fEqgha2YdpfqcYVjupRdDFc1IafsRYJts66ZugrxzdXUZIXxnDxoCHX9SnDbzpY0zLXV9OzyWdOK0="
       },
-       {
+      {
         "icon": "https://img.freepik.com/vector-premium/logotipo-eventos-logotipo-sonido-musica_96387-977.jpg?w=826",
         "name": "EVENTOS PY ",
         "uri": "j4oSJaxfWcEtNJJb6sHKQvSQtDkSloM3n1kOb+Kyevf8oDOvSZfBkJtFzhVXycf2p6zwBKMKY0R33qUoVgel6Ah0ErEM6ib6z2NAbBtgBYjv+1xkX30dGbAjG0GFRn1N"
