@@ -4,6 +4,31 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://w4.cuevana3.ai/wp-content/uploads/2022/07/ex-casados-60785-poster-225x300.jpg",
+        "name": "Excasados (2021)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDuSr+uP74lpluEsllYg8DGXprYEjvmSXmTZA/AfrC3MbGiLPegIskxHw672QL+NukZOhPwPHcMIU82gHjIWjaTobwfGlyXXZ6XXNRk+F/LlQ=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg",
+        "name": "Alguien a quien solía conocer (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGkUoeY+ZQXrC7UDSyiGBzcWsfILwDKutrqJXBv9xtggEA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg",
+        "name": "At midnight (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGkUoeY+ZQXrC7UDSyiGBzcWAxmcLnVXsm/465TxoHn88w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg",
+        "name": "Espíritu libre (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk1pGan7DyfJzKszlZfEqsgaXhH9FtpFj22Wcl6IBeKOA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/rpuV6GRIBD2v8A2FZM53ebNFcJx.jpg",
+        "name": "Infiesto (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk1pGan7DyfJzKszlZfEqsgKEejmqB2vTBxCIFAOVeoTw=="
+      },
+      {
         "icon": "https://depor.com/resizer/IGqmFzk2arSn-RWG7xLJTwaawv8=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WOTVKYZX3BGPDGQZKYSIJ2LEKA.jpg",
         "name": "Teen Wolf (2023)",
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAe2tAf/6LnQBGu+D/bFDm8uKJbv5cf52hYrQ04K5ro0g+f9fzZO/eVpn+BT+FxlN96oj5getU2db9b0H9ItNwZhyKZzoQ4YCrs2HSLceofrg=="
@@ -472,6 +497,14 @@
           {
             "name": "Capitulo 3",
             "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAvC++MAq3TbtLitgD5mFmz9LEMnU62LpXf9qz+ah3wLnjSiiAyN83E3kMgb+MKtG0voX08G3YviqmLdAp3nE9fFutap5yXuFPiCZ65Ap4dv4FqMetsClIvdWMcgdtMVVY="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBi62khXaStHBzC7FODzVgR+hNJfZoxhtAUokmG/M4Pe+ytVaF3mLM7XXxRAghuTniCRmj3f3v7ehGV2g1L/F//SHXxyZwS0Cbutuh5xI4nRg=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBi62khXaStHBzC7FODzVgRmxNgSAnjEtnXuQBrK1No+dRVDjdMWLXnMEWAX7lNV2yDg2o1j2dFTUqkDF2j1kbrh9V2XWa5MurgW1fVLuqLLA=="
           }
         ]
       },
@@ -509,11 +542,11 @@
           },
           {
             "name": "Capitulo 8",
-            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBG64l6+lKb9h834FrYD9BQZiMcPxshffIllv2qBmD9ozqM4Fz6x8uRY2JNBkYvQBzUDti1K0nHbL7E8kDdpbFbendazI/UW2gv10jX055mHw=="
+            "uri": "aqjOEhWtVS9CYLQkJfIDWR+E6yOnGq7yU1sRPc/bEQ7z1cYdi3kQQbyZuclLrDA3SOz6R28pIySeSJObxz5DgA=="
           },
           {
             "name": "Capitulo 9",
-            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBG64l6+lKb9h834FrYD9BQ6ORDvYMZK22q9b2Fx2oX8x2mmY+KJmC63gyKM8A+XVuztct4j6qr2B7FBEqW1j6VMEL/fzk0h+EDoXa36xOn9w=="
+            "uri": "aqjOEhWtVS9CYLQkJfIDWcy2oauTPoras4/A4unYLJAeeRorGWAvHhEsHi6KlkCPR38fZ4vcJa57M6zkMQTzUA=="
           }
         ]
       },
@@ -17415,9 +17448,9 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECGpI3muQC0XPrt4yPl2cTRhXy40btwiutdDkLzrsgjIZYoY4kWcCQt2LkWOME+YHpYJ0+2p1QDXS4MlN2vKs0QuW04T13bJTWdv49P+T3z2zUM82ddmW7fO36hize3Sv0="
       },
       {
-        "icon": "https://www.filmaboutit.com/data/shp/images/u8k9KMzZGYgg2f5i8pKj23VMNPZ.jpg",
-        "name": "Cuestión de tiempo",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEA7KB+AmwlCi6iM8T6NfA8kV4PXMxtOzBr0Fs0eRgJdXaoNs+un9Lay11iL8O0FyzHagcM5DX5VPVKPRa/BeIOh7Fs1ibmmMXzcxJXQlD689cNZB3fv9xWElq2LwY6h+Xt1DOruAg9o/cSzJDf8hVxDjLiUngu/mLkj3d+0Pq9SgTTMo43l/+uH3usqSt0Gt5sIw8/HmtyyalJ8VFPXiUFyauQRlqqsZqDbODnMYCO+Ooj7qmApAkrF606gJvJYfMk="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2002/12/w1280/qHUkWonnPKAWwCJf4hRMUDzS18v.jpg",
+        "name": "Sueño de amor (2002)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXnC2gH39dpPZmwxDa/QHgsCjgzXhVstAeFL+9UEcmWPC51uGjm/BnYwvmKvnEsMjYY="
       },
       {
         "icon": "https://i5.walmartimages.com/asr/7b0088fd-4441-4204-88e6-4ab9aff68e78_1.00d7ce7b64b25cd7faf7558f325940f2.jpeg",
@@ -17425,9 +17458,9 @@
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBMK8Tm5Cn7Wu/rQuxiwxGIy8zuWRQC1edhmQGwhO5zj1ZQRc/jL5swEJmF2/ZH+OdNe80MFL5hQxUKT5CQKcUBbf4SXJTrZaCe4pb0oUzrCSFXUe4o9wZIcuQyorkzOkc="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/9/w1280/beMWVLE8ggT2DYNc4QUMsmcAKpG.jpg",
-        "name": "21 Gramos",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KED1+cuadt3s9oJUddTjJoDUKcUXQp2hDTo7xr1cdVxiPiNb0Z5cUIajjr4iVb1vC3tfIP8qkrHkS4P0gEZIeyu/tiURkiYTFi1O3j6ZoS1Y+IsbCSikU6wzkQvhKS5wI8B4NjDICQhakUhUw/tTPKS3pvysQWuFVyuhiDVS6/etVajhxYEBGkHVMDCLvcsV6wVDaSppo25UZ75p9uqs/VpaCip5llCKR8cYgSNnrfbuqQ6zob7SNpfew+qy9ecOlMU="
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1987/2/w1280/jkizahsN5NUsjoRd2enHm8awhyz.jpg",
+        "name": "Me enamoré de un maniquí (1987)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkn/KvcXMG5GrkjRzNnOIoCjGNjp9U/eqgqCwVbN26aFg=="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2010/6/w1280/inUlrn9Sk59SJLlY90bZ4Web8Ic.jpg",
@@ -18945,7 +18978,7 @@
       {
         "icon": "https://www.universalpictures-latam.com/tl_files/content/movies/puss_in_boots_2/posters/01.jpg",
         "name": "Gato con botas: el último deseo",
-        "uri": "87EPKu4J1ov2znxaviA1D6X/A6IWDW0folK5hZXWjIdn1khkif8vpfE9pSZks83/078wmG5yB4Ak\nuJIU3VcSdMgQeunMe007DYUemNcn5ZxQsvFxzUzgHGKcAMOv+/4n+nfEDVxPKKQYiTUGNPN0vgJB\nqoU8TC12TYnrnEFEhggMQCDaxSuvdhqP7Jmg3x9JEoY3SJ5ijokqrkbNedS76g=="
+        "uri": "87EPKu4J1ov2znxaviA1D6X/A6IWDW0folK5hZXWjIdn1khkif8vpfE9pSZks83/MMb1sXFjM3jy29jrCkAssBnPlRIDjnthuxWwBQ2sUD4+hD33thbpyQWwK/hGjIkMW2qTnmm4yO1eJgztcXnMUfitzsYYFKY8plHzC5j8X38="
       },
       {
         "icon": "https://clarovideocdn7.clarovideo.net/PELICULAS/TOOTHFAIRY/EXPORTACION_WEB/SS/TOOTHFAIRYWVERTICAL.jpg?size=200x300",
