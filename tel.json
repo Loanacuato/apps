@@ -2767,6 +2767,34 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Us5HaFZt59TlHSDt5u+T0DyBnqn9z7h57XZeBtpNdBkGg=="
       },
       {
+        "icon": "https://i.pinimg.com/originals/03/cb/63/03cb63b4d535f60a02b20545360fe029.jpg",
+        "name": "CANAL 1",
+        "drm_scheme": "clearkey",
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jsKknQ7gvEIDG/eoVMa3mEhNKj13SqMNoGY7lJZ1vqe5xyeozMqRQLXIknZMmkqfE3SQIzt0Jv2fxRsL2g+5pYc1crq0xV1UPO7A28WpexIw==",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw4sevF7PCwzstgWGFX+x5cCvipIfHDeWQvbLOWMR6xmW1LlXORA9AU6ralavyaENagKllv1lh+49O3fTUU7r3EM+5Y8HVprdcteeg5fOXvOX"
+      },
+      {
+        "icon": "https://dibujosycolores.com/numeros/numero-2/numero-2-1.jpg",
+        "name": "CANAL 2",
+        "drm_scheme": "clearkey",
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jsKknQ7gvEIDG/eoVMa3mEc+GcUlcHX+o9NDoBKjiMWm03P9NZ+c/i+GCv/0g781Z0t4OU1L1QTwNrdnPtdhh4",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+OeeSYD/7ffZfE6iq8+Kd8Rf78+GdCX1LnnXg2r2AoJEXweSlBT29cf+OVRp8CQr94RhyONwiPuloItYNtOj3T5WG3CpnxTeX1GJ1uynl7Y"
+      },
+      {
+        "icon": "https://dibujosycolores.com/numeros/numero-3/numero-3-1.jpg",
+        "name": "CANAL 3",
+        "drm_scheme": "clearkey",
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jsKknQ7gvEIDG/eoVMa3mErz4QGumi4o4pxH5ddn0TWhY6uD6BbObybyXMc5hTvA63hdpftb1oAEv3lJA7ctct",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw2zK2T4CZJacOpnBjnDz8dKkJSleWvfHwwD+c6qDD8nQlGe6Rkp8rZ9+jTGMnVSVaMb+wOucpND76dFtwdN7B0GLXKa4WtTfaEBxwtKuAevQ"
+      },
+      {
+        "icon": "https://www.supercoloring.com/sites/default/files/styles/coloring_full/public/cif/2015/10/number-4-coloring-page.png",
+        "name": "CANAL 4",
+        "drm_scheme": "clearkey",
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jsKknQ7gvEIDG/eoVMa3mEoECa3xvVtIuGkTJ5TfhnhnqPTC9QJsZXeYYr6V9Zp/vPf+4Xld0NziwaD+pylXcb",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw4jxpkFRrFKLqDZIPWfI1He3Kp7wm97wRkkAvzo+QEda0IpYXPebQUGG3UL/6XnJUzmV2lZqrPbKrh2z1ucbxCmFtPNyS3JFWkaKNERKvYDM"
+      },
+      {
         "icon": "https://i.postimg.cc/9FKN2s0S/IMG-20230202-WA0016.jpg",
         "name": "Alquimia 100.9",
         "uri": "zBCkavr44f/9DA3s+coE6GZjOTBFeh2k/IR6KZHhW6UGJAiGAN4L7RbupMEbpD8PEAyNGPEnBejCKIM1/A5KSg=="
@@ -5067,13 +5095,6 @@
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWTQ+hKT4GCp0yNSD4myftwN6iuORAftMei3MFX2Xbezg==",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw4gQaNnj8GAGWY/T3QE9pAsp/bF7catAcKsg5pYcq4NA4xOmhdDD35Nzh4tk+oFkSkQl0/lr82A0kuWdSdX38BXxkLkUdQe/WFPg7Ap9ckFl"
-      },
-      {
-        "icon": "https://img2.sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png",
-        "name": "WIN SPORT+",
-        "drm_scheme": "clearkey",
-        "uri": "8FOCON0HhrS/RW+adtAo0wvvMbabG6KXlvIjh/2+MDx4aJnE+rSC0SnuD0bG14GV",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw3S0I3oPSskfgO+ekVQg1eTix+z3GqKuIqfTpfVTtI/m9sQPirhVTmOjVJ1sFunqXQtnR3deBoQWoqOq3B8vwu5afBk6J5FpC0+eRumVWV9S"
       }
     ]
   }
