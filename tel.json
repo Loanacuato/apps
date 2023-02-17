@@ -672,7 +672,7 @@
       },
       {
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
-        "name": "D-Sport",
+        "name": "D-Sport 1",
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkSJC+frttzQQobh7Zygv4AmKPeyeVdi+KsrKrWmpR6/A==",
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5nMPDVuj1dZq/nkbiYvQZ3Q=="
@@ -681,15 +681,15 @@
         "icon": "http://static.dplay.tech/imagenes/dtv1.png",
         "name": "Dsport 1",
         "drm_scheme": "clearkey",
-        "uri": "L1u9RWZeZGp/nLLgqq5F8NOohIaciVyER7dC/bGpya+GVqh88ZzNzdGKizWW9jNC",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7lEb+XwFPJejPAcPv16QPw"
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkSJC+frttzQQobh7Zygv4AmKPeyeVdi+KsrKrWmpR6/A==",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwzqQZ/8q2jUo8lMDSuJq1GhLEIQZpe9ngQelCvgib0F9Pk1+4cnliOtG9yUxLmtQqof2/kPntayws5vHFRwOzLu1pigRNVObOQL9ZEZWnwbk"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv2.png",
         "name": "Dsport 2",
         "drm_scheme": "clearkey",
-        "uri": "L1u9RWZeZGp/nLLgqq5F8NOohIaciVyER7dC/bGpya/RTipyVUQm+UZ42uovTImq",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27"
+        "uri": "xV+viG4rPviLSlXCgtcdcXTmO0vubSvLmtMuuqNVn4n09cbHyKAzG6vQReVmy6KP",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw9JjJAQZ8UloyFQtDnt38L82c6hPQRKFN9HPFPDSaK+fo6YcIs2bzT3i4PWB2Pu0oFpB2V5+l+BrYS7IRjySjt4kDeU5VyWUkhsi9o3QXFic"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv3.png",
@@ -971,8 +971,15 @@
         "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/c12f19ec-fff5-4f21-a599-2a3b10f70833.png",
         "name": "DIRECTV SPORT URUGUAY",
         "drm_scheme": "clearkey",
+        "uri": "73WN51BCYvKeH5iiGIqm6udDYl0mwPoKk8BSFREqvYWwIO+at+N8gDZOtfQAewqN",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw875adcZp8XqREzmqKGMR0eJLPBdoJyJN30ISaRE8iLph1VAA+eUouL8QCx7wl+ukc5jXLQoW8OcSPkS7zuIvkgTkXGAflzH7xxx/KpYFaSX"
+      },
+      {
+        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/c12f19ec-fff5-4f21-a599-2a3b10f70833.png",
+        "name": "DIRECTV SPORT URUGUAY",
+        "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvYh/EGFelZ+CW1MVbSJyNmDms4FHJ0fALQmI4aB5+Vg==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi68taO1dxVTX1ckkrnZe/RD"
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw875adcZp8XqREzmqKGMR0eJLPBdoJyJN30ISaRE8iLph1VAA+eUouL8QCx7wl+ukc5jXLQoW8OcSPkS7zuIvkgTkXGAflzH7xxx/KpYFaSX"
       },
       {
         "icon": "https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA",
