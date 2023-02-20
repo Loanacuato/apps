@@ -300,7 +300,7 @@
       {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/482/CH_LOGO/80/80/350/500/25885319075824.png",
         "name": "AMERICA TUCUMAN",
-        "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVC/iEPb/i/rP0aQWnJy0sZ+"
+        "uri": "tCCYHaXdfeE2UXGmWEN+OAHI+pFxCrYUTAQqV0fBABoTja76gicYy+yfhqQVgfLNq1CUYe/hHUxamWLA8HMhRA=="
       },
       {
         "icon": "https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-Ocho-Tucutam.png",
@@ -688,7 +688,7 @@
         "icon": "http://static.dplay.tech/imagenes/dtv2.png",
         "name": "Dsport 2",
         "drm_scheme": "clearkey",
-        "uri": "xV+viG4rPviLSlXCgtcdcXTmO0vubSvLmtMuuqNVn4n09cbHyKAzG6vQReVmy6KP",
+        "uri": "L1u9RWZeZGp/nLLgqq5F8KhoB1j64zaRDOlejXdc40FkRZlLt8S7IZUCMEiwVp967q96m9EuLnEPoi9Oxfkx/A==",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw9JjJAQZ8UloyFQtDnt38L82c6hPQRKFN9HPFPDSaK+fo6YcIs2bzT3i4PWB2Pu0oFpB2V5+l+BrYS7IRjySjt4kDeU5VyWUkhsi9o3QXFic"
       },
       {
@@ -795,6 +795,20 @@
         "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
         "name": "BEIN SPORTS Ñ 2",
         "uri": "o94z8507wrkes5Bz38inq/H7XAhe93skm+3qtNoWhYyNbpmxzTs6Jfmwy822XHIS6te/nCEFk5zsxvwd0I0dQw=="
+      },
+      {
+        "icon": "https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png",
+        "name": "LIGA1 MAX",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXfDxjEhtodzzIj26NcVTReNtwBA2w44lKyU6O/qPVctw==",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+Fz3M/WNrGMAcKjTzDTlCOo+5h2qCzl8Ck7X95U2/MeW4rP9+IBOmv/D1wkzcpIFuVDnXEX5G5JLEZ+Mc3LGYJuG0gki5atMb1lyEldsTmB"
+      },
+      {
+        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tnt-sports-2-cl-2561.png",
+        "name": "TNT SPORT2 CL",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWTQ+hKT4GCp0yNSD4myftwN6iuORAftMei3MFX2Xbezg==",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw4gQaNnj8GAGWY/T3QE9pAsp/bF7catAcKsg5pYcq4NA4xOmhdDD35Nzh4tk+oFkSkQl0/lr82A0kuWdSdX38BXxkLkUdQe/WFPg7Ap9ckFl"
       },
       {
         "icon": "https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png",
