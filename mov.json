@@ -651,6 +651,78 @@
         ]
       },
       {
+        "name": "You Temporada 3",
+        "icon": "https://i.imgur.com/rembW2x.jpg",
+        "temporada": [
+          {
+            "name": "Episodio 1",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShkUXO0G6qYRdu+V+V/mXVttTEbtobaFE19fnG+69CH0w=="
+          },
+          {
+            "name": "Episodio 2",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShkUXO0G6qYRdu+V+V/mXVtCW3aIui9a1ay4f7MviNCjg=="
+          },
+          {
+            "name": "Episodio 3",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShkUXO0G6qYRdu+V+V/mXVtDcf2SIyZN45Ke2F1k7ZNmg=="
+          },
+          {
+            "name": "Episodio 4",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShkUXO0G6qYRdu+V+V/mXVtSZovmZDadjfEj07bCvIsrA=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShkUXO0G6qYRdu+V+V/mXVtndsn8tbSiSF0dn90BcmckA=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShkUXO0G6qYRdu+V+V/mXVtD0WmwBjfbciWrrwXdxFbPA=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShkUXO0G6qYRdu+V+V/mXVtGyi6Hzdr4pON2JK52l6aqg=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShkUXO0G6qYRdu+V+V/mXVtn4jI4vgGOOJy0RXSzjaihQ=="
+          },
+          {
+            "name": "Capitulo 9",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShkUXO0G6qYRdu+V+V/mXVtS6416DE2GIWa8BRGzzNqrw=="
+          },
+          {
+            "name": "Capitulo 10",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPShkUXO0G6qYRdu+V+V/mXVtzi3DkNU7ItjXxxToSP4mxJ4UxVUcDPgLSV9UJxrn0c0="
+          }
+        ]
+      },
+      {
+        "name": "You Temporada 4",
+        "icon": "https://i.imgur.com/N2alrZi.jpg",
+        "temporada": [
+          {
+            "name": "Episodio 1",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPSgMvMqpHT5DCSHBiIGWGUMJ+HKJJlHvUgTxXfgPRmjDidSLbHT1cD9IDO8jmUKRfrU="
+          },
+          {
+            "name": "Episodio 2",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPSgMvMqpHT5DCSHBiIGWGUMJHnok93ySY0mne63uwUwNmMz54h519g3xlr7KCnBwxmk="
+          },
+          {
+            "name": "Episodio 3",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPSgMvMqpHT5DCSHBiIGWGUMJqg8N1y6zCdEyJNB5762HnpauMp5Vf/onBgFCPOyb2hY="
+          },
+          {
+            "name": "Episodio 4",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPSgMvMqpHT5DCSHBiIGWGUMJiUWHcKXM7Z+VCmtEhMmogt8wt44batI5kOiacOFU7uo="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZs5kyc0zwKweNgU0KtXEPSgMvMqpHT5DCSHBiIGWGUMJM5L2C+H+0ltHNGoPqBH+Ux3mtOwWck70+Jrg11rnWbw="
+          }
+        ]
+      },
+      {
         "name": "GENESIS",
         "icon": "https://www.danfra.com/upload/olu43JD1gRfs2dchjfdCIpqW2.jpeg",
         "temporada": [
@@ -10905,6 +10977,468 @@
     "mode": true,
     "lista": [
       {
+        "name": "Caballero del Zodiaco",
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/b/b2/LCDZ_Poster.png/revision/latest?cb=20220410222701&path-prefix=es",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjDtlIAo++QBBblAKhr+ITW"
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgNLxlf9/n7mJGTTXrsGTDg"
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgg5+f/PTm8v5Lvv82j5jER"
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiqXGq6Xpz+TkSC2FPx3l3y"
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgoF2sl/ZtKaPsVrFzVRxqb"
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDi6pG8psHc1UpPzYqtvbQyW"
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhCjuS3Nyz8nlIXBWV5TELf"
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjSbnMsJV8ZZj9+IA6fkG6D"
+          },
+          {
+            "name": "CAPITULO 9",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhgT1xcZtoLXxT4e6/oK262"
+          },
+          {
+            "name": "CAPITULO 10",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDg+Mgh0IdgBueV99Zyo7I76"
+          },
+          {
+            "name": "CAPITULO 11",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgLwQ3WOlydA1kQwTxgbndO"
+          },
+          {
+            "name": "CAPITULO 12",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDh3ly2yaJD6gDzv42SoPAcK"
+          },
+          {
+            "name": "CAPITULO 13",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDh/BiOD1aQlJkLpSj/pXTVY"
+          },
+          {
+            "name": "CAPITULO 14",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDio6QEe2DllXMvpKA5Fgvxd"
+          },
+          {
+            "name": "CAPITULO 15",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgIHE6/qpsf8jM49SKlFsI+"
+          },
+          {
+            "name": "CAPITULO 16",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj2AxxuKyMwz/A3yHgMGT+V"
+          },
+          {
+            "name": "CAPITULO 17",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhTOudfB3Ig2BuEImD/xAD9"
+          },
+          {
+            "name": "CAPITULO 18",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhK3jJmZbVqr5t/8sgfDU1Y"
+          },
+          {
+            "name": "CAPITULO 19",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgg6CBR+WNk8MBuUqxYmYys"
+          },
+          {
+            "name": "CAPITULO 20",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhrjN8ydvlT1ZuFCZF3OD95"
+          },
+          {
+            "name": "CAPITULO 21",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjjQqA05B4roUSaDUfvyf7s"
+          },
+          {
+            "name": "CAPITULO 22",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDghHzfyIdv40SvKtqv76t5S"
+          },
+          {
+            "name": "CAPITULO 23",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj6ORGF8cb8YEQ9Jy3yn6DJ"
+          },
+          {
+            "name": "CAPITULO 24",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgj0kuuFHLxMCFW631bVU/J"
+          },
+          {
+            "name": "CAPITULO 25",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhwn+ZEbrfljR7dlP6pXINJ"
+          },
+          {
+            "name": "CAPITULO 26",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDi1y0rcFOJWsy1Y8w3d8N+P"
+          },
+          {
+            "name": "CAPITULO 27",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhVA2YUVvfxIeMcjmYiclp1"
+          },
+          {
+            "name": "CAPITULO 28",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj4KzOkpraoi5pSMKFOVL7L"
+          },
+          {
+            "name": "CAPITULO 29",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDg1TWRjw9c76jfk16frcOY4"
+          },
+          {
+            "name": "CAPITULO 30",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhoS2AfJH7StygkDygUxlgY"
+          },
+          {
+            "name": "CAPITULO 31",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiKXBsFDt+V27kvryjN3SsU"
+          },
+          {
+            "name": "CAPITULO 32",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDicJLvjaefKNbjHuZNnXtkp"
+          },
+          {
+            "name": "CAPITULO 33",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiNl2L59gLDjnSEHCkcMFo4"
+          },
+          {
+            "name": "CAPITULO 34",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgZjB/GcUJYDb9rfZVmrOpi"
+          },
+          {
+            "name": "CAPITULO 35",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjAOKHlhAkXkiX99U/PBKnP"
+          },
+          {
+            "name": "CAPITULO 36",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjc88hhI6wvg7lyIs8ePPoS"
+          },
+          {
+            "name": "CAPITULO 37",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZqyhVn1EDad6r0//8RjHwKdDRBflxoKHc6VdDBMYWMGF9ISGPEybihmHqf3NhUNv6zg611iXxWW66lFD9vPkJiA="
+          },
+          {
+            "name": "CAPITULO 38",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj4ZS+6IJLZnJJh2+YlBQqz"
+          },
+          {
+            "name": "CAPITULO 39",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj7M94+78X6bIneZazifcZS"
+          },
+          {
+            "name": "CAPITULO 40",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhf+Rquyn3VK7E8IOcUimf1"
+          },
+          {
+            "name": "CAPITULO 41",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiDAygqFe6S7p7BAwaK569g"
+          },
+          {
+            "name": "CAPITULO 42",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgPJAg1bK6eQDz5IF1QXCl2"
+          },
+          {
+            "name": "CAPITULO 43",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjhP3e4D3EnAIRhhdXNli24"
+          },
+          {
+            "name": "CAPITULO 44",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj7seHxbg76KQvLn2erJot8"
+          },
+          {
+            "name": "CAPITULO 45",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDh8AYTYwUAu2uLYBsaBWSOd"
+          },
+          {
+            "name": "CAPITULO 46",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjRENCriaxYb7nxAUdkpmLq"
+          },
+          {
+            "name": "CAPITULO 47",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj49TYJgHGZOcGu5oB7o3Oj"
+          },
+          {
+            "name": "CAPITULO 48",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDi94K+u1/kkOZ/HiYc7AiNo"
+          },
+          {
+            "name": "CAPITULO 49",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjAEDdc2vFlbguaH0R9QvB6"
+          },
+          {
+            "name": "CAPITULO 50",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj1Bwol7ycoQy6QN4fMbNt3"
+          },
+          {
+            "name": "CAPITULO 51",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgTPnYfMNseQ7e81lzdjUGe"
+          },
+          {
+            "name": "CAPITULO 52",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDi9ZdvaG9OdEcOayxGNe7mT"
+          },
+          {
+            "name": "CAPITULO 53",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiGnR+UuohhNCRqeA9CvO0t"
+          },
+          {
+            "name": "CAPITULO 54",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjp5vW9xWb+U4Vkv/G42NU6"
+          },
+          {
+            "name": "CAPITULO 55",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjEOVfeV0nJvZGiAK3NY6IX"
+          },
+          {
+            "name": "CAPITULO 56",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDixWdmlm9i9cKMVsQ9rCgDk"
+          },
+          {
+            "name": "CAPITULO 57",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgeEBmYsJn5siFjNqSpNszv"
+          },
+          {
+            "name": "CAPITULO 58",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj0qVhiqDabnNIgh6GtiZWd"
+          },
+          {
+            "name": "CAPITULO 59",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhwg+ZSx5Qd2uSzVkzKGjju"
+          },
+          {
+            "name": "CAPITULO 60",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgYV6RccrG9heM4gMv0+4Rx"
+          },
+          {
+            "name": "CAPITULO 61",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDg8nU/2nY73BIVRRG5QCO1d"
+          },
+          {
+            "name": "CAPITULO 62",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDggStQxM3m57ZnKATcxMqK1"
+          },
+          {
+            "name": "CAPITULO 63",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgtClroGiTgDNHEcEG2ufgG"
+          },
+          {
+            "name": "CAPITULO 64",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDh4aVamlkU6jUCTcK+lG/8T"
+          },
+          {
+            "name": "CAPITULO 65",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgbKMVfRsWIqNHw7TytLpvt"
+          },
+          {
+            "name": "CAPITULO 66",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjwNEdeo1lzwntYrrso3N+9"
+          },
+          {
+            "name": "CAPITULO 67",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDieA2Hd0m3TyBle4TjThmvq"
+          },
+          {
+            "name": "CAPITULO 68",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhgKC3HxFLpctE5ZREYQGmU"
+          },
+          {
+            "name": "CAPITULO 69",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjLrouSYzE0MTPss8MpQ6/+"
+          },
+          {
+            "name": "CAPITULO 70",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj5KAgIJq6f0NUMK+Gg7ETc"
+          },
+          {
+            "name": "CAPITULO 71",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiUAHUHNrhsPi/FmkHf9fZm"
+          },
+          {
+            "name": "CAPITULO 72",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgnqUUtj68c+syvJlhXYrZU"
+          },
+          {
+            "name": "CAPITULO 73",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjxf2mE3ZYNASaw1bnny7ob"
+          },
+          {
+            "name": "CAPITULO 74",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjSTEpeqbyl7R4eQyaY0/da"
+          },
+          {
+            "name": "CAPITULO 75",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiMOBZGoQZiSeKUkVadT86o"
+          },
+          {
+            "name": "CAPITULO 76",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjHCaNxI2qK5xtwSltRvZOE"
+          },
+          {
+            "name": "CAPITULO 77",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiX+8nGKTo9Qp0gP1H6zTK1"
+          },
+          {
+            "name": "CAPITULO 78",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgefDKmlGRa15Dpc+qjTEr4"
+          },
+          {
+            "name": "CAPITULO 79",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgdQR9glk2ohaRd8LhKB94l"
+          },
+          {
+            "name": "CAPITULO 80",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgbExlJsXlA4djzOAl4Ljtf"
+          },
+          {
+            "name": "CAPITULO 81",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDh2V7WnydkgY2y6ksxiUsDH"
+          },
+          {
+            "name": "CAPITULO 82",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhz0W3DAQZIs7II331K5914"
+          },
+          {
+            "name": "CAPITULO 83",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgLsv7sjlVaXA0IgNYjZU3k"
+          },
+          {
+            "name": "CAPITULO 84",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiXH7sRLrdZswkG+4fLgmJD"
+          },
+          {
+            "name": "CAPITULO 85",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjIwwyiuNxU3Yq7uolTbW2o"
+          },
+          {
+            "name": "CAPITULO 86",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhLY0BaFRMje7Iqp6BA3c6a"
+          },
+          {
+            "name": "CAPITULO 87",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj/Jp1qC2n4jRRSIqYUGBPh"
+          },
+          {
+            "name": "CAPITULO 88",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjkDA0cboZYTHPElghz7CeR"
+          },
+          {
+            "name": "CAPITULO 89",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgaNn1/0SlwBpLTTGgse1U7"
+          },
+          {
+            "name": "CAPITULO 90",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjNpj5zA30ideDiI4aNkt0I"
+          },
+          {
+            "name": "CAPITULO 91",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiveJUfm5hoSq6wO11mTfnA"
+          },
+          {
+            "name": "CAPITULO 92",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgn15qlb3Z5bWHYHuX4Zd6s"
+          },
+          {
+            "name": "CAPITULO 93",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgTZb9OjWdsbQi70DQyBrcm"
+          },
+          {
+            "name": "CAPITULO 94",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhq9Dy95JNOwz6p5VjNkAg+"
+          },
+          {
+            "name": "CAPITULO 95",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDihhJR11v9nCRuV9Bbvz252"
+          },
+          {
+            "name": "CAPITULO 96",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDii79NSG3X8jAjaCfgqivEp"
+          },
+          {
+            "name": "CAPITULO 97",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDg16eVxG2O/uhABIMyIpcov"
+          },
+          {
+            "name": "CAPITULO 98",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjkfQShHbLGt2ldDaXDvxbb"
+          },
+          {
+            "name": "CAPITULO 99",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgAS4ge7+NNgG5JsZAFj/B6"
+          },
+          {
+            "name": "CAPITULO 100",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDi8sFi3bSZF7GHO/cWnTcTg"
+          },
+          {
+            "name": "CAPITULO 101",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiOVZU5ELbR1qVySVOb3d0X"
+          },
+          {
+            "name": "CAPITULO 102",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgS/w7bJLfi+Yqfg1Ga0ebk"
+          },
+          {
+            "name": "CAPITULO 103",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiYedE5tXY0eI06P8CuOJNy"
+          },
+          {
+            "name": "CAPITULO 104",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjUZVroMVCj02V9QLDka3DU"
+          },
+          {
+            "name": "CAPITULO 105",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjsAReQ9kkVAmhegK1zcpet"
+          },
+          {
+            "name": "CAPITULO 106",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjQ/mgUXvBNUOOlrEk8g61h"
+          },
+          {
+            "name": "CAPITULO 107",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgMozeUMIOlwbpz2uDtaxCB"
+          },
+          {
+            "name": "CAPITULO 108",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhpwgqiqy/iohmTrDcb7B4t"
+          },
+          {
+            "name": "CAPITULO 109",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDj2eaDn1aM3HFZHP9SuPUSV"
+          },
+          {
+            "name": "CAPITULO 110",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDjWQdxU98WL4K6LuQDc/hD2"
+          },
+          {
+            "name": "CAPITULO 111",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDha5wUjk+36zL/DTvpPFErK"
+          },
+          {
+            "name": "CAPITULO 112",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDiOkGDjEtrjMc+1/BlpdFoA"
+          },
+          {
+            "name": "CAPITULO 113",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDhEnZur6RKyFO66jYeQFsvK"
+          },
+          {
+            "name": "CAPITULO 114",
+            "uri": "Fd7VYd+Xm/S6VMHJ32eqZgYPNL/FUzUJjv2zBOxcrDgfceq0bMgmJU7+8qBv6zZS"
+          }
+        ]
+      },
+      {
         "name": "Los Caballeros del Zodiaco: El lienzo perdido",
         "icon": "https://static.wikia.nocookie.net/doblaje/images/d/d7/Sain-seiya-lost-canvas-principal-image.jpg/revision/latest?cb=20140503223120&path-prefix=es",
         "temporada": [
@@ -11528,7 +12062,7 @@
     "lista": [
       {
         "name": "The Last: Naruto the Movie",
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/b/b2/LCDZ_Poster.png/revision/latest?cb=20220410222701&path-prefix=es",
+        "icon": "https://pelismaraton.nu/poster/gekijouban_naruto_the_last_the_last_naruto_the_movie.jpg",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZjDVmm9p+mhqVQIjathW+OUsTuYq+toqFlWByrIf/u064QjbYmFbALqi2xuhIsJ82BN742xhJBvsjLwNYdGp2bc="
       },
       {
@@ -11543,7 +12077,7 @@
       },
       {
         "name": "Naruto Shippuden 2: Lazos",
-        "icon": "https://pelismaraton.nu/poster/gekijouban_naruto_shippuden_naruto_movie_4_hurricane_chronicles_aka_the_death_of_naruto.jpg",
+        "icon": "https://pelismaraton.nu/poster/gekijouban_naruto_shippuden_kizuna_naruto_movie_5_kizuna_naruto_shippuden_the_movie_bonds.jpg",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZjMJmQf5xUIdzHSuQtzq5iyNU/MFHqS4TRp9jwoprYCpSsYV/lslzHaALEWrdRavoA=="
       },
       {
@@ -14518,11 +15052,6 @@
         "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkXyTs0/zcU16Ag5NGAwB5V2hz+9nrkw4W58vgax03N/6MkmXjrSZyXl2L/KGXoV8E="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/qvDJbZYs2p4eOdyJ8R2dfdJp2Qq.jpg",
-        "name": "Reyes contra Santa",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkXyTs0/zcU16Ag5NGAwB5V2hz+9nrkw4W58vgax03N/6MkmXjrSZyXl2L/KGXoV8E="
-      },
-      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/i8u3f6mMv7LvIbxkmrs0j3fuNN.jpg",
         "name": "Reviviendo la navidad",
         "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXm+5JrHPT1zx5DtMqtrLgdarzwi0U3/WGKxnpN7owBD5zy0r2YCzwz1qQ5/el/lXbI="
@@ -14769,6 +15298,36 @@
     "name": "PELICULAS ASIATICAS",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://pelismaraton.nu/poster/unlocked.jpg",
+        "name": "Identidad desbloqueada",
+        "uri": 321322123
+      },
+      {
+        "icon": "https://pelismaraton.nu/poster/karada_sagashi.jpg",
+        "name": "Re/Member",
+        "uri": 321123123
+      },
+      {
+        "icon": "https://pelismaraton.nu/poster/dear_david-.jpg",
+        "name": "Querido David",
+        "uri": 321132132231
+      },
+      {
+        "icon": "https://pelismaraton.nu/poster/the_invincible_dragon-.jpg",
+        "name": "El Dragon Invencible",
+        "uri": 2133123321312
+      },
+      {
+        "icon": "https://pelismaraton.nu/poster/steel_rain_gang_cheol_bi-.jpg",
+        "name": "Lluvia de Acero",
+        "uri": 2133123321312
+      },
+      {
+        "icon": "https://pelismaraton.nu/poster/the_roundup.jpg",
+        "name": "Fuerza Bruta",
+        "uri": 2133123321312
+      },
       {
         "icon": "http://tuvideo.tv/poster/w200/7248851673647176i.jpg",
         "name": "La maldicion, el despertar de los muertos",
