@@ -4,6 +4,21 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/9mFHSHWce77Pi5zwkfCL35KU6MW.jpg",
+        "name": "Amor al cuadrado: Otra vez (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk7CUnEyrLi5KmyBO5bIvkOB3lYGbDRpA1bkLHBXLPu8w=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BZTg1ZjIxNTQtMjM5Ny00OGEyLWI2OTgtOGEzYzVkMDk4ZGFhXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg",
+        "name": "A todas partes (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk7CUnEyrLi5KmyBO5bIvkOoS644lOUJW49PLR0zjI04w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/oiE5AqW6eotvynRqhV91XhEMDyL.jpg",
+        "name": "Venus (2022)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWUnw6A64sdQTHftZzT/nXJ32U0Js9UsdW9EPnNKQVYPogVmoQNT99fa76edb6t1dIA=="
+      },
+      {
         "icon": "https://w4.cuevana3.ai/wp-content/uploads/2022/07/ex-casados-60785-poster-225x300.jpg",
         "name": "Excasados (2021)",
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDuSr+uP74lpluEsllYg8DGXprYEjvmSXmTZA/AfrC3MbGiLPegIskxHw672QL+NukZOhPwPHcMIU82gHjIWjaTobwfGlyXXZ6XXNRk+F/LlQ=="
@@ -15299,34 +15314,39 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/T4XeEqo.jpg",
+        "name": "Unlocked (2023)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWcJD+Pxw2g3neY7x87oOB6ctTwBsErlYubMYkK+xNcqJYPLWeu/qDYtj923UDXAX+rH2H6r35ff+udhC89SbgTw="
+      },
+      {
         "icon": "https://pelismaraton.nu/poster/unlocked.jpg",
         "name": "Identidad desbloqueada",
-        "uri": 321322123
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZjjcD2i0oLNnOCCOhIH4kSjKBIWJ/C63Yp28kr3SGv5FDS16wdjM+S6ukbBd4sqI9w=="
       },
       {
         "icon": "https://pelismaraton.nu/poster/karada_sagashi.jpg",
         "name": "Re/Member",
-        "uri": 321123123
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZjjcD2i0oLNnOCCOhIH4kSg6Ip4SnAhOwjDpE977TVsO68u8TkaPYUFV8B7OyZ8jig=="
       },
       {
         "icon": "https://pelismaraton.nu/poster/dear_david-.jpg",
         "name": "Querido David",
-        "uri": 321132132231
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZjjcD2i0oLNnOCCOhIH4kSisQaNNgpxKBGYFvQaS7IVLqybpcMP8H5CIb3cqEd2nbA=="
       },
       {
         "icon": "https://pelismaraton.nu/poster/the_invincible_dragon-.jpg",
         "name": "El Dragon Invencible",
-        "uri": 2133123321312
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZjjcD2i0oLNnOCCOhIH4kSjEjRTZ129zANv0TtYvrEk1wbPnK9aTB97yWYSfz+MY5Q=="
       },
       {
         "icon": "https://pelismaraton.nu/poster/steel_rain_gang_cheol_bi-.jpg",
         "name": "Lluvia de Acero",
-        "uri": 2133123321312
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZjjcD2i0oLNnOCCOhIH4kShcuOFvSpUjCGRe7BAgBI/LAri/Jo5Y2Uut8Lr1GYlvPg=="
       },
       {
         "icon": "https://pelismaraton.nu/poster/the_roundup.jpg",
         "name": "Fuerza Bruta",
-        "uri": 2133123321312
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZjjcD2i0oLNnOCCOhIH4kSixKd7quDisCikBhf+aCKxP27VFQNaYgmFDIi4mbsQmxQ=="
       },
       {
         "icon": "http://tuvideo.tv/poster/w200/7248851673647176i.jpg",
