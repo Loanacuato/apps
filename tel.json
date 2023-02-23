@@ -44,34 +44,14 @@
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
         "uri": "hSfzDHrQ+u4mu42iSsVD9i/LwXL2hupKtacmrulOw7dpzKL0awXlQ8sU3WQ1xMU1MKdMERmmWm9TG1Yyd+LkT3ItXhgpTKaLXkG7nN5z0W0rI1nIpC4AJaG6dbENKi+H",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS9hRy8DqAPOjejlV0EKmv+dyIzX9HwDkDG0Ien34M9XQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6z5IiSb4e6vdToiSw6HhyJv0E/bZH8vOnMXtW/m2ss/mlL6t91jhEDjCC+NmNgeT7dd3jG7akmq9hw59RFvp6ElSeK+yy8O/TACW7om3DMQ"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
         "name": "TELEFE",
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tf7yXJDdeZAFjHlDzvGo6CyKjzrZG0NvnaRO7UipB4gpLkgB7Sq8HfLGAog3PiNDK+l6xxMSAbvxTlVdqYb4iO4KypYGEbe4+yXeU7tMQSVLq",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRxTb5+PuApXuijf3ocASvm4QBOurRYV5jkJlrNYqWKLA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+jqChFOezvdb9UPwaVlDmSpXY/mMvTH+MNVSpq9uME5dDIAfkmbOsYnsDFeyViTlPquRET2s6CE7zS/NxvMz1J/vl+Z+MptGTT836dNjF5n"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
@@ -95,17 +75,7 @@
         "name": "TN NOTICIAS",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVxepM5AiiFlZcnkNk1y7eDQTQnnkz83L86wg2v20LOrA==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS9QJx0/BvbAdhuZAVGFF1eUN/uJdHEAYBweEIdpS1FIA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRww43gkxsPGUVG1EY6uFrJ+7mnzgTujggeUIk4icapzWqPJ9Fc6CCGpTxbIdV0nUAREhD2FAK9UaQGoK333HMPLESNHqYcibo9WRlLp558+86"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/a24.png",
@@ -705,17 +675,7 @@
         "name": "D-Sport 1",
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkSJC+frttzQQobh7Zygv4AmKPeyeVdi+KsrKrWmpR6/A==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5nMPDVuj1dZq/nkbiYvQZ3Q==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwzqQZ/8q2jUo8lMDSuJq1GhLEIQZpe9ngQelCvgib0F9Pk1+4cnliOtG9yUxLmtQqof2/kPntayws5vHFRwOzLu1pigRNVObOQL9ZEZWnwbk"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv1.png",
@@ -750,34 +710,14 @@
         "name": "DIRECTV SPORTS PLUS",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5zD+PPFvfw3edVoKKjKdMkQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw5fjXLiFPgNX5+EO8+Hfdel7L96If2hLWLpYJcqiiOAO4sypwvuAP7aSB4uHUvYY6G1gfLZjinOrvTkOODYSS9DijDotw8zesWfNh16yDL8/"
       },
       {
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9zcG9ydHNfZmlnaHRfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
         "name": "DirecTV Sports Fight",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVDZjW/QAc9dYnwpNk8BdsndasIlxwYdYh4fijsPcoVIA==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTh9TQflaU6rJy/I0DEFAM5CeYJ6KQomat/+H6gdf/b+w==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwzxfwDNDk285lc2LYTWCVl/KkKqRGTGzhgmc+WByt6DXqyiYCtT3RTeWUMPEhsILrCyHOVMvGkGb3PjopB6utehWDctSYzrUjzvE8dOuheNx"
       },
       {
         "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
@@ -791,17 +731,7 @@
         "name": "TNT SPORTS HD",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVwtvmCTp5rM6kvX4XduF9N8DGKNwg+HhwKLyGnYG9c1A==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSCXRFvoRjmanFLnw2ePpFcIPZBC1xow0ec1wR7Lk0smw==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw5FkXVix4bHdvQzqoarBXhuWjJh6Uu+Oy8v6+C9z00TzMf+sOtAvhCaD2wIWJZeeq2zQivdJttb7yQlcK+XUjyNhU8IU82ReGeGoKjX2KEkj"
       },
       {
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1659976544351",
@@ -815,51 +745,21 @@
         "name": "Globo BR",
         "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBEUCO83TwtoRFO5yOTDy4m5fP8BoMlvqOpMzjgr275iGA==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSiMxS+lCbfdTXWrxANYvvwtkT7eVSxV7hnMMjCKshoFw==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6LI0UUnX16CZQiXKNw4Wfw6Bz28lt6Q3wgdx79PorsyBBM6Pu1vTw3+46LXrjH7SFnXxu/F8Wt0BwFLXzeQojTWKvSSV1Hq7kj3RzUi50pi"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
         "name": "TELEFUTURO PY",
         "uri": "jwjdtN1vPAWPglxaqI7tf9hwuDqRqlRpJwcE5Q5uTuw9MvGV661JrOAeuuRrhT0E1RkQzpqmEAx+HG3mWH/18knyxHfvzLfDXzBfsl6ZGhu+dnfqdstkJXp4rhUXz2v1SimMXpNXgROmMBHzjDALEQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRxTb5+PuApXuijf3ocASvm49LYmfzhvJd8tbOyO+XV+g==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwwc0F37MhGbnCOemDI6JJPpAZrj+yK59k5hqwopqM5dVcHg42gwnzGMkd9Asa7AnUvry2MstV6xeeKC+UohqgFQEEwvP9k56c7jmvoVIsr6X"
       },
       {
         "icon": "https://megatelevisionhd.com/img/ecdf2.png",
         "name": "ECDF",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWEsOSTO6qbKDInff5qm7tdtDI5pUAKiTtOJTAhuTMFjQ==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTFG4QSGKKQWQHrdqrKGYwEgXI8FzHgJFjUqW2GjdN+eg==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwyp0x/9AWhukCZvGF50FUUt+vVbAoJtwpqkKv1X0IiuxZj5DDIzhVZcg+Vt1x4noEcErSf931RR1z7fIxvQ+nG3kmL8NOpBJW2BAHBJhSv3E"
       },
       {
         "icon": "https://i.ibb.co/jTpWsm6/tennis.jpg",
@@ -1004,17 +904,7 @@
         "name": "TyC 1",
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tf/C1/GOnmOrhpMNL1n8kILXp+eGvkmD40da5VcMRv/AL91qNJmcal3RH1RDlstoeC8Ei1uSy/zGJmpitxIkTi3RNAnn0TgAJCUr9wnfpV4b0",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSK3zmwVLq9ml/afii+tyVo59jWBN4B1FG8wa2XaxeVSQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw1VobsnSRiXXXL2DhkgIx0VjN7zMt7m3UPtVgwdN346F9jFHL9d1RBRA3lMTUDrHU2J4/lNlSjyNBYmJ8vS/CsTAfh1S0y+ASXrkYRIdxJdE"
       },
       {
         "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
@@ -1054,51 +944,21 @@
         "name": "VTV PLUS",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumsjPK0C4OxIyeSJBnSrT8oY7ZZe7p5+blEchImTwZqTa",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRkaMuITZjtbeFlLfAENbemGLWveKFYThd8i6cyaT+1Uw==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw3zMFaE53Eljc7gmQNIRsYgIGGJlNJkJW57KJknuysERveLkixiQdFxiws00Sz7MS64GU/Gut1dDsN+92S5JUkImQI4k/dDd2wxJtXma6MFp"
       },
       {
         "icon": "https://static.flow.com.ar/images/685/CH_LOGO/350/500/0/0/3464211407358.png",
         "name": "GARAGE TV",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x6UmCjF9811leOWkZgdVDucvOVdrEkhv5BJXVVDGSulM8JgFEq6sL7EZinoYqyAF/EnCumzH3ZkXyzAPDhrfV8",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQdR2wP1OxQVA9XiRRk7FLqlQ5qNzwN154G+NeKrh+u+g==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+mJJ+SYl6DbjEDpeTaMC4Ac0uXFwCKDVdbNx50+rWA/SrgGS2NQq/51NQRKwpigH0dH19ULG8dl/WFg1HeMpHX0hcJU7wlxLLfKjmrSCWkocIRDAsK4xxfbs2j9yvW38w=="
       },
       {
         "icon": "https://static.flow.com.ar/images/696/CH_LOGO/350/500/0/0/79970160072682.png",
         "name": "GOLF CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zEfCMWSs/MfyHd3IKSweN0Ekxs6xrxt/V4WQGTqFxgfk24QVQA0CtDYcDSejud2YR2s8tI/RbEvpbeX+FTO8mm",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT0MOzV7XLkZceZ/jXkhXvOLv6I03AJF2xIbPpwZPqv1Q==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwws0Afie5LK1frcZI040kjCONJS7AiyB0ItLJRFAhuWq2mp7qDdrzJU4nnJg/IWSzLV4nvun80Wq+Zq5X0kGyZjvRuCaLPJPOp+o4k3AJZKkjaPyEKdUYlPWGDPrdXFKPw=="
       },
       {
         "icon": "https://static.flow.com.ar/images/710/CH_LOGO/350/500/0/0/4594011307753.png",
@@ -1140,17 +1000,7 @@
         "name": "TUDN ",
         "drm_scheme": "clearkey",
         "uri": "Ewe4N3IAiRa9aKLlXy/BawBwtnUugL8UfRHpczDpEOjsIm+BEsbL/t/S/a4V3G/yBY28h66iyYkZiUSLb4U39Q==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTstETq9bX6fCG6A7mxcZKwXH/42j1btUW7vaw+crSncQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwyMMY8IvjX1J46BdJlR2j1LJouzpOoLC02yjvAupInD83l4O/irA7UznhgyC3MNL3Oy5D+KSHUuIwxn9idhSbFGTEersg9Ht7wNtL5wv/Aur"
       },
       {
         "icon": "https://megatelevisionhd.com/img/afizzionados_up.png",
@@ -1230,170 +1080,70 @@
         "name": "DreamWorks",
         "drm_scheme": "clearkey",
         "uri": "CNkMxdKH7X9uRVUdhgCc1QWy1D0rx8JQT2eQYfbpuzbq8V5l6bGdptzh+6wz5viLt9ofiiOPDGve8xGwXq6QPDRE1kbZt+5P+aKRN+CBPi8=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRAuP9MBnj+CUIKP9JbZpuFrDvPhBDUb7p5JoPh1JJ+1w==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw59dLsYvC0KxmBGN670x5AJWv3m0wLMnFa9DwrCYsvvjrLhzVk1WxR5NreWvRoiatGk5NhH5l8FlZNPND7foMT8JAiwHYHQaWwutTZzBxNGG"
       },
       {
         "icon": "https://static.flow.com.ar/images/266/CH_LOGO/60/40/350/500/31155375074343.png",
         "name": "CARTOONITO",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yLNJmmf7RhGlv1useYDooGhlfjrC5hWc491Yt86iQMSKCK3GfyiNGnkOy8PzWXlYQvLLUbVGU92wxb7Br+N/Jl",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTDhZSwifLW+Dnf9WgCpObcWEqbVY+cIVFVEDyyEpFSSA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6jFQuqL/Uint8ozrJWS47JmqL9DkHCssHBNfZi8lH9v1HsedXa/8pXmEvhDX5ev1hmzvke/BXZ9oZhJ8r2QLuDod6EhrgAqZDMYmwadbYqW"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png",
         "name": "CARTOON NETWORK",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xDLGAHYlGRDc3lPpC8/AmgeO5rSitl/MQ3plNVqPgkEXHo6KgVf3oaKqQr66N0NqHQXXhuBpiRVOAHSzGEg16T",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTDhZSwifLW+Dnf9WgCpObchgKLp0XBxNPaoUOgXbM8yQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw80gEur7ALgAmuuiJs7bVA9cnQsaxYb+wZulT/nsLDi8wvHK+1V6P5Rdtp2TEoRWg1jULwhuNsVLg32lhpgoG4SNR/XtbVThUzJB0q+jBNKT"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",
         "name": "DISCOVERY KIDS",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x1x9D4ftwywu7HgAx/PDsjdl0CkK5OD0QqiU5YrqCTZE9vYQaB8nbgmvMTvNaW1QOznKGRCFHuW/zH6h7ATAKR",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSNN+0XfqfS7RKXqOEcfoq2dUdrwapegJ/QAmy6HosxXA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwwOmslZrIo4hKMN7SN/V9TbKnQTaqs6IEXeJ1mY8utYkc1Suflatr1Ui/hf90y9VS7c9L6KsFSRojtouxteDeNcvver1RBGplvR2MJQe+g35"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",
         "name": "DISNEY CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zQOCLhVQwNTokXtLu17CJiyNGE3NsbS3lwuLN60yUaj614hC4ApXGDI8Bu02PvfQF8iPWNDpEo3jlTIcyiuptf",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSNN+0XfqfS7RKXqOEcfoq2SV9S7ZbL4OJPngvqzrUKNA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw5ZbW92lxkjfEU7ZysA4FZNGkEhSEmjPlDhL+FTRCDAMUV+iQ2+nktCQI2E+tnG6OzXZ1jXLt3wT8z+jJrqRSMbFPUm6cvnUXsoapYAKbSj3"
       },
       {
         "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fb%2Fbb%2FDisney_Junior.svg%2F1200px-Disney_Junior.svg.png&f=1&nofb=1",
         "name": "DISNEY JUNIOR",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wI0K0bot24xhiON7kDguZkKo0GMgDxn8aEH0Ksys1kU04VAoCUidtJg4FKkoET18sbRKit4cmVeQOjGaTLcAD/",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSNN+0XfqfS7RKXqOEcfoq2UHmlZoSqXvlIua90GXWSOg==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw2Rnc61mj26UvUufAzmp8tApg6l5IzpvVdoEpT6ly5U9hXw+gCY8q7ZKEVFFj2hb9khAi29zSoAV8qBw3OrLo6I//crsDMQ/9ptW6krJYUPA"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",
         "name": "NICK",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zq9evBc0dfNxlOYFJNPAvFye3l1EHYC6K7defscrDyoTJQMN4l1WlZulia3yCmGhiHfSdQtJUcm4/YBiwHMR3H",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR57qhmNtf18gibMQ4MAFWpkK9difPhgVpq6FgIHA6r1Q==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwyhuwNfX1E6DFyyzLs0wp7mGptlV3M6hHT3ZP9GF7n19rIowQ+uQYO7COQXxWk/l/PKeKhAbT07F4T5/4AnKGi9SBT30YgbjS1sxn+t9z1gF"
       },
       {
         "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa1%2FNick_Jr._logo_2009.svg%2F1280px-Nick_Jr._logo_2009.svg.png&f=1&nofb=1",
         "name": "NICK JR",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zF2I5sBNSTD+9/hLKW0onOrw8odM40d7u95Pa32nNt9o4/vgp+8EfHvxyxEb476rM=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR57qhmNtf18gibMQ4MAFWpWAl/jq8Tb+H0Wuo8JuVYGw==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+3sQvoj1v44+zU6+w5xa+OrU037Q2wE30+svVx8lJy5tor5IL/UAgYHP498jWrwq+0VosRqvOkObG76QN+f0/LYLegLSBygUsXoDJ68iOAl"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png",
         "name": "BABY TV",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xO0UV85W9QHAfT2YPvJuThSx/Cois3jXwhhWvEi3zunI8KB5UlffRFy9bE3tMlU64=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTG8p8eCFpYaSfpqHTprz/cIliyUoh2FqJThiiRFS6z7A==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw0gleZgHMpeob4p115TvgsE0LOy7VGRZSYrcNHk+oemx8VVI/UqKB1B07JJFPtVef4xJE6EgaqRymiiZ/K333ATgeKCCV0qNp8cw0pHfcfHY"
       },
       {
         "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftvcable%2Fimages%2Ff%2Fff%2FTooncas_logo_jpg.png%2Frevision%2Flatest%3Fcb%3D20140720173926%26path-prefix%3Des&f=1&nofb=1",
         "name": "TOONCAST",
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tf9hwuDqRqlRpJwcE5Q5uTuyoXw3NdVZ5KzfELE3iW6xxFcGqwUvAJEZ1HPjkHA/o7LhNgDPr+CGPrWBuB0Cex2rWtkW5B9OT7tOD2UA23NlK",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQAKUU9HPbwHDGuZvwOX4LRAqD+u886hXwJn2lMv4EtBQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw9tkOJAYlRnHo2KS/SxrHtwRx0+ycKO+pkfEAHzhHTA6sH3aNhTGKAvNLwm/KtXB+ljubMe0Pvb9prq92MFTOxV4u36yGLrvorLa625qbHNH"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png",
@@ -1492,17 +1242,7 @@
         "name": "BIT ME",
         "drm_scheme": "clearkey",
         "uri": "kDJWeMQMsWWNqyw2I4pc8M6iQegUBbcC1svJI2fXUN4YIsYRKqlejG1Yvf/XDrRTBw6yfF6boHLt\nBppI/qcl/w==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTWeMDoDCB2mTdI07inUvOYGktfZPzgK5CO\n7ljQbOMzJg==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwwrcvWLpDWise3H8ugOPspP8wC5VbkvY6WMW9vcvZwHtUTRYk57fdCAawAL7a0HvB5Tg0UPwPkrjyBkhH50yqfwr7+uLisbk+PSaI+BuLwp9"
       }
     ]
   },
@@ -1515,221 +1255,91 @@
         "name": "HBO",
         "drm_scheme": "clearkey",
         "uri": "iQE5UD32nT8/AcvUGsXHhUhs7QDF8nBcmU4iAkf1oKWGvjMp+e58af4L5npLlyjEb+a2yHSVSRW/1fPJnxHVjg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR6Gueoy6pnjIcodBjO96FFRN9v6x9fJlV7KtsXKKgaJQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwy53k7R8J1iJ+EPFC4TJ02qwTNdf15bwIR2PNfeso1Z7dLO0dY6IYN39PJJYZkMpgy6Wik57EEgnfF2cSLOIkpV4eFf7l+4Yh9szzh1XydM/"
       },
       {
         "icon": "https://static.flow.com.ar/images/881/CH_LOGO/350/500/0/0/30164333072684.png",
         "name": "HBO 2",
         "drm_scheme": "clearkey",
         "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/imNoh+anaa2KcLCg+ErgWYL6SFw8O3g57CWnSQeM+Z8trHsnWWKYxzrpFuVh0ZF5k=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR6Gueoy6pnjIcodBjO96FFN8r0T78d31c95Od3ubkogw==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw0UEDC9XISSSLJm+8hHhEtZw7PPELBP82tkdvegscGq+9frK7/fTy0gEuSl+F8iZ+dodvDjpDu4HqSfJn3eDcpA4KIvc4ooMPuzuXeyDKYvJ"
       },
       {
         "icon": "https://static.flow.com.ar/images/882/CH_LOGO/60/40/350/500/9358483307335.png",
         "name": "HBO FAMILY",
         "drm_scheme": "clearkey",
         "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/imNoh+anaa2KcLCg+ErgWYHc0PwcZ0m4W/qFCRxAOOcZIv/exgJRdiiuqS7bfsVaXAXhPWHSkG20gLnS2P1/Qu",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR6Gueoy6pnjIcodBjO96FFTas/gTAuv6gRia7pYzlQWQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwxdIjMAN5TY/VKvq4C1ko2VomA76MEM3UGWyu8A8WLyPihjdrc1ENf8we2zjCu2b8222bQlsEvtVEeDIUDDcQ5CpoRuruvqr26ae5bDB/L5K"
       },
       {
         "icon": "https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
         "name": "HBO PLUS",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWzwu8O88UncrfmOJsZw8/NnyhtNQYDaJCDdmSy+vZmEw==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR6Gueoy6pnjIcodBjO96FFukR/MnlJzQbW5T80xMuO6A==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwxPfnK9PqmBEjWe3ctcQRJJVaVPTkM6NoC5gNj4v0byB4Ix9XzaUWBrG/jZ+BsgQr77ERIVZQKBQsBqpKz3BrkArrOVCIHep00G8MZrg5rce"
       },
       {
         "icon": "https://static.flow.com.ar/images/884/CH_LOGO/350/500/0/0/1793376207500.png",
         "name": "HBO SIGNATURE",
         "drm_scheme": "clearkey",
         "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/imNoh+anaa2KcLCg+ErgWYD2A6UyKWwJ/AmO8x2Eh82i1nUwFJ/Ds59LIuMzBaafUgZKN5+gkWs4KdkVXxEFcO",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR6Gueoy6pnjIcodBjO96FFRK9h9196ZJCHKeHbRP0cdA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw5nDXZ7GcRv13lGkQGLSUNE2iEagHwrvhageWVpcnOEUY9u/6w4ehCYnaer0Rc3aiUmQjiZ8tEuIBkUp4DiXQJ6R0rKY+vI5zkPY0Lh5zcgu"
       },
       {
         "icon": "https://static.flow.com.ar/images/704/CH_LOGO/350/500/0/0/931513860712.png",
         "name": "HBO MUNDI",
         "drm_scheme": "clearkey",
         "uri": "iQE5UD32nT8/AcvUGsXHhUhs7QDF8nBcmU4iAkf1oKXnFcXZ6ntwDtjCW/AZIr26LskECTweopQvd1N4pMSGnQ==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR6Gueoy6pnjIcodBjO96FFDAeSSVU//h5l/ogHkW6e2g==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6Kn1cLq21S/TSSDXx/rEhet3MUBMYSpnzsPh81kcauzvGY5rNFekcKfCGbytPoPlHdWLMnbC3kMwYDQBpHWpogTmqEs2sQI2GCl9alfkN51"
       },
       {
         "icon": "https://static.flow.com.ar/images/1441/CH_LOGO/350/500/0/0/71702634073927.png",
         "name": "HBO POP",
         "drm_scheme": "clearkey",
         "uri": "iQE5UD32nT8/AcvUGsXHhUhs7QDF8nBcmU4iAkf1oKUkmjbKif22n7CqejmC7SJXGwM2QdHonQRFzhNKE3SPOg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR6Gueoy6pnjIcodBjO96FF3M/6tBc+jx//BtPvkUH5+A==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw2JBEalArAh/TPgpiT3hyFu+LfuMq3eQWDAkI5mnnjOQ8vUheTuE9nFRKPht61l+CHCtYlhAaOIjQShuFOs+4Ycm9QiD0R79asZscUJxBfEZ"
       },
       {
         "icon": "https://static.flow.com.ar/images/705/CH_LOGO/350/500/0/0/7754024707334.png",
         "name": "HBO XTREME",
         "drm_scheme": "clearkey",
         "uri": "iQE5UD32nT8/AcvUGsXHhUhs7QDF8nBcmU4iAkf1oKX7P79/hmWKYIlUMN8cyNgCle2/KJ0G4SOwSNGN74nvFd0+dWZzry6roAdWsgjd0Sc=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR6Gueoy6pnjIcodBjO96FFxah1jepV9pVxSAPpemJ/Gg==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw0M21iIWLKkxArKk/a0VSXz0pMGX45JnlDLupAi/Cn5c+EHMIEUlTUeDWPi6ex/ByZaENk/BAxv/U8gRHDVwUOW0OV7igXYdoOhdZXtg3hHo"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
         "name": "CINEMA",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ7E3A3SdtHdMrt07BBDUruekzzRVIoMbDNz7ZEGIWtOA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw/ILTHYq7X/5m2NgK1tPFKT+xQ7rPgQw1TibKTyyKgJMYNIPcbWbTww+BbLw7Q0Nj2a4LShoH6np/rT1v0ABieYWZo19HO4FRrfysL0LzJ3V"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/uncomedy.png",
         "name": "COMEDY",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ7E3A3SdtHdMrt07BBDUruYZLOIaI59V7L9kiLI/qHAQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw4v9llW5FgFPvp5CFdYNAlH2TetL6KjKm74omtAMovEmhcrncfcZKmfJUIUCFP0CsKjjIYA10Cu1/X5jJuzN0/IkQEgKZ34sFVRZ8K/rnvKF"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/uncrime.png",
         "name": "CRIME",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ7E3A3SdtHdMrt07BBDUruxF66nPpa4RiN1VE93iZJ1A==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwz52WtBSpkk6J8yjb6AuyWRdt8i7M4e4V9CLkKjh9IAMVo+IDkF1R0tgh6ZWJAStGhqBVnXSluDy7IKqVrw2YOcc1YJOBaSlWzLGcy2cGan2"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/unpremiere.png",
         "name": "PREMIER",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ7E3A3SdtHdMrt07BBDUrusf5a3D+gE5cyAQwFB3Otkg==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw3G980majBRwYii/wYe23MAYiqSaL+Jj3RlCU221Lfmye34mfbxfDudvVH5h4raG5aN0IrEMbxBpjyCO8pN2qCkMAxfZm42Ds0OmSgO9Nj4X"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/unreality.png",
         "name": "REALITY",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQ7E3A3SdtHdMrt07BBDUruIFJ5khkwlLkJpvmg1mJEUQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw0XouFX6+BmyTU9OGItmALH7HupmuDEDZ+nOAXwktmT/M+yripw0F09INciq/Te/cZdYmotSbuBeALjAyAAmMn8eXvl3sNDCyKietebNnAuZ"
       }
     ]
   },
@@ -1742,17 +1352,7 @@
         "name": "Sony",
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmhce8uwWU4VQpKQATTXZxT5uZ1dPruB4k1cTw5bNRYmg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTjr8XfMpNMZpHr93+P2ACC67PbXXcxurT3FDicXDrU4A==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw82nqZgD1vNS0QRttFASB4YFA3RERh3KO7XFPmzW4Inel4xZKE8SXwvQ+1wbN3nZf2AyP16pplg4wR8iO/3Dd9nbLIJVlvD8dgvJ/Pi4WPqz"
       },
       {
         "icon": "https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_novelas_1.jpg",
@@ -1769,34 +1369,14 @@
         "name": "TV CORTOS",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivQGTbxoloDg5spSaUXjCLHA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw7FSP2JHMkjFTTFAdUr/uuuZP4fCv9NtjDyr6XR74Uw/M1IBuoZgUpaHjKZguUDVhczwT+r+jO2zgy+eyJtlGedODH9442m2k2X9nyQESGGJ"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/cnlatin.png",
         "name": "CINE LATINO",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQdacmJNG4KjhOoCe+FnqJ53v+c+Vq1wOsRGiZ8M8NlPg==",
         "drm_scheme": "clearkey",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw/ee7Wlj9MOEIT2Sve4nKjFRkZOg5jy5BePFjptvKClmi8v2zsCULmnB8qPMb3Xvsc+nkiL7DdYb4F1n2tkTPXy+cKM+wttRLGctHv4/RIwx"
       },
       {
         "icon": "https://static.flow.com.ar/images/267/CH_LOGO/350/500/0/0/75126015073445.png",
@@ -1857,34 +1437,14 @@
         "name": "GOLDEN PLUS",
         "drm_scheme": "clearkey",
         "uri": "kDJWeMQMsWWNqyw2I4pc8M6iQegUBbcC1svJI2fXUN4W1Ly2YWRuAwvxp2L+oucyPqa0xY/z3sUjIa13I0bjnQ==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT0MOzV7XLkZceZ/jXkhXvOA7anDmsgemiwO42t6f2UJQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw7nZ/gbBse/IuKe3vi2Q+KktIDal0cpvQ9qXT7Jn0bHhJT4FT6CyBIekNL1b6UgCyUWqUMaQ6M1dOpqmNqOW005XpWKnPtAfKUAApoDMekep"
       },
       {
         "icon": "https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png",
         "name": "GOLDEN PREMIER",
         "drm_scheme": "clearkey",
         "uri": "CNkMxdKH7X9uRVUdhgCc1QWy1D0rx8JQT2eQYfbpuzZWOY22YnKSK1s7VDPKzKpoN0mmyA/GacK9fbQkqW8i+IJCiPghoxfCQAn0AdlJt7k=",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT0MOzV7XLkZceZ/jXkhXvOE0zy+8ieHgqusd2iTZGdQg==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw/Qt0sKRffqMBOMmsPueaUKeWpLNP5gP36QzpjoThF5ZX1WMFF85ODgzMlsa7t0ueq9wE1n5Guvt3CaQRTQnKxDSEOWJZVyxPHr1xwYye76S"
       },
       {
         "icon": "https://static.flow.com.ar/images/294/CH_LOGO/350/500/0/0/61143889072040.png",
@@ -2623,17 +2183,7 @@
         "name": "TVN CHILE",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVscgnDUlmbKQP9ATib3nNIYZn6GvuFMAHJtHc0VJxKGQ==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSd3UxwtZrTe2qGLKz1wsSaP5C+uKMiogV0TbG73IEfqQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "b7h9frGudfHZK2f4YTtuzEVkrPCT+vUlWeraNJmwhvRmFdyMzTj4WjITARwhXCEwJ6hXd0SKviLCaEKeL2uo+/amCII3DWAK7PDtONGoQjrdjOu04qBfw2qZRMFSwxI09SlXhrVAF2KITQj5CcFjKw=="
       },
       {
         "icon": "https://play-lh.googleusercontent.com/Ed_G7knDRnqz4edKTWNcfwdzehwP2uX4Hb_Pr9vkjnuSaQQuKybeyBxHXJZw_23fTdjZ=w240-h480-rw",
@@ -2969,17 +2519,7 @@
         "name": "Az Corazon",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smnt8h7fM2asCAtLYk7XY7Cy+yd6Bdx2GL5rdb3HrvVBGQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS4UXjoYiJeC7pygoUDppCcJYArt4uYohaCazPj+8LsPw==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw3YezDt38OoEXyR/RN/Nqq2gs5reeP8aFWotsl0uH19MWPIJ5X/vCV0/NE71LcuwrPt9nSWFAIvin/EpmMtFYTR6mjEqt0Cs3BjLBIIoIETd"
       },
       {
         "icon": "https://static.flow.com.ar/images/9117/CH_LOGO/350/500/0/0/48405905077154.png",
@@ -2998,17 +2538,7 @@
         "name": "Smithsonian Channel",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRTobWZX3MOz7QoRX2pfIoe3K2KFkqXe9t0cTOPIxCKNg==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw4bzcBhhhNACyrQ68ceG0r7zPt1uoyjvPNduhkz/fTe1eswgO9GFmwAuO/OVpZebfF3vux+ro+6yT1NDzmjThvGA5lV1WM+j4HYOcG9LPZNV"
       },
       {
         "icon": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
@@ -3043,17 +2573,7 @@
         "name": "ON DIRECTV",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnX7/SqT58b7YDx+OBYnsBzcM7j8nrdTNYpKG+2JIM95PQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSyL6AyARQ9zbLwuA/gOnliUDuI2FAONg9xQ7SsWDAgzw==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRww+QBSGY+zjO/IN7LBmF7xJeOWYYNAwhXYrCHlm/JuSzhxHBSaT4dt2svW2pCLuBp79zT/xpPAK5LweLDvOtfrrZEtXexVLx8GFiPxSkBxmz"
       },
       {
         "icon": "https://static.flow.com.ar/images/667/CH_LOGO/350/500/0/0/846786600758.png",
@@ -4019,85 +3539,35 @@
         "name": "CANAL 10",
         "drm_scheme": "clearkey",
         "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UINOsfwAI63XVBnsvg4QvsJ+7HrijSM/47DznSbQPqDc6+Tv8Kmeew7AyjNDnnWg4AGm8KIg32aAhaUgE/XMyN/E",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQLYGdCf1VRQjOOc9AUuOQQJH5n2PEcDgSrgbDxioJTxA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "b7h9frGudfHZK2f4YTtuzA2l/x/Z6eipQ7I6WgFFrk6s59zxIR1oNlm/y9Z+vSyFCiZSFHYaEmT2YlxKzSfAp+Wwg7z/3W0xMVs3JUKN5t27coHy+FswxRy4CUuL3dzu7hy36EigurqJKbHn4LFQ5w=="
       },
       {
         "icon": "https://i.ibb.co/BcrhzSq/teledoce.png",
         "name": "TELEDOCE",
         "drm_scheme": "clearkey",
         "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIOgSrf1HGQFpFiFaGeJUFLnyC5xWLi4oOl0WlHkZRsJszZlyUB0K/AU4LXiPG9qnhYoWc9I0dGjwB6e7ompfgVL",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRxTb5+PuApXuijf3ocASvmO44jVNRTupd/+dl1iitfRA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "b7h9frGudfHZK2f4YTtuzHTl0JdqFe0csaFzplhWeGAtveTdtr9g6jnr1c5LZ7SRgxuQanYX/J2PBYPszVlUHgaopq8p5x6sQfsPfwnSUrKg/Y0tOPfVqF/gavDcnhbOqMMV0N9Jaj8ffj1XROQMqg=="
       },
       {
         "icon": "https://i.ibb.co/mhjv8H6/m2-Olr7dp-400x400.png",
         "name": "CANAL 4",
         "drm_scheme": "clearkey",
         "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIN+pRNXu0CZAdYe0aJ6DUt4e2/ocmqMLPcBm2bI2g4TDOAvnHqSH4FJAYgPv7WAvbzvw9CVxAEehu5C80HjpdGo",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apRe7GxZU0Cy4WjHK5o6gUmW+QbePP9x8whsc3DvEGaxDA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "b7h9frGudfHZK2f4YTtuzI7pvoFhyR9Qaxe9gHMJECKPM/4b3Wg9oJ2wYgwRDd3F4X4TUJuNiSS7sZHFcj8xdDz71fL15k6SkLzCtXm0GMuMwRpCo5pF2gD5fLb2gCeFANpIlEzx0bYgU+uy/RYygg=="
       },
       {
         "icon": "https://i.ibb.co/S3j0Kw5/televisionnacionaluruguay-500x500-300x300.jpg",
         "name": "TNU",
         "drm_scheme": "clearkey",
         "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIP8g1+vyyBSTLtkZ2WxriQZ30vh3lIM0LJf8Dt1fsjujag58HFD0HFKeA2VfOONtYphPIqLa6YYGkTPoGoumwbH",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS9iEKDM5dtEkKivVOV0n8kPMeds6Y1gfFJghROiIlJzA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "b7h9frGudfHZK2f4YTtuzINswdXyr/YBAMxq20SXeInzjIYkjBbOjJMfPHOvnOt9UdN7jSe4H7vyx6waqs+8NHzKsLD3TgoIxk1Z+hDkKbovB49R8RtaDeU585KywXXEzvx5WVYqgbuqw35OyeMKdA=="
       },
       {
         "icon": "https://i.ibb.co/Fn4sG5t/Logoteveciudad.jpg",
         "name": "TV CIUDAD",
         "drm_scheme": "clearkey",
         "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIOlXBJh1fqvVNRPcb2E6etI7rICMRJlUG5dwMtJJ4NyU6bTXsGzcQofz8j5p8GZrvmH4q+wAcSU3zwzaPmzglqm",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSxcdqVeBdgCfaz33TrVWivlnibOpeguhGZ20QBRr943w==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "b7h9frGudfHZK2f4YTtuzEGrO0GM4LBT4x9lpRvh4kiGzS7w1ZSPIfesZvnVkTW7h1q5E7x1W8sP0EsYsDu2OoFCuR6XI9lecp1Jh8RpqDGN/TsONslw+VGy7tOFq50Fqr/jaPUaSmhXd6dx4wc8jw=="
       }
     ]
   },
@@ -4635,17 +4105,7 @@
         "name": "TNT SPORT",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWEEfvjiH+LDqsBivV0K8je2Q2crMJmYG6cF8vUsdrofg==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apSCXRFvoRjmanFLnw2ePpFcgP6C1uihKoOKL45u+k7vfA==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwxj/hswEuf2dp5XCgXGHXdDZB2sAFVUGKghKhclwKL8lq6U5ECY3Nf6FbC97JGsXNfbqp2JW3ine4uJRgt/QBl4xUItaL01jslqGuc80u5hy"
       },
       {
         "icon": "https://www.m3u.cl/logo/1235_Origen_TV.png",
@@ -4808,34 +4268,14 @@
         "name": "cuatro HD",
         "drm_scheme": "clearkey",
         "uri": "zkvgsEAT6/aKcS9HgLcYD7n0Z2iCZ2FredxIu4HciYH15WG9DY4EeyvM3EPczT+Urfuh/+btW2UeaVvYMTGrQcGbZAlpeThcWJpK6cdBW/0QVvSI8h0zPh2p4PsBwuECGKOGPI4njJ53Kq5hy3Sk9A==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apT3xCNl8sMrfDMmLSJbQyJzuTg/50HysWL7UETSjeIFHQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "b7h9frGudfHZK2f4YTtuzLL+lk1R632r0jAAjZILoHJGsJSx14C19/SXU8o/3PLWZljXMp2t1OZg4WKsjszlzPGIBMMgdi1e79s12qmRKo0lPMvZMV8nsfEdeOSjDyne/QHefwssob7z+RwDc64Wew=="
       },
       {
         "icon": "https://megatelevisionhd.com/img/logo_canal/Antena_3.png",
         "name": "Antena 3",
         "drm_scheme": "clearkey",
         "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jzV7KMwnykvFaMJctOPZwxLlBxSTk1DwxjuX8IWZYF4dqeOqzVs82+t8EgZ1pKMTux0toGcyWQkWG0Nlp2f+8E",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apTsKUZ94FzSLjEnDTKj1KMyxjDMS/Oik7HhF+qs/hZ+4A==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw3dU+tl2l9nxyMHLXKqdQqbky68Us0AkUf6R2WhVV3QXAts+lrGynUXAmnEbO2JwfL/rX6zC67iLw10haUZN69iPM9DgmFczirfREifyZ3P3"
       },
       {
         "icon": "https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png",
@@ -5153,34 +4593,14 @@
         "name": "Cinema",
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm1aB8sDE8Pt0/QXgD1nu7ezPwbY5MtBn9M1lWSYfkTwA==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apR/NLxfDl8/j8CbAe51CAr2DomRIjl3ZkEYJ8+bn0qFxw==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw/SKkpZh35PjIeBM7QZop+U2ph3DpNOZaqg9IqZDS2VHWUO0EUixf09maGxR+S/ZKremVCjTILmVoP2qTB7x5En49TO3iuzOv9hbRXUNjmNW"
       },
       {
         "icon": "https://www.cineytele.com/wp-content/uploads/2018/09/AZ-MUNDO-NI.jpg",
         "name": "AzMUNDO",
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkliAFgfa+YzTRx+9VnPdOmK6rI8+YBUhsiVFy6BQljjw==",
-        "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apQDRPko8hGh6d4KvO3DoDC26G+5CRlqDmE2Db6rhuJiPQ==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-          }
-        ]
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw0jWZ2AMkpTRASViyw9beAmAcsT1ogQ4PHIo71XIgZYDOE27vDMXKkWDrGElH5j6x+Af0IdWeXpG/4g7jiY1HJMlDUq3OBO/pjfOJ1+WNyHu"
       },
       {
         "icon": "https://1.bp.blogspot.com/-IL8t_loyb9g/YSVucSwXkJI/AAAAAAAAEN0/O2rdiOFpjTUDQ8K8FpTOD0MgLBvllN1KwCLcBGAsYHQ/s540/estrella-tv-logoroku.png%22,ESTRELLA",
