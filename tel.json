@@ -77,14 +77,15 @@
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVxepM5AiiFlZcnkNk1y7eDQTQnnkz83L86wg2v20LOrA==",
         "drm_license_url": "F+EZq0vDx0VPuZQgtnjoaT52LVB5PR2f8uuCE/L7apS9QJx0/BvbAdhuZAVGFF1eUN/uJdHEAYBweEIdpS1FIA==",
         "drm_headers": [
-    {
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-    },
-    {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-      "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
-    }
-  ]
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
+          },
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+            "Authorization": "Basic YzI1MTEwMzE6MzVzaVZJYnV3bw=="
+          }
+        ]
       },
       {
         "icon": "https://static.dplay.tech/imagenes/a24.png",
