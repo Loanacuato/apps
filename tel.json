@@ -163,9 +163,19 @@
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
       },
       {
+        "icon": "http://static.dplay.tech/imagenes/sptv32.png\"",
+        "name": "SAN PEDRO 32 TV",
+        "uri": "Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/sptv32.png\"",
+        "name": "SAN PEDRO 32 TV",
+        "uri": "web:Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5"
+      },
+      {
         "icon": "https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg",
         "name": "Canal 10 Rio Negro",
-        "uri": "web:KsiuEyVQ460Eq9rEW5fR3cj7cG/z/EZY5cc0y7ptYhcL9mf2PoWRLdWq+HaaoYM+S5bofMTIig5BL9yfNNFmeg=="
+        "uri": "KsiuEyVQ460Eq9rEW5fR3cj7cG/z/EZY5cc0y7ptYhcL9mf2PoWRLdWq+HaaoYM+S5bofMTIig5BL9yfNNFmeg=="
       },
       {
         "icon": "https://mundialtvdigital.com/logopalomar.jpg",
@@ -200,7 +210,7 @@
       {
         "icon": "https://static.dplay.tech/imagenes/canalochosanjuan.png",
         "name": "Canal 8 San Juan",
-        "uri": "web:X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zTtXgzuyLwYEnDjJje1AN4zaGBurKh+ugZbitjp7LuM8UP55A7bovNCOxATABzu4r"
+        "uri": "tCCYHaXdfeE2UXGmWEN+OGXsoToLdvwzFtWemB0M91ND/HZblgPhzvGgJMCJokA5"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/albardontv.png",
@@ -290,7 +300,12 @@
       {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/482/CH_LOGO/80/80/350/500/25885319075824.png",
         "name": "AMERICA TUCUMAN",
-        "uri": "web:X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zXo910lGsuVI2A0wwkeB2ZliEq2kjVl8rVDj5egld+RgijLNRPgtx3gAaR8hg2rtb"
+        "uri": "tCCYHaXdfeE2UXGmWEN+OAHI+pFxCrYUTAQqV0fBABoTja76gicYy+yfhqQVgfLNq1CUYe/hHUxamWLA8HMhRA=="
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/americatucuman.png",
+        "name": "AMERICA TUCUMAN",
+        "uri": "tCCYHaXdfeE2UXGmWEN+OAHI+pFxCrYUTAQqV0fBABoTja76gicYy+yfhqQVgfLNq1CUYe/hHUxamWLA8HMhRA=="
       },
       {
         "icon": "https://i.postimg.cc/Hk5LMCv4/626-El-ocho-TV.png",
@@ -300,21 +315,11 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBizVgSdK/sBGjukUyMEUAN56D5nZdOdugaRFZn4cLzFfAA=="
       },
       {
-        "icon": "https://i.postimg.cc/Hk5LMCv4/626-El-ocho-TV.png",
-        "name": "EL 8 TUCUMAN",
-        "uri": "web:X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zUNkb3SdijHyZ8iBHjaTW9peLiEqoC5raRkH+2xv/+Gg="
-      },
-      {
         "icon": "https://i.postimg.cc/CxdS7xxY/620-c10tuc.png",
         "name": "CANAL 10 TUCUMAN",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zWeTayl5/sFTwCDRoR6g4vfS5xVDOsuuRboWHeENK3ddE30bFwzch+R2hzECtLJwKreP1MP0TjyHUNNeD8puu2",
         "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhILS/pRcFidOSoAw9x6HtGBuh/GWwbZslL8b32v+Yikkg=="
-      },
-      {
-        "icon": "https://i.postimg.cc/CxdS7xxY/620-c10tuc.png",
-        "name": "CANAL 10 TUCUMAN",
-        "uri": "web:X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+ztQvYwSqVnzdDoHcdfvyTeh3cC/igZoCAtu5iiAdfqmU="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
@@ -324,7 +329,12 @@
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/7/71/El_Siete_MZ-1.png/revision/latest/scale-to-width-down/250?cb=20210526135529&path-prefix=es",
         "name": "Canal 7 Mendoza",
-        "uri": "web:X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zYAHMQRxYduzyCZZrR/6/Kw+hFJ6PoOBZDs8M5nyNJpHOCSwDjDuljnHG6vj1ALmm"
+        "uri": "tCCYHaXdfeE2UXGmWEN+OAT3EibWVPsFyyr+G+Wf0qarJdjek4FEX8upuxaXxff2"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/sietemendoza.jpg",
+        "name": "Canal 7 Mendoza",
+        "uri": "tCCYHaXdfeE2UXGmWEN+OAT3EibWVPsFyyr+G+Wf0qarJdjek4FEX8upuxaXxff2"
       },
       {
         "icon": "http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png",
