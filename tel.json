@@ -158,17 +158,12 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhKNv+mNAd7LZI/yihgJh3QoC00ALMy46SyDr2BYuoLX4g=="
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
-        "name": "SAN PEDRO",
-        "uri": "web:Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5"
-      },
-      {
         "icon": "https://pbs.twimg.com/profile_images/1532029271610376193/CouxLUR6_400x400.jpg",
         "name": "MULTIVISION CABLE",
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
       },
       {
-        "icon": "https://panel.dattalive.com/8204/8204/playlist.m3u8",
+        "icon": "https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg",
         "name": "Canal 10 Rio Negro",
         "uri": "KsiuEyVQ460Eq9rEW5fR3cj7cG/z/EZY5cc0y7ptYhcL9mf2PoWRLdWq+HaaoYM+S5bofMTIig5BL9yfNNFmeg=="
       },
@@ -664,6 +659,11 @@
         "icon": "https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png",
         "name": "City Sport",
         "uri": "qQgxooSYUS7FMPyYAqyIRbJaX4IHMOxcve7DLnykxhQrxJxw7SVCSktvX0U/+Z+FvFVCGA0le1WDVxqHkBc4BuRo5aiLFBf12A648WhKVfQ="
+      },
+      {
+        "icon": "https://i2.3.pics/c767dc0905ee282c6ea1b565625e7ca7.png",
+        "name": "prueba",
+        "uri": "web:s8HvMAuiaqqh/myExYFVkD8I4CVbYaLiUCSxq2jaJ/G1WAi9Amk1vKExUQcZ70Ntd2RNcIk5O/uColKpRJRzqrurU3jZgiuhuIkvPYOmlYtf3AIW4N+d42mygXWlvPvA"
       },
       {
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
