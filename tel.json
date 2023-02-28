@@ -163,20 +163,7 @@
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/sptv32.png\"",
-        "name": "SAN PEDRO 32 TV",
-        "uri": "Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/sptv32.png\"",
+        "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/55658a680c893a358e806abf1604d905.webp",
         "name": "SAN PEDRO 32 TV",
         "uri": "web:Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5"
       },
@@ -184,19 +171,6 @@
         "icon": "https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg",
         "name": "Canal 10 Rio Negro",
         "uri": "KsiuEyVQ460Eq9rEW5fR3cj7cG/z/EZY5cc0y7ptYhcL9mf2PoWRLdWq+HaaoYM+S5bofMTIig5BL9yfNNFmeg=="
-      },
-      {
-        "icon": "https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg",
-        "name": "Canal 10 Rio Negro",
-        "uri": "KsiuEyVQ460Eq9rEW5fR3cj7cG/z/EZY5cc0y7ptYhcL9mf2PoWRLdWq+HaaoYM+S5bofMTIig5BL9yfNNFmeg==",
-        "drm_headers": [
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-          },
-          {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-          }
-        ]
       },
       {
         "icon": "https://mundialtvdigital.com/logopalomar.jpg",
@@ -219,7 +193,7 @@
         "uri": "t59uELZdayTJoFF5qUPb5MOLI8ABKDW7Kh6r8rZXT9c5anP3KaslkMPXka1qz7xfTolETbCnXk1g7NEUaR2KXA=="
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/chilecitolarioja.jpg",
+        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/65/4a/20/654a2090-8abd-a688-baa1-1cad43aae67d/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg",
         "name": "CHILECITO TV",
         "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJP5yfJvQkMvGTg6WE7HLQvMHKQ1Ef0xgWinDfiC7pyXGw=="
       },
@@ -324,11 +298,6 @@
         "uri": "tCCYHaXdfeE2UXGmWEN+OAHI+pFxCrYUTAQqV0fBABoTja76gicYy+yfhqQVgfLNq1CUYe/hHUxamWLA8HMhRA=="
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/americatucuman.png",
-        "name": "AMERICA TUCUMAN",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OAHI+pFxCrYUTAQqV0fBABoTja76gicYy+yfhqQVgfLNq1CUYe/hHUxamWLA8HMhRA=="
-      },
-      {
         "icon": "https://i.postimg.cc/Hk5LMCv4/626-El-ocho-TV.png",
         "name": "EL 8 TUCUMAN",
         "drm_scheme": "clearkey",
@@ -349,11 +318,6 @@
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/7/71/El_Siete_MZ-1.png/revision/latest/scale-to-width-down/250?cb=20210526135529&path-prefix=es",
-        "name": "Canal 7 Mendoza",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OAT3EibWVPsFyyr+G+Wf0qarJdjek4FEX8upuxaXxff2"
-      },
-      {
-        "icon": "https://static.dplay.tech/imagenes/sietemendoza.jpg",
         "name": "Canal 7 Mendoza",
         "uri": "tCCYHaXdfeE2UXGmWEN+OAT3EibWVPsFyyr+G+Wf0qarJdjek4FEX8upuxaXxff2"
       },
@@ -779,7 +743,7 @@
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwwc0F37MhGbnCOemDI6JJPpAZrj+yK59k5hqwopqM5dVcHg42gwnzGMkd9Asa7AnUvry2MstV6xeeKC+UohqgFQEEwvP9k56c7jmvoVIsr6X"
       },
       {
-        "icon": "https://megatelevisionhd.com/img/ecdf2.png",
+        "icon": "https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png",
         "name": "ECDF",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWEsOSTO6qbKDInff5qm7tdtDI5pUAKiTtOJTAhuTMFjQ==",
@@ -916,38 +880,38 @@
         "uri": "WlCRWq3Jjheqe7Vpd2XUhgtPqBNR4UavZUH4Lw657TXvtdbzpLqzqVQH3b5w4WFX3A7FjZSV3JfjvFeAQxrb6qMtcuhRCRquC3bhMdkzPU20Jqo/foJdELXnB3jm5efm"
       },
       {
-        "icon": "https://megatelevisionhd.com/img/Fox_Sports.png?up",
+        "icon": "https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
         "name": "FOX SPORTS 1",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3eMxJeKBbxYPemMIJOMANzRBAF7f43nAU2tMO3RFQ0S+G/N+Q9U7EDAndGr1XEXdq",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsP3vx7CM1qKswmQ2azlMNgzvdjbcKpp319JdD8UR4ptw=="
       },
       {
-        "icon": "https://megatelevisionhd.com/img/Fox_Sports_2.png?up",
+        "icon": "https://www.foromedios.com/uploads/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png",
         "name": "FOX SPORTS 2 ",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3njG8+lP8bbVUx39am16FPP47hFeiWaZVxPKOH5ON1w5zQusKh1O7qkWPK/dI1F5k",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Uu+s54LnFlQmYFHMNSDjnbAQufkk7/27wcDwdSoc369ug=="
       },
       {
-        "icon": "https://megatelevisionhd.com/img/Fox_Sports_3.png?up",
+        "icon": "https://www.foromedios.com/uploads/monthly_2023_02/Fox_Sports_3_Argentina_2023.thumb.png.d222c9770073d72e2dd7aa568dbc2d3d.png",
         "name": "FOX SPORTS 3",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3f5arvKzMd0QXVIshrk9DZ4mim39zwq7/zL5O8RJDgn9RYGeaNxTFGQyU7Hcv/tO1",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtNnNKU27Y7XHIIBtflPIYNrC8GpJdGghvAnX+t3UTniw=="
       },
       {
-        "icon": "https://megatelevisionhd.com/img/Fox_Sports.png?up",
+        "icon": "https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
         "name": "FOX SPORTS HD",
         "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5os/CFoI6zHQSastbagb//2b1e1DtjCMhGTsWT+5f6NLA=="
       },
       {
-        "icon": "https://megatelevisionhd.com/img/Fox_Sports_2.png?up",
+        "icon": "https://www.foromedios.com/uploads/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png",
         "name": "FOX SPORTS 2 HD",
         "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5riRrTuuG6YrxNgsr2J/Ma4ozxxKGlfKnMwE58AWBHBtw=="
       },
       {
-        "icon": "https://megatelevisionhd.com/img/Fox_Sports_3.png?up",
+        "icon": "https://www.foromedios.com/uploads/monthly_2023_02/Fox_Sports_3_Argentina_2023.thumb.png.d222c9770073d72e2dd7aa568dbc2d3d.png",
         "name": "FOX SPORTS 3 HD",
         "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5rjXzHCTCGcDtRxdW5Ufcign0CRWfGHFHwZckK/HdxrhQ=="
       },
@@ -1055,7 +1019,7 @@
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwyMMY8IvjX1J46BdJlR2j1LJouzpOoLC02yjvAupInD83l4O/irA7UznhgyC3MNL3Oy5D+KSHUuIwxn9idhSbFGTEersg9Ht7wNtL5wv/Aur"
       },
       {
-        "icon": "https://megatelevisionhd.com/img/afizzionados_up.png",
+        "icon": "https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png",
         "name": "Afizzionados",
         "drm_scheme": "clearkey",
         "uri": "Ewe4N3IAiRa9aKLlXy/BawBwtnUugL8UfRHpczDpEOjyQiNDh1wu+BCVjSFPVos5mIGgKlAfNY80Mop3hqsqq85ByvVJMMZS6+v64X1ShiU=",
@@ -1128,7 +1092,7 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://megatelevisionhd.com/wp/wp-content/uploads/2022/04/dreamworks.png",
+        "icon": "https://www.pngitem.com/pimgs/m/19-193514_dream-world-logo-png-transparent-png.png",
         "name": "DreamWorks",
         "drm_scheme": "clearkey",
         "uri": "CNkMxdKH7X9uRVUdhgCc1QWy1D0rx8JQT2eQYfbpuzbq8V5l6bGdptzh+6wz5viLt9ofiiOPDGve8xGwXq6QPDRE1kbZt+5P+aKRN+CBPi8=",
@@ -1491,7 +1455,7 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://megatelevisionhd.com/img/logo_canal/Sony_Channel.png",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",
         "name": "Sony",
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmhce8uwWU4VQpKQATTXZxT5uZ1dPruB4k1cTw5bNRYmg==",
@@ -2641,7 +2605,7 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://megatelevisionhd.com/wp/wp-content/uploads/2021/09/gallery_1163_2_6112-e1632614315378.png",
+        "icon": "https://www.cablemaster.com.mx/images/Logos/azcorazon.jpg",
         "name": "Az Corazon",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smnt8h7fM2asCAtLYk7XY7Cy+yd6Bdx2GL5rdb3HrvVBGQ==",
         "drm_scheme": "clearkey",
@@ -4222,7 +4186,7 @@
         "uri": "J4nRNWMrq1biIi7mzUwFptdquLBeU9KTaihzhJpW2kOu++nXXYkaKQcYz4X8tsskDC51JMk/sdkNUhLQ9PvyKQ=="
       },
       {
-        "icon": "https://megatelevisionhd.com/img/TNT_Sports.webp",
+        "icon": "https://dmdqet87i5rod.cloudfront.net/estoesmedia/6006d9d7bc979_tntsports.jpg",
         "name": "TNT SPORT",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWEEfvjiH+LDqsBivV0K8je2Q2crMJmYG6cF8vUsdrofg==",
@@ -4385,14 +4349,7 @@
         "uri": "+cuxdvFzXjw1JQFwlGbYLEfoNb4b3oiNRs7ys7sZhJggtR8Iw5SqsWjMRG4fIfyysQo+pt+5OPXr1X7ifF+GCnR62JilSqzXUZIM4a27mhQ="
       },
       {
-        "icon": "https://megatelevisionhd.com/img/logo_canal/Cuatro.png",
-        "name": "cuatro HD",
-        "drm_scheme": "clearkey",
-        "uri": "zkvgsEAT6/aKcS9HgLcYD7n0Z2iCZ2FredxIu4HciYH15WG9DY4EeyvM3EPczT+Urfuh/+btW2UeaVvYMTGrQcGbZAlpeThcWJpK6cdBW/0QVvSI8h0zPh2p4PsBwuECGKOGPI4njJ53Kq5hy3Sk9A==",
-        "drm_license_url": "b7h9frGudfHZK2f4YTtuzLL+lk1R632r0jAAjZILoHJGsJSx14C19/SXU8o/3PLWZljXMp2t1OZg4WKsjszlzPGIBMMgdi1e79s12qmRKo0lPMvZMV8nsfEdeOSjDyne/QHefwssob7z+RwDc64Wew=="
-      },
-      {
-        "icon": "https://megatelevisionhd.com/img/logo_canal/Antena_3.png",
+        "icon": "https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png",
         "name": "Antena 3",
         "drm_scheme": "clearkey",
         "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jzV7KMwnykvFaMJctOPZwxLlBxSTk1DwxjuX8IWZYF4dqeOqzVs82+t8EgZ1pKMTux0toGcyWQkWG0Nlp2f+8E",
@@ -4710,7 +4667,7 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://megatelevisionhd.com/wp/wp-content/uploads/2022/07/azcinema.png",
+        "icon": "https://static.wikia.nocookie.net/tv-azteca/images/6/67/Azcinema.png/revision/latest?cb=20200402025656&path-prefix=es",
         "name": "Cinema",
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm1aB8sDE8Pt0/QXgD1nu7ezPwbY5MtBn9M1lWSYfkTwA==",
