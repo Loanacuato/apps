@@ -165,7 +165,15 @@
       {
         "icon": "http://static.dplay.tech/imagenes/sptv32.png\"",
         "name": "SAN PEDRO 32 TV",
-        "uri": "Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5"
+        "uri": "Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcPkFja3YdnHOay0+GrglagFBQbVzpp3b5nEa1g/suSx5",
+        "drm_headers": [
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          },
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          }
+        ]
       },
       {
         "icon": "http://static.dplay.tech/imagenes/sptv32.png\"",
@@ -176,6 +184,19 @@
         "icon": "https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg",
         "name": "Canal 10 Rio Negro",
         "uri": "KsiuEyVQ460Eq9rEW5fR3cj7cG/z/EZY5cc0y7ptYhcL9mf2PoWRLdWq+HaaoYM+S5bofMTIig5BL9yfNNFmeg=="
+      },
+      {
+        "icon": "https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg",
+        "name": "Canal 10 Rio Negro",
+        "uri": "KsiuEyVQ460Eq9rEW5fR3cj7cG/z/EZY5cc0y7ptYhcL9mf2PoWRLdWq+HaaoYM+S5bofMTIig5BL9yfNNFmeg==",
+        "drm_headers": [
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          },
+          {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+          }
+        ]
       },
       {
         "icon": "https://mundialtvdigital.com/logopalomar.jpg",
