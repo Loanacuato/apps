@@ -200,7 +200,7 @@
       {
         "icon": "https://static.dplay.tech/imagenes/canalochosanjuan.png",
         "name": "Canal 8 San Juan",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OGXsoToLdvwzFtWemB0M91ND/HZblgPhzvGgJMCJokA5"
+        "uri": "X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zTtXgzuyLwYEnDjJje1AN4zaGBurKh+ugZbitjp7LuM8UP55A7bovNCOxATABzu4r"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/albardontv.png",
@@ -293,18 +293,28 @@
         "uri": "X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zXo910lGsuVI2A0wwkeB2ZliEq2kjVl8rVDj5egld+RgijLNRPgtx3gAaR8hg2rtb"
       },
       {
-        "icon": "https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-Ocho-Tucutam.png",
-        "name": "TELEFE TUCUMAN",
+        "icon": "https://i.postimg.cc/Hk5LMCv4/626-El-ocho-TV.png",
+        "name": "EL 8 TUCUMAN",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xLYeKWuOeLbts7N2/gAInoyh4pxWYutjr6Z/rF9KJprj47Xtr6D1tobJUtnbMnNyXUBvo983v3POneY8cUbqLV",
         "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBizVgSdK/sBGjukUyMEUAN56D5nZdOdugaRFZn4cLzFfAA=="
       },
       {
-        "icon": "http://2.bp.blogspot.com/-UpBYoW6ADcs/U97C2BWoceI/AAAAAAAAnG4/-jDiJh10lJE/s1600/canal10-tucuman.png",
+        "icon": "https://i.postimg.cc/Hk5LMCv4/626-El-ocho-TV.png",
+        "name": "EL 8 TUCUMAN",
+        "uri": "X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zUNkb3SdijHyZ8iBHjaTW9peLiEqoC5raRkH+2xv/+Gg="
+      },
+      {
+        "icon": "https://i.postimg.cc/CxdS7xxY/620-c10tuc.png",
         "name": "CANAL 10 TUCUMAN",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zWeTayl5/sFTwCDRoR6g4vfS5xVDOsuuRboWHeENK3ddE30bFwzch+R2hzECtLJwKreP1MP0TjyHUNNeD8puu2",
         "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhILS/pRcFidOSoAw9x6HtGBuh/GWwbZslL8b32v+Yikkg=="
+      },
+      {
+        "icon": "https://i.postimg.cc/CxdS7xxY/620-c10tuc.png",
+        "name": "CANAL 10 TUCUMAN",
+        "uri": "X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+ztQvYwSqVnzdDoHcdfvyTeh3cC/igZoCAtu5iiAdfqmU="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
@@ -314,7 +324,7 @@
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/7/71/El_Siete_MZ-1.png/revision/latest/scale-to-width-down/250?cb=20210526135529&path-prefix=es",
         "name": "Canal 7 Mendoza",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OAT3EibWVPsFyyr+G+Wf0qarJdjek4FEX8upuxaXxff2"
+        "uri": "X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zYAHMQRxYduzyCZZrR/6/Kw+hFJ6PoOBZDs8M5nyNJpHOCSwDjDuljnHG6vj1ALmm"
       },
       {
         "icon": "http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png",
@@ -661,9 +671,11 @@
         "uri": "qQgxooSYUS7FMPyYAqyIRbJaX4IHMOxcve7DLnykxhQrxJxw7SVCSktvX0U/+Z+FvFVCGA0le1WDVxqHkBc4BuRo5aiLFBf12A648WhKVfQ="
       },
       {
-        "icon": "https://i2.3.pics/c767dc0905ee282c6ea1b565625e7ca7.png",
-        "name": "prueba",
-        "uri": "web:s8HvMAuiaqqh/myExYFVkD8I4CVbYaLiUCSxq2jaJ/G1WAi9Amk1vKExUQcZ70Ntd2RNcIk5O/uColKpRJRzqrurU3jZgiuhuIkvPYOmlYtf3AIW4N+d42mygXWlvPvA"
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/e6/JmKIaUdP_400x400.png/revision/latest?cb=20150910163314",
+        "name": "NBA",
+        "drm_scheme": "clearkey",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVoyb/SBXLZMT9YM04U9UPWmwtgdmb5c+jh5yGcgQDA4A==",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw1AA6L4MLuW+ont11nt0nnG7MK+s5/gvYK4hpc3BjFMjPXk+5o2IFM4lj2Ggh3X0MnR5VcSmI40Vws1lCVd8NBEzclwMv/G35V5UaIdedMZA"
       },
       {
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
