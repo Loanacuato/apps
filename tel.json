@@ -56,7 +56,7 @@
         "name": "TELEFE",
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tf7yXJDdeZAFjHlDzvGo6CyKjzrZG0NvnaRO7UipB4gpLkgB7Sq8HfLGAog3PiNDK+l6xxMSAbvxTlVdqYb4iO4KypYGEbe4+yXeU7tMQSVLq",
-        "drm_license_url": "3tj67CFqvzW/8LrmJtjANKnu6qfI9M3NWRxk+EvP4yw6Sd1RrDRx00QUyCsV4VXcnOAklBdiplxDT/Jz0lPevoG/HFrOXZiGFuGSCemgoF4="
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+jqChFOezvdb9UPwaVlDmSpXY/mMvTH+MNVSpq9uME5dDIAfkmbOsYnsDFeyViTlPquRET2s6CE7zS/NxvMz1J/vl+Z+MptGTT836dNjF5n"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
@@ -68,7 +68,7 @@
         "name": "EL TRECE",
         "drm_scheme": "clearkey",
         "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpa+DKaJ4eJEtT4TDDII5cnybG1ZP9kgz1JNmCw9Xr+Z3w6HjwzU/VzAiho2zcZe/ryIQKGk5v0yNGb0OOFmzjG",
-        "drm_license_url": "3tj67CFqvzW/8LrmJtjANKnu6qfI9M3NWRxk+EvP4yw6Sd1RrDRx00QUyCsV4VXcuwTmnxbi1z/3HgJrHyoOQ3dtC8EDbcXrDPNi+cI+E9U="
+        "drm_license_url": "S8J7UcoBX3JGCWOkMhsgMElwdWjVftk3pyfBaltZLfC1QieWKqYDQYAPB9YXpa5ZC8aNBYQewzXo6FItMxO3hfAItYPrvsgtFLrePuyeJGYY/RQJs1QhL1AtRmy2lINZxwChz6G/ImP7c2bZlAWwH+uCvhiTHI5b9bJyBOe6ydI="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",
@@ -93,7 +93,7 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png",
         "name": "C5N",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zdGIW3kExBXNTHdE4hum0hFMWoJvzmwQK4wMP0NKxHS2Yt0k+2bVdqPb+cIqx8Z8A=",
+        "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKnMA7M9t7JPulocxcBcNniNZw+bZQ5PN1WGVESo6DCOfunebJUGbfzARLeqjzQ8uO8=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqamzmq0vRn8NnWjUCfKF9eppDd7NLvuj45Nf9JmSXF4aAI"
       },
       {
@@ -5116,11 +5116,18 @@
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+Fz3M/WNrGMAcKjTzDTlCOo+5h2qCzl8Ck7X95U2/MeW4rP9+IBOmv/D1wkzcpIFuVDnXEX5G5JLEZ+Mc3LGYJuG0gki5atMb1lyEldsTmB"
       },
       {
-        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tnt-sports-2-cl-2561.png",
-        "name": "TNT SPORT2 CL",
+        "icon": "https://static.dplay.tech/imagenes/espn2.png",
+        "name": "ESPN 2",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWTQ+hKT4GCp0yNSD4myftwN6iuORAftMei3MFX2Xbezg==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw4gQaNnj8GAGWY/T3QE9pAsp/bF7catAcKsg5pYcq4NA4xOmhdDD35Nzh4tk+oFkSkQl0/lr82A0kuWdSdX38BXxkLkUdQe/WFPg7Ap9ckFl"
+        "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWuySxZaM+dWo5Ozwb6jXyMw8KSYaMg67Pae+PBcyTQyf4VBvbMJf8BarwU2cbxEuVS60vjY3TcmokUNYJebsadc",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbLFIEqsONtrQ8d2tf2sZ52"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/espn2.png",
+        "name": "ESPN 2",
+        "drm_scheme": "clearkey",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mKfCIvGOCuqqnr3ADB9mpC7iQEh9z0i2QqQIlQB4Gt4f5fAXozrb4+7anryqrP0hA+scLdhhfS4vJgrZ02MkZoK",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6Dj9GS7gQKG/f80+HW0LU/dTJvUXVzQWXdRFw0/La1pBofAYuImhUPJyMiOy9ouHgrYzJZEzCoE0zfiFCi+qvLppPIbv1c4x3A3ChIyt016F1P2iuYJ/RWXSepjOYIw7rweiV6tNP/sefdnDnMJrSMUFES5/Vy7xrdqHnYaMZ6L"
       }
     ]
   }
