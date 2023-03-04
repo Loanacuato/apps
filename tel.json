@@ -1813,7 +1813,7 @@
     ]
   },
   {
-    "name": "CINE 3",
+    "name": "SECCION VIX",
     "mode": false,
     "lista": [
       {
@@ -1832,269 +1832,384 @@
         "uri": "aZQatXcqeqy3aTjo1Zk0aCmgtEJlX1VKk7rkcIdFRf2z6zMhH3vA3UJzR8/bjE6YbGq/Z/C2THua\nWg0pYqw/sw=="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png",
-        "name": "cine estelar",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGm28vZIXhN2cacI1Pz38n8VQIaBnow8VufjCOZs9guCjOCTR/K1e9twIUCmSmzDAiQGxBNqqZE5BfDpUNpuLCwMMRnmx6ZJF0O/vIxN9E7bZp1f/iy35/Hvr+/WHs+oo8+roF8SDAQyCYYgZaSyZ0RbBTSDlJ3fHgwbcqM4W9Yg85AX9pNEhtkBYm0ZoUqGMRjXyo5ARzzhfo5lSF6l1Spaa9CZBcS2DoLdCWBxu/pA3GyTKtl+wvYbDnDtWPv1BWQBCqSFKKHAqOLXVfhbjwjsK0ME8AjyrM7f4I7KvZ72w=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Videos Chistosos",
+        "uri": "D2jLokBxFj/Mr0k2a6m34MU3s0KqoX2ySBMK6c0JDMNwGYd2AQ/ex2BlYHQoeE2REgH2JRYZYQPF5Jilsv9NRgYW/Q2xkghMQgLC2aNf+E0="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",
-        "name": "cine accion",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGm28vZIXhN2cacI1Pz38n8gjlKuDtqrGivTM14U1YPMd46zYOTDg5gPOPmJw2mfaVpDMGlEbfgS6rvOp9pk/LXirMBpkHK4Y+Ym4mDgiLTXqquq0jntRcxm0/8HCZtl+SbjULvwt63X2FeR33xFkvTw3cstaFNdvAqAwuiU/2htACtRREs8sMX1Cv/uKkx2URVoYVwgzfJ6y1IR+dvDOUU63MRlJOLZly8Z5CKakHXIHAsYI49WvdgSgapjcONdNtoV/B1TWKvIBtabm/k9ZndkoAbiU4W15oKIIgc2HW4sA=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Retrix Latin X",
+        "uri": "6xjk0qUm5vyQEG6CiTZonukZvLTB2chL8agSVHE2BVjqyv64B+/RbOZ+73APy7Bb8aZNpcyMCNgYhFwvP/R/f65dQ6IK/8OvVh7umX619tM"
       },
       {
-        "icon": "https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png",
-        "name": "Estrellas de Acción",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvFVibPLSwhC0XC9cmE0o9o7xM7qJ2VsplIEhRoJsDt9xKCtGKIYVoL1dMrhk4oXehjFtnVrbpp7CiyXAR2SOpf/eQBDPohE3zB6GxvJhyJozWvbLrPOLFRWmaDL+AEm4gkpbUzeQzLyhGkfS6gXURPmoFFbVEJWmeMCo/snFbOgVV8l4k2Mm+T8YMGFHPVJ+7vNsTXE/veQNa3JxidxSDssVRa7yY9+E6qfkdaEIg77bHmhq67DcixNUhj+4mCZwepzDm0emJsFqfTrb7GuupVtU/hvFEyAWyqo5g6rLDrvHw=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "LoupeArt",
+        "uri": "6xjk0qUm5vyQEG6CiTZonktqwrKcnHbVpnU/KgpgtcqBoaXJIyaZJlOHD65TvCh7nITXkpr5m3CQMipHSCYXjFXCDp2capu7ZeC8DYhqxPY="
       },
       {
-        "icon": "https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png",
-        "name": "Adrenalina Freezone",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGAfR11CcPzGHAWg6ScQIa+9u6z7wHCVJjOTfomKtRD8OHOfIEP4QoAcbxf1gapVECcAAWYs1X1bQMHNgzhq5hQJ8HV/Ef4wQiHFgTDgDArDQ5KVHRDnRmwU8Fct9QzENFmbxPS3zErIQjKGWswvkYYdPjRx0w4RyjVvDu81NpKo70mSgm1Ni+dsr3ZCnWcb/1KZXHds6EXURT+rQPcSazI9kgq4b8ELAI51Q9feW8yuvV7a2SYTD3/w2HVwTI+rbPMBoJ/MnKMPu+jp2xpyoajaWuhiLXO+pqMsMgZ8JUnoA=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Cine Club",
+        "uri": "6xjk0qUm5vyQEG6CiTZonqP9Rspofq8q53L0brorhsSYxE6joPCqbCTTj9p/LYQ7/08quoHWUxGQPuOHUZdF/w0f/zEt90klMoxQ9bfkhOc="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png",
-        "name": "Cine comedia",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGm28vZIXhN2cacI1Pz38n8CaL/O5pJa5xjiYWvdnULyxHCiM+CfB01Ws2PDxDNccs2x5Esb5UyeRRFMdK5eOchBTROXZMxOzb0IhRjdrPPCRdYrbBETkNFm8DLiGQPUTw1L1nfZ1X1RkSmppYqz7ODDB/FTocnYYL5fvB0ERhKRD24rUFvoUcEcMKKeuMdO/3vVlJx1RYG7XCdA5+3X8rpiQ1dwEB+KiQMJlIfTEf2bxL280dkQkPiQW+93jwTLWLK9CMSech0JjzD9EUavCWL2N9yUxD7xdB76am1vKSe3A=="
+        "icon": "https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750",
+        "name": "Lo Mejor de la Liga MX USA",
+        "uri": "6xjk0qUm5vyQEG6CiTZont1ou/gRBmuGseq37+P7BI7GNevex5yHX6xgasBMZaHaAGKwSw5nAMgqljOsbutddGA3JnJcVgClyLldVbBXHRw="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png",
-        "name": "Cine drama",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGm28vZIXhN2cacI1Pz38n8zXuxdTxA7+Yn/oiOMTjP0z1kgrHhXG97B7iWa4uCEwZFuCUkI8hHyvtvuSx6CUm6JazQq/IMv6xCK8+v8ty6uxpFMNLy3hOyd+poWHWc1DKYh0hSFXb2djT79sBY2E0md1inPH7LrhCTGra7NBKYKJSYXOEqfezXSsVCu4MXYa0x3bPha4JuDysyIYe5RoVPi/G7mvJaeEjfgnDXeyskgbncTWVHH4IveGGpSw3+12IPI2giYVsXVYQxQfb1739QsyYbWOp006xtbGX3AkKv6A=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Novelas de Romance",
+        "uri": "6xjk0qUm5vyQEG6CiTZonkXEqeH4545ziZpcffJzQ0b7p6aECl4HHhPpMiSsEUmTB1weq1VeZtl5zhUYmGGrnmbOrLVrtQ8DJmmF93ZFijI="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png",
-        "name": "Cine romance",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEcO0bbBnkMIwLaXbi1uwrF2zSGR4u6VByKRIL8DKlsT0d+vVcjTa3TE+x4ayfaB+Tij2R+omfcOcvXQtqCwS/omcNnQVHUdoPsBmtdrdHS/dafkvnNFDExNY21fKmy/v/ayGtYzOvHSxKDZEPjqe96QC5jtFiA/mbmH6btqb/BvvHi+krrchnaMfHYYZL95HKglUA4wkGGJSzYA0INhlbEcg+0vWvIL7b7eNeF0DSOscxjzhMjJ7wpReO6XCjh5UrvsUd1PTCbWAczm0SOolWMB2chT7S5UVBdybdsU7/3LQ=="
+        "icon": "https://images.vix.com/prd/channel/62092cdfb0742315039cb363/1a02c8ded45dc86458a0eff7e355703f?tr=q-80&w=750",
+        "name": "Novelas en Familia",
+        "uri": "6xjk0qUm5vyQEG6CiTZongq6kDm1pOb9UX+jGtnVZIBFUCrvQW5RiCIIAuTy3F76s00Jj9qQq0mbtY0cfGyk4c8VGtFgf6Uxz/BMVqsbqi0="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png",
-        "name": "Cine suspenso",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEcO0bbBnkMIwLaXbi1uwrFXzglJB9kiAgvLzNG4qR/q0D8k+gHmbgjI1ZQ2qtqsW7lTWJ8VKJuaYaWwp7K5RF29KtieifSsZPawmv8h6FKFh30Cq+f59TAXEqcp/bOpe1jvsYN+LoOp+BN2uKctHGYWPxx1doHDcR17sjgoMH/yqeXC/TlGoU6O7mMDr9/Fa4bljXl8VnUtQAKDiy/ZEQw22kFTv3RmdTEHMEXSjuEtT2ZYCGNhhQ/+eWFa6dZvWQG/qgEzQO7v8XvPFYykSpB26Nbk88YfKGSnYpwIMYJYg=="
+        "icon": "https://images.vix.com/prd/channel/62067bafe60b4f65c744443e/ddac3d628e29430d0af295b7f9d1621e?tr=q-80&w=750",
+        "name": "Novelas de Oro",
+        "uri": "6xjk0qUm5vyQEG6CiTZonjgzCFFrKUJ3+fYfuOWutSf28nluWRCptQDODh9vgsQnOxY3B/wnRu0o0sufLeq8uZKEcPKRUv0GV9bu+EjMH5w="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png",
-        "name": "Cine Terror",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGm28vZIXhN2cacI1Pz38n8D/rufxcUwQx/wjZQ9xJCZIVUZGiRIUElHkPGNgQbgV3e9cH/3LgSkKDwrwi+YfQKOyWjKpfZBd6ZQf8RKha5wHnrSbLlkrpGUHjoq8NR10wTwU4Z+08JkW56pTAy3JBKWWiNMNWxg+ZB88QOTROWkT9WJv9Gbkw2SiFEcxjofXgzZ+RtC1ar/NqCwsc9qSwZG7GBMJQZ5z7FUs9e92sm+0T+ANHZBugZtrEBGCS8qEDmDTCURZiamF7eXbH+rR/r591vKnOnDSXob6IGzl1lCw=="
+        "icon": "https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750",
+        "name": "Noticias Univision 24/7",
+        "uri": "se+CoKHfyEtxDk1BHbrK7Nd2LcXBkSBXhuQe8pThkjenyW0wBV/JFG4hbMdNevaDdELetCqsVUPJ5Dkh9eiRmRzFuJ18PL9jVX6W+d+9gWg="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png",
-        "name": "Sci-Fi",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvHRKWv9RXybAq5kUy1HFZzFXohdutsTonOvLZumMimkkY934snCO7dE+PYZ80ADdvnHf884JdSTheqo1VstrhNBzmdBGN9q6H+jdIrsgbquC2R8PzM2/9fPGBXdZmYi+p0DjmchfbLLu8mHOdmuocbLdS+r+2Fgo+QHhSY3ml1rCKYw2o1NVFv7AlAJndO0s6qMdgIGU67B5awZCfPw4aQOTnWwpgJxJzfi5pIrUtTgVcJQvIoVbD+kc1xTNUqfRoamwS9S8XannfzeAelcLq21LnlMh8D1P0c1BiOuuVFQoA=="
+        "icon": "https://images.vix.com/prd/channel/61f83716771641f4fc47bd86/471578cf6a4cd5fef1471695cd092009?tr=q-80&w=750",
+        "name": "Euronews",
+        "uri": "se+CoKHfyEtxDk1BHbrK7Fx4WTt5zfNZaZrJ8ZqQzIAjko8atAGqe9Zm0VJ2roagIHRYDsNXoK8PWC8Y3V5gkJqq2YuMp0i8kDylAiTY1/Q="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png",
-        "name": "Filmstream",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGUOrr6VwQee6gooROw4kfQAD//LL8uXBxwNQK2ECDaYfO5BEcSqR3bb8DJT0LldI/iQb1y+XXLrHcnYkata0V5W/UmLL/UNL/lqJzicJMuSKJz15+gEbGKGlPm49KF2AG40OYn2iBhN4eiPTo0twZe7OS6gNLhZ/ueyKVQiq3FB8c8Ta4B/njTB/Rj2dWCfvjK3cE4jKrP7oEVriYaxKb3lDcCxvEc/wcrJwz55+M0gDbP64iT17s2fWuK2Wszo0OL1V0vlmLN/ZkqPh7SrYT146+X15+Vgph/5uAiWai4nQ=="
+        "icon": "https://images.vix.com/prd/channel/61bceb9bb6d51a2a70333c1d/3af9a923631cd0b8db1486cc6e5fda32?tr=q-80&w=750",
+        "name": "beIn Sports XTRA ñ",
+        "uri": "se+CoKHfyEtxDk1BHbrK7IsvbCuOqQvr4yH7sNhuCrCYJEkOxVtq3vz1F+ROBiFuAFmJyqPeVtgzpl6xnZSdKPSmoGueTwZWO96X/5Lqjy4="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png",
-        "name": "Nuestro cine",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvFIt5M5DB+j+AU9TumN2WAO2GVJ2G/iWpbsoFHA20kFDx5kNLM9Re2qfT3xL104pdHbWKGjUsRjaNy3IBVrG4roUpGuAikkysjsvKjNh3lxab7WP9ILUwogWFqtSXgoMU90HdyGw3zvpdzOLSJnseGP4SxMFsnWy+PvMadDjZS0BTfxddE5Oh3tDpNwknsXCOt82kTHXndUzx8d9oLuGTW0HcT0wjnaFKxj6HmgNTZjBLFRvBeRumlxOYR0smC5zgY6nkaYdVmaIKkNyhIjWL1cVgGe6u7SkDrJRPbuHUhgPg=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "ATV+",
+        "uri": "se+CoKHfyEtxDk1BHbrK7LdVH337N8MWbFcFImA2jODYKLH7MpKjNAgVmRYdtFPTevXoWOkyq3WfyaY0YuEAzG5E0U2D2HKA9uePHj6cUok="
       },
       {
-        "icon": "https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png",
-        "name": "Cine clasico",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGsVl5QCFxrSoe/eUKqu985KuD3RzqlpfBBFX2y3R+O+SSyLLBOxsNV/YniCJH5QRpn0crUqa1JgayOwNlgX41kMoiG61a6b48WwFM7p7fYvetB2JUzuXcCvvtmmLjjc7ySoYwwzfR5p0KGz5DDt3zmQ1MKy+vOj6eeWFJvREh2WrWnBZa4cETRl4dOpDNGShht+FE4JRKyxzBCNFyaVmYbz+/bsoezmluVkl9mb3ewv57UkPLnsxLzV6CRWQ0jdhZ3XBJq0ePKw0mYw2e/dztiPB6qKnW5jejUja+r+AC19Q=="
+        "icon": "https://images.vix.com/prd/channel/61bb608bf63835f5747e03ed/ca8c095a17414bf01b5e2e2bead21559?tr=q-80&w=750",
+        "name": "TN23",
+        "uri": "se+CoKHfyEtxDk1BHbrK7L/rKJtwD0Di+m2GZQd0CZWgS/1ZiYkP6eWW/9Vy3uN4ZjLjbQGGU/bY1GRNsmwrjy9aJAOvuYBEMJoEM5K6tcY="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png",
-        "name": "Cine familiar",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEcO0bbBnkMIwLaXbi1uwrFIj4ztNd/Z+dhUQHL7Uj3xaRH7pXyAwItNxmBaQijjMQQ3qoVuWHlmzzblTAJRPHTuAhrFJhWye3hmV5n9mVamuzxRUQv+DoJZwXbI0E0hzDq7ci0w9enwOJG4sUWFMS5fsIdki32TPnMp+zwzBmx9tQShP7M5wi+4eQiVnmOYxBAuiMPhjcdJqiL3gXz1+VT3nkegz3juniW/95ZekWtrgX52QCXDQpMRqpshvhiaRAjMsrW0CVWNCbUc57kjxglzNWiiGTZ3CROlNd9jU8/Pg=="
+        "icon": "https://images.vix.com/prd/channel/629e346fabe49aa6dabae0bc/babc25e785c404ff7618e9413da4d0cf?tr=q-80&w=750",
+        "name": "vivo play",
+        "uri": "se+CoKHfyEtxDk1BHbrK7EfroSKlgqSc/pwhStZ+PnBlF3qfDstipe+mtg6bzvbZFN5j1zeCawrSgnJkKnv13DaBp72sp035YQRY9bSGXu0="
       },
       {
-        "icon": "https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png",
-        "name": "Paramount+ Presenta",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvE50wQLCQlzmSrGAZShTpvc1P7Cdp1ABJStnRi8dwCLZr66fPOEd8bHcwvn7mvI6wTCOGBnblMEZKYyjWz3ik1y7VKtozH6AUY99c0kLdYVcX6XOuL1m3yhPsKL0wL7oprh39+rEnbkQKtvSbUbPC5PMCqEbjdesuvu3SVeKHh0XNa4oyb2u+MDnrWj3jr3InFBr3ZR71eU836/4MGowsoeAf6+vE4VTrS04qRmHxnrBgaywQi/uQUaaGFAysTic2NLIP4PrkxNbwgETkzyWv40xzhq6kvv8w1Uf2DTVI8MJg=="
+        "icon": "https://images.vix.com/prd/channel/620acca701543284acec0500/cdb7c9d736ce123925a82b5504cead09?tr=q-80&w=750",
+        "name": "My Time Original",
+        "uri": "se+CoKHfyEtxDk1BHbrK7LGP1j4waNoiqRAErQIL6sKOxspVUvX+l/MdITU3NZcflMiwnv7F3YD2WZJr/WE3tP2CSuMUR17mUFrKmLfGioc="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png",
-        "name": "Series",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGm28vZIXhN2cacI1Pz38n8kdWN0oDKDMp/r0LaAttf7toDM0H/g0tJDtbv+TBPfzJvv9iOxQVLxWD3c3cXqEM18Xs+vuIELu6VUyyfyJXZEcBL/O7Jr1TQO3jKy32e7z0oE92RXH2G+zkDmpN/Wj4y0unnTCWflfK7rGCWLAUE4Bw8GpZDYTgXcgk/SbjpUYOolBTP056Ye+u5LjLqLDNFOuBrJQWAkOpJEEb6fSdXsPVwPZMlDDT4SB6oIIUv4TfuyNQK766oWCpibwyxYbahbDNQkBEfYWBuAdfxyzPh8w=="
+        "icon": "https://images.vix.com/prd/channel/623a8773900f85b88093acfc/8f7d48dec6e7efc0b79692cf0efefc2e?tr=q-80&w=750",
+        "name": "Nuestra Vision",
+        "uri": "se+CoKHfyEtxDk1BHbrK7NrqyRFICBRo3TU6YejfxXX6ws3Y0v59vxvXSATKNnsqqTZnqvA6fB68hhuEmL13Yjr/W+SvE/UhWaWS70+T8Uk="
       },
       {
-        "icon": "https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png",
-        "name": "The Night Shift",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvExOHkxd/du9zrb7J+VEE8yj+j2fIvvkABjIjj25INTZ/u2qECDdlIg50ajZ9Q+XzolrV5bTgSJSAoCWg8SlIGTjUL8BAmYUSw7SQJwjcFJ0eeqmpLtsnzHRltGsxXYM5u4IiZcnkLSmP8Bd7G2bIhHZ66FTTFu11Ac8X7coKffbcKBXU2LePCIoUpFXq+g32dVdmVXtrli1W4v33HX8UNlpQum3s1ZR5zyiiVH4inTJgV8bWkQIJfFa/AvtGC0y0jPgsfg2JMQqzO69OgpC07HlOyhpA5WI3+AKNjrQQ6JEA=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "ForoTV",
+        "uri": "7vhDukf/dm2xxFqCRRQP7INy1mhY6MeJBxhLVLblm6iKUrXNTNirUokt9zXMMRQwggbRPAzzk9WU9sK4/oBB0nHvqXznrgIeZ8ITQHWI6B4="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png",
-        "name": "Series retro",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvFIt5M5DB+j+AU9TumN2WAOnXQEKYlAitoRfHlJxj2wOwmQgpRph7jvB/oNoxHt24jzppDiu59zZ4JImazdkFYBngz4uGos5K/CIzGa5OYXPhejA/ajFsB1LPJrMUyshE1i0eTbnIe58E6o8IJEiNNyKWDQpeDIG5C4iVQMb+zSRpGTUfxR2tDDAPHUeYpY6eSJZSog/FoDuAw2OI6YFPTcY/0WVO+1VtLtkUkblyh3ZNdy/GIzDCVxS5n7OqgP/aBBTEUGRiNC15qPE67cNLcDzGU4mh0pc/dEyHBSL5WmKA=="
+        "icon": "https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750",
+        "name": "N+ Media",
+        "uri": "7vhDukf/dm2xxFqCRRQP7IpWELmTSsQCZ9xFpqDozNAZ6XxJLjomtU5hErBwswU+l1uWPf26SFt50srzbI2xSywnjBa83T9vQSo5+IjR7Ww="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png",
-        "name": "Los 3 Chiflados",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGoSY8HKxjRciElWDh4FX5HcOiLfA/PyjgrcXNpnoeaWo/PHp3sBkECVNwzRGUhFZujcA2PxT1tJ5nEIgdmASB88EvzprJkHlejDMFZH2MHQksfSui4oGqnSGiUCtjSeROE2lF2ayGo5nICRDBWemJodL9wF6/dzqpRjDMZ939GsO7xR+zHZUGe25Ur1/OyNX+5uvRPrNbIyuxOUYtr+wvB0JkqwDSMDmLt05ZAYdiYqUE5TfJdGKQew4ks60SV98w38JEbux27BORUljRNGdfNgrRmRCMxE7uuJXKJQXR4jw=="
+        "icon": "https://images.vix.com/prd/channel/6237e40c284b55f29fd0613c/08b7062c3223bb43d5c502a1939056a9?tr=q-80&w=750",
+        "name": "Fuakata!",
+        "uri": "7vhDukf/dm2xxFqCRRQP7OocY40XyDt3gjCs08+8qQv4fWTSrZq1lwPOLn9PZWwKa06D7xbzTXsij6IlIkauVMBHxfXftxj9zOcVOxINN5Q="
       },
       {
-        "icon": "https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png",
-        "name": "Retro cartoons",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGMW+C13UhE8X2zRt4nCyROijhvhxgAzBSy6jY2QIPULm+jjQud7unQLUI6FO5Qi/CFkc/PgWtiwzUJCJLUjGPhlbBlCZnG3hMyOyJ/fkWmG99Jzoo/nCw/qUa8I9CVgOLyL+O3tfVT2NiH8eEsJqGV82f1RUbXCIolpeYI4Kn2vha5KOnwAwgqUEiS5z1pCWIuTQui5CQZFwdKh9uWkvMwiB5vhxsPwFhqMwCL+yM3OXR9tigLx9fWVLNapJcPBMfw5z1Xudjy3X24r4JfeJljCNPPmfaFpQzHnzY/6i8RkQ=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Amores Verdaderos",
+        "uri": "7vhDukf/dm2xxFqCRRQP7P32iRlUNR1r6ES2Ec9ZDKeea1Ri5wWL0FEY+b8f+1cSJ6h7qUwiX2HsUUounD4ooU7zeUXqAagYgRpWIM5HfjQ="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png",
-        "name": "Series latinas",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEcO0bbBnkMIwLaXbi1uwrFUy8PNsQwCyP2PAE/Z8i0yiKfpbbQQ+UcwkMmG4BCDCAOfsB32NE9Rzj9fBCIflabwt437BUNfG/PIpnOgIvyGciMEzr+mls/WCITsQucHVH+Cn3Wh+cRNDi5ft+gpmrFR2/fP6bObIxS8EeblI/3uaA+jsiCcyv/pA+A9gmlUU6f0hDeqOZ22LEmNTa6jPrXRczHpFVOUVvQiewkNc3Cpl/PNvFq8Ufp24gYMzxzrVgfsznZPjtmMRs5yr3mRsg7FRClfkkTVZ/9iN5RTagFSQ=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png ",
+        "name": "Aqui Y Ahora",
+        "uri": "7vhDukf/dm2xxFqCRRQP7AkSw7/HGudvhgCVda78+zEu1bnKdeokoIpq1bNa4XouPyrxGze9yhbHbBeIAzD9SkGIEv1UIpiVT46+l6qd8Qc="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png",
-        "name": "Tv España",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvHrLECmIhpwQScbeCDUQ7fj2WxFoNlS5Nusz3JgI842Jd74nT4kmkPHk0fwy4wOpD1cGAFYPBMbr1D6TQax4pKC9NxaCMn4Rh0KLoqV8dY3O7sfY/txNkZvbnQpEX28d1PLiIX4l4bcIHfpVwMFhgFewkBg1ihq05XlTjGu8xOVFNbnHiGlQBPTAVaSoMG60039waDYmh/GwUC2p48P+AItvVQO++UPUcpEZPMXz5ekFhm/hcSei2tQFZnRx8isDF6+VinDDJW6nAw9ykzXjc3eRi+54Kv/xIA+C+tNugULQw=="
+        "icon": "https://images.vix.com/prd/channel/62274e72ed9b67bf206f1a5e/239fe6fbfe883777cfb427e23256f1fc?tr=q-80&w=1920",
+        "name": "Cine Retro",
+        "uri": "7vhDukf/dm2xxFqCRRQP7BusnOGWwzoPhyXx30YXYzt/gsglfSROE729iXmyrzOVIUGSeYvxhAqCma6Qqvq07Hc7Hu1JOkKEy0o+uVwJsWo="
       },
       {
-        "icon": "https://images.pluto.tv/channels/61f323397027f90007542bc3/colorLogoPNG.png",
-        "name": "Señorita polvora",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvF40Yeov3pKxVTxEq+/ff42cmFYLfMkGGdklbvlgbkqibRHwM0hTgp1MdZR6+S1zeDWXjs6ku8gK0APuOJPTI20OOtTd+B71fZvuxMuTXxuqIctPFcUIncYywLvWXqXQFqHNyewAGyYUqVf+W/Z8ostD53XuPT3TpfEU2JoUiUVx+gGFlTpe6DWdwCaIa9eogbdQBDKsmIzRZBvPAfcpCNIZsnQbVIAsZf9cDx+YUIb6zW+0YT92lb+oVJJPFoB0DkdcdRdTChNq8FWCVXK5BUxjdgXGvr/qQVVyBJB9Vvv/A=="
+        "icon": "https://images.vix.com/prd/channel/62274abded9b67e9806eef58/e589cadaabcf0bf7291bd08048006fd2?tr=q-80&w=1920",
+        "name": "Cine de Oro",
+        "uri": "7vhDukf/dm2xxFqCRRQP7L4gdCNgXVlPCsWtfhQCCdY/JeP5L1SSOggywfaH0sYqbxn9fTTStm094gVsD3slHO8nQgEGKuHOj2OXYvIMYrA="
       },
       {
-        "icon": "https://images.pluto.tv/channels/612f8b455ed5810007170b5f/colorLogoPNG.png",
-        "name": "El Mariachi",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGii5BjuZbUnERuWmOT7ICLS0SLi/9qtAl9cJYH5yuHqvILB9kQdP4LQVrVwguu373rWcSEQe62lY9HLvn5s0sBnWlwTbW0fzvkHzjswyZrKtbYAWgwqqO0hYKYV8zN7jxBhKhORpPMQJBbaObg1ryTj/RtnWAJ62grpLBKme8D5JkA7SfLhGEs/UCZj8lDrUI0s/PiVvOkHDEsf09uuilaHyQJ12xK/OP1Hayjsae26dhrojp92d35jdY+NYtTXNqtnfBXpp+16vWC52BaBk48KhUGuC7uoQAcRnFXe2e5dQ=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Moovi Mex",
+        "uri": "7vhDukf/dm2xxFqCRRQP7Nx/kLHa+EtlWXpEzGvLOzOmBpgmxWKtfKvY2mDd9r2Lg5j/V84T1JrLhDZCWhq/nMbQ1C9zDIRjY+skqSyremc="
       },
       {
-        "icon": "https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png",
-        "name": "Rock Story",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvF40Yeov3pKxVTxEq+/ff42q0t3/hBZfqJJ7gcbDtwVBrGHE8iTkGNwvO915V2P799HBzP1uYRGRVI9pjcpWyjHZd/KsFrrU0VJXT26H4bvdyNWTrfJF2yblJo+XMKviT4TTBPpiIbwekkkPoPMC4E41VFKQ/tBLP6sLCp+KKQsj3jQg0rN2X5M6UukoKjAiOjUXkRreEYTj+V62LMcnbg3HjhqNOq6BBMJNxN/SZoMEb2YBJ+loqvMwq371sDCk+nRFUZnpjdb4gOLnwEb1SKiywlpjpEmzb8AEC855/1jSg=="
+        "icon": "https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-80&w=750",
+        "name": "Jajaja",
+        "uri": "3LzWEGuuzXOpYoqtK6MwjjsePYA+MVnuvNjqJ7VOtMAI5KiwN3Wdqiv6+Hlbrm3NywH5PBXl/Raq6VTsVu5cZIT/Z+3mYOmSD+5soagw7+n6vcHHNOHfyyg/SNfMT2YPVf+JWMsQb3H76a7RfE6IGoH47w7Dwo4Zi5IL5y1nLxl6ELSXwMMfdEI4wMGzdy6yxh+sdHBX6DP5j/G6phV/utvk4OpkDsCcHH4diIxAbQjd9RFdUZHgG1M4+IiBipv1RfBxQmco0TZhrIIqoWw4xHje+6dho+GVz8fRTuRiezwFyYLfrAehxG+MpcuVdNhxHG3a3X6JfsNO20TONfrjzTWtsykNeyXpEwUsc/6RM2HsJdHW+U4WJqGYb0x/xp0L/F7BVfPvEr6526kWfjLwzw=="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png",
-        "name": "Novelas",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGm28vZIXhN2cacI1Pz38n8Cz7oF6zhwaic9kDa5cQiQ0KEl4rsT4CQs/CX+wYBoksw+Dmqmav5v1trkhdkbZhHWRZHJb+NHRDAdQRtPvY83t6i4I1TBVRtmU79v44oUNz300M6OjThI/vcbKk1qOztfNmzYXIeedsq+C0u5IptsMK9DvuwU1ka1p59N+dtkX1LsVsqtfMuVYMCcnHi64Q9aEqRwFwOvNUMR70agblhAnGzOGeTRXg/zzzdsSGmydK5qN/JD58pDl5YboSf6kgGL6TsLqDvSHngDM0ff+RwXw=="
+        "icon": "https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=750",
+        "name": "La Familia P.Luche",
+        "uri": "7vhDukf/dm2xxFqCRRQP7D3yZU82kWiS35XbjCgxrX5wjLSr70XnoAKdYSP1WXpKriY91V7FE+9xTgpA1pUKnzOktlMF6veVoCfVCfBt/Hw="
       },
       {
-        "icon": "https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png",
-        "name": "Sin Tetas No Hay Paraíso",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvHLp0gifvcsardUv6IkEAahSUug84cJDw3B2qckfwDplw3RkUAqQk5S9/2ew/cNCwRShwr9TJcZ/v8V7+iq8busgP2sxHPFg7S/SsDepIvnbAlK/yjejQe0We2Wi5pWmGkRtPrmpylW5zIlsVHbHpVWJEkdU77mfgcDSYheX9WMwEDdjuaYNs6zG27wlzXOzkswOeoa8QOxHpmPnaGXGlnSlXb8UNoo0UL22OxunvNJRH70cEjdHqOe5wo3pxY1Uu4k2VeydG4BUSaj6CX4iuVss+TaOu6qCmq5j87q/V4SNA=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Durmiendo con mi Jefe",
+        "uri": "7vhDukf/dm2xxFqCRRQP7FKHG1K3pAdJFYu4orU+05IkcuPkBR26qCi1gSh9OjSJwIJm0MBW+/C8YDqFXnSs/AN5/SfFy0wbuRAc/V+XS+4="
       },
       {
-        "icon": "https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png",
-        "name": "Chilevision Contigo",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEtzau23jX5CDJvDCb16tJp4Js9M0V6eZuMh2XzrEWnZQaLr+L2Q+cuH5K1+HQ6i6nYrkvevmYlQENqTgQMrrwf+KTUSrp51wU7FFDIxS0wCbGF5o0e5eBbJNYSipimvPvYV6hiK9kMWS/E0oj4Puy7E5i333WWhvrqZK/w5NM5qTfa/zvZXITld3Y91pSDFl/IlwHE5ERZmwXSUHynkKLylir2/chDzVlEh81C91LkXqqTnsF3Jdr3iVEGBr0tbqmmo3QUgiveiBQO5dS2jInsO7sRA+fL8ZrbItUA9fmOJw=="
+        "icon": "https://images.vix.com/prd/channel/62092e4ded79ffe2abed2d2b/9537b38562ae7da1935283163ee5cdbd?tr=q-80&w=750",
+        "name": "Risas de Oro",
+        "uri": "7vhDukf/dm2xxFqCRRQP7IPxOAKzHhcWOg8AIoPKIxT40VrBi5XEkZX3zzbA5jRL/sUQ7RKSIhAJq9kTT48NjY6AZfrlsChb393GIDRvxhA="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",
-        "name": "Telefe Hits",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvFIt5M5DB+j+AU9TumN2WAOWD+OV9UtSJb9FQteRGIlmdiiIBrasJ+rP6pmZ3fwghlHWiOnzDp27EKmDRZqYr9asW8Se6sfN37zZGBAipUQ2j3jy7vm2RKUPSyYqwUFMQLCXNBZpJ2GmiNXMnBcy12i7J7Vst357MWwWYlSfOuYVNlQZriIHkNbJkJwDYuRi0qXGfX93trGIp9G7yY9tgNolEnxuGejBJewFmrS8P7LRVL858xANMvTiKH1QEf4vCcDiT13s9MLRA0YDpfd7cE1v0+N/fLyjKWZJPXNWJEoeA=="
+        "icon": "https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891?tr=q-80&w=750",
+        "name": "vecinos",
+        "uri": "7vhDukf/dm2xxFqCRRQP7LBuyFCQvBtX183jHVVzRUs6wBQaBDh2iIrQHiLP1jisgRwW/IsQG6tuzqe/NI/kFNO2tMACNpHpPSziUHhr/k0="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png",
-        "name": "Noyse Escandalos",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvFg641LBam9ALLD9M4gyTnjA7TpbDYZQQ3Afoyjl2gsZibyWOk2bTPQ0yO2n4pBqiPx6vuEURWpe/qu03WlULZLXCqUBnmtUZrpQ/cALujb+i/q08CZ2L/VgccIydG/Im+rJNRwzawJkL3tPRNXo/9hVj0GlW7ZckMpGJMyZZoxxDyjZYslQ9gj0Lp9WvjvDNGIVNsB892iBrJAiuZA2Pa0ECCXU1UbS+mZtO/F9RvlaWY8pkv6c0BzePxgPRulmAl1XGH2AxfMqIWQfP1cWktaELxIh0gN0tph3bdc4YPVPg=="
+        "icon": "https://images.vix.com/prd/channel/61f837ca7716417b6a47c256/0f07f9aacadcc250f4e31e82717274a3?tr=q-80&w=1920",
+        "name": "Crónicas",
+        "uri": "7vhDukf/dm2xxFqCRRQP7E0CrufS6GvLbujetdLyON/ug5R6TyFQNdoA9wgx7dhvrxpKrEwcC0hsljTSOifqW2ao5q4syoQ0CNDawxkCMRI="
       },
       {
-        "icon": "https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png",
-        "name": "Youger",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvG39lt8IXhtpLpBTW+6WOZObv9hF5DQJNKaCItyNbyAZkF213PovCb2Kqy/A7nxHPx1sbLQ0WME1HizWf4yNXmm9yVNnjKLG2SwY8rVIJ9xNt3tP1S8RsgPvZhbeLG4O1AdpbeFXT2ILWPS/yHHUwiwSjrB7Fl+ll9oaro/ggkm63TmVmwOpqXzuNCF2fobTeHsqbQFZBhCjA4MntxU3VvkFHrt7NBC3h/jdqoF/6LQHXjcTq4KBPwuVa7Uij7vp3fGlo1cayqK3js0sYEjSj/2oedt7JH09q/PpLgkdYiwdg=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Cuidado con el Angel",
+        "uri": "7vhDukf/dm2xxFqCRRQP7Czd4Gr7/77SFIdjP0H2WGNoXE3XUHICZOJZsWuT3AnlD+l6oLeLCSqFO3BOcHYBIUwABQ9ZERHXyJ/pSdnAhWc="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png",
-        "name": "Nick Teen",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEMajcU1ZfUXtixbws8CsTJUvQQnL+gGGWgySP6MLzhdQ72AKLnVWeZw64VlB+aCPzaz3i/LE/j9hM7wusP0nK/o4vN+ka8uUlV3VM3UX6LmVoxtUbVqfRugwxxRCaZytMU0JL5PlEvKpvjQv4ed8ngDbR9vQm4qB59h1xqylQF+Sw8Hov1aJa8bbjNPu4W+KzS2KPmAMOQ5acQyX8T/dlIKhuh8rxhYo7sGmzhgD5LJxv46dR8By2fwNLEqhXFfChDaZ4sai1TcqBJHWW6yux5Ut3gscxxahmlrIMG7Z+FpQ=="
+        "icon": "https://images.vix.com/prd/channel/6237e4b64fa9c2ad3f8deadc/f8516dae0d177dc46046647538bc7476?tr=q-80&w=1920",
+        "name": "Cocina TV",
+        "uri": "7vhDukf/dm2xxFqCRRQP7BNuvs8U782BCy8daUkf+ixxJWh2dJMfL6zccwsg3bwwy8u7w0wZmu9V9ZSV5JtJj/z5/SIl+Uw2tgdIBHtbqYs="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png",
-        "name": "Kenan y Kel",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGUOrr6VwQee6gooROw4kfQvayLTeAsxs5ahQP8KGWtfboDl7Ng7NXkeoY3LPoVXsCqWGrWooqIcrKhZ2SqifxWH1vnzeHlWFGvyha58d4WFt/et2hkokhCPBdU/RB/XpShz6wmP4lngl7PRF51I8P18zuC5C0jTwEI/zd/cufXa3ukWTX9cQVsiQu53YnYol0WaQ3xCYkBNXTvsMlizRcb/SdXTXKc85jaGmiHgYYb2m5wGEP6lAyERMwFQIa3JxUIDTkPEbiF0DGgtw2c2ju0+fYWePEaisQySINcKSP1qA=="
+        "icon": "https://images.vix.com/prd/channel/6215020129e374a01b6c3c04/cc8d5643616bf5cabbf38095a2410ce3?tr=q-80&w=750",
+        "name": "Grandes Parejas",
+        "uri": "/9J5qPCQyrAv46BT+EnUCCXcY+TWMBiEtQWirpwPOvMVy695A4CyujfMveNqlmiyDqNqwQljTHUlpAKzIPlBe4I/8ETIdCI7TtydzLymNCdM+/agDjBhbiqSwPVpM+/fLLcSTZzcpeqI9iucRZj1LnEQ1nM6/dkVs80mhLIUFxyiCCdHHh3hmCupYtJX5T6qo5cgc5VGSYVRcHszMGqs2xXcopW0kxGFnl3uQEpRcQ+210hu0SKpkvv3T8PH/kj/QC+HNnYu2imdkXOeTSlhXX7KrhwegG7WFxSJwEzAmW/6vep0u7hfTfs1Z10Xr+cU7Y1WyUkZ9IIubzNptD/H1pGHWGOsVZg0q6xVf6PD+KxX8fjRsILWIizTPB8BTQoad/3LDNkvveo2MoY83SHCAA=="
       },
       {
-        "icon": "https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png",
-        "name": "iCarly",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvFGYP9VwZgDpw2+4aXnwJvtdRF8PSsk/i8EDvuOxZuPMuk2raiChgFirAY3GJJgfwgAb/NC92dxsHtA3yZyUhBRdhqNdQEKhrzSNVeOrqwuDFHk667up9xSZrzJv97HiFm7D0njZ+zlPCh15xyLqgkJFAxfIFXexWectudgmERxA9YWUQAlUGeJoJlbpmN71tCBLFtDvnJiIi1t18rhGJz1hLqbcPLXF8rw1ZoUrp+5H1U42Tpibay+4ai75McnqMBTIL7XUST1hiDI4FR9ofsrYjBzYyaEJ0FCSUfMIrAqgw=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Alegrijes Y Rebujos",
+        "uri": "7vhDukf/dm2xxFqCRRQP7Cwp48EO5c17RUNq9T4xKJTb8qn9EM3/gEeO6zlx4q7n0oHtZ6T48SdVdGLBdaNhoAnOyLoBVAis8NVlh1GtyNI="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png",
-        "name": "Teen",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEcO0bbBnkMIwLaXbi1uwrF1bOzbag9ZxEv/Ui/YO8gKGpfYxzZ31iOVTvmjMWqQGVT3W25y8HP7FkE0SH/B9aIJVytLCEeSonCzVg3DQhvbFqTpm4URcFdLzpJ5W+oF95hnhVZYrl+edipSreRLZbfQqTDZHGEs9Pp5AlMKeRxfU+n71fedJ4MXMXyQdnPkG8akuWCB+bCor8M6Dy2M4Lmyk53wdWrDaEcXfO1g68Q7G5Ic2P0/yz86wdPgA3QDXbP9LM8e9qt7LcD4hGdWl9372lo6/bKpJqYJG7/Jazpew=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Angelique",
+        "uri": "7vhDukf/dm2xxFqCRRQP7IZ3DvN8CDzae9nZvK50fvJ2udykbcKuvltZgt1Rst8fnB7ldhQdtCDsq6/TRLEyrTNwmXNhJlptPfKJKcJ7MDk="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png",
-        "name": "Minuto para Ganar",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvHKVJM13Hf6vQ0M3nBAt3RY+tyUM/jT34ZQWPya4ztj0a7SDKQ/ivDlad84cl87XezIKTNEDYqyhX8BEK5J2rW3Krw9tcIFK8pjukfXofoIE5CnzF6ZgEsCb2w9W26NidlxDhBWWD0BeUpOyWWW77WoKMif2qp0UN6sUk6kxuvRiUfP1/vtE4VgBXNSwMMhNJacX33qXGj4C+CA5DX/cYs8kwR2mDqparlnjJtvyo8+/PDnm0ML8cX8JvhseoVBKrrlpUpOfK4Ts9ucxm3BcV+coPI/kPxLydilox7B6EvGyw=="
+        "icon": "https://images.vix.com/prd/channel/62063f4749d9bc7e66aa9d1b/e0e9822f4056a475c0091eb9f6fa3ccf?tr=q-80&w=750",
+        "name": "Los Héroes del Norte",
+        "uri": "7vhDukf/dm2xxFqCRRQP7IVJfsVS/yvQeRZeyj6qQgRkAnbNJiONuUc7rra9FL5nBZJ5IR1y57DlG4BeCEk0XAufyd9sbLrrGVPVFriqcO8="
       },
       {
-        "icon": "https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png",
-        "name": "Boom",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGsVl5QCFxrSoe/eUKqu985xTwYBWXdfRNPWUdNdOdU+NQ3JX7AZ0MEfkUe73Y8lkGIO4Bg1gKuCQH42VCWiwYT6f4cUojG6Y53oSfbzsRfgaZOdBeXVCb+DVqO5TVEGB7IZDHsN5Ek8T0jMYJThsY3raYD9K9agGI43gsJGrAxQqDLCgBKOc85rMR/DyIDm50lHlm3XArE9T38mtkIsG3SC2H8eShBshFHOA7kF35THWVO/qaNEtyloYhA+VT30MiF3Bo86lW/JlPjYicQEMLqqIabgLa9OzeOZEfpgf5dvQ=="
+        "icon": "https://images.vix.com/prd/channel/62157d10eb81d29539bf7cb6/8ab1a3ec81c556fafe809ae04e46e395?tr=q-80&w=750",
+        "name": "Galanes",
+        "uri": "7vhDukf/dm2xxFqCRRQP7ES/wC7p7abW4EZ07mXaFT1nJCOhEB1VJAIGHUHftB0E6qj3Q6KS2+6mWTr7EsG5grog2N23ovM72jo3nkxSjEk="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png",
-        "name": "Competencias",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEcO0bbBnkMIwLaXbi1uwrFXccQwJTt54dcV1S52lA242puKeDZnCcVNWWX4mhET8vzvNpoMGxkyREAj78fXMR5UOtfiukEeg8zqQ+qWrNsghrKK1TJ2fluPsHpMHhX56r2TexN+SDkIFq3BZAhT9VBLBt0MXOflSjKlvboducA9YHRGp3oGaGGBIN8mXanuCYioC/VRvruY+UkzhxMGbGJVEgdBQaUYI6wjTC7wd+hYKYLIm4rxx1Yy2dr6ik9R7A3tAFZzJJdMz81CZiIdC91ghHyyR+8JEoN4F39xGNwFw=="
+        "icon": "https://images.vix.com/prd/channel/61f976b5602cef3f0c72ce9f/6c6d92df15493a140c0ff852a551059c?tr=q-80&w=1920",
+        "name": "Juana la Virgen",
+        "uri": "7vhDukf/dm2xxFqCRRQP7L567bo5MwNqR1YOs1DcotVeavQN0lXyndbnIXg6FIbaNH/UtCSyxGLYmT+9jqG/Ta+q0yZxVUEyNxunNnlvzzM="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png",
-        "name": "Empeño a lo bestia",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvHRKWv9RXybAq5kUy1HFZzFuzQuy27zPJpwbRR/vmoMRNIbLhGys0O2uScGC3FypeDovrO8BrvxyPJirfO6j8ZsGpJ5T6cL7NbqApRbrxE1/EEBeQ3b8PC0qUQl7uj1T90SPUu/+LhJ/ctJ091Uo/NZlQeyEyvtUsBEVFjFEdLBLAS0LEy0v7EEM1In2m/PGyJe7qN2b9LYBlbUuRn9WMU0PixAI1pITGUICHUoK8mIu3i5s7/hs17N+EBEwGTqKP/W7/J20EhYBSZp/XeD8ZMfipdjKutBpyCDHc1cqAsTDA=="
+        "icon": "https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=750",
+        "name": "Las 3 Marias",
+        "uri": "7vhDukf/dm2xxFqCRRQP7OGrPeO8ZwzRT/4Fd8YJtCAZrOcsUl01OdJpPpqly+A37HBvGPNyaRthryQpj4e/+0o99dMxk/WIS075Jo/49I0="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png",
-        "name": "Dog el cazarecompensas",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvFg641LBam9ALLD9M4gyTnjLnt0bGrHOZKrqRZS6aiFlZPpzQnjVrfqG1nd6fNjkj2nbeY65t89VWk3+d6E0WeL9SV8sKSs0KOsWyqce+h9V1/bQ+3Gzv9ajOkWdOynnMotzAXL7vqZuuKlWMPse7KJ4blPfJBU5b3eFxTfAWnyIq4dPYJOLLPzu9sSAmE8euO/HCiIEuiMkIGhaW20I4cdFwy6xKlUCh6Dzwa0Fn34rnVkHii7FRQq25oY7ZD/FBsOuwNpWAbi449KN/wE00oHgM9GrDx8JPbEFcw0wJHq7w=="
+        "icon": "https://images.vix.com/prd/channel/61f970bb602cef693b729fbc/09a46d15972a1b45ad51b1faf76cf21f?tr=q-80&w=1920",
+        "name": "Mi Gorda Bella",
+        "uri": "7vhDukf/dm2xxFqCRRQP7NQ9iC8nKu0vyxV0LEYat6AZJnvawFDnX2G0wMjPdzgRVTwysCwbslc9QZ7Jh0KKS8SPdC7j+BFvbKgr6o62XPk="
       },
       {
-        "icon": "https://images.pluto.tv/channels/6254ab6fa74f8e0007ba6879/colorLogoPNG.png",
-        "name": "Maestro de la ilusion",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvG6yPDATC14fB+qvwM4W9kx5baobpRst2P8ZOivh8/xVA5fzDIrvmhh3TyqN/ZwLey4NBpZH79SdOQpbn80lwXaGfaHm9t8a63vFhvNCYfFI58pe7yz4ba62f8wvUlEa6eBZpZelVDlUtjVUdbR28Iq8lcqeo49oj2PUKJgGkKPB6L2s1d2bDaobeGKJDRZbYiXPN2NReJJt1frZFiwy67iMq/Y9xB1uISyxqOQomwZCgfdgDPP1rkdXxIe84vbVfbIBQE/ZQEcMghSHZxSRhDpCzF2uCx9O1184nRRPmc8ww=="
+        "icon": "https://images.vix.com/prd/channel/62e7fb1ed8fbd158a5ac0bc9/88f19f2f8de0185baf6435a2759b4ec5?tr=q-80&w=1920",
+        "name": "RCTV Novelas",
+        "uri": "7vhDukf/dm2xxFqCRRQP7ONfPNjq1Z0Sko933fDfxsWGUKJLcfrSMWSmmBdPCpVp/vydafbIoyKrvXuzxM4JcAbRWi4yRiNO4LAIcuDBSVg="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png",
-        "name": "Misterios",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGm28vZIXhN2cacI1Pz38n8uINjDR1jWj4y+nZwFlAEADsX1jEP3pLR8Cp1pFBhg46E7LyDMmdJztwOsavN2ckvCNDli0H9+L0sokwHE0ur+W5GUuQDs49x2nAxErfnlo5/pEY+MobgQ5R6jyLbFeDYexru88C0OpsYfJehlkQjqj6DuxGIbfWzf7zJrjjZ3yO8BfxZyZIa0ete8mAMoRaUWXnx/EQV+z7uEcjCQ0EdyANjwgUBZUj+h/HvsnoagP/LLiAAzeHt98B6pq4NCFGHXoRElzt8dGTtJpESmd/woA=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Rebelde",
+        "uri": "7vhDukf/dm2xxFqCRRQP7CaVt8hrigPVobZ8HeCWD+fF+lefwARpSw/29jSlzHlfGZwihdnnoutn8eAWb2gBJT5XQCprKvfXZoPtft6Kzlg="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png",
-        "name": "Historia de Ultratumba",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvHzGLP+UtpcZ8fyLxnBveA3ezhlXkk495Z0ZCPIpIjwXPCGQ9rMu9JVbzSsLSz+RtgNzxWWVRz1pTpVvxHPYBy/FNk2vmolrvPTKM7wdepKkfDwLZNhtod1W8RYmkyFghWIsdGvN6X0CHfztKDdnEIF5fBvAvnYJdG2+pPu/uwX/Hj5MyliHYQQyQkfmyU8uAGFfBneCi1tbe51bKjcvzAwGCor5kkrKqdXvUoijQDniR3ERZXOX4eSHXS4+KHi0KK2egnzUl9sqVnPUyDWkvaEnP0tfb0qUjemmB44aFXHdQ=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Sortilegio",
+        "uri": "7vhDukf/dm2xxFqCRRQP7IeQ2bss0XGH2BW5TPaYahph1Jfuqkly9As5iWqqftTumsH5oLjzshQz+2PcPiy237Ipc5TbthpJqf/UjIIRwJ4="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png",
-        "name": "Misterios Medicos",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvHRKWv9RXybAq5kUy1HFZzFL90OndfKTQpr+Ot3Vlvcpyr4fyMxVbvZVO8SD/mL9jYfVnrnEXsujN4Biqbsut+QaP/rVxWMXWCDHRoH9QawSrWEh1QyvYCpoRSgyGy/HOCUnEuiUHHuMnaaqZa1iovfoyt/2+sVv+rZ8mvhS4v9o5AxjAHXhYa9FQ4os2Rwiz1YJLYiUto3DiBqRY0EpvcRvydGaU6L2qXXpgR9VdanSHH2qx5mIhrc2T9v0ZIDhb6ao1/cpOls9eWn0f/uxDeoGSbZCtnisgW0sNfE/fuUVg=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Triunfo del Amor",
+        "uri": "7vhDukf/dm2xxFqCRRQP7LWdFc+8BVDDKntqGe8Agt3EV3g8EHEjpmvmITydNTBfRGr7DR/O8I/9BO+HiqK2rq2h5OZaOsl73tXOWehFlg4="
       },
       {
-        "icon": "https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png",
-        "name": "El encantador de perro",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvHkR2CGskyjxTAvs7YRcHLS1pV39Co8/0pLx7KsXBxECC9vcgSWC7KKg7NlZuHxpAO32dmi6Pa366urswT1EUymhQk+vOAPkuPiSdnIDTXXDjuF+n1Q4pfcT+tPbOexoCYcdN3jdR/68LVjhdZ8rVZg3iJgp9ta04nvMsdrpnjuVrIx/AtwxdR37/DAA8gfkEQyrsRl4aPjKCjwkaeoRG7rgmwa2oJwwK++rikSLaKDjvdNJ8ElmW8IG9UkY+xjGOLtaXoWk4ieny3/weuE4WOHe8rjObjxlGBKyrPelfbFPw=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Villanos de Novela",
+        "uri": "0FP+zYr5NOiI7gp76zfhjj/6HOZ9vpm/4+PX0CXRWIs5TmaQBzHHs9vLZfKnshRC2SbY49SPTMNZJnCM34sFyrm1ZYD2kSOG7FDn8kDA7iU9jm7jwaX8/BmQ0eP2kMBquS5C46r8moFM0wU89pF6nHSEAw8K9VjExyKD8D8FZxpvopYlulkbOBISkotTzHsi7y+TyVJJmt73pHy+TuLUD6GJ5VfSkvgyP5p5ILMuWsjNKvWVlxUxC91IXRzUBexMkOQysyq0iRuz6fDIK+sU6N/Ghu5h41VOyK2VGAIyfN15SE40/qrGD7ZNeUKw1BhvUuFs1DCRe4YKCb5UywU4TaV07mQ6B1Drf3xBWPGSBZ0Ali492qKdJto16xGiz7Gg/lniwBXEXb2SeNG3PcN1vA=="
       },
       {
-        "icon": "https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png",
-        "name": "Cazador de Homicidas",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvHkR2CGskyjxTAvs7YRcHLSpPlIJ4E9vZSYLptq6kRNV4ZqNuy11DQiytJZJ+JnqwL3p8SK9m9KjEZmyTj7H7dtg1TlWFjLQVbpx2YfhKCeM7z3LSU7EbeqTTA6OYiiiRk5vcTlgg4hv4ptetmb5eLUoR1tBXB14+RWfk8UfZSa8xS9C2jzpiAp2UI2YLdtSmDWBJ6Jy6avxgQrDYm9Q8brH6gWyF47jowOpLkdtC0ZTeVh+Qoy7m5Tv5M6jitTaeAVh7Or52oRFf9pVfiSMORx9d+i1oU2Qq9tjgN1bkGgkw=="
+        "icon": "https://images.vix.com/prd/channel/6205718ffe7e9549a39d4e5e/1715238f49a3915a2653c015792e692e?tr=q-80&w=750",
+        "name": "40 Y 20",
+        "uri": "7vhDukf/dm2xxFqCRRQP7Fmoo2xw5wvDrE2IB+erbHCySHZDKL6xJTktwJhWYB9/2polielDhyEhJjc73p23ydGnrBZvXykWQ2abyfPnwbA="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png",
-        "name": "Archivos forenses",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvE8QV+lPn/hJJ03zbu23fuZ+9o6cR1ftGIu0mPRbnp8KPP5gyrMGhcvz/ZzEmasf+MiwMFzkr1IQegbmZuJ+5lwxXJfVmmOfLm02nV2V/WkfoLXuNOM+jEGNd8uc8AYm1PZ9lHipU8kG0sCzHJrxJ/Qppkf9c+9YAE9NhA+0q2dqTK98iB2fbzFw5cF0oiD/ywFPrQptQgrDrVYi14YKzM3M/eQS6ZfSNqkGcoaoq4AT7DoKrCIN/SsOLJvsa+shzYwPRtkECI/pjhiwI4J18UU/AWh3V/5arvAnRrWGlvPMw=="
+        "icon": "https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750",
+        "name": "Como dice el dicho",
+        "uri": "7vhDukf/dm2xxFqCRRQP7HPzjGSd/iHRWUYy/pfl3JxVmrQ18LkpKflXgBs/js+2ljp+A36Iy6xu8yvoxtfmmLTA3kkHxmGU0y+tYHgfGkw="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png",
-        "name": "Misterios sin resolver",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvGjlmyxHxs4Iqeq4Ok0G5Or0tZ74RjB13i2kYUzpxmgQb6gAW63Jj94RZTDDmJiP4HW2YBOznddgecWvj1wJfP9qx6HWFL1QUmhQdvAfrV/6NxnvZCXC0cI6kvf4csP3E46UdentTzQn1Cv/TXDx0ckW/xSMz0gfFhzoUs3F7f3VHTTBakSEdLScn/Gw2OgyYPPJsWnrajk5HIghtVTCjrIIsupZptYbGuBWPmObFU4KJmsGCej2s5XCP7JViHwHNdbq3vXbUtnvCJ8dv9RQd0V2HzheEfofHusvfdb20f6GA=="
+        "icon": "https://images.vix.com/prd/channel/62092fc84375522eedbdd675/41cd4ccd9c9025dbd8e074b1e638957a?tr=q-80&w=750\"",
+        "name": "Teresa",
+        "uri": "7vhDukf/dm2xxFqCRRQP7LUes+U3pcGGCEV/AWWq98K7oAv7E/bcRRK3FJNAN9FoiKQiJESivxwfKEwaTgFPAjOUraA1BU3JIwipdYWpo7I="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png",
-        "name": "Lucha libre AAA",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvFg641LBam9ALLD9M4gyTnjfM+SclBUs5PNX2sKW3B57dIsOYquyWqUrCRQx6J+uycwf1h3jGkfdIfDJ9m0xozyitYKH3JMNpHCIt3NJC7mRQsGz4iEWOvFwBcxcWEeo6eODlGMoBJiRU67aJ1+3yMhkt+SrQl8vRCzg8As32Sj5lkACIeyL1mt5JzvezuOu717DGopF5y+4ZYdO1qiVTpjA8WIHmTouRkJfJJRsJn6UOHgSk3TOiw7CbmXLT+iHt0sVmV5U14dkMUD4LOiShOK7Jk7IFPWAqGh5WsVJscOZg=="
+        "icon": "https://images.vix.com/prd/channel/61fc63d1ba45d434e073a2e1/548a0ff4f919f30969953253c17bcc2a?tr=q-80&w=1920",
+        "name": "La Promesa",
+        "uri": "7vhDukf/dm2xxFqCRRQP7LodDoH05G8PaCMhv/x/if72gv0T5IcPRN/ln3gDqgYSo2esDWenxWfz+1TDUGcRUcbiyReulqolndXjgyoogKU="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png",
-        "name": "FailArmy",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEM0EF5w4YU2SNWgEew7K8DBdx9PDcI0vij5Z24DnIneamvIbfkHwLdGj2OvPfqPCHMthWldL39kpvOBVAyTAyRGyCdzgoUWNF3NwIiRKlIRgqedPlIl1YB/8xdKexy5y3Sb2yZzz83UznIyT1Jmwo1MTCOuNPTGqYs4ynojRWWkak0blNNmpPuvdn2hEFNyKScFlztc5R4BFfR7nqjP4UYyRtji3RdwxhuK8dpcFjpXaGokuRROTGQKGdJnHOnkfw3l5TWjYeXr9u2qf481jfE3KI8YYbvUBgU2g3ltd9hQA=="
+        "icon": "https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750",
+        "name": "La Rosa de Guadalupe",
+        "uri": "7vhDukf/dm2xxFqCRRQP7P6b5VPvDYfirNnDFV8toS9ECS63mJTQxG7+1oFkOGb5kPNZABBAmKrePdlRe6EUAD3gHI3JsUy6Ni+Y9Rp69LM="
       },
       {
-        "icon": "ttps://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png",
-        "name": "TV Humor",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvErPncWt9707oLJ/u3FzdctKwZopRPrKTE5EgROq5V92kEAxQEqG/ugmVXJCvbjW141kmzk0/S8vjGkVa5yywrVm7jKQgEWMNvNFn1YBBktUkRWQgO+eIpBuP/bDu6upi303vRccWgTj+ZxMrXx1Z+63TsdYDAAdm1bH4LPb/uQbK7Cvk42N/n69deCVF2W15v4aGd2QOiwQu3wrfN9q69jOyD9Hy3FIyWUX1ErfUtyZL+nVn6Su4b20rHlXJJue4crlw85Z+ObkTkrBhYAcKBeDEOVui5TVRFG2uWod3Ax6g=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Afizzionados",
+        "uri": "7vhDukf/dm2xxFqCRRQP7NC9sTV/6R4ggwTFW3UqIQ1T/1mCl+gMbtykdXScljHU/uXy4HHCywNeVo90OPqlQxmIsiLiDIZPpiIgPxi7zVQ="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png",
-        "name": "TV Hogar",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEcO0bbBnkMIwLaXbi1uwrFs6slmiMnlzZjad4g+g7DBq//IT7iz5662SJmzV5a6LdiZUvf5Ukr9bBfNhABSbylKW8bKjT8uY/JFIau3JTsJvvlYM6XEDrpFKa000EhdmVdNuDqbn5aigC7CimkKalzrIuB2AZypBvt1kulMlmcCvXFWTxhjiuo5c+9qcZxD7Y+6tSQslLbJ8lFDpa0FKsQV4T3yCfCe2Jd8nC4IKh8iLEka/e1Z2+weWICx4LhfaYtsQ5VSSkhK0Z2gsq5QknSBEhsUNi/gE1lrAfBHH5AAQ=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Nu9ve",
+        "uri": "7vhDukf/dm2xxFqCRRQP7BR+f41XsVs3ihibMDa/OeG7d3nkk4XzKgXS2aIUnzbo0PRkfq7taWS4vFBllJBawK/qhPMB2g0ZBdyAiIoZYGo="
       },
       {
-        "icon": "https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png",
-        "name": "Fashionstream",
-        "uri": "8TvkU+mkPdIBI4jpGvX9bvJddIL4yKActD+l6yFYFvEOS35tNs/CSoDbbbOSRaZ/AyCH0x1KIeVAOuLaPAqQJ+AHsRq+IWY30QvM5u4D+qxMidjisLD/TFDP5fLWrzIIxP/ijoTR2SR+Nzhcor42iLlHrEQO++xRp3A7wcF58u3DK1Z2D1oKT9P3/aym5eEMnPrv/kPWFW5yLhkTK4WPqXZp07zf4USxcq7Lu7tUdxXZARqwbR36nHxZA3F8vNcNIh+HhlxFcjyeYN8+vkvJ97q9/ljknkh5YQE3DRlodHaAXQyPDMv2tdL11+JeCLfTsXOG0TVxgI3VQ8yYkFOkCQ=="
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "De pelicula",
+        "uri": "7vhDukf/dm2xxFqCRRQP7GHhmZnLkXJOt/RqWmemLqKcelczq3akbtD08nw+zZEF5Yt1JMlAifpq7n4MwpCffxNGWXJMFuhPSYvqyb3Z+wc="
+      },
+      {
+        "icon": "https://images.vix.com/prd/channel/6243691b46504feea6e98b31/266b4b48327b68bf53f39786805511f1?tr=q-80&w=1920",
+        "name": "Pinkfong Baby Shark",
+        "uri": "7vhDukf/dm2xxFqCRRQP7GTlN7uaVBVmVEw5EK3abBFHysmrmRVXev6lz/m0PAqC4YhsFmlEHmS0wAiWgD9rMOJfWV+I8vW28f+YvqnLWDo="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Zona TUDN USA",
+        "uri": "7vhDukf/dm2xxFqCRRQP7BwynwVRaWeQT0T8TnvS35iGARmc/23+R8WAqpezMx/cj0Iz4zjumVFEcm8+4qIPMiFlI+7E0Ty//HXLDzwgB3Q="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "VEVO Latino",
+        "uri": "7vhDukf/dm2xxFqCRRQP7PQMOsMhn3TBWAXNYbWeqza3wxrLuIpLUvnk1VDK5T1TQYl3vbkTOWhTW2gutgKnLXj5Yjp0h7GQ7cZFuClhsrA="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Reggaeton y Trap",
+        "uri": "7vhDukf/dm2xxFqCRRQP7PiXxLwaFSqM8qmwfPWKQjAILNxlx1Cat9ugH0g1TOiB06cxs5llQE2qS54gmJBtO1kwkPoa4MzK3nNVel6kAE0="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Adrenalina Sport",
+        "uri": "7vhDukf/dm2xxFqCRRQP7LlWOHmc1zPEHELSajqJLKOwwacbDRlR31nrGp4IL14ymO/m5rXkG6sJTqmCr09PaoYNkZC1dr7EpytAa4nJNdo="
+      },
+      {
+        "icon": "https://images.vix.com/prd/channel/62c716b46bc1f5715195a3c1/acd58d009f200833068f5a912b8e7e1d?tr=q-80&w=1920",
+        "name": "De pelicula Plus",
+        "uri": "D2jLokBxFj/Mr0k2a6m34GVTi386ls7Bh0oMf9k5rF4xYfA1op2TtaSrQldXm8mKMEMVs8FeA/T/KGoo9c5v70CUuJTUrsxarRb1dZ1aRWg="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Distrito Comedia",
+        "uri": "D2jLokBxFj/Mr0k2a6m34LfyYVQmh1CVb3mqDjBdBYWg5K34cV3evyfFTEhrtkeSGdWrHUs8SnMZFDAsq47mYYkZB722Txd5EK55eFuDBNo="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Golden",
+        "uri": "D2jLokBxFj/Mr0k2a6m34JWJUd8v8u5T1dE/dRrI/JfhjkYTgUCkftdlglDX1VT2/vv/Y1SNMgh6WmdaXUb7sYE15ESzmfwlDCJP7ZXgFN8="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Golden Edge",
+        "uri": "D2jLokBxFj/Mr0k2a6m34KKqr/RXx56fiqlYsFgdGwf/mDSztI0tUvwzMXtTNZGv1qx2Unr9/CFW606N84mZDYLE0OuMgF1IPOTgak3UFXI="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Golden Multiplex -1 hora",
+        "uri": "D2jLokBxFj/Mr0k2a6m34F4H/9ugWzzOwkrrIpByRaI2HHAUkbXsUtUY9WBw+jlQYSeF8hpwL1IIw17G9J/vmYZSiV/8lh8gWiZGowPT7sI="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Golden Multiplex",
+        "uri": "D2jLokBxFj/Mr0k2a6m34GBcgwbQ27R0UD0adKcowlZpDczMsrTpqiPpnSKhJNoZOiqDNccZVcBr4jwl4xVy7KxTkfbYjuVMiK45R+c1WVE="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Golden Plus",
+        "uri": "D2jLokBxFj/Mr0k2a6m34Jm3Be1eQLi9RUV5WEAdF0I3i/xbiLLHxbwNLhXGYY5r19AdR9oovNDEPFpg2r8x8WaOLmtmnl2h3szGlB80h1Q="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Golden Premier",
+        "uri": "D2jLokBxFj/Mr0k2a6m34C9Ibrj159hVm56id3PdQcJwXHJCucv6tefPKYhB/XMf+a0JyusEqXyBGDcM2sDed972lSldYnWATTYkA+9/aWk="
+      },
+      {
+        "icon": "https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920",
+        "name": "Las Estrellas",
+        "uri": "IAVW/0kt3az/gGtmBIJgY2RthkNZHyXw2XKhJDa0MD5LI9kqERT8a1vVGMtr5C1C3P6jUEbxStn3+m9vUeE8CuwvwxoDTU6yD8KKuGJ4BFd3Tk4OzztMgx3DGbbwIekNpewg9JHTlcTlKE1pv3oAADx/hrCyKgk7JGzGL4q7qE5GG6YhSJj91ZXCD2kQCrPEDrRwOF17mzrEqmgscISD8EHPaE9JnarCTpiAYO8F6b9mWo6OCygltXRWw6Nruijt"
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "Unicable",
+        "uri": "HMnl0DR7bHv8j6l533Cb/1jHH9xZ5XhizUgwZWdulCuIegHOHrIcweb8d4QaZmS22I2LBu3Yysq3L+nTqQMAUi5kwcSAqeWoLzXDfvlA/ks="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "FUTBOL ESPAÑA",
+        "uri": "D2jLokBxFj/Mr0k2a6m34GqKie1eWiMOiFmn/zonkqlHrI5T2epn2Er5oTTtrx5ovNoL4Hs1DLbbviiPsUsWkEE8sauxd2/rWFQSQ+19tzI="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "FUTBOL ESPAÑA 2",
+        "uri": "D2jLokBxFj/Mr0k2a6m34Jhus5E9moLNODvScKx+Fb18aFHczyKr18JfnJtZq4Fis2QiVF47oPp1F4QLRKNGNuZzAI9hEaIG8rRkxJ9ErIA="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "REAL MADRID TV",
+        "uri": "D2jLokBxFj/Mr0k2a6m34F5d8iJHzJAlTLuiSNTbE5KDuUrVHhI3/DzECePYOVVmxNybYPzVQQ+UQll+Bm1tjzty+3UJgUatQ+m4U8pjbYA="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "VEVO L",
+        "uri": "D2jLokBxFj/Mr0k2a6m34Gt7IXCblHNqySQ7fQ4BTVktpFZytFkzVtqlbeIAuRlN8tGPam1qnt1Jon/+FeRVYayNQmXMFljxFP47wIeesKw="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "FUTBOL ESPAÑA 3",
+        "uri": "l5J+KyHNJkR80SNWEKwR2z6c3uMLXl/x2fUW+HPTn582RxlXbBRlaHe2MUsSn//faYhy1CXU+re+6vpLvhKql1KSOSQnoznW71qnjR/8IhI="
+      },
+      {
+        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "name": "FUTBOL ESPAÑA 4",
+        "uri": "l5J+KyHNJkR80SNWEKwR2zEmtEm2gULgWM8itm0D+LrPUYIH/U2Fs5dd7ehbbOZElxo9D+UFKa7XnhHFm+oPe/abZGGiAis9iMzAofY2lt0="
+      },
+      {
+        "icon": "https://images.vix.com/prd/channel/62792bcf1aa44a0794223434/fa524bcd863336dd90769bed87cb8baf?tr=q-80&w=750",
+        "name": "lA PARODIA",
+        "uri": "D2jLokBxFj/Mr0k2a6m34EqBvd7UMsufiUjvR2w6uu4zJLMdgN99vEFIx85LPgqoQlVCM1YGvthGPGv3nVO2zFd89gzSpezfwQw0+NxJtv4="
+      },
+      {
+        "icon": "https://images.vix.com/prd/channel/6235c66611732377769fe87f/d7c3abe71788f8bfbc047b5082f91522?tr=q-80&w=1920",
+        "name": "La Usurpadora",
+        "uri": "D2jLokBxFj/Mr0k2a6m34OSVl1mJUJCdB5IDf8AXUvqajEmiRfKuZVNTwpub1Isuf4DpO0ZaWl2aFGNKsjgbi0VhmjrKvPkm5/gh946M7gk="
       }
     ]
   },
@@ -2102,62 +2217,6 @@
     "name": "VARIOS CANALES OPCIONALES",
     "mode": false,
     "lista": [
-      {
-        "icon": "https://static.flow.com.ar/images/68/CH_LOGO/350/500/0/0/8527518907875.png",
-        "name": "HBO",
-        "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnU7xIYOAuQzSVaXJZgBoms6V55YhpcQe5de5dwIWU0ozw==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam7q5IQP3YhbnKztPm9kCkwvHDYmw/rnT1pQWMfV9Xz7q"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/881/CH_LOGO/350/500/0/0/30164333072684.png",
-        "name": "HBO 2",
-        "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVQNVP23TQCNADDswwlHnnhblrIjO0Rqm8FNM5K9mpCWg==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamzhoVp0Tu88RtP2gAPR7XaClNmUM+JuVI++tXEhJGlux"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/882/CH_LOGO/60/40/350/500/9358483307335.png",
-        "name": "HBO FAMILY",
-        "drm_scheme": "clearkey",
-        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smnlVM5J2kgGgabrrv+It4NagpHWEI2N1yOBLFXoCgPdaQ==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam9Tki7Wg/m92WOtx8+vToZLJHCYCmXEGk7JvOrZFUuPC"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
-        "name": "HBO PLUS",
-        "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWzwu8O88UncrfmOJsZw8/NnyhtNQYDaJCDdmSy+vZmEw==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam1S/3hvXWSEGpfZ0F5Rnn//r0tynTrEbZKImkwnriTzv"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/884/CH_LOGO/350/500/0/0/1793376207500.png",
-        "name": "HBO SIGNATURE",
-        "drm_scheme": "clearkey",
-        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smk8pxHxUDzyPvYI6iijKIkZbiRFhYpSnUC0Sk5xh/4VhA==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam3qYfeZ6zWLYvNIDnBQvd43Y8vMKxt9v39ara0UMcSMy"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/704/CH_LOGO/350/500/0/0/931513860712.png",
-        "name": "HBO MUNDI",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yTr6aZemleJE4HWengp0DOqo3Dgi1uCmiXyQPpLsJHw4yfI26mTFyRuxNtrXs6vGzwTN3TSOQKYxsg+YltGkmx",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtlB1aUADh57iqXFqsmAnqTrHRNttPvbewuhMZ8R0MDZw=="
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/1441/CH_LOGO/350/500/0/0/71702634073927.png",
-        "name": "HBO POP",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x+e6ZWIjHRyqHv1a/7CFbNTamHjFjQ4WZvjo9LlVJpatB8EY+czXndyPdnvqv4J2M=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UuJu8md8gCQf3WQVNfTjAX+f3zTA4Kz3fAmkn8v52do5g=="
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/705/CH_LOGO/350/500/0/0/7754024707334.png",
-        "name": "HBO XTREME",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4ypSPv7VnSivtVIlkIXsz5Nyo/ghmhPxW96VRYoAjcdTR05D6IA7c91TKY5sDetfAe3GJTTPst+Tl5fxWHwRFN9",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Us670M3t5VQMwvyEMHJdA2L2gREJH3vKxN3fMtPFGgrpA=="
-      },
       {
         "icon": "https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png",
         "name": "Canal 1 Costa Rica",
