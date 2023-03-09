@@ -5280,6 +5280,16 @@
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKnMA7M9t7JPulocxcBcNniNaAhPvrNu9yV2C/AdVGnXNRJBU4QQxD3710au0fCZNCdNCvC4Hwye4LVptk1J534wOcM/dqfkda9J4gWCcBzVEg==",
         "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/IvGz2zEQgyOWY5Kwu8f240birtd2T/nPeK\nLVeOqEpZUOX6H5iKLPyBfoDqExfq9Eh7YarZ7s/A3NevQ5mIgUSYImAbjj8SDRZF3QiNxnDyWQ=="
+      },
+      {
+        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tnt-sports-2-cl-2561.png",
+        "name": "PRUEBA",
+        "uri": "X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zTtXgzuyLwYEnDjJje1AN4zaGBurKh+ugZbitjp7LuM8UP55A7bovNCOxATABzu4r"
+      },
+      {
+        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tnt-sports-2-cl-2561.png",
+        "name": "PRUEBA",
+        "uri": "web:X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zTtXgzuyLwYEnDjJje1AN4zaGBurKh+ugZbitjp7LuM8UP55A7bovNCOxATABzu4r"
       }
     ]
   }
