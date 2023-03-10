@@ -4,6 +4,46 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/6BZAYG6oooTLv72w9ePKvbpqDlj.jpg",
+        "name": "El sistema (2022)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWX4/vKYpqVIgoYi8572AkTXie7vXNvXqgEkRJbVcLI5YCmhDuwHtm9sGbU9L0hST5w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg",
+        "name": "Embaucadores: Un plan perfecto (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGmJmyjGRDlO44/nzfEIgAdOgI/3a+SMq6kNvvvvvvvvvvvWAfcejAhqQ=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BMDA0Nzk1ZTYtNDliNy00YWQ4LTk5MTktN2RmNTQ1YTA4NWE1XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg",
+        "name": "Eres tú (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGnyFbGmXrnBLI9YrgVyD4b6VwI1n4Y7lNZkMOvm8xsNcQ=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/3/w300/sexnKxpAOl0wfixYC3RataZD4pI.jpg",
+        "name": "Esta noche duermes conmigo (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlaQnZIf7Q43iPg16PPntM9I8+bN5A5eJqjoPALuf4upQ=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/eU85DLyyhS1SnmOU9mZPb8mt1mo.jpg",
+        "name": "Little Dixie (2023)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlGimR1j3Bht8vSkjDQf3LoRbsk9yBYAPyWII5gueZ6fEo70ze002bbTARAlOem010="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/p98DxMJbXjI6ITI9aFh3U0u5oF7.jpg",
+        "name": "Magic Mike: El último baile (2023)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXnfaCl+WxG/JYIyYXgYB1a4SQS8Uz2DyVnE+bTnnzVPjKKAKLEuJxIfLRT+QTmdmNs="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/aOj8mNRXz3ss9pwCYgpva1JqmZx.jpg",
+        "name": "Pamela: Una historia de amor (2023)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlNfZSrejp6ZOIWiTsHgE+QVcgdIuM04ReLGfD3len9FFXgbaSmaxt5DC3j/HUs1PM="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w300/pxPs1ukS3vYxLy7Huw2aINxX2dy.jpg",
+        "name": "Tenemos un Fantasma (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGlCJuRa1AA/bZxUfXVc4Kps"
+      },
+      {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/r1SyEVQhOxlQ3ijDHl5HWygEDqU.jpg",
         "name": "Alerta extrema: El piloto (2023)",
         "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkgw/X8DAV3T+hkXVdFoHD2o45LKRKT+7wmFsHPfbXB3Q=="
@@ -506,6 +546,74 @@
     "mode": true,
     "lista": [
       {
+        "name": "Carnival Rom TEMP 1",
+        "icon": "https://i.imgur.com/Emqp4jT.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZ8f/xB3Ab3Xy1p97Z/ODxThYBDjcEI5VFiidal1JjAGAcdVvbDAogxrMqyOpbl75g=="
+          },
+          {
+            "name": "Capitulo. 2",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JUvsOYpmAFoFpC07lrVQGjc1Y8yFX3m+U7xXz3O2ZffLw=="
+          },
+          {
+            "name": "Capitulo. 3",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JWzQXLl2GxO57o3nhcw8q8umzylzpX/P33VsJOnKNp4Ig=="
+          },
+          {
+            "name": "Capitulo. 4",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JUmxuc/dNJm6acDlxp1d4Kj1iLmQls5tmrAUjQg5WLlVA=="
+          },
+          {
+            "name": "Capitulo. 5",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JUCqcfOhUuh24lDYG0tTmvX/d2JX07gur59kbpiHCOzuw=="
+          },
+          {
+            "name": "Capitulo. 6",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JW/pNFTJcdTG1sA29dQVEp0CctcW30Cb0aS8Z3ECZeqzQ=="
+          },
+          {
+            "name": "Capitulo. 7",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JWcjMnXhVC7mGulQ2ICS6r2H0dAIhWR4vT++POwONnJiw=="
+          },
+          {
+            "name": "Capitulo. 8",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JWXobHgxCEEHXMANmRZ5B7pM/hTglp6ope4eSugJR3vlw=="
+          }
+        ]
+      },
+      {
+        "name": "Carnival Rom TEMP 2",
+        "icon": "https://i.imgur.com/j3eM95F.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JUwqM/qzAHFTnnjxO9MvMHwG3p2oFczwORl/0WFzRucxQ=="
+          },
+          {
+            "name": "Capitulo. 2",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JXYSc9l4NoS2nvsK4ex9vQ/58+D2GCVbFodHGZtaA/MkA=="
+          },
+          {
+            "name": "Capitulo. 3",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JXVzrb/ZQUEamqlEBxiLqZTeIRjN5sSvm4wSqH1TaGvFw=="
+          },
+          {
+            "name": "Capitulo. 4",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JWxp5YBsdHVfTmC1Gxyl9xsq/85ZMSSRfRILJaG7E4Dxg=="
+          },
+          {
+            "name": "Capitulo. 5",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JU6UEMP4Aj0HvScNkFHaZKIO9PTVUyiPQSZB/V1ji2Tqg=="
+          },
+          {
+            "name": "Capitulo. 6",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZXqyzN/azt2CXnHjpjL+JUjEgQB73LMM9lAhXYhpNRXeji6gKWA6Q48BFkyfLxVQQ=="
+          }
+        ]
+      },
+      {
         "name": "MANDALORIAN TEMP 1",
         "icon": "http://tuvideo.tv/poster/w410/paYjhgzRziKcMQtX0KZOlYxGknW.jpg",
         "temporada": [
@@ -588,6 +696,10 @@
           {
             "name": "Capitulo. 1",
             "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBi62khXaStHBzC7FODzVgRiDKc61j+Gv7ge1FEGr0oeqinbv3wTs1KCaXe/otFhSqGMO0gGNbV/JadzLeixA0xJz13RvZRDNLSR219nkB6+g=="
+          },
+          {
+            "name": "Capitulo. 2",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfYmHtsNYWncmSxuI9mMf074ZjifBmHxNZpPKSTZeheg/6ZotEHelD6ctmgOIb+hjQ=="
           }
         ]
       },
@@ -15392,6 +15504,16 @@
     "mode": true,
     "lista": [
       {
+        "icon": "http://tuvideo.tv/poster/w200/9604811677984582i.jpg",
+        "name": "Princess Khutulun (2021)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWaA9e289NxQSf9EBeAlgag1zBbhxc1o70Xmz9XTEFECrqA0naxPazh66qrAJfvqsFw=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/A9JD050ibp3hNC1kmbcq07jEZv2.jpg",
+        "name": "Querido David (2023)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXk76wp5a3kMONkOs38CGNUAP9xEEDj+GlLSvLnNr7NbLQ=="
+      },
+      {
         "icon": "https://i.imgur.com/T4XeEqo.jpg",
         "name": "Unlocked (2023)",
         "uri": "aqjOEhWtVS9CYLQkJfIDWcJD+Pxw2g3neY7x87oOB6ctTwBsErlYubMYkK+xNcqJYPLWeu/qDYtj923UDXAX+rH2H6r35ff+udhC89SbgTw="
@@ -15404,7 +15526,7 @@
       {
         "icon": "https://pelismaraton.nu/poster/karada_sagashi.jpg",
         "name": "Re/Member",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZjjcD2i0oLNnOCCOhIH4kSg6Ip4SnAhOwjDpE977TVsO68u8TkaPYUFV8B7OyZ8jig=="
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGmJmyjGRDlO44/nzfEIgAdOybaOowYHEtPgsBs8vpSAcw=="
       },
       {
         "icon": "https://pelismaraton.nu/poster/dear_david-.jpg",
