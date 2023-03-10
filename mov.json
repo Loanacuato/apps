@@ -704,6 +704,48 @@
         ]
       },
       {
+        "name": "Cromosoma 21",
+        "icon": "https://sunetflix.it/media/26/cromosoma-21_81424724.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWWdzn8OqGrtNMiQ/gS7rCCn+fDmVZm7vGakAJyPOq+74o/5OVtoe6M74HMfcEdaq9w=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWWdzn8OqGrtNMiQ/gS7rCCkgYFptbjeI3r/ceRrLnq4kxMJgNo/llbQ0kYJ4nW/lQQ=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZemJvnHt0aFfM/TyJjKwyneWDMtk/bTrSqbA3+035pesAUsHOTYiwhX9knvSX3m8Q=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWWdzn8OqGrtNMiQ/gS7rCCmof6iFZdFyyfpJ212L07uMCJS0tnOLdfJ6dL5nz5k8aA=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZemJvnHt0aFfM/TyJjKwykcrpu2DfpQZBt4OoY5hhWLPg8IzBV3mGZ99bU6OxVAeQ=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWWdzn8OqGrtNMiQ/gS7rCClJ38GbONNI7kKOkQqg8bQvCoDNCDBTZFxCFCGWj2AnHQ=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWZemJvnHt0aFfM/TyJjKwykHQ3ycDWBtqfjBMZoE3LEcssret70XdoSNGsWpMlckog=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWWdzn8OqGrtNMiQ/gS7rCCm6Pgy7yU7vg8xfXGPNUbgFgEgD914Uh/svstUFK68oJg=="
+          },
+          {
+            "name": "Capitulo 9",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWWdzn8OqGrtNMiQ/gS7rCCm6Pgy7yU7vg8xfXGPNUbgFgEgD914Uh/svstUFK68oJg=="
+          }
+        ]
+      },
+      {
         "name": "28 Dias paranormales",
         "icon": "https://image.tmdb.org/t/p/original/1MxVHXE8woWTQaprkQ1gFR2HDln.jpg",
         "temporada": [
