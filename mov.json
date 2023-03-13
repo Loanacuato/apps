@@ -436,6 +436,52 @@
     "mode": true,
     "lista": [
       {
+        "name": "The Last of us",
+        "icon": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEB5ZDD3evAYiyGHQE16SS7hP5XofAN8ZfnrMMilt7ZTG0SucfRZyOgen8FZrUezMA95mHtRUjpRcwDx38DJJcEcA2lkVoVjpsgWm9+2iBZJyA=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEA/iQAcU8tS9Tz3F1Iti5gVSmZl5ipv/kRtt0fuhsVe+u8A2JsVr+sy1DaFZsF/vDdLXxXgO0l+3w0XyE/ODW5KJWyADdXunIu7Mka2IHqazw=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAvC++MAq3TbtLitgD5mFmz9LEMnU62LpXf9qz+ah3wLnjSiiAyN83E3kMgb+MKtG0voX08G3YviqmLdAp3nE9fFutap5yXuFPiCZ65Ap4dv4FqMetsClIvdWMcgdtMVVY="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBi62khXaStHBzC7FODzVgR+hNJfZoxhtAUokmG/M4Pe+ytVaF3mLM7XXxRAghuTniCRmj3f3v7ehGV2g1L/F//SHXxyZwS0Cbutuh5xI4nRg=="
+          },
+          {
+            "name": "Capitulo 5 SUB",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBi62khXaStHBzC7FODzVgRmxNgSAnjEtnXuQBrK1No+dRVDjdMWLXnMEWAX7lNV2yDg2o1j2dFTUqkDF2j1kbrh9V2XWa5MurgW1fVLuqLLA=="
+          },
+          {
+            "name": "Capitulo 5 ESP",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWcqiuqW1A4ouieZ0aAKVs2p369J8PBR595DiSYrsQ0CWV5YFxIMrIdSpOO3FiDLtIQ=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBu+04Bbh6PFhyHeFngx00dnpTVVHycdWRTj2gA73SUJkV6lED0xtAIHb+EwMkNb2PCh6PU3lQl66OWVvCwYH2AENgq50pMsXro+7XrmJz5EQ=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWcqiuqW1A4ouieZ0aAKVs2rzOJppfprAory7RLQIwsdL3wkUuOBemgK0JyajcJR+2g=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfgR3Lc4zObaNVASGrZVcfcLR4nTAJiFfGFV+th/RNvd0wCBMMWBSTshhXgISenZHQ=="
+          },
+          {
+            "name": "Capitulo 9",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfgR3Lc4zObaNVASGrZVcfeLG2XJh0PwDQ4p7GyKAbUEA1EyYtOkwwuN8xWtJ4aNIw=="
+          }
+        ]
+      },
+      {
         "name": "Carnival Rom TEMP 1",
         "icon": "https://i.imgur.com/Emqp4jT.jpg",
         "temporada": [
@@ -684,48 +730,6 @@
           {
             "name": "Capitulo 4",
             "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDBPTtAbjidgIgVy0MRA1izkEmQdSdOVi9o9gjhkd+HCuqOV8gLqCRrpTwxp73r18Z+ie99S/Ufbj45HCe//bMv"
-          }
-        ]
-      },
-      {
-        "name": "The Last of us",
-        "icon": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg",
-        "temporada": [
-          {
-            "name": "Capitulo 1",
-            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEB5ZDD3evAYiyGHQE16SS7hP5XofAN8ZfnrMMilt7ZTG0SucfRZyOgen8FZrUezMA95mHtRUjpRcwDx38DJJcEcA2lkVoVjpsgWm9+2iBZJyA=="
-          },
-          {
-            "name": "Capitulo 2",
-            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEA/iQAcU8tS9Tz3F1Iti5gVSmZl5ipv/kRtt0fuhsVe+u8A2JsVr+sy1DaFZsF/vDdLXxXgO0l+3w0XyE/ODW5KJWyADdXunIu7Mka2IHqazw=="
-          },
-          {
-            "name": "Capitulo 3",
-            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAvC++MAq3TbtLitgD5mFmz9LEMnU62LpXf9qz+ah3wLnjSiiAyN83E3kMgb+MKtG0voX08G3YviqmLdAp3nE9fFutap5yXuFPiCZ65Ap4dv4FqMetsClIvdWMcgdtMVVY="
-          },
-          {
-            "name": "Capitulo 4",
-            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBi62khXaStHBzC7FODzVgR+hNJfZoxhtAUokmG/M4Pe+ytVaF3mLM7XXxRAghuTniCRmj3f3v7ehGV2g1L/F//SHXxyZwS0Cbutuh5xI4nRg=="
-          },
-          {
-            "name": "Capitulo 5 SUB",
-            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBi62khXaStHBzC7FODzVgRmxNgSAnjEtnXuQBrK1No+dRVDjdMWLXnMEWAX7lNV2yDg2o1j2dFTUqkDF2j1kbrh9V2XWa5MurgW1fVLuqLLA=="
-          },
-          {
-            "name": "Capitulo 5 ESP",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWcqiuqW1A4ouieZ0aAKVs2p369J8PBR595DiSYrsQ0CWV5YFxIMrIdSpOO3FiDLtIQ=="
-          },
-          {
-            "name": "Capitulo 6",
-            "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBu+04Bbh6PFhyHeFngx00dnpTVVHycdWRTj2gA73SUJkV6lED0xtAIHb+EwMkNb2PCh6PU3lQl66OWVvCwYH2AENgq50pMsXro+7XrmJz5EQ=="
-          },
-          {
-            "name": "Capitulo 7",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWcqiuqW1A4ouieZ0aAKVs2rzOJppfprAory7RLQIwsdL3wkUuOBemgK0JyajcJR+2g=="
-          },
-          {
-            "name": "Capitulo 8",
-            "uri": "aqjOEhWtVS9CYLQkJfIDWfgR3Lc4zObaNVASGrZVcfcLR4nTAJiFfGFV+th/RNvd0wCBMMWBSTshhXgISenZHQ=="
           }
         ]
       },
