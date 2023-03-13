@@ -15371,8 +15371,8 @@
     ]
   },
   {
-    "name": "PELICULAS CANTINFLAS",
-    "mode": "12 Peliculas",
+    "name": "PELICULAS CANTINFLAS\n12 Peliculas",
+    "mode": true,
     "lista": [
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/8/w1280/4DJzxxqshVst18BxQDSyTRe1wPF.jpg",
@@ -15437,8 +15437,8 @@
     ]
   },
   {
-    "name": "PELICULAS ASIATICAS",
-    "mode": "23 Peliculas",
+    "name": "PELICULAS ASIATICAS\n23 Peliculas",
+    "mode": true,
     "lista": [
       {
         "icon": "http://tuvideo.tv/poster/w200/9604811677984582i.jpg",
