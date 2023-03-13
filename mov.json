@@ -1,8 +1,23 @@
 [
   {
-    "name": "AGREGADO RECIENTE",
+    "name": "AGREGADO RECIENTE\n14 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/4/42/Luther_cae_la_noche_poster.png/revision/latest?cb=20230310152603&path-prefix=es",
+        "name": "Luther (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBfHnXLKvZGH9LIIWyLBueMdlSp09r2Q8HvqVfRUFTIi95D55vUAo9CfZRXNQAUmAdoOzHM5vOj4Jl6hbFq1oGEKdUz5gqdf8d4ksut0DfNNA=="
+      },
+      {
+        "icon": "https://i.imgur.com/5SipUvu.jpg",
+        "name": "Decision of Leave (2022)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWUsAZs7R/gvUK3X1ZQ2OWGXanW2ap03xHK6dbBAXrmIASqipE1p8FtYNLK8qDuh89t7luYaqELOaaywR/9Ie+Ik="
+      },
+      {
+        "icon": "https://i.imgur.com/a2okNsM.jpg",
+        "name": "Babylon (2022)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWbip7NjpLYYNV6rj/wnl5bP7Lk0rl40ImwRY9rNdJNgyH4A5shoVpQMtjc49UdT5vA=="
+      },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/6BZAYG6oooTLv72w9ePKvbpqDlj.jpg",
         "name": "El sistema (2022)",
@@ -57,148 +72,23 @@
         "icon": "https://m.media-amazon.com/images/M/MV5BYzI0NGFmNGMtYmRjZi00MjIxLTg5NTMtNTgwNGIwN2NkNWEwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
         "name": "Duro de entrenar (2023)",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGmJmyjGRDlO44/nzfEIgAdO8MCAT39qOlAi8Mc17dwUoQ=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg",
-        "name": "Los extraños (2023)",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkA+m+D/rPS8SXfOycKb1Xpxqb1kM58h/fDdRvxgXMEpg=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/eodXetH5ozVr6iiVVRk6Hostonv.jpg",
-        "name": "La ofrenda (2022) SUB",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmtSyGTPduFvSHT+Z+rDsqEjXy2T+HmsR4cHy8IccUrBb/FjDLVCCkWLzrRbh7fH3w="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg",
-        "name": "Llaman a la puerta (2023)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEC3pORLAClar0XQlZ4r5l7dJe1abRnxVK+1x+g5qx0HmUiauR5acSkLndTrIyGQlcwOcoY+tQUOPRiS6pd2bgB/pX11JFg/M/bO8BMx14u9+w=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/9mFHSHWce77Pi5zwkfCL35KU6MW.jpg",
-        "name": "Amor al cuadrado: Otra vez (2023)",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk7CUnEyrLi5KmyBO5bIvkOB3lYGbDRpA1bkLHBXLPu8w=="
-      },
-      {
-        "icon": "https://m.media-amazon.com/images/M/MV5BZTg1ZjIxNTQtMjM5Ny00OGEyLWI2OTgtOGEzYzVkMDk4ZGFhXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg",
-        "name": "A todas partes (2023)",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk7CUnEyrLi5KmyBO5bIvkOoS644lOUJW49PLR0zjI04w=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/oiE5AqW6eotvynRqhV91XhEMDyL.jpg",
-        "name": "Venus (2022)",
-        "uri": "aqjOEhWtVS9CYLQkJfIDWUnw6A64sdQTHftZzT/nXJ32U0Js9UsdW9EPnNKQVYPogVmoQNT99fa76edb6t1dIA=="
-      },
+      }
+    ]
+  },
+  {
+    "name": "CINE ARGENTINO\n70 Peliculas",
+    "mode": true,
+    "lista": [
       {
         "icon": "https://w4.cuevana3.ai/wp-content/uploads/2022/07/ex-casados-60785-poster-225x300.jpg",
         "name": "Excasados (2021)",
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDuSr+uP74lpluEsllYg8DGXprYEjvmSXmTZA/AfrC3MbGiLPegIskxHw672QL+NukZOhPwPHcMIU82gHjIWjaTobwfGlyXXZ6XXNRk+F/LlQ=="
       },
       {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg",
-        "name": "Alguien a quien solía conocer (2023)",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGkUoeY+ZQXrC7UDSyiGBzcWsfILwDKutrqJXBv9xtggEA=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg",
-        "name": "At midnight (2023)",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGkUoeY+ZQXrC7UDSyiGBzcWAxmcLnVXsm/465TxoHn88w=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg",
-        "name": "Espíritu libre (2023)",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk1pGan7DyfJzKszlZfEqsgaXhH9FtpFj22Wcl6IBeKOA=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/rpuV6GRIBD2v8A2FZM53ebNFcJx.jpg",
-        "name": "Infiesto (2023)",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk1pGan7DyfJzKszlZfEqsgKEejmqB2vTBxCIFAOVeoTw=="
-      },
-      {
-        "icon": "https://depor.com/resizer/IGqmFzk2arSn-RWG7xLJTwaawv8=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WOTVKYZX3BGPDGQZKYSIJ2LEKA.jpg",
-        "name": "Teen Wolf (2023)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAe2tAf/6LnQBGu+D/bFDm8uKJbv5cf52hYrQ04K5ro0g+f9fzZO/eVpn+BT+FxlN96oj5getU2db9b0H9ItNwZhyKZzoQ4YCrs2HSLceofrg=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/3AqGq6t4dHzTPgQ1JSzhhDxz5pQ.jpg",
-        "name": "Ustedes (2023)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDdWeu3cdHHXkRgcPraT40nTIRJWbcH5esO/FFWUWg/o6aDvMY2hzjS65f6Groamb96uH7BYZu3fh3wUUwTU6s6r4Yf4ULgnktgfC1tRCe0yA=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/eOixT71Ok77ZiBu06lO0Z6FysKi.jpg",
-        "name": "Transfusión (2023)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECRB/rzocATQMWAH8MFv4unXZI64apwQ7U5nT8CfEYgjBdmkZep2ILw55134sBsx/hBbbsDOBBHEaN3xH0jwDcaKsGi0YxXzqJ7c0wQxmAjNw=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/oKovzRJWz4brwxogYH8vaIoMOeU.jpg",
-        "name": "Fiesta en casa (2023)",
-        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlMQPeaw9Y1RE8sncf864GBDu7D9DngybTAtjZMgvqpPQ=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/bjensvHWkOHtBO114A8sXxji1gu.jpg",
-        "name": "Legiones (2023)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KED3FXxwm6Cr2CUU/HBNnK21vbH+Ym/vS2unhal6CrTH3LBGLMB/S4/u5JmRsS8fgl9V+rWAgaqpCOhII5PMtU9ZdCRFUYEltp70kqBtZinlcw=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/jrPKVQGjc3YZXm07OYMriIB47HM.jpg",
-        "name": "Detective Knight: Independencia (2023)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBTPS2jwesv7Gc3aKG5dgqII6Q0YacQrZ5XwEWGJ/f4xpz4hBf7is4vq7KsqazDn+jWbRlQ5SWD857VCFJaXbva6Qpih4iGPLJ2YK1MJcwCjg=="
-      },
-      {
         "icon": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyJHCpzODvzVbN5jA2qxdWR9fTM.jpg",
         "name": "El suplente",
         "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDK3sPsgZ0szjVGKrw/Guj3u7UYgn/xAQK4Zf43+H+0Sm8G0iXLGQgSxy0CfZC+H9YXBPhMX4SGAeMk7ucKKmOjO2ce0Sp4w0VJlrmsVhPUtw=="
       },
-      {
-        "icon": "https://www.ecartelera.com/carteles/17400/17449/001_m.jpg",
-        "name": "Devotion: Una historia de heroes",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBKHdsDIUTCH+YF3FpSwcLyVpOXSgN1HXhUik4cH79bRL9V0j/LcBR+H+ZC1sRDLlh5+Ko7S/xJziIl9gneh+Lvm3gZuE+bKDr5wLakcQAKLw=="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/5/5b/La_aldea_siniestra.jpg/revision/latest?cb=20230114055211&path-prefix=es",
-        "name": "La aldea siniestra",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZrkVbgNRgAidNzfHb4Becc23pSVdQRaqWNdEjL0jg+Adaaihs5RRh0S9ovHHC7K50n5KqfrK7yYaJV//DSQ+LZrquiNGRC0FUs17g7S1Zkw=="
-      },
-      {
-        "icon": "https://mcswebsites.blob.core.windows.net/1048/Event_7547/portrait_large/DevilsLight_B1_Nun_Org_Preview.jpg",
-        "name": "Reza por el diablo",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECVxM2g6lQtWBI2yMlboil5xuxymWk6PnzIgx1srPxEA6HSYHS3/IApe3iyexrXOcK6ktgfsiJ7K9CiF255VnckR2uTek9xqhFtBBTkG9LHBQ=="
-      },
-      {
-        "icon": "https://image.tmdb.org/t/p/w500/tGmCxGkVMOqig2TrbXAsE9dOVvX.jpg",
-        "name": "El organizador de bodas (2023)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDK3sPsgZ0szjVGKrw/Guj3nP+rW5fEQ5PnbomnLkbUEpuI3gWTOEFmUB3r5OQSVPNOobR6+6acmlZgevhU+ojhcZTa3ZhM8vgYX2nVBpzTLw=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
-        "name": "Perro perdido (2023)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAyF7uDp3aDPg/QxNEkzb6J0ujm2BGuHOX+X87OwJi6Lsar8IIoVnT2ywYa/sc9mwAwOs1hIWaFGgJnyQgv0w1mycqUJzMuXn/sacKA5Z+5TQ=="
-      },
-      {
-        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg",
-        "name": "Jung_E (2023)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEClbQ0i/eit7fmbz+aPFUqXDAOc5Oe5NcCa+2sEbP1KOrrA9URzqgs7ItDFj1k/5rTSlBXt+fJyLs55azSVmYjmKqdVmdn7FXI6NBqzV3MWSg=="
-      },
-      {
-        "icon": "https://pelismaraton.nu/poster/dead_zone-2.jpg",
-        "name": "Dead Zone (2022)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBIgKgSvJeJjQsvr/JK3uv3XmUBtefxwrjTZXr2rDLlXh25H7dcJb/j7OO1e7rGdLsRxE6UUnudfYdGU9WIi4PZ"
-      },
-      {
-        "icon": "https://image.tmdb.org/t/p/w185/nODj4huoOcHwCQnfhZFCqUYcInU.jpg",
-        "name": "Megan",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KED4/6W5WdY2m8dxI5qhkzDfP6jY8qBaXeZ0t4oDHGN2bI12B2WarVaAJvANin5POF0nMnZMgIfdwl0vzGJLcXGZm/2OWaC8rZr6P/7res3Guw=="
-      },
-      {
-        "icon": "https://image.tmdb.org/t/p/w185/d73gCCREHfwqmKK4a1VFuF8UowN.jpg",
-        "name": "El Asesino Perfecto",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDK3sPsgZ0szjVGKrw/Guj3buLgii06Yowgf2Fm6+YmGeloRcRlGwLjyoWuw5qdgwCw33+92jwNz80H2a4AEK4/Yx9lt8SQhfAqZaLC/GEA6Q=="
-      }
-    ]
-  },
-  {
-    "name": "CINE ARGENTINO",
-    "mode": true,
-    "lista": [
       {
         "icon": "http://tuvideo.tv/poster/w200/8487631675283769i.jpg",
         "name": "Mas respeto que soy tu madre",
@@ -542,7 +432,7 @@
     ]
   },
   {
-    "name": "SERIES",
+    "name": "SERIES\n118 Series",
     "mode": true,
     "lista": [
       {
@@ -8288,7 +8178,7 @@
     ]
   },
   {
-    "name": "SERIES INFANTILES",
+    "name": "SERIES INFANTILES\n5 Series",
     "mode": true,
     "lista": [
       {
@@ -11220,7 +11110,7 @@
     ]
   },
   {
-    "name": "Anime Series",
+    "name": "Anime Series\n7 Series",
     "mode": true,
     "lista": [
       {
@@ -12304,7 +12194,7 @@
     ]
   },
   {
-    "name": "Anime Peliculas",
+    "name": "Anime Peliculas\n10 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -12360,7 +12250,7 @@
     ]
   },
   {
-    "name": "NOVELAS y se van a ir agregando mas",
+    "name": "NOVELAS y se van a ir agregando mas\n9 Series",
     "mode": true,
     "lista": [
       {
@@ -15280,7 +15170,7 @@
     ]
   },
   {
-    "name": "PELICULAS NAVIDEÑAS",
+    "name": "PELICULAS NAVIDEÑAS\n39 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -15482,8 +15372,13 @@
   },
   {
     "name": "PELICULAS CANTINFLAS",
-    "mode": true,
+    "mode": "12 Peliculas",
     "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/8/w1280/4DJzxxqshVst18BxQDSyTRe1wPF.jpg",
+        "name": "Cantinfla (2014)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBhIXddZrCykSE8TiViFcqQY/EmThcmBCeuIsi7EOK2V91t95gfaOnGuLL0qr/M/fjBHjFphPYCsHRygdw8mAmIUJqBKy6JY4krsf2PBdS/VA=="
+      },
       {
         "icon": "https://m.media-amazon.com/images/I/51yxbjhC15L.jpg",
         "name": "EL PADRECITO",
@@ -15543,7 +15438,7 @@
   },
   {
     "name": "PELICULAS ASIATICAS",
-    "mode": true,
+    "mode": "23 Peliculas",
     "lista": [
       {
         "icon": "http://tuvideo.tv/poster/w200/9604811677984582i.jpg",
@@ -15663,9 +15558,14 @@
     ]
   },
   {
-    "name": "PELICULAS VARIAS",
+    "name": "PELICULAS VARIAS\n69 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BZTg1ZjIxNTQtMjM5Ny00OGEyLWI2OTgtOGEzYzVkMDk4ZGFhXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg",
+        "name": "A todas partes (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk7CUnEyrLi5KmyBO5bIvkOoS644lOUJW49PLR0zjI04w=="
+      },
       {
         "icon": "https://http2.mlstatic.com/D_NQ_NP_847937-MLM31234727353_062019-O.jpg",
         "name": "la tarea",
@@ -16009,9 +15909,44 @@
     ]
   },
   {
-    "name": "PELICULAS ACCION- AVENTURA- CIENCIA FICCION",
+    "name": "PELICULAS ACCION- AVENTURA- CIENCIA FICCION\n260 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/rpuV6GRIBD2v8A2FZM53ebNFcJx.jpg",
+        "name": "Infiesto (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk1pGan7DyfJzKszlZfEqsgKEejmqB2vTBxCIFAOVeoTw=="
+      },
+      {
+        "icon": "https://depor.com/resizer/IGqmFzk2arSn-RWG7xLJTwaawv8=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WOTVKYZX3BGPDGQZKYSIJ2LEKA.jpg",
+        "name": "Teen Wolf (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAe2tAf/6LnQBGu+D/bFDm8uKJbv5cf52hYrQ04K5ro0g+f9fzZO/eVpn+BT+FxlN96oj5getU2db9b0H9ItNwZhyKZzoQ4YCrs2HSLceofrg=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/eOixT71Ok77ZiBu06lO0Z6FysKi.jpg",
+        "name": "Transfusión (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECRB/rzocATQMWAH8MFv4unXZI64apwQ7U5nT8CfEYgjBdmkZep2ILw55134sBsx/hBbbsDOBBHEaN3xH0jwDcaKsGi0YxXzqJ7c0wQxmAjNw=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/jrPKVQGjc3YZXm07OYMriIB47HM.jpg",
+        "name": "Detective Knight: Independencia (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBTPS2jwesv7Gc3aKG5dgqII6Q0YacQrZ5XwEWGJ/f4xpz4hBf7is4vq7KsqazDn+jWbRlQ5SWD857VCFJaXbva6Qpih4iGPLJ2YK1MJcwCjg=="
+      },
+      {
+        "icon": "https://www.ecartelera.com/carteles/17400/17449/001_m.jpg",
+        "name": "Devotion: Una historia de heroes",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBKHdsDIUTCH+YF3FpSwcLyVpOXSgN1HXhUik4cH79bRL9V0j/LcBR+H+ZC1sRDLlh5+Ko7S/xJziIl9gneh+Lvm3gZuE+bKDr5wLakcQAKLw=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg",
+        "name": "Jung_E (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEClbQ0i/eit7fmbz+aPFUqXDAOc5Oe5NcCa+2sEbP1KOrrA9URzqgs7ItDFj1k/5rTSlBXt+fJyLs55azSVmYjmKqdVmdn7FXI6NBqzV3MWSg=="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/w185/d73gCCREHfwqmKK4a1VFuF8UowN.jpg",
+        "name": "El Asesino Perfecto",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDK3sPsgZ0szjVGKrw/Guj3buLgii06Yowgf2Fm6+YmGeloRcRlGwLjyoWuw5qdgwCw33+92jwNz80H2a4AEK4/Yx9lt8SQhfAqZaLC/GEA6Q=="
+      },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/2/w1280/dTshd9hjQMWyRijWucqszKPrp5z.jpg",
         "name": "Busqueda implacable 1 (2008)",
@@ -17280,9 +17215,24 @@
     ]
   },
   {
-    "name": "PELICULAS COMEDIA",
+    "name": "PELICULAS COMEDIA\n124 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/3AqGq6t4dHzTPgQ1JSzhhDxz5pQ.jpg",
+        "name": "Ustedes (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDdWeu3cdHHXkRgcPraT40nTIRJWbcH5esO/FFWUWg/o6aDvMY2hzjS65f6Groamb96uH7BYZu3fh3wUUwTU6s6r4Yf4ULgnktgfC1tRCe0yA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/oKovzRJWz4brwxogYH8vaIoMOeU.jpg",
+        "name": "Fiesta en casa (2023)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXlMQPeaw9Y1RE8sncf864GBDu7D9DngybTAtjZMgvqpPQ=="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/w500/tGmCxGkVMOqig2TrbXAsE9dOVvX.jpg",
+        "name": "El organizador de bodas (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDK3sPsgZ0szjVGKrw/Guj3nP+rW5fEQ5PnbomnLkbUEpuI3gWTOEFmUB3r5OQSVPNOobR6+6acmlZgevhU+ojhcZTa3ZhM8vgYX2nVBpzTLw=="
+      },
       {
         "icon": "https://image.tmdb.org/t/p/w185/x76WV946xbdfwnSw22RhB1r2VOP.jpg",
         "name": "El Chanfle",
@@ -17891,9 +17841,44 @@
     ]
   },
   {
-    "name": "PELICULAS DRAMA- SUSPENSO- CRIMEN",
+    "name": "PELICULAS DRAMA- SUSPENSO- CRIMEN- ROMANTICAS\n200 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg",
+        "name": "Llaman a la puerta (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEC3pORLAClar0XQlZ4r5l7dJe1abRnxVK+1x+g5qx0HmUiauR5acSkLndTrIyGQlcwOcoY+tQUOPRiS6pd2bgB/pX11JFg/M/bO8BMx14u9+w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/9mFHSHWce77Pi5zwkfCL35KU6MW.jpg",
+        "name": "Amor al cuadrado: Otra vez (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk7CUnEyrLi5KmyBO5bIvkOB3lYGbDRpA1bkLHBXLPu8w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/oiE5AqW6eotvynRqhV91XhEMDyL.jpg",
+        "name": "Venus (2022)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWUnw6A64sdQTHftZzT/nXJ32U0Js9UsdW9EPnNKQVYPogVmoQNT99fa76edb6t1dIA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg",
+        "name": "Alguien a quien solía conocer (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGkUoeY+ZQXrC7UDSyiGBzcWsfILwDKutrqJXBv9xtggEA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w1280/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg",
+        "name": "At midnight (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGkUoeY+ZQXrC7UDSyiGBzcWAxmcLnVXsm/465TxoHn88w=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg",
+        "name": "Espíritu libre (2023)",
+        "uri": "Fd7VYd+Xm/S6VMHJ32eqZrPEgTQ4LuR+AUJpggnAZGk1pGan7DyfJzKszlZfEqsgaXhH9FtpFj22Wcl6IBeKOA=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/eYWdLZCS9W1Xli9bynzFSddLx02.jpg",
+        "name": "Perro perdido (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAyF7uDp3aDPg/QxNEkzb6J0ujm2BGuHOX+X87OwJi6Lsar8IIoVnT2ywYa/sc9mwAwOs1hIWaFGgJnyQgv0w1mycqUJzMuXn/sacKA5Z+5TQ=="
+      },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/AqnFoTOKLAtVIf3HtfM5GUd1ivW.jpg",
         "name": "Sin aliento",
@@ -18862,7 +18847,7 @@
     ]
   },
   {
-    "name": "PELICULAS WESTER",
+    "name": "PELICULAS WESTER\n26 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -18998,9 +18983,44 @@
     ]
   },
   {
-    "name": "PELICULAS TERROR",
+    "name": "PELICULAS TERROR\n92 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg",
+        "name": "Los extraños (2023)",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXkA+m+D/rPS8SXfOycKb1Xpxqb1kM58h/fDdRvxgXMEpg=="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/eodXetH5ozVr6iiVVRk6Hostonv.jpg",
+        "name": "La ofrenda (2022) SUB",
+        "uri": "DZBuj2t/1os0BNoYlHwt65iNDfUnmLF6Nh6pFhqrlXmtSyGTPduFvSHT+Z+rDsqEjXy2T+HmsR4cHy8IccUrBb/FjDLVCCkWLzrRbh7fH3w="
+      },
+      {
+        "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/bjensvHWkOHtBO114A8sXxji1gu.jpg",
+        "name": "Legiones (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KED3FXxwm6Cr2CUU/HBNnK21vbH+Ym/vS2unhal6CrTH3LBGLMB/S4/u5JmRsS8fgl9V+rWAgaqpCOhII5PMtU9ZdCRFUYEltp70kqBtZinlcw=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/5/5b/La_aldea_siniestra.jpg/revision/latest?cb=20230114055211&path-prefix=es",
+        "name": "La aldea siniestra",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDZrkVbgNRgAidNzfHb4Becc23pSVdQRaqWNdEjL0jg+Adaaihs5RRh0S9ovHHC7K50n5KqfrK7yYaJV//DSQ+LZrquiNGRC0FUs17g7S1Zkw=="
+      },
+      {
+        "icon": "https://mcswebsites.blob.core.windows.net/1048/Event_7547/portrait_large/DevilsLight_B1_Nun_Org_Preview.jpg",
+        "name": "Reza por el diablo",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECVxM2g6lQtWBI2yMlboil5xuxymWk6PnzIgx1srPxEA6HSYHS3/IApe3iyexrXOcK6ktgfsiJ7K9CiF255VnckR2uTek9xqhFtBBTkG9LHBQ=="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/w185/nODj4huoOcHwCQnfhZFCqUYcInU.jpg",
+        "name": "Megan",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KED4/6W5WdY2m8dxI5qhkzDfP6jY8qBaXeZ0t4oDHGN2bI12B2WarVaAJvANin5POF0nMnZMgIfdwl0vzGJLcXGZm/2OWaC8rZr6P/7res3Guw=="
+      },
+      {
+        "icon": "https://pelismaraton.nu/poster/dead_zone-2.jpg",
+        "name": "Dead Zone (2022)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEBIgKgSvJeJjQsvr/JK3uv3XmUBtefxwrjTZXr2rDLlXh25H7dcJb/j7OO1e7rGdLsRxE6UUnudfYdGU9WIi4PZ"
+      },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg",
         "name": "Resurrección",
@@ -19429,7 +19449,7 @@
     ]
   },
   {
-    "name": "PELICULAS INFANTILES",
+    "name": "PELICULAS INFANTILES\n124 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -20055,7 +20075,7 @@
     ]
   },
   {
-    "name": "SAGA SPIDER-MAN",
+    "name": "SAGA SPIDER-MAN\n10 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -20111,7 +20131,7 @@
     ]
   },
   {
-    "name": "SAGA STAR WARS LAS GUERRA DE LAS GALAXIAS",
+    "name": "SAGA STAR WARS LAS GUERRA DE LAS GALAXIAS\n12 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -20177,7 +20197,7 @@
     ]
   },
   {
-    "name": "D-C Universe",
+    "name": "D-C Universe\n21 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -20288,7 +20308,7 @@
     ]
   },
   {
-    "name": "LOS VENGADORES",
+    "name": "LOS VENGADORES\n21 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -20399,7 +20419,7 @@
     ]
   },
   {
-    "name": "SAGA PIRATAS DEL CARIBE",
+    "name": "SAGA PIRATAS DEL CARIBE\n5 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -20430,7 +20450,7 @@
     ]
   },
   {
-    "name": "Saga La Purga",
+    "name": "Saga La Purga\n5 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -20461,7 +20481,7 @@
     ]
   },
   {
-    "name": "SAGA HARRY POTTER",
+    "name": "SAGA HARRY POTTER\n8 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -20507,7 +20527,7 @@
     ]
   },
   {
-    "name": "PELICULAS DRAGON BALL ",
+    "name": "PELICULAS DRAGON BALL\n22 Peliculas",
     "mode": true,
     "lista": [
       {
@@ -20623,7 +20643,7 @@
     ]
   },
   {
-    "name": "4k",
+    "name": "4k\n58 Peliculas",
     "mode": true,
     "lista": [
       {
