@@ -734,13 +734,6 @@
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://www.ecured.cu/images/thumb/b/b4/Portada_Rede_Globo.jpg/260px-Portada_Rede_Globo.jpg",
-        "name": "Globo BR",
-        "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBEUCO83TwtoRFO5yOTDy4m5fP8BoMlvqOpMzjgr275iGA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6LI0UUnX16CZQiXKNw4Wfw6Bz28lt6Q3wgdx79PorsyBBM6Pu1vTw3+46LXrjH7SFnXxu/F8Wt0BwFLXzeQojTWKvSSV1Hq7kj3RzUi50pi"
-      },
-      {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
         "name": "TELEFUTURO PY",
         "uri": "jwjdtN1vPAWPglxaqI7tf9hwuDqRqlRpJwcE5Q5uTuw9MvGV661JrOAeuuRrhT0E1RkQzpqmEAx+HG3mWH/18knyxHfvzLfDXzBfsl6ZGhu+dnfqdstkJXp4rhUXz2v1SimMXpNXgROmMBHzjDALEQ==",
@@ -2325,7 +2318,7 @@
       {
         "icon": "https://www.ecured.cu/images/3/31/Venevision.jpg",
         "name": "Venevision",
-        "uri": "F0yYFPz0LUSVfT+cPi3MPL2aZyPgX+IGVnTcUwzVvS30DXWBaZ8JcbOlTzfTp2selaQKZvebjrVKpsldI5Kggg=="
+        "uri": "7uXLSWGwqsCTth3SVcDqFXpHnxXHS9F+RhZovp4t46S/n1o9eWhaRvo6xZLGnx1rLAwIPoOGBTkXKtP6jz7KlwsTsIodGK7uyFUgnQtr6ZE="
       },
       {
         "icon": "https://media.licdn.com/dms/image/C4E0BAQEyH7rsULBrNw/company-logo_200_200/0/1620060470470?e=2147483647&v=beta&t=w_YPuWZZmhEEnizwlvOMWnvoUEU-UKZhtlHtt6L7LuA",
@@ -2712,8 +2705,8 @@
         "icon": "https://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas2.png",
         "name": "TL NOVELA",
         "drm_scheme": "clearkey",
-        "uri": "CNkMxdKH7X9uRVUdhgCc1QWy1D0rx8JQT2eQYfbpuzZiJV7seJ8sdbNhkNUonTcjs4whNM7ZvSMY886gqohQbA==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam33Ex88e4NAKGRP5+nTJ4EZ3AfUk59JdPsiyaJof/AoP"
+        "uri": "na9h5QocjQ/tt+fW2Cuo7zEjt0AgShmu7lNwGL9yM3hJt0N6BtTtFNtHsoSx+fAYkakhsR9QXpd3iDxn8eG7mQ==",
+        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/KG/xq3/x1AC/MwmUFddKMPrlHn2sgyh3k5P8K5WMzsgZqH2LlE+6tL4YPLh0dgvjdbCFZZr/txPYvWSlh1yj2LMYeqIXkzVpB+QIyvoHFHXQ=="
       },
       {
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1656693035915",
@@ -3440,18 +3433,18 @@
       },
       {
         "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
-        "name": "TELEMUNDO SHD",
+        "name": "TELEMUNDO SHD OP1",
         "uri": "8qtlIgQJkGI8cj18j6iYlOvbrcEzJx9Wvy9WLzxmqg8MsiWvZYuw2S1x2NP86W/5"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
+        "name": "TELEMUNDO SHD OP2",
+        "uri": "7uXLSWGwqsCTth3SVcDqFXpHnxXHS9F+RhZovp4t46S/n1o9eWhaRvo6xZLGnx1rgCStSIodpk5eAWzVac63+8JKNoiXHtZ+CngSm/+Ms/c="
       },
       {
         "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
         "name": "TELEMUNDO PUERTO RICO",
         "uri": "MyT/LhLy4u5MDp3IQgcngDjmVLdm+apZ77ptzdk8/Y5C7fMynmOx3ocJSuus9APogowAOH17g1zfHkl5CpMrDFN1UxseXv5uN2uilZbgiz0/dw4gJPaUdf4TMnCsAX6N"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
-        "name": "TELEMUNDO SHD",
-        "uri": "9hMcjzdMuN0Y0JK1CfUQQTL7IxL1Vkt5k1BcGt8DCAkdcwXw7HyWKjsGuSG+IK3FsicDfXTwqmidn0uCCDF1IA=="
       }
     ]
   },
@@ -3742,9 +3735,9 @@
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsZ8M5ui__Tq98b0zSeGG5q3iNdq4h3okbPPAs7GjKCBOWhD1dVVT739fWHRdLr-mAIs&usqp=CAU",
         "name": "BAND INTERNATIONAL",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OO7wH88Hjyht64V/srSwoG0gjiZQ0atUDJFI7MMHper3o5Uw/0v7CCSpG9rKL7B3M1AM2WoA4/Vw04uLOrZruA+Wz3UsuYMurF4JSG6wJeIG",
+        "uri": "Ll/rtJoO0mHoMBDB70bQKWC3op3cGloPS3O6y0WuZBRkPg4RxTsqjW9Eq9Rpcw0exYj8jcS2nJcVI55XmZRkZA==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "tCCYHaXdfeE2UXGmWEN+OOGJOXh1GeCyA+tPq2Bimdat4w/oGA2YeJMP+1jMrhfq"
+        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/LA1u/Cm6dYqdMj71jn9izxri34GBJSPC1pNOhXQKxqE/cqyWBAcfUm3DYTM92PkytVJ5+EdNWYXRivyzs/tKsT"
       },
       {
         "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/ac8c5fc2-b457-4784-8911-6b8cecd2b12d.png",
@@ -3820,6 +3813,13 @@
         "icon": "https://static.dplay.tech/imagenes/globobr.jpg",
         "name": "GLOBO",
         "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kMe0DtedYTfLT39mGKcNxhg=="
+      },
+      {
+        "icon": "https://www.ecured.cu/images/thumb/b/b4/Portada_Rede_Globo.jpg/260px-Portada_Rede_Globo.jpg",
+        "name": "Globo BR",
+        "uri": "jP3s9Wv2pLBTDlUO0ua8ttcbSCtyXSc46tO9F1yxLBEUCO83TwtoRFO5yOTDy4m5fP8BoMlvqOpMzjgr275iGA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6LI0UUnX16CZQiXKNw4Wfw6Bz28lt6Q3wgdx79PorsyBBM6Pu1vTw3+46LXrjH7SFnXxu/F8Wt0BwFLXzeQojTWKvSSV1Hq7kj3RzUi50pi"
       },
       {
         "icon": "https://3.bp.blogspot.com/-TiWSY2rIWqg/WvYAGpVBBzI/AAAAAAAAyn0/YcghPYoIE8M95rgj2q55x1QzqClYmn-cwCLcBGAs/s320/combate-play.jpg",
