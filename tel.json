@@ -90,8 +90,8 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png",
         "name": "C5N",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zdGIW3kExBXNTHdE4hum0hFMWoJvzmwQK4wMP0NKxHS2Yt0k+2bVdqPb+cIqx8Z8A=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamzmq0vRn8NnWjUCfKF9eppDd7NLvuj45Nf9JmSXF4aAI"
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/iCQ2+hn/O/4tosAhztoVpWOu5kaX2cpRnsHCXqX4XB45+DZu2GyTk5/CoStlyjEGE=",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pd1lvbWM834tTTXJEPe2vKl"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",
@@ -104,15 +104,15 @@
         "icon": "https://static.flow.com.ar/images/269/CH_LOGO/350/500/0/0/14814924073986.png",
         "name": "CRONICA HD",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xu8xUxFHLbLBvCdVqchE/SV9NiL7puevNtWTjwV/PU5ZCb1WRELO1I7OgFPJuHDH4qUtooWBTIuJqSTdcojBaY",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam6kBU3OZBXVt/kR/R2CpmOTVycV8cd8p3YFq6OlfZWAX"
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/iCQ2+hn/O/4tosAhztoVpWiDHg9bNEF+lL5rfgvUMG8GYZ0WYIMod+TC0bjjt9AI/R3IIwBgG+8OQzzTuzntTk",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pfs94lHmT5+0KAgeeNo3P71"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",
         "name": "LN+",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4ypNfQCndpsUroU4UcNtpJP5V4ivRvkNEVjqXh7KowW/jDQa/KQjDx1u+6pB8arMyECULWrsK4X0aNgAebafnu8",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam+Ft0o95Asq7RbLQ8y6zupGiNSiahUkMiYp2d68i9e+i"
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/j1YIxhVQpjFyp4AlLoz2ZRhRati9Kbllw4bym6VSo0A7vJV4zcuteBmP6Y54wsMQ4uZZc7OhFiidkYg8qYa7fQ",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfBV/JO71Gm6WwTippXzQ+d"
       },
       {
         "icon": "https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png",
@@ -120,6 +120,11 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x71SVMzatRry52kzdZyVndynZFNNsmyujGwncOm2BZvzujDlP9+dCX2dNT+JcsZ6aDuyrbdGUlD3LWIzC8W3vcrkxHX5s699mtT4f6UhXKhCdkF0tgYX++Osur9CrdP5I=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhK1JLGZMKxwlB1gciJ+EJ1Q"
+      },
+      {
+        "icon": "https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png",
+        "name": "INFORMACION PERIODISTICA",
+        "uri": "0USrc3JgXgZ9Z0f8knKwxM3XMOECZ0nJP0AC6G9kXlc8QahV3E36T70pucjdeXJrYAWtfUf+9BMVyEY5clF5EENA/HDxnOCLvB+lxPotGS95UEdyJiKrKUXNaVPfql0A/xphff9odiZjC0s9LuZ0Ng=="
       },
       {
         "icon": "https://www.foromedios.com/uploads/monthly_2016_11/large.Encuentro.png.deccb9064823e717962cf70838ecc508.png",
@@ -132,8 +137,8 @@
         "icon": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Logocanalrural2016.png/revision/latest/scale-to-width-down/250?cb=20170805004919",
         "name": "CANAL RURAL",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wZeLJHkbwpJRdOus2abyVHD6b4qOe5IxzMd9B0I0yv7mii04PgnoI2KHRfmitrjPeXgE/rvcD7avpQRAe96HBH",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhI9cZQvkTyKBij+WZmDnhhV"
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/g5RaPEAFqXjTc9EvHEaqSqRIVG5d6B5U9uUy6TI0xX7EVWIi3H2cit002AS62+7P5i0l7JnckPvAyvgmSdeqK/",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PeDatFDHi4LvpRip6hN9OnF"
       },
       {
         "icon": "https://media.canalnet.tv/2018/08/N-600x720.png",
