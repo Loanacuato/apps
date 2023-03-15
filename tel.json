@@ -67,7 +67,7 @@
       },
       {
         "icon": "https://static.dplay.tech/imagenes/eltrece.png",
-        "name": "EL TRECE OP1",
+        "name": "EL TRECE OP2",
         "drm_scheme": "clearkey",
         "uri": "m3eq4CQUK/+V1QaYXr2NxJnfVooZAoy4T7FDFL1vg3NKZjq1kiXLJllSUcBROOzjKsPKxarBuRKyJYV0g5DmXA==",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pe75lXAdAABGcDrg6KNbNaZ"
@@ -183,13 +183,6 @@
         "drm_scheme": "clearkey",
         "uri": "KCvM+OPynjG3DbIxB3RnTqrqOQ0ikEZLwimI7LQfhEKGGQkSqkzQk57vTRevlkhQJayQcHyeenMn28I1IqZ290BiRXI3PwB7LGV41IKjiBk=",
         "drm_license_url": "S8a3fIQaxSe3oDIb5UXReYEaFKzcdshQBblZzJ6zOPNdwl+zOxuyx+ctAdmH4k6m"
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Television-Rionegrina-Logo-300x300.jpg",
-        "name": "CANAL 10 Rio negro",
-        "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UINdGoNxIeLoFkonv3bdEC2asrXEfYxL9XsqiHAsRogSjuyAxITBRGA02FSRAbaZAH8VaoS7uSHQc3OC4kpIdLQu6U5qfprEZwbHoqtSoeK4ow==",
-        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Peq4Jje97freJycZsWwpA2X",
-        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://i.imgur.com/HT6Jwa5.png",
