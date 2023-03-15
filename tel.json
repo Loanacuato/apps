@@ -1112,71 +1112,71 @@
         "icon": "https://static.dplay.tech/imagenes/cartoonito.png",
         "name": "CARTOONITO",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yLNJmmf7RhGlv1useYDooGhlfjrC5hWc491Yt86iQMSKCK3GfyiNGnkOy8PzWXlYQvLLUbVGU92wxb7Br+N/Jl",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhL9hMJwd41hmInJTC43JNyZ"
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/h5A5C4TsHU/EtDurhJC58lCb59hwEqOf1ZkQfVRply0u5B5unGpk4jDUJ87otBRwqEz8d78JdN0OK3j/CzK8gr",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PcwPeEBwm7juWpADFi3Oil2"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/cn.png",
         "name": "CARTOON NETWORK",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xDLGAHYlGRDc3lPpC8/AmgeO5rSitl/MQ3plNVqPgkEXHo6KgVf3oaKqQr66N0NqHQXXhuBpiRVOAHSzGEg16T",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhKm/Y2cb12YAHerP8BCZ++JfTI54HTSgLfUYoL2/6oP1Q=="
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkNzWaeG/Uft9YhsIezeBlfjVucgPo3KI4NtniVbET0Ng==",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pey52c9DchV8TKrVIVlJISd"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/dkid.png",
         "name": "DISCOVERY KIDS",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4x1x9D4ftwywu7HgAx/PDsjdl0CkK5OD0QqiU5YrqCTZE9vYQaB8nbgmvMTvNaW1QOznKGRCFHuW/zH6h7ATAKR",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam8aw2t6GCTTLaL/JUw6bzh51ZZmYVUzWM/jZiuLY7+kt"
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jCLcZvO0Zir9KlbSjOA7UIqm8q/DJYw6XDJ0VycCDIIKKO8TbyaARXI69oZ2HV7407VnvssVubcGo1WXsy6VO6SrDtC8F/9yFcyMtmuHGbWw==",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfkAHFdK7oxp+SKPnYWtpAC"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/disneych.png",
         "name": "DISNEY CHANNEL",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zQOCLhVQwNTokXtLu17CJiyNGE3NsbS3lwuLN60yUaj614hC4ApXGDI8Bu02PvfQF8iPWNDpEo3jlTIcyiuptf",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam8aw2t6GCTTLaL/JUw6bzh6ssLeEClwhvmLojeNyDVGOtOcg8QFkgQUnYnBmSkj8Ng=="
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/hipHAccoLFA4XHoTI/L1/yIc8ZMhr7crR6ww1huj7ewWhHwgbP6b2H44iMcpGxo9wwdE7OS+ZQSsZSkFiJl+vGNFZW/QQM9i+AOSNUTRfdpA==",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PdfDip3H9oiZeJpGWNOAWXOlJ82rqWl1YXPu/cMqySh3g=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/disneyjr.png",
         "name": "DISNEY JUNIOR",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wI0K0bot24xhiON7kDguZkKo0GMgDxn8aEH0Ksys1kU04VAoCUidtJg4FKkoET18sbRKit4cmVeQOjGaTLcAD/",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam8aw2t6GCTTLaL/JUw6bzh6AI5Ilden+Nz4WN0XcjpUP"
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/ggvFWk1TIHd4MiQlDPBMGyKXWSFZ8AO7EM+J3ehaYqIZ5kLy/ZP123zC3vo/Kpdd0j4HkA8OBepOiFiAMplPd7",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfXmRnaqSH9zPSAQkwSvtdg"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/nick.png",
         "name": "NICK",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zq9evBc0dfNxlOYFJNPAvFye3l1EHYC6K7defscrDyoTJQMN4l1WlZulia3yCmGhiHfSdQtJUcm4/YBiwHMR3H",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam3fVPHZoPQGzSjdVJqGdCTUn/n9QEVXflsQuaw2axW2K"
+        "uri": "jwjdtN1vPAWPglxaqI7tfyJC3L7I59e2qhFr0MccNhfRPqe09Jh7cKEKwv81LBTJs/me7R5PLbuX3x1at8GHjq9WUx6xJXwa4FCeHGMakcRIkWDbVlxpHWdU0ohRDmWw",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PevKs64ggOfjs4w1S3YrYVF"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/nickjr.png",
         "name": "NICK JR",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zF2I5sBNSTD+9/hLKW0onOrw8odM40d7u95Pa32nNt9o4/vgp+8EfHvxyxEb476rM=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam3fVPHZoPQGzSjdVJqGdCTXrKTQyb3lIQu1Ur40VNiUZ"
+        "uri": "jwjdtN1vPAWPglxaqI7tfyJC3L7I59e2qhFr0MccNhfRPqe09Jh7cKEKwv81LBTJs/me7R5PLbuX3x1at8GHjq9WUx6xJXwa4FCeHGMakcRIkWDbVlxpHWdU0ohRDmWw",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PckGHdLnZDtm55nUmnheJY6"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/babytv.png",
         "name": "BABY TV",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xO0UV85W9QHAfT2YPvJuThSx/Cois3jXwhhWvEi3zunI8KB5UlffRFy9bE3tMlU64=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam3xrWcs+A7Xxeczcvndog0B4xJG/7ZKnUyajm84kHJsi"
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm1SXw9jRgkTr/6K3EVTaRWnRYhxmnkq4+9qHuRx4HdAg==",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PclKpbhpQSoREVqqWmGWa1P"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/tooncast.png",
         "name": "TOONCAST",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wphR6B/w5ukkJu2FtGOxvURYxbsUPp+kosUFYljUk6rcaE5bWTNU8KPppY2ZwBaczeoaDKv8QbxIvKWLuhjJwB",
+        "uri": "jwjdtN1vPAWPglxaqI7tf0HYFhvK475lPqqjpXYX494AYbsJUTTFPLrqB9WCnAhq/3VMsP8Y47M8egSsXBWiMTwUzDyaCoXsSMSgw0dfQKGm1ckc5y8yf8tEF+qpZo+J",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtbSPDmQfaNxYIBV3XfBhZbDMU4XLzMCQDMaDJ/5iZZ2Q=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/pakapaka.png",
         "name": "PAKAPAKA",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4w/C0Y+bwQRO569krMNBlSvOUUVV8nVmyeEcEFAOx5euKgiMQpcsGkYCU5ZtNfvhT3LZzfm6XN+so3LykhrBM7M",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/pabD12OWOqkfWJpm61xK1naUsUPbxjNAJx0lm6fWGC"
+        "uri": "KCvM+OPynjG3DbIxB3RnTurnyxd4Biv8jWEpuOGRsD0mUfS1sXqkKyvMxkC4ug8wem64NmWKnmX7swci0yDw6arOqHtIvjbNZQzBB2RKc3g=",
+        "drm_license_url": "S8a3fIQaxSe3oDIb5UXReW5UwvycnvjshSAZxtMCE/xKi8DhXIk9UhQoNhPOOlxr"
       },
       {
         "icon": "https://i.imgur.com/1BW5tDe.png",
