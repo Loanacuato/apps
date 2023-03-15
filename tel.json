@@ -185,14 +185,16 @@
         "drm_license_url": "S8a3fIQaxSe3oDIb5UXReYEaFKzcdshQBblZzJ6zOPNdwl+zOxuyx+ctAdmH4k6m"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
-        "name": "SAN PEDRO 32 TV",
-        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtuKcJwSijNFdo0Q75XFzfQhq9LJZsMXQ2M3UrSIickj/"
+        "icon": "https://static.dplay.tech/imagenes/canal12misiones.png",
+        "name": "CANAL 10 ENTRERIO",
+        "drm_scheme": "clearkey",
+        "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UINdGoNxIeLoFkonv3bdEC2asrXEfYxL9XsqiHAsRogSjuyAxITBRGA02FSRAbaZAH8VaoS7uSHQc3OC4kpIdLQu6U5qfprEZwbHoqtSoeK4ow==",
+        "drm_license_url": "9IXdBDFGXqQ+1jEwLh3Z+l27sNlByx7lehNR0oMH1aawwV17yUW/G4cuaO6e/T5ZThac4uWJ0YEl97CvdHb2DA=="
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/multivisioncable.jpg",
-        "name": "MULTIVISION CABLE",
-        "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
+        "icon": "https://i.imgur.com/HT6Jwa5.png",
+        "name": "BVC",
+        "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJOX9ALDh/db7ITuXN/X5MFxqKmizlZXp5bKVUEEMn/s8w=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/fenixtv.jpeg",
