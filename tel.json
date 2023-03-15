@@ -60,24 +60,31 @@
       },
       {
         "icon": "https://static.dplay.tech/imagenes/eltrece.png",
-        "name": "EL TRECE",
+        "name": "EL TRECE OP1",
+        "drm_scheme": "clearkey",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpa+DKaJ4eJEtT4TDDII5cnybG1ZP9kgz1JNmCw9Xr+Z/w3n4Qtv95n6bxhput11z4IWdm14C3pOYOJRAy/5fDA",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pc4KJ/3lnzT80B1hzLMJAUE"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/eltrece.png",
+        "name": "EL TRECE OP1",
         "drm_scheme": "clearkey",
         "uri": "m3eq4CQUK/+V1QaYXr2NxJnfVooZAoy4T7FDFL1vg3NKZjq1kiXLJllSUcBROOzjKsPKxarBuRKyJYV0g5DmXA==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5rT9CEstTF1RW4WOGi9Atrt2kEEQawKVkaHfbOrwtgl"
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pe75lXAdAABGcDrg6KNbNaZ"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/tn.png",
         "name": "TN NOTICIAS",
         "drm_scheme": "clearkey",
-        "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKnMA7M9t7JPulocxcBcNniNaAhPvrNu9yV2C/AdVGnXNRJBU4QQxD3710au0fCZNCdNCvC4Hwye4LVptk1J534wOcM/dqfkda9J4gWCcBzVEg==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqnn1V+VUsACpa56PCFYH0G"
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVxepM5AiiFlZcnkNk1y7eDQTQnnkz83L86wg2v20LOrA==",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pe1sVHimMrR8XTd6mTEZMRz"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/a24.png",
         "name": "A24",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wXvzOm4RyThcziuwr/0ikrZf21dcjZ5rlEVJN/YdmlT1+IZ21Uz0lhhlugxNDo5Mr+nWXAhl83A0RlaTQuw6MH",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqamw2EO1FSl+e0cHaDLMMnRKwu//DNodgVBXxRq/LG6CiF"
+        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/hdf4xBrjcgOHEAfRrFgdmlPgisBwD5BapoEMRKVjxxg27BaYYikoXdPJSXF9ALVMoxOpFioOCJROygs5ERBYkZ",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfBpLLBuIInQC1Oc56MF7BM"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png",
