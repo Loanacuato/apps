@@ -675,9 +675,16 @@
     "lista": [
       {
         "icon": "https://i.imgur.com/OmA17NY.jpg",
-        "name": "Montpellier vs. PSG",
-        "uri": "web:SisED6PsGrQjYOt26M/tvtTpVg21tA09UrHaxZG5DidCKhgvWR4NIHzDp7VO2OTYj+Im5qLScQMN45shdPsUuzn7edzCPgrDF8Jn9MhYY8x9RL0JcIXRjrorLeuQ4DCdy6mbKKw5mbiixdnPAcD2zkAxaClgThDDwnjZQTQwBXWBVaCrWYdOyLnjMO4pNHU4O2bXGmoEjYR83DxZ8XnmmA==",
-        "drm_license_url": "uul9vIHWBe1PiT0s02oYtdNIjBg6GwRTvRcBloena1tHLL3fQklwhX8r/ALipMfDO2tTjzMqWKEu8wdIkhzKCsl4HWHP6voUPgGGW70xRtNKdBwq87VikZRsFQcKOdZHNKtPnJvFNy200E2cNlGlXA=="
+        "name": "Cerro vs. Fénix",
+        "uri": "web:SisED6PsGrQjYOt26M/tvtTpVg21tA09UrHaxZG5DidCKhgvWR4NIHzDp7VO2OTYj+Im5qLScQMN45shdPsUuy1USrkXFzhuDxHPci+urLIEg4zJc4R8tn5jnFBHAkGcvImiN2FBnCyKEe7eJ/4/ZBQyXVpcxTzOWFREvNGxNy20W4i2Zs/z9qyzMsNUVkXT0kgWCiPu+9YWBomun4MJlQ==",
+        "drm_license_url": "uul9vIHWBe1PiT0s02oYtaZV9VnzX9+figmo9BqSr9MkWUvxXBNOk1NoVnFXVSLfFW57oaRQBDLsAxz1zXSk2iqrq0ZYnCpNxxKPPccRKzbWSLgsiaGjwx26ibh8dYdnnICVWjSJNG/CEfV1gViRwQ=="
+      },
+      {
+        "icon": "https://seeklogo.com/images/S/serie-del-caribe-logo-1792D5E374-seeklogo.com.jpg",
+        "name": "SERIE DEL CARIBE 2023",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smnpU6dL0qRT3eJDdHUPPvq+cAYMjamNt4BUSrVnZZnxWA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfE9FbSLrK7fx6GwzLPskjh"
       },
       {
         "icon": "https://pbds.twimg.com/profile_images/1599829872473358336/ZpXV8rao_400x400.jpg",
