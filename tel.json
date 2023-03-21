@@ -824,6 +824,11 @@
         "uri": "o94z8507wrkes5Bz38inq/H7XAhe93skm+3qtNoWhYyNbpmxzTs6Jfmwy822XHIS6te/nCEFk5zsxvwd0I0dQw=="
       },
       {
+        "icon": "https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra.png",
+        "name": "BEIN SPORTS XTRA",
+        "uri": "o94z8507wrkes5Bz38inq/H7XAhe93skm+3qtNoWhYyNbpmxzTs6Jfmwy822XHISuM6sZ13uag2xKFqZjjEaaA=="
+      },
+      {
         "icon": "https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png",
         "name": "LIGA1 MAX",
         "drm_scheme": "clearkey",
@@ -3104,6 +3109,67 @@
     ]
   },
   {
+    "name": "CONCIERTO",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BOTdkNTU1NWUtMTMxZS00MTRjLWI2ODMtN2Y0YzljNTc4ZDUwXkEyXkFqcGdeQXVyNjY1OTM5NjU@._V1_FMjpg_UX1000_.jpg",
+        "name": "Anathema- Universal (2013)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4UH0saevoLadkNCM8TZfUVldK4c3gs2Iyfo8YxWxW70UH8a7vOXytyigm+dNlf/Bkg=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BMzkyOTM2NTA2NV5BMl5BanBnXkFtZTcwMDg1OTc3MQ@@._V1_FMjpg_UX1000_.jpg",
+        "name": "3 Doors Down- Houston (2004)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4SVO5A0px82VdO9MJc2Yw4xwa1LI6EgHd0Cp84IU+ghy4e3C+K9wrnslctFvlVDE7EC+ddbARmze0i0c2n6DBKZzrvZNQHFknMBSlKEnDN1nFFzKYknQWYFcV3UplajnHg=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BMTI1NjAxODA1OF5BMl5BanBnXkFtZTYwOTM0OTg4._V1_.jpg",
+        "name": "38 Special- Sturgis (1999)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4XDIyceohmq0wJdR1jK9WkhUr65gRa9vXeg/uwk+wbTV6QDLlrEBfhWXPcLy5wdx034AgJHYhSG8ojjAbY8Ec6g="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/en/3/32/AC-DC_-_Live_At_Donington.jpg",
+        "name": "ACDC- Donington (1991)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4eDVPrg+IGQvBsc8srcRTH32KrxtHEuwMN3BgpMLjUQfEcivaTot5mPou5tJnnOb1Lebidoy8GqLgXA0qzECchM="
+      },
+      {
+        "icon": "https://pbs.twimg.com/media/E0kSIhEX0AIqbAj.jpg",
+        "name": "ACDC- River Plate (2011)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4c9B436Aa3phpRwFvPJWBD1+JN0P00sHXeQBWRURtehvH+QWhmEPQ5Q9d2zNc52aCcNwUx+neNhPd9OeyePag80="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/en/8/86/Adele_Live_At_The_Royal_Albert_Hall_Cover.jpg",
+        "name": "Adele- Royal Albert Hall (2011)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4divHjG3NA9gA0jQqTtgOdh+zcZyPQykPPFDRoMm35DTfSYftwpyK9gOfWyOpMKqpUoCTWyT04b4tXZlpli2AsFU1lmiebecjlFZt1NY62aK"
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BMjczMzMyNjcyMF5BMl5BanBnXkFtZTgwMTU1MTA2OTE@._V1_.jpg",
+        "name": "Aerosmith- Donington (2014)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4ZI0wn7c6hMRvvrXZH8/5E3r4nBqo5u5z1VjdvkKwXQHvFyl4G7cqi+Nu9rIHwRSgjfp1dXYIXkrf9V2u0xVWsg="
+      },
+      {
+        "icon": "https://d1k9c1xvvzuzs4.cloudfront.net/wa-data/public/shop/products/66/41/114166/images/83064/50F2EB.970.jpg",
+        "name": "Alejandro Sanz- Paraiso (2010)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4RADHfvpLZ9YqoBdLTUVwIoHu/411w3XJae67R3iuJ3+KEkbcqRi2GmyJaCqvklDJZHNNCdfJjVO8+PM+fidk0kHCfP1USwQlD1MLcbFqBmAviLCY6xe2Rv5pxVVwq2zXA=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/en/c/c0/Amy_Winehouse_-_I_Told_You_I_Was_Trouble_Live_in_London.png",
+        "name": "Amy Winehouse- Londres (2007)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4SnIcTlSDJVV3KA4IxTsjN1W9acujfpyaZOl2aLV9sU+G2yTrDxYpZCfaiXgftaeBXuwB0IiuFrJVP9fFZQ/NamSXuA2ICbLgfAZpRsaZfQjvHGvPD62bsqqaysYj4psOood1Z4UHsc2HEZbm+J5gZ0="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BN2EzYTk2YjktZWMxMC00NGIwLWEzMTMtNTc2NWVjOTQ4ZTY2XkEyXkFqcGdeQXVyNTcyNTg3Nzc@._V1_QL75_UY281_CR46,0,190,281_.jpg",
+        "name": "Amy Winehouse- Glastonbury (2007)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4SnIcTlSDJVV3KA4IxTsjN3W8wFF78EZHQ2wXMNupYHl4UJlXlntR03aK/Yluamr2B9H8tWu90bruGemV5vNCs+L38Ah0C8ZHhRRASbWF4cx"
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/I/71QkIBfByvL._AC_UF894,1000_QL80_.jpg",
+        "name": "Alice in chains- New York (1996)",
+        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4XZs/5nsZyipvX03xM04DyIRZo6MJXhdp7ahUpad3XcSYf/CW9keq6gylpeg5d997NOY6DrNBLSc4jkqouB7/0gBAIj4wvgTW4IENJFBiKxJ"
+      }
+    ]
+  },
+  {
     "name": "ADULTOS XXX 18+",
     "mode": false,
     "lista": [
@@ -4342,6 +4408,21 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://estaticos.tdt1.com/canales/logotelemadrid.jpg",
+        "name": "Telemadrid",
+        "uri": "ebhUzKey0fwrNWnHEJhdn8xC9g/8kXIBQWbE2T9Mv77Gl0QMxXrceHlXRuRpZfKd4bLiyTUgKqLCldNWQ8ePSQya3fK4bW0bsa6IMag7PiM5nQTOYIgyOeRdHIkJk7Tffj49F3dd62k4hN8MzQWJJw=="
+      },
+      {
+        "icon": "https://estaticos.tdt1.com/canales/logolaotra.jpg",
+        "name": "La Otra",
+        "uri": "ebhUzKey0fwrNWnHEJhdn8xC9g/8kXIBQWbE2T9Mv77Gl0QMxXrceHlXRuRpZfKd4bLiyTUgKqLCldNWQ8ePSQya3fK4bW0bsa6IMag7PiOz3Smorfbnnn47GuSQpwALr47aSk50rbZAUSJ3NvGfsQ=="
+      },
+      {
+        "icon": "https://estaticos.tdt1.com/canales/logoondamadrid.jpg",
+        "name": "Onda Madrid",
+        "uri": "ebhUzKey0fwrNWnHEJhdn8xC9g/8kXIBQWbE2T9Mv77Gl0QMxXrceHlXRuRpZfKd4bLiyTUgKqLCldNWQ8ePSQya3fK4bW0bsa6IMag7PiO9FR8SUYHlkSUD3l5OEteUkdQ5iqTEbtmYMQIl+C4bVw=="
+      },
+      {
         "icon": "http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-100x70.png",
         "name": "Tvg Musigal",
         "uri": "tesWdZpcP/nqajY7T0uw2OI/6RB8k2s4o8Nrf7pvNGPEYfvf5LA5KqvmVqCiIFHBamc/vZP5Fz5d8B4F+EwOUw=="
@@ -4972,9 +5053,49 @@
     "mode": true,
     "lista": [
       {
-        "icon": "https://i.imgur.com/HFqHt27.jpg",
-        "name": "Toonizaki",
-        "uri": "P6LfdPBbgeE6tQewbJJRDr0AvpRAX1YTk5ANQJqjQsO2PbRg7Vx3wEu1e02yOhVMXEPo48Mtty0GjB6rFp8zNQ=="
+        "icon": "https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png",
+        "name": "TOM Y JERRY",
+        "uri": "AOLqpr59v0CwTaJSWHJQ/L/A4APz4+nn1jpbAVV2+tT+hbY5P8nJ07VVKrxM971ykkKGqSo1+04/quMa6tOCrYq3kPhiOncliv8U1WIi6cM="
+      },
+      {
+        "icon": "https://e1.pngegg.com/pngimages/529/936/png-clipart-the-flintstones-folder-icon-the-flintstones-season-04-thumbnail.png",
+        "name": "LOS PICAPIEDRAS",
+        "uri": "AOLqpr59v0CwTaJSWHJQ/L/A4APz4+nn1jpbAVV2+tRY+EGx3RFnnF0XQnllgnVKu+mNcfCMSuiBmaKPCBNLRo8elHVf/aYniDFez5gfyRMpWhl/UBSAFEdprcXpPQaU"
+      },
+      {
+        "icon": "https://cn.i.cdn.ti-platform.com//cnplus/web/b015fdbde20cda75fac967ccc06335578c95a6fd/static/media/on_now_hero.6e638c34.png",
+        "name": "CINE CARTOON",
+        "uri": "AOLqpr59v0CwTaJSWHJQ/L/A4APz4+nn1jpbAVV2+tQGuEuCK8keMs57auyxtCJk27K+AohplR08pKJZZtEbXmVPTaVMCxJ1Co9qmjCXkMM="
+      },
+      {
+        "icon": "https://www.pngmart.com/files/17/Futurama-Logo-PNG-Image.png",
+        "name": "FUTURAMA",
+        "uri": "AOLqpr59v0CwTaJSWHJQ/L/A4APz4+nn1jpbAVV2+tTv6SmWqicp+aY6iJ9ZDraQkA7QUK0p8qoO3hrPMfIJW2PsKfwBKg2eYUx2MShHN1c="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png",
+        "name": "EL CHAVO",
+        "uri": "AOLqpr59v0CwTaJSWHJQ/L/A4APz4+nn1jpbAVV2+tRFKJYnPN4gh+O9SF+/xtA4Yan2OrdITDBqo/+rycqUyhvUmVvZE1PeZrMxQ1ADOmo="
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPC4MxsS9SPqGP6Xwxxv3MzDphrWyM7o8ocg&usqp=CAU",
+        "name": "CINEMA 24/7",
+        "uri": "AOLqpr59v0CwTaJSWHJQ/L/A4APz4+nn1jpbAVV2+tQp5dr/StmNvvC9FMp+68yxylWYWh+o3RssuqhJo7N2+5Ax88rxelDEyAKlfzeySDo="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/tvficticia/images/6/6a/RETRO_KIDS_LOGO.png/revision/latest?cb=20220128190532&path-prefix=es",
+        "name": "RETRO KIDS",
+        "uri": "rccj1u1ECHhUsuDthy2PUofqihksI7IafojPyt+R0WNXGEieKVvZStmTMZ51pfE5RhycHlGFjA7geBvoeQv+ZvbEyNY+UXAYjl43CYCC5jg="
+      },
+      {
+        "icon": "https://i.imgur.com/qu7ttMx.png",
+        "name": "TIGUERITOS TV",
+        "uri": "/uuzmffLOFJuHi0JBA5cNXXIEzW91RITxkT0srrjlT65LTTzpsu9GDQJ2PKfbymoYiZE8Gp5prTe9KieCvv2b4sO+UH7nwU22xNouhcM8bI="
+      },
+      {
+        "icon": "https://i.imgur.com/kR6z9AK.jpg",
+        "name": "PLANETA JUNIOR TV",
+        "uri": "IFK3YguMxYIi7zIczAf7XvfeSYkEkbO2Vh/veAwD14opKbkvfUe/e9T5X7OxZua2Iy3uroNOuX5PtN+BgUup+j9eflkW4n5VlhS1OtS/ayM="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/neongenesisevangelio.jpg",
@@ -4997,9 +5118,64 @@
         "uri": "gZoLXESq7RwTEos/+k+RchHqiqhcnG2ud1WqPmQ+Cuoo+7sdms66PFfIJ3p87BiS"
       },
       {
-        "icon": "https://static.abc.es/media/capitulos/000/068/560/la-punta-del-zoiberrg-1.jpg",
-        "name": "Futurama",
-        "uri": "web:Uhaxlf5FnHQIad9D2eMUCITCMMshosBqjvAqLYiPDCBeytIBa64XDxnZ8Zs8yuyVt++sr0t1bmXevhOVifNlcGnjoig4oxSlOuarP3b6vO1xdzhrbDQQIxt0Jir8Ia7v"
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png",
+        "name": "MAGIC KIDS",
+        "uri": "E+p2D/c4Tz9H2lGrfORPYcRlYX0uIbcqQmeWLhIufd9fvrn4y/F7sIhpj/t5BxhbTjnEqSUDfgPAFJfVBYZKtQ=="
+      },
+      {
+        "icon": "https://tn.com.ar/resizer/4OeDl11Q-xyFrUDRF-rdNSsZHKM=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/KILRLVCASHYASPR4IXOGBXX2V4.jpg",
+        "name": "LOS SIMPSONS",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl0GU4GtnIf++ZGOyemzE5URg=="
+      },
+      {
+        "icon": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2010/06/24/e1ad7f5db0d9.jpg",
+        "name": "FUTURAMA",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl09aTriAMfQrQn9fjZegBZMg=="
+      },
+      {
+        "icon": "https://ichef.bbci.co.uk/news/640/cpsprodpb/13167/production/_107738187_10_cc_1920x1080.jpg",
+        "name": "CASO CERRADO",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl0RFWQFCYep2ynfocU+IY12A=="
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1288126943112527881/sZCymdnW_400x400.jpg",
+        "name": "ENRRIQUE EL ANTIGUO",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl0rt2ZWQQNcnKu0sMjHQKU9w=="
+      },
+      {
+        "icon": "https://i.ytimg.com/vi/hX-wsKPvPhs/hqdefault.jpg",
+        "name": "CUÑADOS",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl08z0Opf3OfgiK+HhmZoyHCA=="
+      },
+      {
+        "icon": "https://i.ytimg.com/vi/PVrmJZu0QSA/hqdefault.jpg",
+        "name": "NO ES LO QUE PARECE",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl0SQRbXJSKtMz9YV0LzEnFPA=="
+      },
+      {
+        "icon": "https://depor.com/resizer/qcL5tpQkAgec0Siyue3kXVDJjk0=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/GWPQ6ECINNGJ3GKSBYILKO5QTE.jpg",
+        "name": "BOB ESPONJA",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl0VSSdV98+Fz3qyuNv3pQATQ=="
+      },
+      {
+        "icon": "https://http2.mlstatic.com/D_NQ_NP_638591-MLA53787219858_022023-O.jpg",
+        "name": "SPIDERMAN ANIMADO",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl0TCQytLeiESaYzG03CJPosg=="
+      },
+      {
+        "icon": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/77d6dd74a26f742069df49091bba332292970a7329a989c3bc5cc496911a5db6._UY500_UX667_RI_V_TTW_.jpg",
+        "name": "CHESPIRITO",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl0gNzoon0b89RV39WWOXajWA=="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/w250_and_h141_face/mcnCaHvHnoPqEoFEeCo5Qys3E5r.jpg",
+        "name": "GRUPO INCREIBLE",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl0qY9lSMqI77qQN6iFiMoVFw=="
+      },
+      {
+        "icon": "https://i.pinimg.com/originals/f3/a7/a9/f3a7a966a8b08a8f8a23eb2982704c55.jpg",
+        "name": "ROBOCOP",
+        "uri": "jA/+N1a0iCmluRzW3yHeWD/4gtLyizzwzbvkcWwEb4DelENhzwL65jUher3hyRl0GihHusjL6VoR\ncwuq0s6Tag=="
       },
       {
         "icon": "https://i.pinimg.com/236x/a2/49/e9/a249e904c5083c28b1d6c80cca75ea18.jpg",
@@ -5012,11 +5188,6 @@
         "uri": "gZoLXESq7RwTEos/+k+Rcqtjcd73sF6pkk27XpCm2HiSh8gBiMD+fACOh9oxT+dF"
       },
       {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/f/f2/ElChavoAnimado.jpg/revision/latest?cb=20200723214208&path-prefix=es",
-        "name": "El Chavo Animado",
-        "uri": "gZoLXESq7RwTEos/+k+RchxH85/h+jx2SGpCPIkYmPcOFDUx1+45p7SIvTHq9J69"
-      },
-      {
         "icon": "http://x.playerlatino.live/chespirito.jpghttps://m.media-amazon.com/images/M/MV5BMWIxYTc4OTItZGY0Yy00YTkwLTk0NWQtYmE1YzU2MjU3Y2Y5XkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg",
         "name": "Chespirito",
         "uri": "gZoLXESq7RwTEos/+k+RcvSZze3YDTZeiqIUm5fSA23Za9wBsF8xYWBHkBh/2SKE"
@@ -5027,19 +5198,9 @@
         "uri": "gZoLXESq7RwTEos/+k+RcqjWOfN8KG7jNL0w8DC8qKmUcg+hdygVVOA/A2kCvITi"
       },
       {
-        "icon": "https://www.bastitoys.cl/wp-content/uploads/2020/08/robotech-2.jpg",
-        "name": "ROBOTECH 24/7",
-        "uri": "2G4DmogZusLBmJv8BxnfDaz7/zVcEXrhWcsZtclsEp0222iJ7Arsrz5X+qlGQQrRct0nfpeJ9aZO2UM4dGcDHg=="
-      },
-      {
         "icon": "http://faros.hsjdbcn.org/sites/default/files/styles/ficha-contenido/public/la-pantera-rosa.png?itok=DYyKopHS",
         "name": "La Pantera Rosa 24/7",
         "uri": "gZoLXESq7RwTEos/+k+RclXdORKN86dxghQoTVbGFP0lnuBpw9OdfS7ucOl08lgr"
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/1/1b/Kfdvdpilot.jpg/revision/latest/top-crop/width/360/height/450?cb=20100723003758&path-prefix=es",
-        "name": "Kung Fu 24/7",
-        "uri": "2G4DmogZusLBmJv8BxnfDU4FZ6vSqrGmclCb9uss8SB3445Eb1A0+ZNELFy/XVAKjm3AbBKGUAwUl/ybiwF0gg=="
       },
       {
         "icon": "http://x.playerlatino.live/alf.png",
@@ -5072,21 +5233,6 @@
         "uri": "gZoLXESq7RwTEos/+k+RctTEnOtEGxKbtfuQWOKAR9SdAbeO/sD/mTVyiW/yGuhx"
       },
       {
-        "icon": "https://es.web.img3.acsta.net/pictures/19/02/15/17/18/5227942.jpg",
-        "name": "LOS SIMPSONS",
-        "uri": "oguPBdu6Mi1FJEbE4a5Q4qo8KZpQY3/fMeNC1Yg2J8nUqmybnolT8yIegcO2Ahzt3an9a2icQTuB0/v7J0WKeA=="
-      },
-      {
-        "icon": "https://www.qualityartworks.com.ar/wp-content/uploads/pi/pi0920/0920pi_negro_estampa-247x296.jpg",
-        "name": "BRIGADA COLA",
-        "uri": "2G4DmogZusLBmJv8BxnfDUQ8fFWBEDLhX6QsSWu57sN8RMw+GlJ12meKT0F2cVLw6lc+OUcJiUMKLPLFXcX1qg=="
-      },
-      {
-        "icon": "https://m.media-amazon.com/images/M/MV5BYzQ1OWRmMDUtMWI4Zi00YWQwLWE0NjctNWFkMGY2N2FjZjI4XkEyXkFqcGdeQXVyMzAzODY0NzE@._V1_.jpg",
-        "name": "CASADOS CON HIJOS",
-        "uri": "2G4DmogZusLBmJv8BxnfDUZqasX3ZNr2AGAVyvG3j9Nd6RSXiUkwey+lTwJZKM2kh6VZJ/e4ecSzs6vMvJUumA=="
-      },
-      {
         "icon": "http://x.playerlatino.live/dragonball.png",
         "name": "Dragon Ball",
         "uri": "gZoLXESq7RwTEos/+k+RcgSsX5u9DfoKP/yfw8Grf5G4LDhp0HO0QSffN0cLih+8"
@@ -5105,11 +5251,6 @@
         "icon": "http://x.playerlatino.live/dragonballz.png",
         "name": "Dragon Ball Z",
         "uri": "gZoLXESq7RwTEos/+k+RcgQ75AO/NU2DhpVcGTdzROqQLvc9ijqh3gdD8y9kKPyn"
-      },
-      {
-        "icon": "https://www.bastitoys.cl/wp-content/uploads/2020/08/robotech-2.jpg",
-        "name": "ROBOTECH 24/7",
-        "uri": "2G4DmogZusLBmJv8BxnfDaz7/zVcEXrhWcsZtclsEp0222iJ7Arsrz5X+qlGQQrRct0nfpeJ9aZO2UM4dGcDHg=="
       }
     ]
   },
