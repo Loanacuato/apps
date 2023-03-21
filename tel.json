@@ -674,12 +674,6 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://i.imgur.com/OmA17NY.jpg",
-        "name": "Cerro vs. Fénix",
-        "uri": "web:SisED6PsGrQjYOt26M/tvtTpVg21tA09UrHaxZG5DidCKhgvWR4NIHzDp7VO2OTYj+Im5qLScQMN45shdPsUuy1USrkXFzhuDxHPci+urLIEg4zJc4R8tn5jnFBHAkGcvImiN2FBnCyKEe7eJ/4/ZBQyXVpcxTzOWFREvNGxNy20W4i2Zs/z9qyzMsNUVkXT0kgWCiPu+9YWBomun4MJlQ==",
-        "drm_license_url": "uul9vIHWBe1PiT0s02oYtaZV9VnzX9+figmo9BqSr9MkWUvxXBNOk1NoVnFXVSLfFW57oaRQBDLsAxz1zXSk2iqrq0ZYnCpNxxKPPccRKzbWSLgsiaGjwx26ibh8dYdnnICVWjSJNG/CEfV1gViRwQ=="
-      },
-      {
         "icon": "https://seeklogo.com/images/S/serie-del-caribe-logo-1792D5E374-seeklogo.com.jpg",
         "name": "SERIE DEL CARIBE 2023",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smnpU6dL0qRT3eJDdHUPPvq+cAYMjamNt4BUSrVnZZnxWA==",
@@ -5211,35 +5205,16 @@
         "drm_license_url": "uul9vIHWBe1PiT0s02oYtRXQ111cZnvJfD01t5PtbXQqAd30RzrZcjMI8ZuQtulTRtfTiHw5DOjtQ+XNN6EAn/0GzAxohcacoCf4cxe3Md93ONeDhIiR6+EbUfCgvK66kXDqBXsC3t0iavFd9ZoCDw=="
       },
       {
-        "icon": "https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png",
-        "name": "LIGA1 MAX",
+        "icon": "https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png3",
+        "name": "prueba",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXfDxjEhtodzzIj26NcVTReNtwBA2w44lKyU6O/qPVctw==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+Fz3M/WNrGMAcKjTzDTlCOo+5h2qCzl8Ck7X95U2/MeW4rP9+IBOmv/D1wkzcpIFuVDnXEX5G5JLEZ+Mc3LGYJuG0gki5atMb1lyEldsTmB"
+        "uri": "LTlqveVfRGED1Ft8Cz763qxNZpBv+L3av/Vf6yZqq1ysSE34Qt7uVx+XP4QZIkJTxCAeZHFcc9mwNET0LV2RjTYy1d75oHF7nbtnwDIkocdeVMYFCeRU0AyadzMy4hReN/zzTqzFcSw6v/5Cv578494KjH0oG3JnqNWtFC2VjkO9v4V7gGuXwh8D35I7Lp/SqMANQ5Otl7jPvdIQkTuYMKlPNbpQUTP8F2WQo7EEvbLfd4ogzL7zir+zZuTRPOeMBHkYfQW0tAwjP8++RoUIQyTHkv+YqnRPCM93OPvN8uP03838u38f/nMWpv0Gj2Pf1bDM4rOrsxm5E34zhjyyt6zc/rIu+vQLPRpndrEDVMK8CjvT04qbb4igbPMqWYe+CKE1TVsBF/aOsXXp4BWOXZoO2OPRNkYtBR4dYkf8yAmBeSdqJFdV8U8pCqp9ckU+HyGkNZryDpXsOGVEm7nlxpnvg2UlL9KE8vi62ZoTvxPqEjJZgVzxGcWSMfPqaW9wjebZohhCdKhc1duFEFZUwcZF0AGOGkPeMUh0G/f8EruuilxYQqGMpATwLiKF0Ce4EAdRjDV1rokzW+lrECldUw=="
       },
       {
-        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tnt-sports-2-cl-2561.png",
-        "name": "TNT SPORT2 CL",
+        "icon": "https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png3",
+        "name": "prueba",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWTQ+hKT4GCp0yNSD4myftwN6iuORAftMei3MFX2Xbezg==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw4gQaNnj8GAGWY/T3QE9pAsp/bF7catAcKsg5pYcq4NA4xOmhdDD35Nzh4tk+oFkSkQl0/lr82A0kuWdSdX38BXxkLkUdQe/WFPg7Ap9ckFl"
-      },
-      {
-        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tnt-sports-2-cl-2561.png",
-        "name": "PRUEBA",
-        "drm_scheme": "clearkey",
-        "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKnMA7M9t7JPulocxcBcNniNaAhPvrNu9yV2C/AdVGnXNRJBU4QQxD3710au0fCZNCdNCvC4Hwye4LVptk1J534wOcM/dqfkda9J4gWCcBzVEg==",
-        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/IvGz2zEQgyOWY5Kwu8f240birtd2T/nPeK\nLVeOqEpZUOX6H5iKLPyBfoDqExfq9Eh7YarZ7s/A3NevQ5mIgUSYImAbjj8SDRZF3QiNxnDyWQ=="
-      },
-      {
-        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tnt-sports-2-cl-2561.png",
-        "name": "PRUEBA",
-        "uri": "X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zTtXgzuyLwYEnDjJje1AN4zaGBurKh+ugZbitjp7LuM8UP55A7bovNCOxATABzu4r"
-      },
-      {
-        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tnt-sports-2-cl-2561.png",
-        "name": "PRUEBA",
-        "uri": "web:X3sGvGpidG9spQ2g2eEAwXI/NIrfSjxg1adBWnZdOlY5s1JkcvXc2lbzqWDVEN+zTtXgzuyLwYEnDjJje1AN4zaGBurKh+ugZbitjp7LuM8UP55A7bovNCOxATABzu4r"
+        "uri": "web:LTlqveVfRGED1Ft8Cz763qxNZpBv+L3av/Vf6yZqq1ysSE34Qt7uVx+XP4QZIkJTxCAeZHFcc9mwNET0LV2RjTYy1d75oHF7nbtnwDIkocdeVMYFCeRU0AyadzMy4hReN/zzTqzFcSw6v/5Cv578494KjH0oG3JnqNWtFC2VjkO9v4V7gGuXwh8D35I7Lp/SqMANQ5Otl7jPvdIQkTuYMKlPNbpQUTP8F2WQo7EEvbLfd4ogzL7zir+zZuTRPOeMBHkYfQW0tAwjP8++RoUIQyTHkv+YqnRPCM93OPvN8uP03838u38f/nMWpv0Gj2Pf1bDM4rOrsxm5E34zhjyyt6zc/rIu+vQLPRpndrEDVMK8CjvT04qbb4igbPMqWYe+CKE1TVsBF/aOsXXp4BWOXZoO2OPRNkYtBR4dYkf8yAmBeSdqJFdV8U8pCqp9ckU+HyGkNZryDpXsOGVEm7nlxpnvg2UlL9KE8vi62ZoTvxPqEjJZgVzxGcWSMfPqaW9wjebZohhCdKhc1duFEFZUwcZF0AGOGkPeMUh0G/f8EruuilxYQqGMpATwLiKF0Ce4EAdRjDV1rokzW+lrECldUw=="
       }
     ]
   }
