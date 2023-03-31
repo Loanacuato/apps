@@ -654,6 +654,10 @@
           {
             "name": "Capitulo. 4",
             "uri": "aqjOEhWtVS9CYLQkJfIDWbGN6c1ZvK+bBP+G2gcLNENoSatgScI+1UFPA23V+oZRoVZTRLCq20+DS3AdQqWE9g=="
+          },
+          {
+            "name": "Capitulo. 5",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfL8dxaXSY+lB/CxsOFWtwSwb85+hD5Xbzu5CbY8bFYfZqZruIOqjRZPf0HVrbZsJQ=="
           }
         ]
       },
@@ -8250,8 +8254,8 @@
     "mode": true,
     "lista": [
       {
-        "name": "Dinosaurios",
-        "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIOcQeALMhfyogIW3ti_m04jwgYSx8j0KGhr1pDV25JvsknTJP",
+        "name": "Popeye el Marino",
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/7/78/Popeye.jpg/revision/latest?cb=20100507021609&path-prefix=es",
         "temporada": [
           {
             "name": "Capitulo. 1",
@@ -8364,8 +8368,8 @@
         ]
       },
       {
-        "name": "Popeye el Marino",
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/7/78/Popeye.jpg/revision/latest?cb=20100507021609&path-prefix=es",
+        "name": "Dinosaurio",
+        "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIOcQeALMhfyogIW3ti_m04jwgYSx8j0KGhr1pDV25JvsknTJP",
         "temporada": [
           {
             "name": "Capitulo. 1",
@@ -12399,6 +12403,16 @@
     "name": "Anime Peliculas\n10 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "name": "DS Rumbo a la Aldea de los Herreros (2023)",
+        "icon": "https://static.esplay.one/movie/cover/original/rzAShiFrU6tSSr9gLD5AxKKwtOo.webp",
+        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDtcXudb/8j3T3HcPX1L16FECW/gCTkWTYK+F87yaz1EiL5/IVgpSkuBxqR6RH8PU8g4eYOFF18SPWZ3vW6HyTYhKMDCAzC4LHuATlzMP5PQoBA8zXDuOT4wDmCvvKpKD8oCLm6CdU0GDkFdl3G2tVk"
+      },
+      {
+        "name": "Konosuba La Leyenda del Carmesi",
+        "icon": "https://i.imgur.com/9KXG2qJ.jpg",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWaYUr5A/C8Tig+sZ0pvaPEu+PhVdpIhLcNSawkb269jluAJqksO1OkrOH7J5xW+XcCmIMSl0HyqmFNJKVfnb+wVB0FjAi/K5FBMiXLXsi+he"
+      },
       {
         "name": "The Last: Naruto the Movie",
         "icon": "https://pelismaraton.nu/poster/gekijouban_naruto_the_last_the_last_naruto_the_movie.jpg",
