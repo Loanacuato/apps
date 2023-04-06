@@ -4797,36 +4797,6 @@
         ]
       },
       {
-        "name": "Good Omens",
-        "icon": "https://1.bp.blogspot.com/-U_yl4VEPl2g/XQW67DktGuI/AAAAAAAAY0M/PcYFGq7Jy8IMkW-xOSFU1fHHdVqJ88hNgCLcBGAs/s1600/D3F0dG_UcAAF12g.jpg",
-        "temporada": [
-          {
-            "name": "CAPITULO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs17bx2dbyftiqWOKWe7yaeqt/v33/WQ/1GbTQhf5NuKzg=="
-          },
-          {
-            "name": "CAPITULO 2",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs17bx2dbyftiqWOKWe7yaeqGEanHYI00gwdRtncHg34XA=="
-          },
-          {
-            "name": "CAPITULO 3",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs17bx2dbyftiqWOKWe7yaeqv0Lnvm4c4v9vaL/BaCCSlQ=="
-          },
-          {
-            "name": "CAPITULO 4",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs17bx2dbyftiqWOKWe7yaeqXwaVZ+AciGaJ/LtRLH6OEQ=="
-          },
-          {
-            "name": "CAPITULO 5",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs17bx2dbyftiqWOKWe7yaeq8UTn9PkixZvMB/frjeSuqg=="
-          },
-          {
-            "name": "CAPITULO 6",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs17bx2dbyftiqWOKWe7yaeq6Fihl/3eiqNP5xjnECW1Pg=="
-          }
-        ]
-      },
-      {
         "name": "The Ring of Power",
         "icon": "https://es.web.img2.acsta.net/pictures/22/02/15/16/01/2694773.jpg",
         "temporada": [
@@ -4988,43 +4958,47 @@
         "temporada": [
           {
             "name": "CAPITULO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1PwDEtHwRruCKJp4he+TjfWW3FHK7VSYHN\nsV7c+TqH2g=="
+            "uri": "RLCX+KEgmXw5da+GY5TlDWYqI3ujlmOj2a/Oglhu8FWNmiTgx1TX1gNyt06t4KbSI1NNb7Y//Gvc1Pn7ji0fgFUxuox2nC24b3FS11uxR/7n/Ejj0INRRM6dXQI+M0SnMim8WJ1emq0u91DEOi1lTE2FAifLUgPSOXkHIlmU13SeNWaW3kIDyOANeXhmweLStrOMwPW19RmE1Qc8ZLw6qPgztphMLoiq3mvqhT1RdAyQkau3LT6BD9dj0zFm48lJ7/c2UGP+rsewCHYRTYXzlvaWolFOp4nu6Qu8pbW5yFFYcIP33yX6i8SGolbjWT9ZK1tAcK49F2KfVQ3vvEi+3eq8aIRqAYK7YvM8svu7kS4bHrSq1y9t5rFWdFKTrCV732lJtTd+cevug1FuVFCDtg=="
           },
           {
             "name": "CAPITULO 2",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1PwDEtHwRruCKJp4he+TjfPUL6dPlWmtqd\n3yzZfQH/Qg=="
+            "uri": "PwDkTVV4Ugy3AoHguLHJshAWf3/6L2DjNicMkwgN+swRUkN2itnygNSbMz5/cA8fMG+2k0wfndP9NgoY++TTMbOeN8VYrD9DGpOWXs4GaA81lB2HscmgEdA8CEeCyhGq2jlup5lx+MFjfwdVpqpMUoZMaSIEgVn8ZG30vDBu3W3YPxo01jsknpT0kBy+A3tM4I34VaWv2Ki2zQ5+DuakTKub4XN08+5e/noMd+1qlo3NaxI7OlbQwFFl2BlF1RLvQ3E1qUnGC+WvtHEOytU00xxQLnRolbITFkRZKxaw0QunlJYin6yJIpaRTX+tgc+5etqlIL9GnLRKHaH1uZ0B+AkRmex9/OrLTyuQ8lpNfwSEcOj6Sa4zT7szN9uNiu1x4oM+fh8C/nj9cdUIX3od1Q=="
           },
           {
             "name": "CAPITULO 3",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1PwDEtHwRruCKJp4he+TjfsQ1t45G/yaoG\nmPccopkGWw=="
+            "uri": "NGznRNjpRyj4gO8CWFFiahKT/LYSDBc3FYbtphsgKrp7JZCpldNrMC3t2zTFAC9kgT+1Gf7H4zt+7bEKnCo9gwbWdWGOQeetZghhiQehAQjAqR+Yu+GkfcCtD3NNP2LrGXZ5G26yPSdzd2HIhI1cWJB75jMYTdA+QkY0bNPVe4J1QnCySEKYwL6ULsZFeeQGvCOZUp9U+1XxaJK0nA3EgJKfcY9/DITHcp0tv1MqxliDeOCBHR01OnhBzrw5lxva2w49/s9THdjYduJPbgfDn6Z26pULmO/c/D3qW2Irighy94QHpSXdg66KYcSM4ycsN752D8Ew76w43HjTaH4i/JcbrlMSnbDmG4vBzMOCkkWlltoj3qpPx+VXEJWapK8lrFMX+Q7UFY/FstT4uKYSyg=="
           },
           {
             "name": "CAPITULO 4",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1PwDEtHwRruCKJp4he+TjfdfNmJ2bAKRZx\nxQaQYP8lfw=="
+            "uri": "dvAqIfX1Y+n19uYK7dLG6mffjijJF+YWlY4yjxrGbQ0MRdknl1W6XtiC1atdXhXhXxM1RMmYK1WcOhhZMWDG7mKyJlcY0Ilxz1kpxonJDMkx+ZH/ciZz8py6hz+ucKCrZmz8GeScZ6rdhblUmQZRcz3484tZNf7sAQktdi5zFLiLnxnZLgb9VLKskz5vraMwey5d9fAY2Ob1h1zU+JPy1Lw5W5ep935lbIDogmppIh51YWaaXoU0MZOm9y21HnqV+PiuBQXMg53shhCclvZ9vWsYRr4Nip7YcrjtoxBn60J4dco5Bfjcy9ulGeOkRpiD14cIGbNBsVaffOwhVkBm7HKmsre9YzZ/An5nKTIFsXgqLYzn9bNs0SiL6GF/ExlgPrThQMpJGRpb6QDn5REIjQ=="
           },
           {
             "name": "CAPITULO 5",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1PwDEtHwRruCKJp4he+TjfSs6DnAwc8uba\ndFnFXWUG/A=="
+            "uri": "gqr1Lth8dkWE76JgPX8kmDgFUu7kW2bwRhIPstG5XySGD1o6Smrz9aVgzeYiZovuaC70y4nt/yItEbZt/MqeGhIk//HhEtaTXK5NUC0QwJnXHfg0E/uP3yZ/VGWc3st3FvHKGdnEGy8njyJGYSHxv/ehivKQzn9pL4Hk47nMJ+z3qq9koiVY6MpRlEunq+4R72RfnlqQ7lsT5YM3Z8pBiHA54CunsE9QbvlMHXbTudqIrqqVZ18tW2w8aBJi8lUIc8Go0wi8kvvWYuVYLweHxzlLrzO3VbLz3syh8Oq7k3R+j5Z5jZRhMLZ7N1s+Vz254ysAgwVMBmzKDJUNIovsem8xACmvJ1WnyCiovz3QemIr3+oug6ZsMG9hFwKEAuFzXjrQqamOJF9Iv7ABR++/jQ=="
           },
           {
             "name": "CAPITULO 6",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1PwDEtHwRruCKJp4he+TjfLH7TzeLyW+0h\nO11oZkgVag=="
+            "uri": "DJwJVkInETFaoBr3A08gd4scT6xdNDh1lcNn8slje6Zm4dbd3m0vCIL/yg3DX1m8Y0gIl6CbWTMe03hiz/lTbZtZE7kT32TtaS0W6VHQzJycHRTYWwsmalQxp9W4pbURmoAM2cRsQYrUDZWz9JIQjYEkRZAVS8ZTsE50VXLeyDAK4+LbGD8EAyfXeMXK8JMFWEfaGCEYuHMiwQTn74utUNJVQVg0WhvaQ6QyXQdRmZtZTBU+juNwSr9VzoTdhlMSHQ344Id1bJrbM12D/0Hkn4f0nJz1zfmybNuNRWVDmbBdIKa5Z/LCmFdAp/eQtbVKxZDbQa2pS5c4eK25aAs8p+BHnQCudVzIF0lMXUosjPvSvt+/N5Mh6Lft28M3FGifjkzuBNObA3Ay0i2E6Yi/Dg=="
           },
           {
             "name": "CAPITULO 7",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1PwDEtHwRruCKJp4he+TjfoOeNSB+oKC/g\nVAxTqWWqaQ=="
+            "uri": "UQSCQ/aQZL1PQJktVX+62QFWWW61KZhIoFy19oiEJ6me+NAIfWDZWaO8hJyO1s6ZkgHS1X58E5maeLInbzPwnBg+qi0TPKQuW7B1NxaDiTcboXaBoGN2qPA/hmHcWyK0hW7k5Y5CmkKErKPs0mkTG8p1Dhiy0CHKXNzy/t9WtDTskkT5fPLERCviJ00OyPLFogzhxpBAmKfs6fEL6Q6GWLFb9x+vApo7GgVbaYaBTgz1OQLYeackL6yx/Wnz7Wp+55B8mNDJdL1MI75dYWARIA4ZTdKL5wfoBmS9eQlFJWOd3UTVWaSeJboOfxljYBMGJNrg4nLMhcZxXtdQv+zfA5Hrnze9rwMf0BG+0V9bKX0mRmsnYk+C9ESz/jKS2F+A9z6piGSvqIfsmuKUtcIBfA=="
           },
           {
             "name": "CAPITULO 8",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1PwDEtHwRruCKJp4he+TjftAQKsM9BR2i+\nAd99dHsCaQ=="
+            "uri": "qdX0pOcJK0rOaITsLG97uWJxGwV/8Kz1lrusBUTB0d7i0ETL30cr65zsyyq86/+IFF0shMak6hXiCX+wfuK1dszKI1adfNlGiM4tESVOONWwDuzcQR6xHXVriAPo6L0Ic81QBwBUZOpKxW+XlWHQcqEgkxEFm8nEnEwBOWwLvWJ5RLhdbof12RiFh8rayCeAdIE52BDK5Ax6XN6jllGhERy3pqcj8j7yF51d0HO1/QhUfx7hPh2bobzJKbiUvcnvXN4nuBk3U42nGymGl0ScpbnxDPdKUhW+8KfpiBtHRF+JYB3YpHABjT3SZowoRY5yt7N4MUNc08hxihdY1fPUTL5l8YFGgR8z4pKbb56flT0TGHdKF/2VY3uAx2SY4U32ftZMUecy+Vy4f4P2b7DHLw=="
           },
           {
             "name": "CAPITULO 9",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1PwDEtHwRruCKJp4he+Tjfu/E4H0x9/cWV\n+6kHx7z2cg=="
+            "uri": "cqwUZSOupCfY6fSGL38g3Ojv1Wz22NEmui3eaE6m5QE1jMn0QXj1ZzrvcSLGJn1fnU1MaVs0jjNiRH4MGUX6qoh2yMuTbxzPDeDE23iong6vKuC3eaUYieFRoR+xzVbXQ4U4a0m4eSYXJXkBRWcVFKqHtyGfPV+9/OmgwWHVVlv8+lF7M0fQ0y8OeAfz2FwJZT9LUQ5lbFPzGzR3wVaLo9IIUc8VSIwwSPS7wlRxkhYsOsBOmLZeZeyVurtFXQnflnsiGLQrR2qjN+Tvx60HTeSyQH6gWyLuqPKQdWQMA6ENO+u0CW1iJp9bQXgFtjqohMaKNIMQk1nJC6P8DHGlGmiH+eQIfacONtbJRHL94J70yzBTVKyJTnM5pupIXO7tabJqMKDt3ZKd2oRiQZF9Dg=="
           },
           {
             "name": "CAPITULO 10",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1PwDEtHwRruCKJp4he+Tjfk4o9ig0vMbUC\nRPH7kMVLNA=="
+            "uri": "o2WRxLrnqMMbQrkjP8+uqGJCPHeTmGkxt58RluMhSPR2flN1UzmaPHGujjkyFkjp53hPHR+JM1yp6YwdGiwqHi9kg9m7aBKNoTcCyfv8uhgOThRCmiNN+hN+A3wP20BYvTrh8XXAlp6SOhhcw+uveQ9QKQyk2/XzAeF92ZqFYL9yFtIxM7bVRaBDyS9X+dg5eXbJflAJtAhEeAWJ3WUCB1OveXlcWy/Kb9HZZuEech+LTXHSj9moGYtsmfYpKnY4eYv3TIS+oNIaCzynItxwOy0uyCcJL3eoMwezrfgrR9Qxp6YSSaxLHdTyuX5Inhh9hfkIhmeJjJfzojOnQ9uytyCrafI8z+wF+xT9SQN7r/oqLZwSMnH54F3sUPJnQc+U5Jq34fImak4YJUfjxDoL4w=="
+          },
+          {
+            "name": "CAPITULO 11",
+            "uri": "o2WRxLrnqMMbQrkjP8+uqGJCPHeTmGkxt58RluMhSPR2flN1UzmaPHGujjkyFkjp53hPHR+JM1yp6YwdGiwqHi9kg9m7aBKNoTcCyfv8uhgOThRCmiNN+hN+A3wP20BYvTrh8XXAlp6SOhhcw+uveQ9QKQyk2/XzAeF92ZqFYL9yFtIxM7bVRaBDyS9X+dg5eXbJflAJtAhEeAWJ3WUCB1OveXlcWy/Kb9HZZuEech+LTXHSj9moGYtsmfYpKnY4eYv3TIS+oNIaCzynItxwOy0uyCcJL3eoMwezrfgrR9Qxp6YSSaxLHdTyuX5Inhh9hfkIhmeJjJfzojOnQ9uytyCrafI8z+wF+xT9SQN7r/oqLZwSMnH54F3sUPJnQc+U5Jq34fImak4YJUfjxDoL4w=="
           }
         ]
       },
@@ -5452,43 +5426,43 @@
         "temporada": [
           {
             "name": "CAPITULO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0A+0+CZjw3yWyPV9QBEFy9K0tcr6/QRAPRzJ3UiutcHL6iBArCxykQcuLn0oyL3L4="
+            "uri": "6Eif5jbFM+hQhlcYiBBmLTXTCcxrz/H3dtjsXZQXD0vhR03DPJ14uYWYPfmvlmmYOyMJhwSkzFee4gWHxF1aw707wHm5SjZlvrrwWYkzxmLHD4JLpWCeWML1+mFk1zbFRrZrOWoAd7DhBbMbwPdHwws4xov0QfswHZmjKsQqxFhJLuk636HaT7PjzJwznffdv0ugiNQhnKZKLM9VqmxRoz9HppmsGEJLQ2Ax9fGUiE9fJKO6fqyVS6ahmBl6TE74Eogc0C5fXM5YSgoJtzjCVbQ70QNt1QSS/4LY/JgXtmPyPkn/mgUvenn+D1EjNJxPbL/p6i5630xq31JlHutwWNpZGnPC8qqT5vo0wCiT4ol1RvtgOF0z8PKlZbbgTOM/cmj2xKJoX3fJKM0ifjSgLQ=="
           },
           {
             "name": "CAPITULO 2",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0A+0+CZjw3yWyPV9QBEFy9KRgCKLQZm2lAKxNppW8b73+LVwbUq2GEyD2FlKIA0nY="
+            "uri": "WM/SGcIav4TQVtTYOMrfJau0/TLRJEx3i2LkFz5Pk4c5EdaMK0ppyGJyFu8rugMfHkLvzW0TeY27j8q+LDZ8E6eFygoMARzow7uDc4l9F+vPAzyaeDTG4GFDmK70UY9KMQXInNeaR9dU9QHe5kBFzrYOyr8PPVechHzU5LpHq1WVgkDE5KYrxqZug5spEF2mGojEMEMG+4BIRc1enG3qiUnOSb7rIV1mci8b4qcuPVOZmnNUdLDxepIwHVGNfjm3wM2vMXh84Qh/6pr2i12ohd+m4sB/E7Z6Y/Cxna2RpwEwUQle6ifZ0yZBCu0sbYHu7KXI1m3rOXOT6vt2qHXMff/3yEXsKlnCmGWU3r7Y5fKlWHCbyYIh+lvca2uPNtzHaFx1/BfbizZ0iMmFGdTQ7g=="
           },
           {
             "name": "CAPITULO 3",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0A+0+CZjw3yWyPV9QBEFy9nLoQJ8BhFbjPV7ZsuP7i4j6lETfTgW0XAFY1pNtFYnY="
+            "uri": "xUx8KXLEYhdyTww1ulOl1Vd0vKEswiERYWgpn2ADRTcycJoN8d+01uL/gjkt29qL7GqNBSFhdk8BpnPkZVmkuYsFipCpOkzgCoJ9ujx8t/FfHnghW+Gxnz+SjQTyUOeUYkvv06nd9pNyYLlqyXzI9Hbm3cKDdAIHJTLWvNp5+AmZ51LCI+JDQsJpkkI8hAAP6wIeAZyA3CoE9ch4yZGz439mnJ/XpaQ6l2TxKo1qm8NKWMGVOX9b3qORkSltipbLuTMrO5donGyF54/iFHd12jL93N8RpejuobmdqK9EiC2IwFxM4Ku/Fx2Mu3w2v2cIuZAh5yEsdTLj5jxWI69Zmd/vQ1b9HXWF76cDgVRSa3gCwwp5AAzOcibu/ZN37UGpBOuDawdNWUT8PR/WQ0N+IA=="
           },
           {
             "name": "CAPITULO 4",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0A+0+CZjw3yWyPV9QBEFy9vTNEjyWgnqLQCICYEUfgmHnGU/MtQs5jDk2LiAnVxdg="
+            "uri": "PwDkTVV4Ugy3AoHguLHJshAWf3/6L2DjNicMkwgN+swRUkN2itnygNSbMz5/cA8fMG+2k0wfndP9NgoY++TTMbOeN8VYrD9DGpOWXs4GaA81lB2HscmgEdA8CEeCyhGq2jlup5lx+MFjfwdVpqpMUoZMaSIEgVn8ZG30vDBu3W3YPxo01jsknpT0kBy+A3tM4I34VaWv2Ki2zQ5+DuakTKub4XN08+5e/noMd+1qlo3NaxI7OlbQwFFl2BlF1RLvQ3E1qUnGC+WvtHEOytU00xxQLnRolbITFkRZKxaw0QsSbjuWwKeNdW2OWmOS2OzZD/ET4Xtgn8QqyDzNHW/Ho6uFwKBzzxPxQv+FblHNWQFaaKdZFfVu9TfmyxlgZHAZATfH1I2py/bNMrBpqwXNcQ=="
           },
           {
             "name": "CAPITULO 5",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0A+0+CZjw3yWyPV9QBEFy9maKTkHygX88W1lvczZjXdtuqFXSDsSIooDT2r/3ncfc="
+            "uri": "WBbyqbGafpvx54ymOZ0L8BLO/KGxiMuJp0Sf0jjnOo3RYEK20vSHvRSgJRZsSTYvj86ViGqMijXJeSaC4AX9uhY6cgsUcWeZXY5iUr/jmXYw/ldD0/Phz7PpLlJu7VSJ7f5DFYuK755uGY533Z7+niw30yU7H9Ve9t1nk8tPwTbHxlLclx3AbF53ItVg7OY983GyfnAp7vDiC13LW3F1zWg7uk/Q8udY6DxtJmHpHL+tYxOuP9wpfmUbpjHRYjJozBgt+SZcQd31IRlw1HEnPbt1ttsExWcIjMmXDQdeul+P1wf/ViNvvHz9wyvmX6vtBSs/9O9Yx4Fss2UxF8URvJwK3onwRvMNVzsKP26LrXZVU56fx41K99gOSfYeo28Ro9oKRdd3IfyTG9VGxIrK+A=="
           },
           {
             "name": "CAPITULO 6",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0A+0+CZjw3yWyPV9QBEFy9mex2cZlvMbfVHn96oKT/sRLnTn1eDmYMUwzrItcQXi4="
+            "uri": "gqr1Lth8dkWE76JgPX8kmDgFUu7kW2bwRhIPstG5XySGD1o6Smrz9aVgzeYiZovuaC70y4nt/yItEbZt/MqeGhIk//HhEtaTXK5NUC0QwJnXHfg0E/uP3yZ/VGWc3st3FvHKGdnEGy8njyJGYSHxv/ehivKQzn9pL4Hk47nMJ+z3qq9koiVY6MpRlEunq+4R72RfnlqQ7lsT5YM3Z8pBiHA54CunsE9QbvlMHXbTudqIrqqVZ18tW2w8aBJi8lUIc8Go0wi8kvvWYuVYLweHxzlLrzO3VbLz3syh8Oq7k3QwDpHgwR5IEAB+PlSFoIPg6JziYCMXenI/1KDVhyhhamIuchWrGb+gtNAj0irYS2nYhi2+APi/UZhatIVRyrRR7v5760kUs39iD60JUAZzCQ=="
           },
           {
             "name": "CAPITULO 7",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0A+0+CZjw3yWyPV9QBEFy969NS1+rNqZtqq7Iuy9WEzT/N2hlBm1EnaIK645M0IKo="
+            "uri": "Q3eLBF6HHaW3/XfB2GI2dPDnWyX7okGfZ4D4iYsZjBJBMa96sQHyRpOPPcVXvntN/5PIOJveLJLbEk0TaRAF9Os2rVhcfihdqm7xvNZO6r1/3Ulz9/wtFK7FQvf6nX4d0785zQFTXwP2L0k87PkJy5uIo+1mnLhkjRwAMa4QKheXUaeFc3cSxL5Z46+lQ5R1gnq4ZI8kYfpqJ6pnV/sRDI+LBaQwkHyKznd4LplcipCykm4dd7zCQZaJXWq4IhKO+VvhJR1vI62hxkEi9uO0a/mqarUfpbqYjhauPqmi6I32EKlp83qzqfZHaJir6aCyFum6GfDreuwQRBmmPUxj9QRYjr7ZcJxhxuvD/WryGNy5M1bs0ULDHJuWkZ6J9ndQXDYdzV0MximitQaaQUTiQQ=="
           },
           {
             "name": "CAPITULO 8",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0A+0+CZjw3yWyPV9QBEFy9lmYddhl3gFqrL9ACrwb/BinhzdR6FCZeBJzo/ixxXnE="
+            "uri": "SH9yPD3PhxjyyRbwIrIhAiXndyOwXO4iyMueuw9WJsCyITPkOY37BTB+NV+eUCosH76kLKf7xzTXgZyPrKsPRsgKTfT01NnKcoXJzsPhei2LOaJ/oHeTOO56+jFydPKnhWLPdXbJKPzwyi5TbujX6H57l1ZWgRYcCz0PQNTlivFHZ2Oj/MI0ttu0D1voMwpHRJ0g8DNloQFN2GyCarzdrhI9Jrkcp11PhcRTK65UETEsik83TYP76kKl4X0VPrka96MjNXR73b1oFZGpQ87oOSrFvJlWavOwr0XXLpI2j6ofxr0KROMN1YvYVNulDAzRYdplXv9GaBd1b+hf81mAh5T7f03X/G4yeFgjXSdli31W43+efAjZbYUZoZ8fpJj/8yHjQlVq3UgudIlrxAN8cg=="
           },
           {
             "name": "CAPITULO 9",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0A+0+CZjw3yWyPV9QBEFy9mw91iNVODuDCY8pp5rBr81kCpv9Io62kbQAdBccZcCc="
+            "uri": "WBbyqbGafpvx54ymOZ0L8BLO/KGxiMuJp0Sf0jjnOo3RYEK20vSHvRSgJRZsSTYvj86ViGqMijXJeSaC4AX9uhY6cgsUcWeZXY5iUr/jmXYw/ldD0/Phz7PpLlJu7VSJ7f5DFYuK755uGY533Z7+niw30yU7H9Ve9t1nk8tPwTbHxlLclx3AbF53ItVg7OY983GyfnAp7vDiC13LW3F1zWg7uk/Q8udY6DxtJmHpHL+tYxOuP9wpfmUbpjHRYjJozBgt+SZcQd31IRlw1HEnPbt1ttsExWcIjMmXDQdeul+P1wf/ViNvvHz9wyvmX6vtBSs/9O9Yx4Fss2UxF8URvL+Ta3nquXtyekqPiZoIsEgHZH5CfA+jFuJ31ZxEOQLbDOmlezLEvGoshur14m7vJw=="
           },
           {
             "name": "CAPITULO 10",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0A+0+CZjw3yWyPV9QBEFy9Sgd+ni37YrtYdvuNxYcZFg1rY3banhCbuPMkQkcEGoU="
+            "uri": "gqr1Lth8dkWE76JgPX8kmDgFUu7kW2bwRhIPstG5XySGD1o6Smrz9aVgzeYiZovuaC70y4nt/yItEbZt/MqeGhIk//HhEtaTXK5NUC0QwJnXHfg0E/uP3yZ/VGWc3st3FvHKGdnEGy8njyJGYSHxv/ehivKQzn9pL4Hk47nMJ+z3qq9koiVY6MpRlEunq+4R72RfnlqQ7lsT5YM3Z8pBiHA54CunsE9QbvlMHXbTudqIrqqVZ18tW2w8aBJi8lUIc8Go0wi8kvvWYuVYLweHxzlLrzO3VbLz3syh8Oq7k3QwDpHgwR5IEAB+PlSFoIPg6JziYCMXenI/1KDVhyhhaunWAiGtDWq9dnnucEgo4//jQJPPYIs1YiXN3a+ktmyKqLfOwejgYEoNZ1hXhkCyIQ=="
           }
         ]
       },
@@ -5544,27 +5518,27 @@
         "temporada": [
           {
             "name": "CAPITULO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0BWEtH/qKxENTQ9a0utHktvjjtxpK21OFlL3CAOhpB6w=="
+            "uri": "Q3eLBF6HHaW3/XfB2GI2dPDnWyX7okGfZ4D4iYsZjBJBMa96sQHyRpOPPcVXvntN/5PIOJveLJLbEk0TaRAF9Os2rVhcfihdqm7xvNZO6r1/3Ulz9/wtFK7FQvf6nX4d0785zQFTXwP2L0k87PkJy5uIo+1mnLhkjRwAMa4QKheXUaeFc3cSxL5Z46+lQ5R1gnq4ZI8kYfpqJ6pnV/sRDI+LBaQwkHyKznd4LplcipCykm4dd7zCQZaJXWq4IhKO+VvhJR1vI62hxkEi9uO0a/mqarUfpbqYjhauPqmi6I0KFT4Jjk5ahQoCAbshJNJx6EYJwg3GMeQjb+V1uh5fCwkBuFVrrW6Jha+nOdhpUxEgZ7y3fbWT1c/ZpILGH7TRoFk4MQpJkt72iOODGQBKUg=="
           },
           {
             "name": "CAPITULO 2",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0BWEtH/qKxENTQ9a0utHkttEmCpD4I5uZPRCu4QABbpA=="
+            "uri": "SH9yPD3PhxjyyRbwIrIhAiXndyOwXO4iyMueuw9WJsCyITPkOY37BTB+NV+eUCosH76kLKf7xzTXgZyPrKsPRsgKTfT01NnKcoXJzsPhei2LOaJ/oHeTOO56+jFydPKnhWLPdXbJKPzwyi5TbujX6H57l1ZWgRYcCz0PQNTlivFHZ2Oj/MI0ttu0D1voMwpHRJ0g8DNloQFN2GyCarzdrhI9Jrkcp11PhcRTK65UETEsik83TYP76kKl4X0VPrka96MjNXR73b1oFZGpQ87oOSrFvJlWavOwr0XXLpI2j6qEuXRKJf61xU1VFwfnRD0EGzjMYMojYQpgqrBGSdATsBcKDaEiMh58z3JjqbU2TPkVhf/AbEj3EbJ9U7oUYRP38WL8Oqr6XR/pDG+xfmUU6g=="
           },
           {
             "name": "CAPITULO 3",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0BWEtH/qKxENTQ9a0utHktilGh9QGj2GvFoI+qMFu6cQ=="
+            "uri": "BItpvi0BOWzF7RtnisV48WzFgDBMsseMw0E4s2bwqQcZEuLIVTNZtRK1spwomAFt91ptyALc1bZl/tCfbM2pVgIJzziaISUahYbljjjeM3L33o/e1JllVkoeGIVECAJ8kNT+MluEE7NsrXu6k+i7jecZ0xDVGiZU8HqqEL+EPlJYJG42Q+P5ovRbESuh9EjGaYwL780J3PHEj+HH6vFJHkxjJhkF/pIz78ABMChK41jQ2Ldev6ais7yuIlp8DYli2iG6w27Hv1Jhp9TKcdCR4qql+n5dB7VSfxyMbLCe2+GPx5sUHUf9pD7mmJ1qWRdWELESbfcioQWwV4WrHwgwO5AN5ChhwhvO/UUc8xxln9dnBzpGWobBNdPIvg7/wKaH1niYEPflP02RjfxubGYfUQ=="
           },
           {
             "name": "CAPITULO 4",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0BWEtH/qKxENTQ9a0utHktYX1o/VO9KifaP2OFxfyZ9w=="
+            "uri": "3MUNHFN+FCEcYFRFXyqqZxPkAHis4lRgtwVf4P5mPm4sV8eyGLA/dtder+QfFzgHk/K+x2HEkMUZQPIwLGpLr0TGJePnDeeGaxJvXPz+zTS3KXl2+peAOyFk6wTp1CvcygzB4r7wb1Tfu4PavyY0qCsuPJen6tCA/jp9tIqwHadZAnLxxW2dh2yKfzKegXQ08j4P7v87UQGegBMhR/d6gmrvv7nOZn6T3BSJtJ2qj6Y4n+sIVioqIiOgkIJJRNl7Plz0FbHmxEpPw9swhwgCLLxi414sUgqq6PbFVZ2Oc89WiEDTBsmaEqYY4zanYLczBWOBjZKIDB0TXUtw8YDh/g+dGVVD3DR8L/wjt1VdXu+RlRCWL0v/OanXFJgcZmD4PodvHxwNs0sZCcSsF/AfgQ=="
           },
           {
             "name": "CAPITULO 5",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0BWEtH/qKxENTQ9a0utHktU4VpO/zn3Iu6DHTWmOdX3Q=="
+            "uri": "o2WRxLrnqMMbQrkjP8+uqGJCPHeTmGkxt58RluMhSPR2flN1UzmaPHGujjkyFkjp53hPHR+JM1yp6YwdGiwqHi9kg9m7aBKNoTcCyfv8uhgOThRCmiNN+hN+A3wP20BYvTrh8XXAlp6SOhhcw+uveQ9QKQyk2/XzAeF92ZqFYL9yFtIxM7bVRaBDyS9X+dg5eXbJflAJtAhEeAWJ3WUCB1OveXlcWy/Kb9HZZuEech+LTXHSj9moGYtsmfYpKnY4eYv3TIS+oNIaCzynItxwOy0uyCcJL3eoMwezrfgrR9ScNflzaZZZb/kdMMnBiUa4jCX2DpLqKJdk3QBoCBiHYZQadtGixu94lhoXBYTie0NO7M8dVPVmCZPQibZ0ofHNi7TKgRNwwtYcte2ZjJCstw=="
           },
           {
             "name": "CAPITULO 6",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs0BWEtH/qKxENTQ9a0utHkth6kwg0RHdhV23B36RKwMJw=="
+            "uri": "qdX0pOcJK0rOaITsLG97uWJxGwV/8Kz1lrusBUTB0d7i0ETL30cr65zsyyq86/+IFF0shMak6hXiCX+wfuK1dszKI1adfNlGiM4tESVOONWwDuzcQR6xHXVriAPo6L0Ic81QBwBUZOpKxW+XlWHQcqEgkxEFm8nEnEwBOWwLvWJ5RLhdbof12RiFh8rayCeAdIE52BDK5Ax6XN6jllGhERy3pqcj8j7yF51d0HO1/QhUfx7hPh2bobzJKbiUvcnvXN4nuBk3U42nGymGl0ScpbnxDPdKUhW+8KfpiBtHRF/AgBsqs7pA9aoUgoh5K12+2Ey7mbSqxH+ZwDMWfK7F3Z+f5f4ytrtGhmLee6LaazLnSUdYw8a7gspzpRlCbkUjhBAhKZ82i5EhY/r5M9ZzHg=="
           }
         ]
       },
@@ -5574,173 +5548,35 @@
         "temporada": [
           {
             "name": "CAPITULO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1MT3ypbvSQK4K1fpjOUvRRCJRhhyFUoErrYHi0m1cAow=="
+            "uri": "nJUDXYe6AkfBKGYMnp3WqZSUbVYDrkIJjeIfWp7ZJ0my6CbJDnHwqjDHD5bBnYeu8ZBJA09GhI9MS3yiSANGG+JsSOIgLXGQDme9zz5DYWSonbkCD9YcDRdc7QasNLLZGg9jcJMIlCUwbyB/k0144S5TmNO9+bIM3cGrn1COyZzH9UwQm9TqDA+ouMjhNE03+hOI4JJHYkdXfzxt5+bT83K91/2Ms/wqgf1MLKSx3M8ipHBTiQ4N/zQWkKfcwm7+R+JHWF4ixZeKOZ1iJRoDWlmbOBvlCW6ElWDstMSEbegNr5dogLyTZ8vQC0SKngiRFJYDoeZNbZAoJVy981mADqV4ttFANkJivW4v8rcpKHZJuuZsZoGE7YpgXNhJLx0kFA5PuO/2cwsf9FzfPmC/MQ=="
           },
           {
             "name": "CAPITULO 2",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1MT3ypbvSQK4K1fpjOUvRR243CJffrtFXEyBjSwJo7sg=="
+            "uri": "TbR9qt/VtH42BZWC0r9jXnEwX8q9JNNl6InKh8ONMrU02Yl6YkQVzbO/9Z9pJag9GeH8asFNGiFXdO6cVM/HXObo09Y72e0qanR510+wBj1+Kz+YtZ7BgQUk5CqZ6P/XH00R+OAxwiARffQhZ2y86oa6+3zE2dFcrPUmL2we8XvLjiEjQXCTW8nPbSfpjAUNQA+DvxYGWKqx01X9cY2PfKRtTDhZkXI4o8d6VVOgZpnwa7o38n0c0F8/KFMkfuP3k0eRW0W01bG2Yqbkm4/OXB0lNDiMS4Tlik3nfi1ZZRH5IVR8JLxtM2aK2fd9jBMvizbimaY/9PlpyrR/Q85eUcjGK/isYzar8D9s7Wh45+wMWIF5acM1YnB6TsySUsdD8wJrcQpTXcTF3A7YAU0n6A=="
           },
           {
             "name": "CAPITULO 3",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1MT3ypbvSQK4K1fpjOUvRR1S6UFm0e/j+BCP6pfSNseA=="
+            "uri": "az+nm024+tseAC62BYDMY/ax+T9ipyQkR50SBEOZYWXoeQhMbumU2aaC1JVm723MwVms+8xbGkuHP/fdZiK8wc8EaLsBPb2LWb0y96b/TzHqKfO25jQmwaufUl68K6KXUPq6Wj90xIkzPbMpt6gQ3q0C9zy1mEaE811y8qSVQoL3FA2i6d/H6wRapHRdyUx6GNMHWO74nmZs58fjVfm2lMlXubfKUKq3+npsZ0FIh9Zrq2iURbgwvc2WKnKY/W6QgaLPYAHD0SBFGOS2WPSdPJKWdWtCtNMX9UxFHW101NAhlFbS4YV3SznOr8OxhY+FCAWA4FqBUqAbjLXd5rIYHEE0UqzKI4AL3u7xoyCiVHj+UzdU+N2KtMz8MDa9RKsJtcMBGkxrAdzqqli+ZB6I/Q=="
           },
           {
             "name": "CAPITULO 4",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1MT3ypbvSQK4K1fpjOUvRRaqD1SUDQG5ovSQqWyxvzpg=="
+            "uri": "E7Tk2oEZgdb4CDRxG2r2WW5MMpPoRpp012Q0YSsWr5IFx3+3IG2DcPjoI1S2RrMNSDPQYMNkDwt/KcS1PTnqTedwtTvVngfMMkdTdlIf0Fh98rNf3lh8IS29971j6FXDPswe2tHk4gSSCUVRnJaiJg+6d7o3LT0ZwxyzZkwoqTaggcTdHcYBysr6wW/r/Dkr9u7byHZfYMMufAE3bgGs9Vbw4KHRvH2BMfITAgeUUdp7lPNkHnvsTTFuhBaxW/SN9JU+7rK7AGXDdSKGo22edKs+9pyZfMw/wrKjisZjwyfYci2MtQU9Bhn0/DJ8VveqfWtf+1Dw4Pdu2MwkbyqpXOWhzfhPYibfzl49VWOnVU1jMyuj8psIHleh4nVV5gGENmpd8+6lVtIlQrzKSvCBSQ=="
           },
           {
             "name": "CAPITULO 5",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1MT3ypbvSQK4K1fpjOUvRRfSu0Qz70rIPyKJynLUZRrw=="
+            "uri": "qdX0pOcJK0rOaITsLG97uWJxGwV/8Kz1lrusBUTB0d7i0ETL30cr65zsyyq86/+IFF0shMak6hXiCX+wfuK1dszKI1adfNlGiM4tESVOONWwDuzcQR6xHXVriAPo6L0Ic81QBwBUZOpKxW+XlWHQcqEgkxEFm8nEnEwBOWwLvWJ5RLhdbof12RiFh8rayCeAdIE52BDK5Ax6XN6jllGhERy3pqcj8j7yF51d0HO1/QhUfx7hPh2bobzJKbiUvcnvXN4nuBk3U42nGymGl0ScpbnxDPdKUhW+8KfpiBtHRF/+CqZyh/OxGx9qAZlJv0hDxLG3N0GI/1FRwu2wMZc4Ddiw3v9P/vifxLMOcqHcqiBTcsFfBIuzTIvLbwNAahYk+TMx9Ln18zQjs3tqrmg3oA=="
           },
           {
             "name": "CAPITULO 6",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1MT3ypbvSQK4K1fpjOUvRRzMyo2iS6Y9SPdRsdMKpauQ=="
+            "uri": "cFQ6B6hc489/i3eoCJ3pJ8lzRhIh6OFeL3+AM4N0J+yuPKpRxKEBvOXsxIWtk7Ux5/oIW0erzrWyK0i0vWTPUhS3x5FQXnRYeQ0ENU6/LlMiryFdJscKcZ8zlC30LzqTcIYKOkvGvp0xPLEPUxSCEzTkKnd0jhGDp/JxbQMYUvyctaYQeRLxKnFlQ5fKfP8+t3XDoakX7Xl3wHen7iRcJsTP9E49eHVSI+2Y5Y4eHZDGUFxp4tXPw+P+LAPIQOaIcKN+5XTtJ4VW+2C4YEcEw9J+MS3oXN9q2v65weFq0AIt6tmD4GO34QN/gzbv0BmZPH4SXLDuU1CtKtKQJC2jAxdBYcNXL0Xs3yf/Mypr0384U4S6DF7diONOofZjAi+XXp4d4DEpXY1KS+UZ8kMmsw=="
           },
           {
             "name": "CAPITULO 7",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1MT3ypbvSQK4K1fpjOUvRR/v9Iq9i5LKy5pNyFbQcQ5A=="
+            "uri": "TGxgAu0wot7mZVSFsWxlFZhQPnXp4t5/OWQV1aK6xxx4ByYcOYP31iFzKcALD0RLciDFft80FyOG2GdrKvx0ksNiciDnYTB3XTHqqgmEEdScPJYqJ5w21vlPTzgR5sFNlH/t5xFHadSqsAQ2kICdAic3P8i6//P7jL8ZDKoq5HowemhQ02SJewfQ0g3fzINn9mxhKXIceZlNK51l9/+Wh4cxNoDLs8nTSMhIW7Mw2H8UwDgNeIDw2N+XqwlcKDHptD3dYAhouY/DVVd2tleCJKFVGeRuQijaODQvFI5S5Y1keGxdrOicUv46Iyjo0Nh0FQW1R718McUQr/gGg0HRV7GKXGKAij7WiHLXgKUn+hvGXL/4O7+RQXo+rKQ/W/j4qV/mHiVNZm7P+zLtkiScFA=="
           },
           {
             "name": "CAPITULO 8",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1MT3ypbvSQK4K1fpjOUvRR8AZ2e/XULzDCkyPr/skEYw=="
-          }
-        ]
-      },
-      {
-        "name": "Undercover: Operacion Extasis T1",
-        "icon": "https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg",
-        "temporada": [
-          {
-            "name": "CAPITULO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1bCCOebxdnlvu3Ry9lT9Jqju/dFm6NwpJour6BG7FUgA=="
-          },
-          {
-            "name": "CAPITULO 2",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1bCCOebxdnlvu3Ry9lT9Jq69uNxg2xGDwhgU9pgptjZw=="
-          },
-          {
-            "name": "CAPITULO 3",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1bCCOebxdnlvu3Ry9lT9JqMz6oCHGg+0EyUue7z3cwuQ=="
-          },
-          {
-            "name": "CAPITULO 4",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1bCCOebxdnlvu3Ry9lT9JqlXvNo8VNtsXFxPEANYVlag=="
-          },
-          {
-            "name": "CAPITULO 5",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1bCCOebxdnlvu3Ry9lT9Jquqk44GlGloIzZ7jIK2pcPA=="
-          },
-          {
-            "name": "CAPITULO 6",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1bCCOebxdnlvu3Ry9lT9Jq5aABmJMx+m0/UHNQ4vObTg=="
-          },
-          {
-            "name": "CAPITULO 7",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1bCCOebxdnlvu3Ry9lT9Jqra8bFPoyHmEAprPoAAeubQ=="
-          },
-          {
-            "name": "CAPITULO 8",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1bCCOebxdnlvu3Ry9lT9JqLl3wYXPdrVpCSNRFtvzSEw=="
-          },
-          {
-            "name": "CAPITULO 9",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1bCCOebxdnlvu3Ry9lT9Jqr2AhT9S2IqdIzNpyVeLPeA=="
-          },
-          {
-            "name": "CAPITULO 10",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1bCCOebxdnlvu3Ry9lT9JqXoR7P4kxKq7+CdN6p7H5Hw=="
-          }
-        ]
-      },
-      {
-        "name": "Undercover: Operacion Extasis T2",
-        "icon": "https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg",
-        "temporada": [
-          {
-            "name": "CAPITULO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3mPpRJnF2YQd+7ciAQ5Ib1b+Kk+T/3AbXADN7uqenYCw=="
-          },
-          {
-            "name": "CAPITULO 2",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3mPpRJnF2YQd+7ciAQ5Ib1SvidMBktaXt+1u7hrZSvfA=="
-          },
-          {
-            "name": "CAPITULO 3",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3mPpRJnF2YQd+7ciAQ5Ib1lseOet78CRtjLRsa6rZiJw=="
-          },
-          {
-            "name": "CAPITULO 4",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3mPpRJnF2YQd+7ciAQ5Ib16NkbkHx8Bg9fbHVXqH4aXQ=="
-          },
-          {
-            "name": "CAPITULO 5",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3mPpRJnF2YQd+7ciAQ5Ib1CvnVxagRGJmakr82zOTG9Q=="
-          },
-          {
-            "name": "CAPITULO 6",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3mPpRJnF2YQd+7ciAQ5Ib1m96EpcvOU+YP6NyR1DgH1w=="
-          },
-          {
-            "name": "CAPITULO 7",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3mPpRJnF2YQd+7ciAQ5Ib1v5LTqXdyJ2mWV01/bF4Iqw=="
-          },
-          {
-            "name": "CAPITULO 8",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3mPpRJnF2YQd+7ciAQ5Ib1yAMpopMTMVmgHQ85aNdW6Q=="
-          },
-          {
-            "name": "CAPITULO 9",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3mPpRJnF2YQd+7ciAQ5Ib1TyHDoPAZA9uv6TESmU8etA=="
-          },
-          {
-            "name": "CAPITULO 10",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3mPpRJnF2YQd+7ciAQ5Ib188xSA6xj2GUrvVLtEuntPA=="
-          }
-        ]
-      },
-      {
-        "name": "Un lugar para soñar T1",
-        "icon": "https://es.web.img2.acsta.net/pictures/20/12/10/17/17/2973078.jpg",
-        "temporada": [
-          {
-            "name": "CAPITULO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2W3/IH3s2nYJbp7U9ddEeyYTa8XH6B7CThmdCgymmQbA=="
-          },
-          {
-            "name": "CAPITULO 2",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2W3/IH3s2nYJbp7U9ddEey86jIWhVW6oI6fHw1Co730g=="
-          },
-          {
-            "name": "CAPITULO 3",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2W3/IH3s2nYJbp7U9ddEeygX3r7JkcbHX2rVhlaTy4cw=="
-          },
-          {
-            "name": "CAPITULO 4",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2W3/IH3s2nYJbp7U9ddEey3wgJOkPX51Yns0ia2wN1lQ=="
-          },
-          {
-            "name": "CAPITULO 5",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2W3/IH3s2nYJbp7U9ddEeyggYZhcVGnsUbfa86sR3pEw=="
-          },
-          {
-            "name": "CAPITULO 6",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2W3/IH3s2nYJbp7U9ddEey0VWJNw/ZXfdwa7Oys8yqhg=="
-          },
-          {
-            "name": "CAPITULO 7",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2W3/IH3s2nYJbp7U9ddEeyb442167riMC2OxJDzfkRAA=="
-          },
-          {
-            "name": "CAPITULO 8",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2W3/IH3s2nYJbp7U9ddEeyOMHuLEKnaXHMC5ZRDhVKXg=="
-          },
-          {
-            "name": "CAPITULO 9",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2W3/IH3s2nYJbp7U9ddEeyvqmPvFlVrJ9FZl8CtD/e/A=="
-          },
-          {
-            "name": "CAPITULO 10",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2W3/IH3s2nYJbp7U9ddEeyUQsyPSnaRxahdyO60a3JPA=="
+            "uri": "T8XZw1RKtW/i3SZSVmjX0eHvtVguNRQ/J2q70J/Abe0qpNEuGQ6bsg4HQZoZMJLBSYNay2uSKo4oiRkOS+ZAesTmHmMAUhClzlY20GXBpATz/I0+ma8xVFoH1Pcmobi7P7wRrNnQ1HjdLrlC32t6kCZkJKMkBnf/WPKYyKGStJ5tkOC21ejFX3u3zSn3Lhljy+ds3cLXaaJ6DvaLsGP4AGa0bH6o4wo5Mn/EHmn3rzAoxv6P58xqKuRvn8uz0B5lmvE4OkmI89+xs+Y+c5UDWrDyuQJjWTuJGUeqXupRmhQ/M2AY5UiCPhQ/FXMHBiFQ1/nU0zQstZKlFnOaT6rTm7prGLFfCBrmdFBEhmP8TrC1EWuWCsZbT1oupLopTNFASQvKDk4RkI0ErNdnxc32HQ=="
           }
         ]
       },
@@ -5750,43 +5586,43 @@
         "temporada": [
           {
             "name": "CAPITULO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1G15hgaHy5v/JE7roPlaxvckTgMmcvJZmGSwLXJcap/g=="
+            "uri": "q3xK0EzLJpI4sYVqahUltExaCLQ1o1Z1BMoicd8ZtDvuInFC5oNMsLe8ccSdmnxS2dritSkceQLv9Anil5kiY7cIphjkHNu5Lwih/kNvB55GgKIQd6lB0SQzgwE5RyoX9/uQxThA1HzXQoKDtBVHlwjEvyHdINKNvMjdvB6fGlusRng7fMyo8tWduqUKZpRdJ9Focyc8QG2968iwn9oSWiif8PNxNXkAoEnfRC9WJEDnNqIiMRZYJsh8FnUCuLkkxbZaffAoGDkHBTXXIfVJSQ1UqIxblatJhsi5bun8/hTjd+8hD/nNYNDJymP9KfJ+NzdjRjUH/cRVPBxTKRti9X/ca6VQTiWD5IDiLcA2xo4cEc/o3Dopw5RSASY+XMsUs3XxjdF460H009O/b7Pw9Q=="
           },
           {
             "name": "CAPITULO 2",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1G15hgaHy5v/JE7roPlaxvUEgoakylS8ZumWx07CFsSQ=="
+            "uri": "MC5qd7l8FGsWddF/nKoaf7g07HRVcn11S5RO9LIsNn1OAWSmeCi6saZqJ2s9i8DGWK0tq0cNZxbMnYmMHZF6TGd7m2Au3YQcCdbSvBzeDd0WXtKl/PA89Ul9e3opiw5rlGjxHps5Kgu6YIwYT67Hko4IbTv4dsho2lkWVhtr3afxgN32fLI5hn/+RjUZX4p/e2Bd78f8x1t0IemqLs2aWBugsWGl8pCBcaIHTOj6CH5YZRgRMWEFvAAfaEjA3WSixE83bHGYr8LJgWS/krcTAq4fX1kdbIXy09B8HISkQPiu6ovTK3pkc+ioWcuL2v+GhYma/0Hzf1ON+s+NgMn00g+9RYc62f7C5JgeJhQNEaVrWqvb2zblaNSe3ycg8P6B/+U3zhv1zrSUNCoeBGV9sw=="
           },
           {
             "name": "CAPITULO 3",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1G15hgaHy5v/JE7roPlaxvf34XQkWV+4on6D1t6Iuo6Q=="
+            "uri": "D0VWctQH9ZZwly6inGVwxT4LvpEqqDaqu3WgVe4P95FbVQMOAhSO+nG41qjnG3pufg2rEwa44/DzOrtB5ApGlCp1IGPwITs6JeIrzeHVFJ1vblaBlaX8HBCbAqNCZoCdjqm6Gbj6yz3WZIJ4jRk8kdI28kjtfuSscpVCpECG7ZogH09TE10Eo0YdvarYlazJpR1h/K04LhnyxxiFO4Herz+SefDXqXe562EIl5LcjxLqYM9I9kGX3aO2Lh7VFIf8ftSM61jwKYLMr5qiNB/Z0aSRJndIoSt0Kl+dQv8XIbkrNdc8WN5nIyATyL1rZDkUtHuTLL+/UMvfeslqp5fsYHKcT7Y727luPtOA0h3TOWmUROtBV0EOTUwqn19D4Lyada78Kn5huZckep648nRqog=="
           },
           {
             "name": "CAPITULO 4",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1G15hgaHy5v/JE7roPlaxvwMvKjew5JE4Nz/FzMRvQFQ=="
+            "uri": "YiXAOMhOM96kGw4+XbcP/7sxGwYC5C6coV7Hc6XpLmxEerqK/2AR/IKSKKm5DzaSxTe25z2Z1z0WefS72LMWO4m4WAbywTwK14UX3P4ISvEVOwuu/H4jliVEGirR8UJCT26e7tLUBH6fn/qUzAZkMICGwn1FaFast5ZlbEGDowE1X+53K2Ls5scJhFgEDS31tIXXbUU/PZX0l6yRAaYdNc1ZhGhu5e2pS1Q6E8eYM05n+TGlfReAOrPcwBCjrEJ4NL0dEDVtmoP057eMFb+C5o0poG5GWEXsRUBtFVCnsIaHQwkdsOBL/dv4wJCVmSc+rqrqnxhYjFRT2WieUFWW+1/FfS5zzl1lgnJxZD4lpu3IilB/C7SjnWtJ4ZwCT9Bkmoq5HXHaZu4tzZadBZUrVw=="
           },
           {
             "name": "CAPITULO 5",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1G15hgaHy5v/JE7roPlaxvMHb5d75iy26HwQ3eQcs9Lw=="
+            "uri": "jC+fJjeYSfXPipPSTIysBLZNpNkrCNjBCF/s8zRey7fA+vVtJBlvAMsPh04V9d0Z/EKhVhqJJMAyCzF+rZYnvNxPLtGKnyDolG37tGXMZBbx5Ee1Ox6Jxa+qwd5dDUxmT4Vu1Nn5ykK2YmD9bkqBgHNbSSDQd/f1zRDkSvSuN+Kng8/4GexJsVbsjkeZDn1ZiDLqhghTXnVfNtyVzbmpqoo0KB4TY5Byz+BSLfVvperLbdgCour021dq6j2XwC7LqFqpbBbd0uFoNrRnS59qt24E+LNQaxM+50CtfIvWse62KEBts/jYdlgfkMa4k9N3YOnqqeJaCYJH9APKAC/Ksszpjt3kc6m+86TqbfMCyf71Cd3p0c8JZBjBbiJvf2N7IZz+0dqXqDHmo/9zb8T9Nw=="
           },
           {
             "name": "CAPITULO 6",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1G15hgaHy5v/JE7roPlaxvPuHKx13JvQ8yhHAIMgUgSA=="
+            "uri": "SoNnDd4VcAjWWUpUbXqCsYdTcWJzeVLEhlMc+wejvfpgF0qKu90+yaXuI6bxZ0b1OpotqEBPtgo3WfAvhKvtr+ZfcY0/jOPRqkMBpMdGnqDlrN3/opY43AiQjQtOOfUmUtP5vcQzk26Rt9bQBTETZr8kZs6X+Lp6x/HM3cNKsajS6/NOvNYX5adiHGqRHihUbN/LVYUBkR69CROhJLa4N7wo2I463sFNVzEl5rAw6/dWY6duKZLVFeF++dYbkHD/a+w0taEc5dKvv18+ugC2ZLS2dRH5HJ5wigZ2rNlKHnCnZDnGwHal6TBfx1L9/vL9Q8jJ+tL7fwXEVfiUxpmZkH8l9INneeeSFrsI69ciUsXviHvk1f62oaM5vX5CNfPCDum/zu8jnKnjRLJLOzOMAg=="
           },
           {
             "name": "CAPITULO 7",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1G15hgaHy5v/JE7roPlaxvHWOBbZUXwaWxYTWhDsoXSg=="
+            "uri": "hQ6YAJOGE991HlmsLcw7cfQFRhNNMo0oO4wuXSR6Es3ZxLa+hGTBTCKE3Bs9Nhfu4HMhoFiSZwpaUPqBpaLNrQ58NomVVNZvJmI9hb9a+QI9a/lrSM5mFsBVrtjWdo5rT0AKY4R9nlQCRyqLdjdPMjzIFohYLtDVE/j5vSKsdUOkByEAExDKNt+c3TJuRl/g8QAnulcHgC3yHalsqtN4+BYMB/jauJahSPpiZU9NLcFYFYTsUh3D6jXvr9CTN/kDe+jRYGlQCErEsOciis1USzPvi6zEn5wqn+wyXsr0CACP2TbFrEWJd2nxFtM1K4UHLySYFmP9frJZfVgV7bfvcBExB29mLgpJoG2ovrxJeJAxQ5n2aOyJIm/yYH1349QvjMAOHwQZOEpTIXWbSJjHWw=="
           },
           {
             "name": "CAPITULO 8",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1G15hgaHy5v/JE7roPlaxvguyqDzrtTs618heRwSodLw=="
+            "uri": "fean4eYQN66Bsrzf1wTxUesZ8BgT/MBTXJnEhyMoJnd8GmuQst8Vqi5e25HfnYLg5IuatmLOT36WJleVdOungWBIq6Txku10CDbmYNpHSToRZEtJf94og0jw4FsUtxb4+7o9el16TugvE6Iuf0KqfocRonxmJMWKyn6HB4W53qbHU6Jvmvehwp0GwiQfabnGAZWqQZopvcN8u+Hq6ICv77/lUHcxU7MdIsFpPo31wyxrwD8ho3GBYwln4gFha1RSzJ7qa40ppLrRWFKkVi2D/onLWSQDmegYirlAwkeOGeXK0d+31tv4sw4AxY2fFWWIBxELn+SDBYs6ixWanO3i9xrRyIXRKcnnpOwZIsByWVYER9Y3dHkEdpABAi9WSVgv8+QeSDXrWttfVMLbs6sSIw=="
           },
           {
             "name": "CAPITULO 9",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1G15hgaHy5v/JE7roPlaxv0hxA5q8Z/LDWvl2RpxP0ng=="
+            "uri": "DJwJVkInETFaoBr3A08gd4scT6xdNDh1lcNn8slje6Zm4dbd3m0vCIL/yg3DX1m8Y0gIl6CbWTMe03hiz/lTbZtZE7kT32TtaS0W6VHQzJycHRTYWwsmalQxp9W4pbURmoAM2cRsQYrUDZWz9JIQjYEkRZAVS8ZTsE50VXLeyDAK4+LbGD8EAyfXeMXK8JMFWEfaGCEYuHMiwQTn74utUNJVQVg0WhvaQ6QyXQdRmZtZTBU+juNwSr9VzoTdhlMSHQ344Id1bJrbM12D/0Hkn4f0nJz1zfmybNuNRWVDmbAlqQZ3ZBPRVojCcAkmC+qTRq3k559GAUfJFq3VP3BvDCxnPe92ihrzEMFUGR0hI44lxiO22gXhX+oQrpE2+ASdiRYeDLwwD9ZqZs3IeuaEXw=="
           },
           {
             "name": "CAPITULO 10",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3Ujwb2iWq7R3mP5nQy6NyA/OZ+UiONpRRP6tchPMkDBA=="
+            "uri": "dvAqIfX1Y+n19uYK7dLG6mffjijJF+YWlY4yjxrGbQ0MRdknl1W6XtiC1atdXhXhXxM1RMmYK1WcOhhZMWDG7mKyJlcY0Ilxz1kpxonJDMkx+ZH/ciZz8py6hz+ucKCrZmz8GeScZ6rdhblUmQZRcz3484tZNf7sAQktdi5zFLiLnxnZLgb9VLKskz5vraMwey5d9fAY2Ob1h1zU+JPy1Lw5W5ep935lbIDogmppIh51YWaaXoU0MZOm9y21HnqV+PiuBQXMg53shhCclvZ9vWsYRr4Nip7YcrjtoxBn60JIQvnRZVyadiqU3/G7HqCOxX/9QECOuhhfOny3ApA+bpPOcKYbqcGfY2YJfM4iDA59DvDddWf8nFfRATsnXoUJyOU5Pu5GOqlLkzBb8/6hug=="
           }
         ]
       },
@@ -7470,27 +7306,27 @@
         "temporada": [
           {
             "name": "EPISODIO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs3TWo7xhqlcNXkAqBSccd3+9WjJcRg0pE8K\nemGbJ0eY1g=="
+            "uri": "TbR9qt/VtH42BZWC0r9jXnEwX8q9JNNl6InKh8ONMrU02Yl6YkQVzbO/9Z9pJag9GeH8asFNGiFXdO6cVM/HXObo09Y72e0qanR510+wBj1+Kz+YtZ7BgQUk5CqZ6P/XH00R+OAxwiARffQhZ2y86oa6+3zE2dFcrPUmL2we8XvLjiEjQXCTW8nPbSfpjAUNQA+DvxYGWKqx01X9cY2PfKRtTDhZkXI4o8d6VVOgZpnwa7o38n0c0F8/KFMkfuP3k0eRW0W01bG2Yqbkm4/OXB0lNDiMS4Tlik3nfi1ZZRFV/0jncKVwjGSz1XA+kLXel9k2bieuHLGxeosNy8mst3hNdoM+vgOuWTPrsCypVggULebWtNoFJ7zUidICPfYSpi1WMQnf6xQL1/l5WWbS9Q=="
           },
           {
             "name": "EPISODIO 2",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs30eD9Y9wU0R1CSttlvs14cwf2akLM73DQF\nGT/eHVNq6Q=="
+            "uri": "NtGHyqJfF4iz3jZkfF06U1KZORIpVRW1CP9N3E7Bzje//gG80JjMAV/ekWk4qoNyw0yRohy/IVSa+dEzjLRwNHD9YyLtTkOWNgoAZfjmWivtyNWZLqq8BelOZ1JQL1YuNn4gVVUV6sD0AT3KZLnyDjVAG+z/vP56nqYpKNI7ZvNDVDnsoVl46msWblVEKv1zv4ysle3m9WsTOnlVl/GnXTKB6/uwFnB4p4QNJIyJGRXKytXyl13EGWvBymcGRDlIfPaRTdXvGr6jugdx9cob2q9Se8wQwBOJBkJ2EeNGTulCb/DQx/EJdvwGs7t/8h+q0/Emd7PIauYIu+VoMsNCyUYhVcdl7trtEJ5hRIkVG8CxuVCEaVe7hPs8ySzxB4ACA4B0Ww+2S6GSHZe4WNcJ0Q=="
           },
           {
             "name": "EPISODIO 3",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1hXAGy35L/7i4lznE1NyoBRyPy8FlLeKCe\nqoUKbDFejQ=="
+            "uri": "dvAqIfX1Y+n19uYK7dLG6mffjijJF+YWlY4yjxrGbQ0MRdknl1W6XtiC1atdXhXhXxM1RMmYK1WcOhhZMWDG7mKyJlcY0Ilxz1kpxonJDMkx+ZH/ciZz8py6hz+ucKCrZmz8GeScZ6rdhblUmQZRcz3484tZNf7sAQktdi5zFLiLnxnZLgb9VLKskz5vraMwey5d9fAY2Ob1h1zU+JPy1Lw5W5ep935lbIDogmppIh51YWaaXoU0MZOm9y21HnqV+PiuBQXMg53shhCclvZ9vWsYRr4Nip7YcrjtoxBn60IDRDaBhezAsWj7IhU08l3bZbE8MmSZk9M6ZYn17r9NEFhz5LU5SGIFchKS1cusahcRADS6MNRscFGH1hTal8SGKkxDqnROM3abYIYtuUUPyg=="
           },
           {
             "name": "EPISODIO 4",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1N2AG2ITe5gxhetii28sa/QoYNP1P6QFZP\nF29ydApKFQ=="
+            "uri": "0OpRl5W8am64X6Gjs75XNSzyk2iuJtb/7jIUF14dJAp07oe6bvwu35TBgR67KCzCiyv/Di2c3eWg5yZ6unv0NJj/dShT+c1SMw0exawxoF2/mtn6fwEadoPh9jsa4zSZAfwpI0fwb8HmaIlFyCA5CXhiORdG0Wp1vtJYpU4yh0L9Frzov3B3gmP1l6pQG7eeaN8udwxJf7FGK1wv61XLC99qHv6qLe3nDr+9D+3DFBmGg5dBVyCzWcaToqoA2jOVPcTtmWmQRFE7jl8XCARLLAu05yB27cKrCUCWhlJDjquIzj9jNxEvfQ5BA3umAei6yaIzy986rZL2+Tun2adi1Y/efg6CdFVis2sY+d9Ym8oHuxz3I6BnvusX2HiMA0an5kdn3t4/PJ6NG7fGAUb+Pg=="
           },
           {
             "name": "EPISODIO 5",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs1sZ0lCl9lIyVTpvEH8oD5v6mGVQI660Vwf\nkW2QgHjL8g=="
+            "uri": "o2WRxLrnqMMbQrkjP8+uqGJCPHeTmGkxt58RluMhSPR2flN1UzmaPHGujjkyFkjp53hPHR+JM1yp6YwdGiwqHi9kg9m7aBKNoTcCyfv8uhgOThRCmiNN+hN+A3wP20BYvTrh8XXAlp6SOhhcw+uveQ9QKQyk2/XzAeF92ZqFYL9yFtIxM7bVRaBDyS9X+dg5eXbJflAJtAhEeAWJ3WUCB1OveXlcWy/Kb9HZZuEech+LTXHSj9moGYtsmfYpKnY4eYv3TIS+oNIaCzynItxwOy0uyCcJL3eoMwezrfgrR9QGOdj2EuWz3RPu30/RYC8mUcrgARSzyXnskEr2UeNo3zNJHdDaTHZ4KwGoTrEIx+bbeEsofZnXuU9CDtdCinjDdKz7CWmhr/4K59nl3wvB3w=="
           },
           {
             "name": "EPISODIO 6",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs2pS1QjbvJI/ZAb+ETs5J6fCg/Vum0p2zt7\nqtE4+9MMFg=="
+            "uri": "qdX0pOcJK0rOaITsLG97uWJxGwV/8Kz1lrusBUTB0d7i0ETL30cr65zsyyq86/+IFF0shMak6hXiCX+wfuK1dszKI1adfNlGiM4tESVOONWwDuzcQR6xHXVriAPo6L0Ic81QBwBUZOpKxW+XlWHQcqEgkxEFm8nEnEwBOWwLvWJ5RLhdbof12RiFh8rayCeAdIE52BDK5Ax6XN6jllGhERy3pqcj8j7yF51d0HO1/QhUfx7hPh2bobzJKbiUvcnvXN4nuBk3U42nGymGl0ScpbnxDPdKUhW+8KfpiBtHRF8XYh6sW9YTQlIN0ZuOwCNgiINMgI/B/96eF9M6fN0TJDuX0G2izXrmNW5rW1M6WEF4B2QWIefGKe7yLkl4Jpq2Aehca2MLne3k/HGJiCKIdQ=="
           }
         ]
       },
@@ -14764,7 +14600,7 @@
         "temporada": [
           {
             "name": "CAPITULO 1",
-            "uri": "VdRCSbiowb5DC1/vTMTQfaMY09TclKOM164w+ExAcs39bnCtpeWmLwq2JlKWKbVniL1UoW8sJUUX\nCyx/P0F7zA=="
+            "uri": "VdRCSbiowb5DC1"
           },
           {
             "name": "CAPITULO 2",
@@ -36075,7 +35911,7 @@
       },
       {
         "icon": "https://1.bp.blogspot.com/-RbZKTGz8GZA/W-60HUMyQqI/AAAAAAAAGK8/8LyLoX728kMTUgUBx9zkWMCO7aKbAwElACEwYBhgL/s200/dragon%2Bball%2BZ%2Bdevuelveme%2Ba%2Bmi%2Bgohan%2Bpelicula%2Ben%2Blatino.jpg",
-        "name": " Devuelveme a Mi Gohan [DBZ 1989]",
+        "name": " Devuelveme a Mi Gohan [DBZ 1989]",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZnMhRyA1JtG9QsXgIOpAW3WjFedl9S8ZJfmsMtGtSnIoBfBb6LqVJqzVRfdx9O2pUA=="
       },
       {
@@ -36130,12 +35966,12 @@
       },
       {
         "icon": "https://2.bp.blogspot.com/-0B9QlSnMqZs/W-60LAocYkI/AAAAAAAAGKw/qouCiDM0MuopD4NuOO01dKw3KbmBIZv3gCEwYBhgL/s200/dragon%2Bball%2BZ%2Bel%2Brenacimineto%2Bde%2Bla%2Bfusion%2Bpelicula%2Ben%2Blatino.jpg",
-        "name": "La Fusion De Goku y  Vegeta [DBZ 1995]",
+        "name": "La Fusion De Goku y  Vegeta [DBZ 1995]",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZkatqRx74JqbWAF4RBHFnw6K2Od0oQuohRniFfWZNS0RoXuhHTlxFgykTsefdZhq/YG7gF2kuZJaHYoxtBlDjwU="
       },
       {
         "icon": "https://1.bp.blogspot.com/-9IS2JA2JHyI/W-60Dttvg7I/AAAAAAAAGKw/wBv8GafgdGguQwgYjRAvd5rX89zjIWiKwCEwYBhgL/s200/dragon%2Bball%2BZ%2Bel%2Bataque%2Bdel%2Bdragon%2Bpelicula%2Ben%2Blatino.jpg",
-        "name": " El Ataque Del Dragon [DBZ 1995]",
+        "name": " El Ataque Del Dragon [DBZ 1995]",
         "uri": "Fd7VYd+Xm/S6VMHJ32eqZkatqRx74JqbWAF4RBHFnw6K2Od0oQuohRniFfWZNS0RgDM/9NQMO372lQBgduuip838yaCdAmU4fspximTp8sc="
       },
       {
