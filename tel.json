@@ -1718,6 +1718,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.imgur.com/kqPLPen.png",
+        "name": "RTP",
+        "uri": "jmoMmIboKpLVBL27+mFxnJDkruhupqboHPWCjEKoaThrVN7N2SqslL5rfxL7DHpbGqpglr6os2nF6m7hISMwog=="
+      },
+      {
         "icon": "https://blog.flamingtext.com/blog/2022/07/22/flamingtext_com_1658507618_79272422.png",
         "name": "Classic",
         "uri": "6AmOPh0CoV0+uf2Fj0YUjY2MB0NFYi1gdbunVIqzP08AeB3abLQYdRRaAPdSbidDSsbKIj7Nejz/8iRW5ZiowQ=="
@@ -1741,11 +1746,6 @@
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCn858zu0TZwIKiBRFYI42DxHdKyDafEKBSg&usqp=CAU",
         "name": "Orbita canal 25",
         "uri": "LWCG8VnenWzSkwZITmRl68dOz4pzKAf9loOE2IJPPELhDVJSKDNupeok4yrTD7san2euAnLDp8obsenMuHHWnA=="
-      },
-      {
-        "icon": "https://www.m3u.cl/logo/471_Cine_Club.png",
-        "name": "Cine club",
-        "uri": "Yf0JJFhUSy1UE7PfxH7moxhIrpkz5mvUSEa9Inj3olO1mvHCLjTzfFPVm+GJ4YQbPZObDi3j9T+jlFTE64GbXA=="
       },
       {
         "icon": "https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_las_comedy.jpg",
@@ -3795,6 +3795,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://sincroguia-tv.expansion.com/uploads/images/t/e/l/televison-de-galicia-1.jpg",
+        "name": "Galicia TV",
+        "uri": "mq0MV1iSU3/MhTaNU6Nti6zdiqHGlWJhSvFEYr+2Ad5pjqaE/XW25te2tSzQx7J07ODoaDwcDcqemC/iLRZlkA=="
+      },
+      {
         "icon": "https://adma.tmsimg.com/assets/s67236_ll_h15_ab.png?w=360&h=270?w=100",
         "name": "STARZ CINEMA HD",
         "uri": "7fLreniMn5fwzmDDC4Vh/9eIMPP8v/2u+/s4gfa2FAtW6qDCAfqZzae17cmFVvTp1fBlGfAkf9UjGcFwAjuOJQ=="
@@ -4056,14 +4061,14 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://cdn.mitvstatic.com/channels/pe_unitel_m.png",
-        "name": "UNITEL TV",
-        "uri": "XrXhe+HZe/F970WBqsHQSOLjd6RB21c1nr7oPh3dBp3nu8dcSEmj8y1p8K7BNM4jb+3u3jTc6v0dqu2sk/Qo1w=="
+        "icon": "https://i.imgur.com/Xwbpj7i.jpg",
+        "name": "Ovacion",
+        "uri": "VwXjq1gPSjDP41YujNEnWTPVyfVKGTfgS8eZpVtRXbE3dkahz9suuJeCGjEAZqqqcGInGLpcFI1UpXLvPQSxePoblU4kiMs4K+1q+pT37JA="
       },
       {
-        "icon": "https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg",
-        "name": "HATUN TV",
-        "uri": "Juy9F/t7WswNELSt3eKzAeoh8oqyn0oEg3N+CG+g8PDmzHy5hBAXUkGvL6nLIyRT99szTT9nTujU3hus58Mgmg=="
+        "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/049c98cb65e2cb33606d01d8003f1750.webp",
+        "name": "Peru Channel",
+        "uri": "LHjA/JcJL34IALNHVzZ9/zsBYsevvBcgAH8R7rBDDLvUFfSyNXizYeX/KM84TbJv8jP80Fbpn3YDPAOqJbWQRQ=="
       },
       {
         "icon": "https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png",
@@ -4073,12 +4078,7 @@
       {
         "icon": "https://www.atv.pe/wp-content/uploads/2020/09/logo-atv-player.png",
         "name": "ATV",
-        "uri": "CFn1+WR7uESUiYZWcQWTIm6NXLYvQ1K7VoJasgREQ14Uvs+DYFa/zqfmdjDFstqesCoNvzMgd7dftURRKM2j9g=="
-      },
-      {
-        "icon": "https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png",
-        "name": "ATV+",
-        "uri": "CFn1+WR7uESUiYZWcQWTIm6NXLYvQ1K7VoJasgREQ17lUHLzQ+JEp4R+6PNK5W+IRN9Oep3j/RbySCswwK3sWg=="
+        "uri": "ky6+Vvnp85cGJKxwVDV06TYt472m6wX4UJGtLP1rRvZywzTV8HDSuyxXmNswV7bL"
       },
       {
         "icon": "https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png",
@@ -4096,11 +4096,6 @@
         "uri": "TaI80y5e+5LWYG4EdcJ8sCXkHmy0BL4hsEfA3ilbWR6gNhjiIBlbXkdSUTw+++6hCyHdK/lWpW5/Es7BJobyfcWy6Rr6j6KodUC6zy62lWQ="
       },
       {
-        "icon": "https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg",
-        "name": "CINE CLUB",
-        "uri": "Yf0JJFhUSy1UE7PfxH7moxhIrpkz5mvUSEa9Inj3olO1mvHCLjTzfFPVm+GJ4YQbPZObDi3j9T+jlFTE64GbXA=="
-      },
-      {
         "icon": "https://i.ibb.co/Wtr57WC/tvperu-digital.jpg",
         "name": "ATV",
         "uri": "CFn1+WR7uESUiYZWcQWTIm6NXLYvQ1K7VoJasgREQ16UCH5gLt2XzDiSKiey+Y1xoVOvnyDbRVYJCcfzVFp/Iw=="
@@ -4116,9 +4111,9 @@
         "uri": "yKU7mKLG58CyewwIxfVakQTzcTHp2kddN0xta+fXB8ZG02OqvbjqYIQzT08Ce6UhCt+RLez5uwo0AiVPZk2n1g=="
       },
       {
-        "icon": "https://www.ondadigital.pe/imgs/ondadigital.png",
-        "name": "Onda Digital",
-        "uri": "KvAOL4SnwIZJmSMEzA4foFzscu1PeuLE5hH4QHou/j9MBPtbLB7hZZBV1rc4/OvpWv/BlXO+bKul2wfwWwd51g=="
+        "icon": "https://i.imgur.com/oWya6SB.png",
+        "name": "Central TV",
+        "uri": "VwXjq1gPSjDP41YujNEnWTPVyfVKGTfgS8eZpVtRXbGtr7/meydwZZ3tOmAQM13LvDnahIt5YOObFqsRPdykYkTnud0TH+5MPQKHcT0DVlw="
       },
       {
         "icon": "https://ondadigital.pe/portal/wp-content/uploads/2017/11/LOGO-OGM-CON-FONDO-300x212.png",
@@ -4136,9 +4131,9 @@
         "uri": "VwXjq1gPSjDP41YujNEnWTPVyfVKGTfgS8eZpVtRXbGtr7/meydwZZ3tOmAQM13LvDnahIt5YOObFqsRPdykYkTnud0TH+5MPQKHcT0DVlw="
       },
       {
-        "icon": "https://yt3.ggpht.com/ytc/AKedOLSPbPu8XNeOUO99izIjquRlF3PE7LduSD4vEhDQ=s900-c-k-c0x00ffffff-no-rj",
-        "name": "Intuitiva TV",
-        "uri": "APdyGVbueEHsTCmM2A6ZKTx0C2qhtPP7YbAJ1A6GEfL6+YMVVL907We/Il5V6l65jd6Ck+Xc/3brjedY8hRH3Q=="
+        "icon": "https://cdn-radiotime-logos.tunein.com/s86045d.png",
+        "name": "Turbo Mix TV",
+        "uri": "N3NxMvfcEj2atuyg6Q2JSo0bHEous22DEExkQfdNM+7zr8CjfJ7CKFQKKyumzSzNBK7vOoUAQL5sWS5aqredxBIsgmWxheXNsncF/BCgVQjarlNjqRYZEPwsljxyLjgD"
       },
       {
         "icon": "https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg",
@@ -4161,11 +4156,6 @@
         "uri": "ABynxaLD/o4P3f+AOFz9dR8rkz8obhunFzqweyKkVvcaNVqVxT/+QodvWj1rI3yJYIJssh4oYg69CQtPeqOIig=="
       },
       {
-        "icon": "https://s-tg.americatv.com.pe/f/desktop/img/tvgo-image.jpg",
-        "name": "TVGO América",
-        "uri": "mq0MV1iSU3/MhTaNU6Nti6zdiqHGlWJhSvFEYr+2Ad5pjqaE/XW25te2tSzQx7J07ODoaDwcDcqemC/iLRZlkA=="
-      },
-      {
         "icon": "https://www.radiosperuanas.pe/wp-content/uploads/2017/07/radio-ovacion.png",
         "name": "Ovacion TV",
         "uri": "VwXjq1gPSjDP41YujNEnWTPVyfVKGTfgS8eZpVtRXbE3dkahz9suuJeCGjEAZqqqcGInGLpcFI1UpXLvPQSxePoblU4kiMs4K+1q+pT37JA="
@@ -4181,9 +4171,9 @@
         "uri": "Grkv+PEc8LMTbZ1Xu2HYJqWaK/iPJhf/a2MJPud68yhm/hvDOXTG3ih31yVdxK4aJFxRTvlfjFdcSXfbGbO2bg=="
       },
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png",
-        "name": "ATV + Noticias",
-        "uri": "U1aw2D/lLwReus5bLP0uRWgR2f0hbJJGihc4e/NDWZBywUGgNFVxdx5je2MlKk5IY2RCLSk5LXE7eA83GWCHMcxOMLYR+Y9YlyHNROQiq+c="
+        "icon": "https://yt3.googleusercontent.com/XxFCEKJpP90EUgqQW19erbUETa-hnSSb_DylrwL1V4h-GetI0epjeCSVhTvrN0wrmfPv0xgG7A=s900-c-k-c0x00ffffff-no-rj",
+        "name": "BHTV",
+        "uri": "VwXjq1gPSjDP41YujNEnWTPVyfVKGTfgS8eZpVtRXbGn8ViASsAWrt7FL7Pdx4VDZlY2i/txYJz9OBh45zYtm9mb6a3F+JWEeNTqmm/gusg="
       },
       {
         "icon": "https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png",
@@ -4196,29 +4186,29 @@
         "uri": "yF0EdVd+88DHMuZ8sYWbp98nithK/8ra19AEXtGHTOU82Mo/F3h/c4c0bAk9dDdF7TY5+1Wl5kycfCtxbDWVG3vxMXTAsiJsim+vPCqusyYC6RycXlxax3YAbst09tfk"
       },
       {
-        "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/descarga.jpeg",
-        "name": "Bella TV",
-        "uri": "kauYPVOnRFmrRlYNiq+LL+7nDzjlWhoSRbZqG1BqRHSoG48ow1ISaipT1ADMsP7Z"
+        "icon": "https://play-lh.googleusercontent.com/XP3gJmZRtEottKu8KD9mm3MqUehsvtGFmK5NAyH7F3Nek4LI0P8jy7rFVJPBUfwAeh8",
+        "name": "agro tv",
+        "uri": "Rgk3+YJLbavlHak7C7CgbBppxMUHFFzI6VjziVxRiWSIvzMG5DUUEgXWBf6gZEPob7cSf6m6tRf4/Ck1W7WuzA=="
       },
       {
-        "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/descarga-1.jpeg",
-        "name": "Mas Cumbia TV",
-        "uri": "iQ1uEu14yadCpfjWdwP6I1di38t9atp3DuPsQg5Yk57Nrk/TFKoRO9UvPn26JQvg9jInOK+0JZ9FNx8YILyEbQqk0ts14Y5eBuSEWNkVV1o="
+        "icon": "https://play-lh.googleusercontent.com/SAVo9ybIYflReko01D6j6hJr2WgW0rkiIEhUAFmGQnh_ji91LJSxptZo_Y3ieUNM=w240-h480-rw",
+        "name": "Rutas del peru",
+        "uri": "zF18gnWBhNV+TxG7uaspaptOQknQ6gFIczZ1J8Katl2AVBC+3Tnv7M2hniaBfRHH4oWod/BxckFOtFIgRfqayQ=="
       },
       {
-        "icon": "https://bestcableperu.com.pe/img/canales/97.jpg",
-        "name": "Best Cable Music",
-        "uri": "iQ1uEu14yadCpfjWdwP6Ixg3t32NJ0VSwNTtTIhAOCGNbsVSVpYG2e4+5bYpAZmGN0UCwh7rH5sGbYcoSl4gkA=="
+        "icon": "https://play-lh.googleusercontent.com/OZ9MD7oFxWMQbYI_cNu_-JSFF3eXhPw1Pi04ghJThhsDO2EXP9cDPqS_8VuVSPQD2w",
+        "name": "asiritv",
+        "uri": "htM/fOP9vPwAA4ER4TBsQB1lX16D0fB4AcWaQ9QzDkun1Db27hoMUPUY8axK3oNV"
       },
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
-        "name": "Best Cable TV",
-        "uri": "iQ1uEu14yadCpfjWdwP6I9AhMVjjHfuMsnP3K54yauJn7z/yEQ9fe2a29z/rgmCBPJHFE5guwZQYC0+etDe78w=="
+        "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d2dd665cad0adf6b5b30cb30b70cb79f.webp",
+        "name": "Antare",
+        "uri": "kGW/JXUaWanSloCoCVlD6B5Wu/xgEgl2/ILBw9rWxN/PlbT2JCe1A8t/G+e0g3JF0p4UQ80qtBtjRPexBCV4HxRp74jr8YqTHdgsd/xSeR79PAhDTODKFsQlO41f9kJw"
       },
       {
-        "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/bestcable.jpg",
-        "name": "Best Cable Sport",
-        "uri": "iQ1uEu14yadCpfjWdwP6I+wQ4+FNLC2Go3Pq28heqsl9urU5cgBAJA0nfmgvuR58rq7ZUhhlwi6dPWh2WFEpNQ=="
+        "icon": "https://image.winudf.com/v2/image1/eHR2aGQuamFlbnBlcnVfaWNvbl8xNjAyMDU5NjY0XzA1OQ/icon.png?w=184&fakeurl=1",
+        "name": "XTV",
+        "uri": "XrXhe+HZe/F970WBqsHQSP0CGc00RLsXw9LHCsMdM7R7pZeOq+4UIB9IaaX3apqD8umUqjfo78OAJ6Cj2LOz7g=="
       },
       {
         "icon": "https://www.coolstreaming.us/img/ch/image87580671255.jpg",
@@ -4226,9 +4216,9 @@
         "uri": "CDTDa1wj7pAITKbpAU/TgXhVTLgNUfqAwsrzpMsOptX2nQvP/4DSbNPdQypzo2cIHEOJrum6QCPiU4e9y1yjjQ=="
       },
       {
-        "icon": "https://evelynsac.com/img/logo_01.png",
-        "name": "Canal Evelyn TV",
-        "uri": "FYOTQlS4rKagjhCsKqvTNlgyUhrzmxE5mCcXHHSh2vhUpdgO477GtR6JCloC2nXTu4vxv7QAGuq+vWosRo1bwg=="
+        "icon": "https://pbs.twimg.com/profile_images/1049853039622934528/hh8xl0hr_400x400.jpg",
+        "name": "Genios TV",
+        "uri": "CcVOGL/vthCTEyYOk6OA405UGf3/i9zT4C7xEUuZhIWj61wzRjYGgWxKZrH9aiPpaRAhaBOCDWKSYhkR/WzA5A=="
       },
       {
         "icon": "https://tv.wurtlitzer.info/imagenes/canales/internacional/centraltvperu.png",
@@ -4246,9 +4236,9 @@
         "uri": "vaYuAGqCDYYGrIREWrpEOvxUrhxeHJtOG2fZ4/ECMShdMmbqG/gipj3BNIEGBv8o3moVpG8oYR70JB8kuyqTog=="
       },
       {
-        "icon": "https://televisatvdepaga.com/wp-content/uploads/2017/10/contacto-deportivo.png",
-        "name": "Contacto Deportivo",
-        "uri": "CcVOGL/vthCTEyYOk6OA47ggbnzErRsJBWa9kfwghaQ7ZKDGhDiBr5sIOo/HdLb09Vnh2fnBK/FnrDZWOMO/3w=="
+        "icon": "https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg",
+        "name": "Contacto TV",
+        "uri": "CcVOGL/vthCTEyYOk6OA47ggbnzErRsJBWa9kfwghaQ+BGV6tFYTTCFSTppGQmhu0w5bQXETb1iC3WeBzq/qaw=="
       },
       {
         "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/images.jpeg",
@@ -4256,19 +4246,19 @@
         "uri": "CcVOGL/vthCTEyYOk6OA47ggbnzErRsJBWa9kfwghaTZ2A/YJN6kkr6MSMzmAFme3IGJO9wvBLWPFVLOX3RS+g=="
       },
       {
-        "icon": "https://cdn6.f-cdn.com/contestentries/14901/3095158/513c4ed721832_thumb900.jpg",
-        "name": "Creo TV",
-        "uri": "FYOTQlS4rKagjhCsKqvTNlgyUhrzmxE5mCcXHHSh2viZhP3y6ZThDUMZ4TTDDodNacWUh0ctbox0FBrJPZjqKQ=="
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXxZpc9SZp_mxVWd2x1uWeaXOFErB_goS5oHchX8qZEJN5LnOEx-YgVGdcM2gmpmlnmCQ&usqp=CAU",
+        "name": "Clip TV",
+        "uri": "N3NxMvfcEj2atuyg6Q2JSo0bHEous22DEExkQfdNM+47tNJmtfIuQ74i2h424VBVehw0dHE/l8E1z9H3VUDcag=="
       },
       {
-        "icon": "https://videos.cvmtv.com/images/logo/logo.png",
-        "name": "CVM TV",
-        "uri": "TaI80y5e+5LWYG4EdcJ8sCXkHmy0BL4hsEfA3ilbWR43CJdeGjFXV2qk/AXL9ofeLjKBV2zWE2m6VlN19BvkIg=="
+        "icon": "https://play-lh.googleusercontent.com/b9Iz3mCb1WEvTlsZNSoVdHwZOzvgRKQ8qGWUTDSEixk4BdBdVKeVTRJ9tY7KsVvJ_Ns",
+        "name": "Canal 8 ",
+        "uri": "CDTDa1wj7pAITKbpAU/TgXhVTLgNUfqAwsrzpMsOptX2nQvP/4DSbNPdQypzo2cIHEOJrum6QCPiU4e9y1yjjQ=="
       },
       {
-        "icon": "https://images-na.ssl-images-amazon.com/images/I/81QcZEH5m-L.png",
-        "name": "Delta TV",
-        "uri": "NXADbfOSDp3c49R2q+bZFL6eE3OlcPqX6P2wlUykO9BSgYuK97X1/DVR860ytfKSAarRbRr3t9Ss5rzYuyGL5w=="
+        "icon": "https://pbs.twimg.com/profile_images/1504167222486437892/Zrdtq83C_400x400.jpg",
+        "name": "CNC DIGITAL",
+        "uri": "lqteSjAVj4bmWc0fH8TbT5iHD57t3iPsDGzTsHQivFvo+mlz0E4GttOCjVVjzkYBmwP4IGwi80diaSC9o9MBHQ=="
       },
       {
         "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/unnamed.png",
@@ -4276,9 +4266,9 @@
         "uri": "kauYPVOnRFmrRlYNiq+LLweDKmy0ryn1sCI6QM7NZPa03jT5a1HMTSsLush/dLvt"
       },
       {
-        "icon": "https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png",
-        "name": "Exitosa TV",
-        "uri": "JtywYKRm4hmlK3J3XFFSWOTk4M3kz5najFBwtZgcdC/sAZvWRYeMaVhkQNL1XDwm"
+        "icon": "https://www.foromedios.com/uploads/monthly_2020_04/descarga.jpg.e0098791d278b834d9ebfc84e80f242b.jpg",
+        "name": "La Luz TV",
+        "uri": "5TGmLQisVDKXh/wh6iFDYQysYYZ6l7D61myUwrPG2hLJUzA3b4Ik5FIO0xZ44S1iDUVW1F6/6HJ4xJWijIrPfXF4kHkJG7Uoy5d3fd+k+iZobz6u6wjrNXJo4XLfgaF6PupRCrgwA2ZUnDwkmEcpYg=="
       },
       {
         "icon": "https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg",
