@@ -4,6 +4,16 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/rivkOuD.png",
+        "name": "Shazam! (2023)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWYKNC+L5le5VyXd3S5F5xmVSwry1O/ee9M1D8pAeNzNOjVqe80MnWuSojBBFvnaNOLuvvNIWFn7Msu2y+aMXGMg="
+      },
+      {
+        "icon": "https://i.imgur.com/uhbqwYq.png",
+        "name": "Al borde de la extincion (2023)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWVZi2TFbGLpE6RNi540FtbnuiZO1SwlrNGyB/9i0IgG8/GgDHpy870b5n9f5gqvLueFuS2mkEyx+JLKAGjhW43Y="
+      },
+      {
         "icon": "http://tuvideo.tv/poster/w200/6389741680358219i.jpg",
         "name": "Criminales a la vista 2 (2023)",
         "uri": "aqjOEhWtVS9CYLQkJfIDWbRK3D7+FdwF6LGyYBIw2LFgdNxy2V6PdpL7gFvydlqtYwy54qaMK2jVDQXByKQsKg=="
@@ -19,8 +29,13 @@
         "uri": "1fG706VrTQVlz5APnBoNMg4qoQhfKTNv5xK9oQg726IFuACS5qGvBBu6iJcg+DftMx0ARi3neitUJ/lZWSa2zYGSx7S6LXBewoVoRQbWFNrQ27rYWQ2Agk5ArVzWSYGNVyWVv2HOFcv7FyvZxImIk2KEk7c8dohketUNQl2qMm2SaC+1Iw4a4WsToa3ZRbrt"
       },
       {
+        "icon": "https://i.imgur.com/dNh32Z9.png",
+        "name": "La ballena (2023) OP1",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWdVc1bQUlkOYTL8MAqeIagU7g2SLHqlNCFsO5/A49ZRVYLNYtxluZwPsQaTnsRMiRw=="
+      },
+      {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Y8BqSDlZtVC5LRUHuZdV5Ph_1SDzQq7oknC_w7BYaM8mkod8",
-        "name": "La ballena (2022)",
+        "name": "La ballena (2023) OP2",
         "uri": "fKPyOHieGDgUHTYVfG83neMTC5c5RB3cCUTHTG93DUVrHCjwrWG5SZVKPCyz5CdoW/tSCv2HnANuOehIl1FJB9QoMOPmedFxfWsELFpR9UJxpSExbit0vT6pad1bxR5gvEOb8BCV6xAvMWXlAhK2LF7sxaPyWt9tsPj4fI3ZRZhsO7GlDwr6efxV6h0QFQub8IJB/ChKU3DanQJd6AVipdgOnlVwqNW6f5M/rImrcmd0di5UkRSQByKV5OLA/rvHucQKUoxxWIb+WLEjQOqOUqjfvz8drjqh8vOySnSvqk3+qjSySV30j5hnUfbCTnBQhddg6kTUy6RfG1F6XjlPN+EalEc+vl2llU0vp2eF8AXSd8qseoZ4tu/Uy1mp/HfrimXz0M+ybnnI1RWEr1f82w=="
       },
       {
