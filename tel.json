@@ -916,6 +916,20 @@
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfDFGH/vCdeIYRo9wwr/2pu"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/espn3.png",
+        "name": "ESPN 4 HD",
+        "drm_scheme": "clearkey",
+        "uri": "RqzGza3cdWWVuznlVDOVCamm6mVox+dBd825mBFEnY5mAsgkekatauZ9GCWYXXik",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pcie/g3oky2KhJzg2GZsGav"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/espn3.png",
+        "name": "ESPN 4 HD OP2",
+        "drm_scheme": "clearkey",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkCxcR/QLikMvwUwXrMy+vQvGFBmRiJHJsFfFeHtX3ETg==",
+        "drm_license_url": "WUpbdVOTsSN8/X2tueHZ2fPKg0rqmYT4GW5+c/vfcW8V35C5MwLx3rQfTAyvzFE0mvglUc3bOMp104uvXamGkpeMxOMfg/AZAWMC06+pGOBteZYQJatcy5AZBKpUrtIg071xUhWktMczHKH332k4sbX8v2nK2ESwF073ZAzYZIU="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/espnextra.png",
         "name": "ESPN EXTRA",
         "drm_scheme": "clearkey",
@@ -1043,15 +1057,15 @@
         "icon": "https://static.flow.com.ar/images/663/CH_LOGO/350/500/0/0/927952730784.png",
         "name": "AMERICA SPORTS",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xcTWXAfBSSv9LnZ2U5TJi1DYzNYJEtxK5CoXTTRqQsRotKLE5TklFNtDky7HVgWIi6tLN4Ocy+oUVjhf4JlUBN",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UuSurtmTog/r4mAAxMnP3L3geXOEqO5cN2HnfnTDBp8nQ=="
+        "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKn1B8JGHAuOR3ClKPUURq8CXcG0gyOdgEIm10f27ZaPZ2KhDLaOvMTnRo2DcRZ8HV+3Fdl/pgeq72j0vNmYLJjCyTUfyH0GAh4NwSnWDwa1sg==",
+        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/J11Gl8otg+YL9/TxI31jXPavJw8hdyi0ZVs4OWlSBJmpgZwMgrdljktySIYbl4kiBsRpvOQcRqgLMcvaDROC2T9gVqLjJJQKhSwrhM6J2fPA=="
       },
       {
         "icon": "https://static.flow.com.ar/images/7840/CH_LOGO/350/500/0/0/25734747073582.png",
         "name": "PX SPORTS",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zE4EaiDK/FCkoiOPmEHZ2xXebjHze/O8xLm+BkFd8Bh66bJXmgceIejd+oeBB8N7+rRLR2TgXY6pbmKW+gAUYH",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UuOeJyXOaFe2UucqOACNCWe+yBQjCIhAmUb/UGwMP70NQ=="
+        "uri": "OQKTx45lim57jVVun5F1/pfV9yIF00o7USTpI7v1Ykz3jNIfprit7WQQ43nOqDdSzNjy3p+GH8oS+hV62KDi0/7aWwT044giIijIA/EsdshdXzLNCNTgJr59c8LETEAT",
+        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/J8ZkxSIeVKqqUSKXIBpl86+mLUE987pTRYeN//FIhhMv5z8Xb/AQrrKwlvgoJnJ1wmn2XK7cZ/H34Ni3xCGec9rY7zCoAFqsc2mGehV58OnA=="
       },
       {
         "icon": "https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA",
@@ -2250,6 +2264,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://a.jsrdn.com/hls/23076/911-encore/logo_20220727_201317_68.png",
+        "name": "911 ENCORE",
+        "uri": "D3F2HQ1N2VU6tQXB9YAE9ll1MGOp4PTPiPkGgIv9NoTZgdGNidjrvV86EtAuQqyz3gFYg/zjKfkOAQK70ehM8B4PTJUnn1MY46OzM16We/RrbdjqDqofgvaaQ7nnHC8XcOgYj8dcBuvoDp/8MIQbBwB61yRILoUefHucu2MkFxo="
+      },
+      {
         "icon": "https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png",
         "name": "Canal 1 Costa Rica",
         "uri": "AYkFWlnzeXlJv1IN2998tYblbdj+54XNhI5yjRr2HbrsZIVgiGyjQ7CN7PfHHl7FyH7LlFNbZengut0Xo5qh3PcUOdwUkm7YTD9iYZM2kxE="
@@ -2705,13 +2724,6 @@
         "icon": "https://static.dplay.tech/imagenes/kanal_d_drama.jpg",
         "name": "KANAL D DRAMA",
         "uri": "cq4f/qVow19eC0EeD4e5F/EfOcQ9YVQozH3a9SyeemA="
-      },
-      {
-        "icon": "https://static.dplay.tech/imagenes/smithsonianchannel.png",
-        "name": "Smithsonian Channel",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "c8heTzL0MsIBH2tFLsP+G4a8zwwfY5Vxz+LV3VvyuY7OCypucqI+qDu3DQVrZp8QWKXA8l7nCrnhcHLBpSPblduRBfw0BByC35ps5gMbqGrvo0xhAORF68dT679oIvcqPK1zph9rfNK4rkfKVGN42E57r7s+3xOHJfs3YpsDLlo="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/chestrellas.png",
@@ -5080,11 +5092,6 @@
     "mode": true,
     "lista": [
       {
-        "icon": "https://www.gratistodo.com/wp-content/uploads/2022/02/El-Pajaro-Loco.jpg",
-        "name": "EL PAJARO LOCO",
-        "uri": "6AmOPh0CoV0+uf2Fj0YUjY2MB0NFYi1gdbunVIqzP0+BIKKOK5SITdL2PWbBJyZ7W1Psv11PrBfe7iOztyi4MQ=="
-      },
-      {
         "icon": "https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png",
         "name": "TOM Y JERRY",
         "uri": "AOLqpr59v0CwTaJSWHJQ/L/A4APz4+nn1jpbAVV2+tT+hbY5P8nJ07VVKrxM971ykkKGqSo1+04/quMa6tOCrYq3kPhiOncliv8U1WIi6cM="
@@ -5128,16 +5135,6 @@
         "icon": "https://i.imgur.com/kR6z9AK.jpg",
         "name": "PLANETA JUNIOR TV",
         "uri": "IFK3YguMxYIi7zIczAf7XvfeSYkEkbO2Vh/veAwD14opKbkvfUe/e9T5X7OxZua2Iy3uroNOuX5PtN+BgUup+j9eflkW4n5VlhS1OtS/ayM="
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/neongenesisevangelio.jpg",
-        "name": "Neon Genesis Evangelion",
-        "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVDw45xoBepPEEG7nmZ5Jc9H"
-      },
-      {
-        "icon": "https://i.imgur.com/eq9q8KW.png",
-        "name": "Locomotion",
-        "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVCPmZGxafWaRX2wFAuFY9wc"
       },
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWlucDDh23U9bcvUUhCewnBR2Ds7fRGm9ht380M17exaDGgXL2hsyLeJGtSFQonS7mta8&usqp=CAU",
