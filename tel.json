@@ -916,14 +916,7 @@
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfDFGH/vCdeIYRo9wwr/2pu"
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/espn3.png",
-        "name": "ESPN 4 HD",
-        "drm_scheme": "clearkey",
-        "uri": "RqzGza3cdWWVuznlVDOVCamm6mVox+dBd825mBFEnY5mAsgkekatauZ9GCWYXXik",
-        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pcie/g3oky2KhJzg2GZsGav"
-      },
-      {
-        "icon": "https://static.dplay.tech/imagenes/espn3.png",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
         "name": "ESPN 4 HD OP2",
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkCxcR/QLikMvwUwXrMy+vQvGFBmRiJHJsFfFeHtX3ETg==",
