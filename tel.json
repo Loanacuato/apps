@@ -175,6 +175,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://latinartv.com/sites/default/files/logos/gentv.jpg",
+        "name": "GENTV",
+        "uri": "t59uELZdayTJoFF5qUPb5DJUyr75prNNlKp3o5hklsf+N6r7JBFlQuYCdtdj112IdaBI/4SaN+CO4RLgC5LcBQ=="
+      },
+      {
         "icon": "https://pbs.twimg.com/profile_images/1532029271610376193/CouxLUR6_400x400.jpg",
         "name": "MULTIVISION CABLE",
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
@@ -203,7 +208,7 @@
       },
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS83DxTeDk-EBOBxZxK-5fsIPFi02hm0Q7yAsg5D2nrL-41dsa4_Q7cx63eoFyQ4oz8Jkk&usqp=CAU",
-        "name": "Canal 10 Entre Rio",
+        "name": "Canal 10 Rio Ngero",
         "uri": "iSA4veUQW4CwXkL/4O/E49tFZb50EA7WUNoMdmhNEx5Q+TL+2+FpSL1VUt+CxBJ1gC1IUlwOdm0hsw0QJxs9G3aq+ogwjJslEIgf6MQvPo4="
       },
       {
@@ -327,14 +332,14 @@
         "uri": "eaw87ntVDVFR7f+hnJqHlNL4eylgNtY4iBU4ZvpaDdCtwD1rWGwFfhClOepQ4pnX"
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/telefetucuman.png",
-        "name": "TELEFE TUCUMAN",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BWxPE2Q2pVkHtvUW35zC0x2S2RbghTo_P8S4vnsvT-_XksO2UzmizLKIajvuy6Fff5E&usqp=CAU",
+        "name": "El 8 TUCUMAN",
         "drm_scheme": "clearkey",
         "uri": "OQKTx45lim57jVVun5F1/pfV9yIF00o7USTpI7v1Ykz3jNIfprit7WQQ43nOqDdSjE1UGB/0VOk2iKQ6RXeH3UlcDnpt4BCuhbAmCrnafDIlaPjC8RUHWe8Bc0iOm8tn6HzgZMds3Urvl/hm1w26ng==",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pd5jD3RYU7IqMiXV6XgjkIP"
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/canal10tucuman.png",
+        "icon": "https://i.imgur.com/3REFoxx.png",
         "name": "CANAL 10 TUCUMAN",
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKnMA7M9t7JPulocxcBcNniN+IoP8wYesMYNp58C4IGIT0EOQfWAAFx7aFMXo0xXiohXhNDv8H5uFA0HVq5nfF+t",
@@ -1863,6 +1868,11 @@
       },
       {
         "icon": "https://numerocero.es/wp-content/uploads/2019/04/Plataformas-de-pago-online.jpg",
+        "name": "WOW TV op2",
+        "uri": "LlsZhh6ypEKtcjKeaW73cAbfsRyJmwxjfbB5j46Ea8L7N1UlibJDRXtrDRK8nz8BE48anpa43/lFWXl7ys18UJ5zqrlBBKicRF5U7GLZsTI="
+      },
+      {
+        "icon": "https://numerocero.es/wp-content/uploads/2019/04/Plataformas-de-pago-online.jpg",
         "name": "RAKUTEN",
         "uri": "aZQatXcqeqy3aTjo1Zk0aKOrBUBHnnzr03HC8dcAqBW3qLSExMALqiLjj/j6h9HSAP06U7//5Rifqy32TVcjXw=="
       }
@@ -2273,6 +2283,11 @@
     "name": "VARIOS CANALES OPCIONALES",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://i.imgur.com/rBj8sj0.png",
+        "name": "BH TV",
+        "uri": "kGW/JXUaWanSloCoCVlD6B5Wu/xgEgl2/ILBw9rWxN+St1PaYuBYUkZTFexJ06veuiBkf7jh4cAiWtFZF15L8yZLzKLBH/N5NPruTfc1nPQ="
+      },
       {
         "icon": "https://a.jsrdn.com/hls/23076/911-encore/logo_20220727_201317_68.png",
         "name": "911 ENCORE",
@@ -2909,6 +2924,21 @@
     "name": "MUSICA",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/korean-pop-shirt-kpop-music-bubble-tea-gift-manuel-pichler.jpg",
+        "name": "K-POP",
+        "uri": "y80pPsOjF6YfNxa++8z3SNVAv4OHbwpyq72I/xYsJYJ5/70AfGx4s1pnzpmMKkbAUB4SliobW2rAA0cLwrPIbg=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a9/Radio_m2o_-_Logo_2019.svg.png/revision/latest/scale-to-width-down/300?cb=20190815183222",
+        "name": "RADIO m2o",
+        "uri": "IhAMjQeimUY9tuwTZoZPTAF64icLidz4HuQduaF8LTS6I0MLTQQMZsUvm6wWDtvwNK3zVqFNxjSTH4H8rNgSkLoH6ClfE4cTTpKVNebyYzyWf4Cp1ccNjyVdFfMNPq0d"
+      },
+      {
+        "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e2a0874ed649b3ec721875b1892310d2.webp",
+        "name": "AMORDISCO",
+        "uri": "3/pBFDScYFfD9RqA+3grOENHqJH/SKYtsh/ulCSVU/D1ifK7/4o9D/Ft6tQwp78BnPMOpsF78CBfgxRGnNE1GA=="
+      },
       {
         "icon": "https://static.dplay.tech/imagenes/quiero.png",
         "name": "QUIERO TV",
@@ -3575,16 +3605,16 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://forum.panasef.com/wp-content/uploads/2018/12/Icono-11.png",
-        "name": "EVENTOS",
-        "uri": "Qnv01TvBIRj3sLS5nrblNVF1d60TF+kxVRaXwrtcVTiAymPP6OdqgfktbZd67CjgjIz105wWHGrU5S3/+O/xF7wQ52nojsjh+1Zhkf4JOSM="
-      },
-      {
         "icon": "https://static.dplay.tech/imagenes/trecepy.png",
         "name": "TRECE",
         "drm_scheme": "clearkey",
         "uri": "KCvM+OPynjG3DbIxB3RnTic+8eMI2ZFUaCt5mPLr2gt/fTZSg47bqyK/tVWIJ1eND1xz6aqMEvTYBsmNEYcp/g==",
         "drm_license_url": "S8a3fIQaxSe3oDIb5UXReb0L+vmBiz/uTT7ScJ4ur7Ahdf4DZkfLRtG0FuQqL8xe"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/trecepy.png",
+        "name": "TRECE op2",
+        "uri": "hTgSbAI89/cR6qMaKhqBq2kfb88JuJA2h7wJQC1cvZe8vo83OWJIGr51H7JMZtSi"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
@@ -3594,6 +3624,11 @@
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwwc0F37MhGbnCOemDI6JJPpAZrj+yK59k5hqwopqM5dVcHg42gwnzGMkd9Asa7AnUvry2MstV6xeeKC+UohqgFQEEwvP9k56c7jmvoVIsr6X"
       },
       {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
+        "name": "TELEFUTURO OP2",
+        "uri": "u/EJUT1xCG8GYBBjmhCyiEwmv/tq71zipRYara3UfH5TwsXmKlydfA+WnVplR9aUBjtE7pRcUAZApawAtPrTB8cxJDlfWYtQE34GC1UWQmcYUSuujFhridH23MQBGnnm"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/unicanalpy.png",
         "name": "UNICANAL",
         "drm_scheme": "clearkey",
@@ -3601,11 +3636,21 @@
         "drm_license_url": "S8a3fIQaxSe3oDIb5UXReRcpQPX8mmKL2ypK/maxPld5NrJXnH8olCI4iSnExXb0"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/unicanalpy.png",
+        "name": "UNICANAL op2",
+        "uri": "qIQId8gVR8giCRUu7F7uFXfo5RZ6CuUkIjZTNv1Ckn2JYho8bbkReoXXq0na5AL7"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/abctv.png",
         "name": "ABC TV",
         "drm_scheme": "clearkey",
         "uri": "KCvM+OPynjG3DbIxB3RnTqhmgy/ifcmMKVuFQ4EYMIKvl0YJcRavtvkE2nyE3PWNBUCNLBrVDsu/wlxpU8+iRcBODwfH+qkYrhCa4G+x4Uo=",
         "drm_license_url": "S8a3fIQaxSe3oDIb5UXReQjZ1AURMpxh7sobQzMTKkxkSb+DtaEkABWhiKsE9ZCb"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/abctv.png",
+        "name": "ABC TV OP2",
+        "uri": "Zrb8bfww2Y8xw4KV2sUD1xGin/3vJfatk6eUwrO1VW4kfugKsv8hHFbQE/4vXs8D7tc2i6kF5San2u81+5STdc2cj9yHL0Ecya0rgRQ9QscjKIvXAdkZ+EnxKQEp06OWv8E/0xaOIw0NYUzsENpg/5BmraG//03gnsNRGNPz5MD4IW6DO168OriDe+m4VygQ"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/npy.png",
@@ -3627,6 +3672,11 @@
         "drm_scheme": "clearkey",
         "uri": "KCvM+OPynjG3DbIxB3RnTqhqBaelIznqU0f5KZYo7tA99mjN8AkVbOUek1fJaDBUHZjI66l7nwxOIn3a7Z6uYCcOHH7tzkMq2XMqwau5has=",
         "drm_license_url": "S8a3fIQaxSe3oDIb5UXReeW50tA6HnrMtEu6oyYV9H0W+4zEj3AazDgHW7WOwp7f"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/latele.png",
+        "name": "LA TELE OP2",
+        "uri": "u/EJUT1xCG8GYBBjmhCyiEwmv/tq71zipRYara3UfH6MCE62bM4+eX3ZynL8re4KGy/xfRSDbIDhY5fPdladIGqfzfN4tdmpSV9+xeq338yR2wa5SQsmItQuKXSu8Que"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/c9n.png",
@@ -3699,9 +3749,44 @@
         "drm_license_url": "S8a3fIQaxSe3oDIb5UXReXNChYLrRhQG4uXPAUp55asaDCC3DL6H349eFECEu34j"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/megatv.png",
+        "name": "MEGA TV OP2",
+        "uri": "eaYUC8k3df7YlLTGYC48IDkOJkVuACO4skKHOT6Kt850zWsO/KJlGVsNdG5OsBwcmshSyPDPpEVxzUu6OIcnqbTfLNi8zdWSJ0Ly0HxDR/R53umepb+jK/o8tKmfZ9168Go1FM+4YM7S5yf26YmTmg=="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/motorsur.jpg",
         "name": "MOTOR SUR TV",
         "uri": "76Wkrp7B5W7fEMAwxf6Dg32akMhEAgWtxQ0AUNP1OXuK/c7bKrhzdAn5olPQrQDFrzGFyujeVZ/Y+vldtdL8dg=="
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1222519766193262597/UZsxHbU4_400x400.png",
+        "name": "Red Chaqueña PY",
+        "uri": "BKYc2tJbu1SKox2ZaydglY/KrMQqKmADnCYdpFBXYUODj0f/LHWpgVGnreg37mR4yOMdI4b/Rvr1vlFOnONyr1XeRUq8/yNoGzDT78d2Wxk="
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/8bT94BCwNVt4afKewETM8h9vAuON3uE4SLthaeNLniiYhxeIjzUT7VsBBTGjimDx1GM=s256-rw",
+        "name": "Farra Play",
+        "uri": "SU/u30PNIhx1jx4NSSpPNmNqYAuNaxf3w0bJMESz24Q6jcTqybmpLivnsUUcSReo"
+      },
+      {
+        "icon": "https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/b2/34/b234f8f2-8d3c-4081-b134-b8373a12799c.jpg",
+        "name": "Venus media",
+        "uri": "bZ3sTq/x+2R70VM0ZzxACFNffawDf1kbKra6Rrfj/5F1ZyCXZ6uvoon8KBFAV3Va7Z4FMwBEDen8wRZ6Bnm+n+aaJ7f0vDqZRCiwmUXtyVw="
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/GKj8jW44eq__taywN5N3m6B1KYuQ2bznKzsbcad-PtT2fh8W0D61iEvZyG2VeRP8nw",
+        "name": "Mi TV",
+        "uri": "Gy7KP+arjZbiOjVwp2wathHVfSSHonqWQYfYgv1Mcmdb6DHXliUJabU3IpzEzg6lNcWHFriQcYywrkSLt8ephg=="
+      },
+      {
+        "icon": "https://iptv.com.py/wp-content/uploads/2021/06/edulogo3-300x204.png",
+        "name": "Educanal",
+        "uri": "BKYc2tJbu1SKox2ZaydglY/KrMQqKmADnCYdpFBXYUPWPR1jDpz05pqSUPYqQuE5fg1+H3PP3MvRHSpcQDHDYL4L2rflLFVfKlk2E6SFx+8="
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/flTzzWcJZF-aOhG0XSb07a1G8BhUzDQCobdDaYwAfn7fGPjUPzWlmcI2I7Lj_fXoug=w240-h480-rw",
+        "name": "Somos del Este",
+        "uri": "BKYc2tJbu1SKox2ZaydglY/KrMQqKmADnCYdpFBXYUPLGAKvR/dcVibE/Z9pI6j9gveseLneHtjm8zZSJybRRbmR+PbELVh6nl1MR/QjLgE="
       }
     ]
   },
