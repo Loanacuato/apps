@@ -4,6 +4,11 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/d/d2/Malcolm_X_DVD.jpg/revision/latest/scale-to-width-down/350?cb=20220918130703&path-prefix=es",
+        "name": "Malcon X (1992)",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtlslcVrKqVYF1KyHS0czI4k4t+s0U5VsGmMTBt8RwVX04RmDq5sYdwJkzoQgVhAMHp0epy1uumisM1HCA677Pgc="
+      },
+      {
         "icon": "https://imgmedia.larepublica.pe/640x795/larepublica/migration/images/NWHA3HHUJVERJJR3I6IP3JZQGY.webp",
         "name": "John wick 4 (2023)",
         "uri": "FJBxDQxMoEhA4k/uJsHVtsANzw7R5Wsv0Do7D4rfvCNFkjVGm+l1HY3owyvBZZ0nyb0DY7Olavm1q+mx0s1XTkRyHvEPvWlGTaOuuabnaEs="
@@ -586,6 +591,52 @@
         ]
       },
       {
+        "name": "The Terror",
+        "icon": "https://i.imgur.com/uvyDxSu.png",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3ABzMoLN9RsE2FjmRpdjm69w=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3ArDQSxlxGG0vT5I65IDIZOw=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3AW45AxcSzpgmXxeFe6s7qVg=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3AuHPMFbNZhMsaailaB8K6SQ=="
+          },
+          {
+            "name": "Capitulo 5 SUB",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3AWEA04aprBEoqLaPuoTabfw=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3AmQibVrdzf+z4PoV0t1JIkQ=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3AWFRkGY4D8VEIaoR5CbR1Lw=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3AgKmI7G0jeunJP1sa815pzw=="
+          },
+          {
+            "name": "Capitulo 9",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3AcmuNRndorFB+SA04BgWTkw=="
+          },
+          {
+            "name": "Capitulo 10",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3AdVYhuJknV+KUSVUIDkVoJg=="
+          }
+        ]
+      },
+      {
         "name": "Carnival Rom TEMP 1",
         "icon": "https://i.imgur.com/Emqp4jT.jpg",
         "temporada": [
@@ -756,6 +807,14 @@
           {
             "name": "Capitulo. 6",
             "uri": "aqjOEhWtVS9CYLQkJfIDWfYmHtsNYWncmSxuI9mMf041mMi0WtGnjZYvagV4cPUJBWsWW4ydDre0LT8Hq28rBg=="
+          },
+          {
+            "name": "Capitulo. 7",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfYmHtsNYWncmSxuI9mMf07PQQlKEZK4HidWm4FXytcqIzjIIhfXf5qrKWOvbIY5Bw=="
+          },
+          {
+            "name": "Capitulo. 8",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfYmHtsNYWncmSxuI9mMf06+TmpQQc+x+9FZIK5Iif6U1oTluMXKmr5/b2FzSoOPeQ=="
           }
         ]
       },
@@ -11141,6 +11200,116 @@
     "name": "Anime Series\n7 Series",
     "mode": true,
     "lista": [
+      {
+        "name": "temporada 1 de Demon Slayer",
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/b/b2/LCDZ_Poster.png/revision/latest?cb=20220410222701&path-prefix=es",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcPGP0E6uTc5mgcHZfQI7NHSzvpNUHM2i+n+LD2KBqSTQ=="
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfX4Gg1BQszmJp47vehvW5NB4V0qHtBDBmaHwlcoLvSww=="
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfkaFIoWBBg/bu+C7gmFb8NMBSqOhYa92B5un0Ahi0FAg=="
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIdqUOrneh3YqVtSGXk70hpdCepCGA+v7ulMnEAqpSfZew=="
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcV26GUpV2jTOF3ekFBlGguY0IE9v4vuSLq8QB01Y0C9A=="
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcswet/L0Od+22T1glZlqNZo9gzhq6Qrrx/6lXCDzP9+Q=="
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIdGWQ5eBiH3BrQFrb2z536cY+lG6ONd2g9vz2TLyWxilg=="
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIdgPapVP/EVn9crTAdl8kjLU9UEbHyLevA7PH/3lm3GAA=="
+          },
+          {
+            "name": "CAPITULO 9",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIeRoZWpLQIu/LQqg4lvZAaFC8zdnyKfSADRq9kl2jyFRg=="
+          },
+          {
+            "name": "CAPITULO 10",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfE6H+EyNzrTAV2Iystk1DNq3m4MTKU2yumhz0tAKweDQ=="
+          },
+          {
+            "name": "CAPITULO 11",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcxXk4JeuFxCA44oFULjRClE42z+ZCx32n7LL7vkSX4Bg=="
+          },
+          {
+            "name": "CAPITULO 12",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIczCmm/225DGGFqMdZazmHOY/LFHMmk8HYTBX4pHyzLvA=="
+          },
+          {
+            "name": "CAPITULO 13",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfwrv+NmqoSLHQN5SiP8DbJG1XixCjdhcMdzfOzx5m2bA=="
+          },
+          {
+            "name": "CAPITULO 14",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIdvNvCYTvWQzTnzSc9mUm8cZUveq/fvmAvrR2G6eQdh+A=="
+          },
+          {
+            "name": "CAPITULO 15",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIeK3jIehKe1p1SlJQ9upucOBVh8vIPok1g7L5N1sBbvfA=="
+          },
+          {
+            "name": "CAPITULO 16",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfbAjMsCu3gKd/m7acs/sBgVrHi7wjVzuhKqW5YGVXJ6w=="
+          },
+          {
+            "name": "CAPITULO 17",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIeHDWdcNDJ7pFeW1pBAb/nlkN/ZN6u9FjfkyNyKQhzoLw=="
+          },
+          {
+            "name": "CAPITULO 18",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIf8lrxdnl83V9bSv86qo5IekV0FG+boQHDQvl1xwFD2dw=="
+          },
+          {
+            "name": "CAPITULO 19",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIeKYPNDsiuF0OE8pUBWk/ftz4RfpS2kdn4ocKVczdLgEg=="
+          },
+          {
+            "name": "CAPITULO 20",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfCZclOzoy3j1hGLS0DfOyiYMEjoxPHsZywWe8xsOLk2g=="
+          },
+          {
+            "name": "CAPITULO 21",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfdIrCYFkwIm2t+61Az3B6dD/Dx8sssMenP33kd+7Mfkg=="
+          },
+          {
+            "name": "CAPITULO 22",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfuH0eZX1/gd2Pa71cbCQMfJNw624vnSNbY+gMJmJikcg=="
+          },
+          {
+            "name": "CAPITULO 23",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcj+3G2P3vjPbPHOsoh+aZRwrtVdxwWDzM3H4WlV5zV1w=="
+          },
+          {
+            "name": "CAPITULO 24",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIe6gajqu7hIB1BcZJM3oSWwd8fUps5nH7+amiwUho8P1g=="
+          },
+          {
+            "name": "CAPITULO 25",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfP5sEzYXpyHPiVrUTFuLm4lZb/YoUEOS3hb/Hlv+rNYA=="
+          },
+          {
+            "name": "CAPITULO 26",
+            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcGwvyCloPv5rYYebWoaB8BXUsfZj4aC+9t/I+l+iCv+A=="
+          }
+        ]
+      },
       {
         "name": "Caballero del Zodiaco",
         "icon": "https://static.wikia.nocookie.net/doblaje/images/b/b2/LCDZ_Poster.png/revision/latest?cb=20220410222701&path-prefix=es",
