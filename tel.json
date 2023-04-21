@@ -202,6 +202,11 @@
         "uri": "EYpNpenfUqLGCjFM3M/KeOHnMXaPDGz5Ut0Sk9grzLdZwdZPEZIUhsVBAK83qWacCiB0BqV9bn3KIYAcct/Z5vF9ngGEeZ2rvbovte/DpWI="
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/fenixtv.jpeg",
+        "name": "FENIX LA RIOJA",
+        "uri": "iSA4veUQW4CwXkL/4O/E49tFZb50EA7WUNoMdmhNEx5Q+TL+2+FpSL1VUt+CxBJ1gC1IUlwOdm0hsw0QJxs9G3aq+ogwjJslEIgf6MQvPo4="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/canal13larioja.jpg",
         "name": "CANAL 13 LA RIOJA",
         "uri": "UNQg5R6SlSLHrj34FEU+kRZHhvAnOrkJcacLJjESkKLmTO1DLaGNlPkvdcwEIODO"
@@ -225,6 +230,11 @@
         "icon": "https://static.dplay.tech/imagenes/canalochosanjuan.png",
         "name": "Canal 8 San Juan",
         "uri": "ODEQvHMVwmTqbdEI6aJKF/JAMpWKKrtDAmDocLEIKfa1wpl9pxGHCR5gxfoL1cv81LTnzjpkuTTc2UV3Z9hCZ/f+B/b4qukkHQL0K/d6b4M="
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/canalochosanjuan.png",
+        "name": "Canal 8 San Juan OP2",
+        "uri": "eaw87ntVDVFR7f+hnJqHlB5MdfKq6c7IURnspjuv46El6SV3aYb82k1impqg1RQ5"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/albardontv.png",
@@ -314,7 +324,7 @@
       {
         "icon": "https://static.dplay.tech/imagenes/americatucuman.png",
         "name": "AMERICA TUCUMAN",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OAHI+pFxCrYUTAQqV0fBABoTja76gicYy+yfhqQVgfLNq1CUYe/hHUxamWLA8HMhRA=="
+        "uri": "eaw87ntVDVFR7f+hnJqHlNL4eylgNtY4iBU4ZvpaDdCtwD1rWGwFfhClOepQ4pnX"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/telefetucuman.png",
@@ -345,7 +355,7 @@
       {
         "icon": "https://static.dplay.tech/imagenes/sietemendoza.jpg",
         "name": "Canal 7 Mendoza",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OAT3EibWVPsFyyr+G+Wf0qarJdjek4FEX8upuxaXxff2"
+        "uri": "eaw87ntVDVFR7f+hnJqHlDFwetpBA4wgaHpf3dpPAYFpfx3Xkn+WUr4XIKd32G2f"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/canal4jujuy.png",
@@ -686,6 +696,18 @@
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smnpU6dL0qRT3eJDdHUPPvq+cAYMjamNt4BUSrVnZZnxWA==",
         "drm_scheme": "clearkey",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfE9FbSLrK7fx6GwzLPskjh"
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg",
+        "name": "Tigo sport",
+        "uri": "l5J+KyHNJkR80SNWEKwR26CtaQx+28PXrvwHAUplwbsRfda0leCLovC8Xjl6ys9W9Qvs4rwZ7j+mU8dWSaMzQ+k3Ny9rPJhOdiWFRBlsGBU="
+      },
+      {
+        "icon": "https://seeklogo.com/images/S/serie-del-caribe-logo-1792D5E374-seeklogo.com.jpg",
+        "name": "Tigo sport",
+        "uri": "hs3dtdtVpX4bycgt64ciVoPc/70bqP0Xb0u+5m1jO/Pf+R3CZxqD+7rMZQIlexnt",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "WUpbdVOTsSN8/X2tueHZ2bbrgl0sxTFbvuwXU5gQeJUyPfkd2+Vhptrc2T4JObMvwChf0aMlp0Szoah+AzZaxxpXzYrsu99mIJDwGqeR07mrpXW+TGw8rzt5b4BxhFX4a5qneWGpPZkoRXz4UB7EvNAWSYAlXGY9yOd88JA4ZqQ="
       },
       {
         "icon": "https://cdfsj.net/wp-content/uploads/2021/11/slider_1.png",
@@ -5237,7 +5259,7 @@
       {
         "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-70x70.png",
         "name": "Pelismania",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OBGULkvI9ApJ3qvsfEtSx8wrzB+z3l/IgwwXnmgRViJf"
+        "uri": "eaw87ntVDVFR7f+hnJqHlC1YSOKYAoX07CSXr7Ek8pk="
       },
       {
         "icon": "http://api.argentinatv.live/logos/naruto.png",
@@ -5373,26 +5395,19 @@
         "drm_license_url": "uul9vIHWBe1PiT0s02oYtVBxPO7YorLUS/Z1ZQubnouFh/2L3v6P2Sl+mn0FcvCgwuQTR+bNQ8Ysx/XyxcPvQfnnU4El598ExTRfcQIBR6XpYEOL3fuaH8dYcO3fN1kQSVw2LryP1iWKO7O4PbMRnA=="
       },
       {
-        "icon": "https://i.imgur.com/OmA17NY.jpg",
-        "name": "OP2",
-        "uri": "web:tCCYHaXdfeE2UXGmWEN+ONHtZNgjcfivRD/F2vT6TXZV0YyMMh3zSnBUkveBAE7D",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6Dj9GS7gQKG/f80+HW0LU/dTJvUXVzQWXdRFw0/La1pcMPHnKrXcqf/Nwep/nVeO72CxAWa0jaPkdudD1jJAb6Zm7Mad80PTA/Hh9OStjLqh1guv70Yzc5aOkwr8Op64zwDZBL4MU6ZwRmBdTolAqFQpoY2Y/FP9n2/wlfwXBlH"
-      },
-      {
-        "icon": "https://i.imgur.com/OmA17NY.jpg",
-        "name": "OP3",
-        "uri": "web:tCCYHaXdfeE2UXGmWEN+ONHtZNgjcfivRD/F2vT6TXZV0YyMMh3zSnBUkveBAE7D",
-        "drm_license_url": "uul9vIHWBe1PiT0s02oYtXXnKdeN2n60gobcqU4aDHhEBoGsuaB1K2ur5tIRtsLBtTyjr2TRr8OAFmPlm9lod0thLN1prZ9pxE4hhj2/sB2lDZS+w7iOFv/SNj2JSXNxKfB30DOaPIPvGtFlNBMtfrnzmLV35vYX6O/ZL3aWznoDwpUo5NJV8mZnOQ/tRdOm"
-      },
-      {
         "icon": "https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png3",
         "name": "PRUEBA",
         "uri": "JIB4gpA2GP7vD0NnVcq2PFh/xA6+Mm9v1FLgOROdddGz2PnL4Y6YcxaiPnNAbJK8"
       },
       {
         "icon": "https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png3",
-        "name": "PRUEBA 2",
-        "uri": "iSA4veUQW4CwXkL/4O/E49tFZb50EA7WUNoMdmhNEx5Q+TL+2+FpSL1VUt+CxBJ1gC1IUlwOdm0hsw0QJxs9G3aq+ogwjJslEIgf6MQvPo4="
+        "name": "PRUEBA 0",
+        "uri": "4AlxCH6CfoLV1lZDAUGjPlq3EKKcSeiwAFTx1gIJwwg="
+      },
+      {
+        "icon": "https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png3",
+        "name": "PRUENA 1",
+        "uri": "web:4AlxCH6CfoLV1lZDAUGjPlq3EKKcSeiwAFTx1gIJwwg="
       }
     ]
   }
