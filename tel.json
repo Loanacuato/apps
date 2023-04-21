@@ -202,8 +202,8 @@
         "uri": "EYpNpenfUqLGCjFM3M/KeOHnMXaPDGz5Ut0Sk9grzLdZwdZPEZIUhsVBAK83qWacCiB0BqV9bn3KIYAcct/Z5vF9ngGEeZ2rvbovte/DpWI="
       },
       {
-        "icon": "https://static.dplay.tech/imagenes/fenixtv.jpeg",
-        "name": "FENIX LA RIOJA",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS83DxTeDk-EBOBxZxK-5fsIPFi02hm0Q7yAsg5D2nrL-41dsa4_Q7cx63eoFyQ4oz8Jkk&usqp=CAU",
+        "name": "Canal 10 Entre Rio",
         "uri": "iSA4veUQW4CwXkL/4O/E49tFZb50EA7WUNoMdmhNEx5Q+TL+2+FpSL1VUt+CxBJ1gC1IUlwOdm0hsw0QJxs9G3aq+ogwjJslEIgf6MQvPo4="
       },
       {
@@ -698,18 +698,6 @@
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfE9FbSLrK7fx6GwzLPskjh"
       },
       {
-        "icon": "https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg",
-        "name": "Tigo sport",
-        "uri": "l5J+KyHNJkR80SNWEKwR26CtaQx+28PXrvwHAUplwbsRfda0leCLovC8Xjl6ys9W9Qvs4rwZ7j+mU8dWSaMzQ+k3Ny9rPJhOdiWFRBlsGBU="
-      },
-      {
-        "icon": "https://seeklogo.com/images/S/serie-del-caribe-logo-1792D5E374-seeklogo.com.jpg",
-        "name": "Tigo sport",
-        "uri": "hs3dtdtVpX4bycgt64ciVoPc/70bqP0Xb0u+5m1jO/Pf+R3CZxqD+7rMZQIlexnt",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "WUpbdVOTsSN8/X2tueHZ2bbrgl0sxTFbvuwXU5gQeJUyPfkd2+Vhptrc2T4JObMvwChf0aMlp0Szoah+AzZaxxpXzYrsu99mIJDwGqeR07mrpXW+TGw8rzt5b4BxhFX4a5qneWGpPZkoRXz4UB7EvNAWSYAlXGY9yOd88JA4ZqQ="
-      },
-      {
         "icon": "https://cdfsj.net/wp-content/uploads/2021/11/slider_1.png",
         "name": "Evento",
         "uri": "CTCBGoHCSMv/Wvq7k0Ug0HqeQitFL25jiDPcdjgsce/eID83EagH5gvDuNV+e48eWcmh9xCTzakl7JcoENQnCZ/TFpvM9OYCfMULb73IbHY="
@@ -718,11 +706,6 @@
         "icon": "https://cdfsj.net/wp-content/uploads/2021/11/slider_1.png",
         "name": "Evento 1",
         "uri": "tUJY21IyYazQI2cUOrQtCjFONhuENi9wgQiCm+kW/s5F+ug1vs4VX9kcJJqGQc28"
-      },
-      {
-        "icon": "https://cdfsj.net/wp-content/uploads/2021/11/slider_1.png",
-        "name": "Evento 3",
-        "uri": "miaMDz7/ll2+nLDSVKL7B7HpteuKLKnwY9wBX2lmM6i+i6csCkvh2wy5utDtpUutOJ3kkwY/5YdlgtfMThDzgF7o6t7sFmSzgZZ77JInON7QH8pxU4ACkiBtBihVDUaCHeH27+6JxaNGywWYaoD4t0I8Z96Two0bLnXSHzLxEs9To3WVzqk+9+NNZ4ciZoKFJFgLKsaGXOdhkwqG4ueNvYG+mISVS5rRslEBtjn5BlooO8aDGZGSYPncuUkHbShiV46CylCxwU+uRFgFCDAj2qkrl0Za6j/DjWdwGtlmTo5AfmIxECC5MB6qz3mxu77tJkhbnt12mc+Rnzrc+xd4+gKeRdftTbVrbPwR6u2XjDGNEHV2zO8v1V6eecAG3Dw303srXPhh9c4Ob0FwwStAk6YwFC+ujNEXjSuZO9BABGcPL5PHKIKII3YpwVS+2JlB+O2xBTSyRuWqf3HUD7BR9/xLmJ7IcaoxklXOvkfXMicl1k8E4M1uv27MVjgNvL+4H9Apw69/nWhsX76yerd8Pg8V8nh+qs302rBlBE311I9UR17sF2JtL95nNljzBmm7joMjdhU335KjAz2AYWWJ1coExANV6rMH7x2ZavSTmlY="
       },
       {
         "icon": "https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png",
@@ -735,6 +718,18 @@
         "drm_scheme": "clearkey",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkSJC+frttzQQobh7Zygv4AmKPeyeVdi+KsrKrWmpR6/A==",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwzqQZ/8q2jUo8lMDSuJq1GhLEIQZpe9ngQelCvgib0F9Pk1+4cnliOtG9yUxLmtQqof2/kPntayws5vHFRwOzLu1pigRNVObOQL9ZEZWnwbk"
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg",
+        "name": "Tigo sport",
+        "uri": "l5J+KyHNJkR80SNWEKwR26CtaQx+28PXrvwHAUplwbsRfda0leCLovC8Xjl6ys9W9Qvs4rwZ7j+mU8dWSaMzQ+k3Ny9rPJhOdiWFRBlsGBU="
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg",
+        "name": "Tigo sport",
+        "uri": "hs3dtdtVpX4bycgt64ciVoPc/70bqP0Xb0u+5m1jO/Pf+R3CZxqD+7rMZQIlexnt",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "WUpbdVOTsSN8/X2tueHZ2bbrgl0sxTFbvuwXU5gQeJUyPfkd2+Vhptrc2T4JObMvwChf0aMlp0Szoah+AzZaxxpXzYrsu99mIJDwGqeR07mrpXW+TGw8rzt5b4BxhFX4a5qneWGpPZkoRXz4UB7EvNAWSYAlXGY9yOd88JA4ZqQ="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv1.png",
@@ -3184,67 +3179,6 @@
         "icon": "https://play-lh.googleusercontent.com/Azb89BRQCdmLurNDNTtbBgQlyGGIviikGMG32No4hFVpYXltXd-BVJtqHXQ6IZgrAQ",
         "name": "SOLO BAILALO",
         "uri": "6AmOPh0CoV0+uf2Fj0YUjY2MB0NFYi1gdbunVIqzP0+tpEMptdRy8nPzl5q7L0vVAuKSLQKQ9vfWLwkfIMh4hw=="
-      }
-    ]
-  },
-  {
-    "name": "CONCIERTO",
-    "mode": false,
-    "lista": [
-      {
-        "icon": "https://m.media-amazon.com/images/M/MV5BOTdkNTU1NWUtMTMxZS00MTRjLWI2ODMtN2Y0YzljNTc4ZDUwXkEyXkFqcGdeQXVyNjY1OTM5NjU@._V1_FMjpg_UX1000_.jpg",
-        "name": "Anathema- Universal (2013)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4UH0saevoLadkNCM8TZfUVldK4c3gs2Iyfo8YxWxW70UH8a7vOXytyigm+dNlf/Bkg=="
-      },
-      {
-        "icon": "https://m.media-amazon.com/images/M/MV5BMzkyOTM2NTA2NV5BMl5BanBnXkFtZTcwMDg1OTc3MQ@@._V1_FMjpg_UX1000_.jpg",
-        "name": "3 Doors Down- Houston (2004)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4SVO5A0px82VdO9MJc2Yw4xwa1LI6EgHd0Cp84IU+ghy4e3C+K9wrnslctFvlVDE7EC+ddbARmze0i0c2n6DBKZzrvZNQHFknMBSlKEnDN1nFFzKYknQWYFcV3UplajnHg=="
-      },
-      {
-        "icon": "https://m.media-amazon.com/images/M/MV5BMTI1NjAxODA1OF5BMl5BanBnXkFtZTYwOTM0OTg4._V1_.jpg",
-        "name": "38 Special- Sturgis (1999)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4XDIyceohmq0wJdR1jK9WkhUr65gRa9vXeg/uwk+wbTV6QDLlrEBfhWXPcLy5wdx034AgJHYhSG8ojjAbY8Ec6g="
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/en/3/32/AC-DC_-_Live_At_Donington.jpg",
-        "name": "ACDC- Donington (1991)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4eDVPrg+IGQvBsc8srcRTH32KrxtHEuwMN3BgpMLjUQfEcivaTot5mPou5tJnnOb1Lebidoy8GqLgXA0qzECchM="
-      },
-      {
-        "icon": "https://pbs.twimg.com/media/E0kSIhEX0AIqbAj.jpg",
-        "name": "ACDC- River Plate (2011)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4c9B436Aa3phpRwFvPJWBD1+JN0P00sHXeQBWRURtehvH+QWhmEPQ5Q9d2zNc52aCcNwUx+neNhPd9OeyePag80="
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/en/8/86/Adele_Live_At_The_Royal_Albert_Hall_Cover.jpg",
-        "name": "Adele- Royal Albert Hall (2011)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4divHjG3NA9gA0jQqTtgOdh+zcZyPQykPPFDRoMm35DTfSYftwpyK9gOfWyOpMKqpUoCTWyT04b4tXZlpli2AsFU1lmiebecjlFZt1NY62aK"
-      },
-      {
-        "icon": "https://m.media-amazon.com/images/M/MV5BMjczMzMyNjcyMF5BMl5BanBnXkFtZTgwMTU1MTA2OTE@._V1_.jpg",
-        "name": "Aerosmith- Donington (2014)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4ZI0wn7c6hMRvvrXZH8/5E3r4nBqo5u5z1VjdvkKwXQHvFyl4G7cqi+Nu9rIHwRSgjfp1dXYIXkrf9V2u0xVWsg="
-      },
-      {
-        "icon": "https://d1k9c1xvvzuzs4.cloudfront.net/wa-data/public/shop/products/66/41/114166/images/83064/50F2EB.970.jpg",
-        "name": "Alejandro Sanz- Paraiso (2010)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4RADHfvpLZ9YqoBdLTUVwIoHu/411w3XJae67R3iuJ3+KEkbcqRi2GmyJaCqvklDJZHNNCdfJjVO8+PM+fidk0kHCfP1USwQlD1MLcbFqBmAviLCY6xe2Rv5pxVVwq2zXA=="
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/en/c/c0/Amy_Winehouse_-_I_Told_You_I_Was_Trouble_Live_in_London.png",
-        "name": "Amy Winehouse- Londres (2007)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4SnIcTlSDJVV3KA4IxTsjN1W9acujfpyaZOl2aLV9sU+G2yTrDxYpZCfaiXgftaeBXuwB0IiuFrJVP9fFZQ/NamSXuA2ICbLgfAZpRsaZfQjvHGvPD62bsqqaysYj4psOood1Z4UHsc2HEZbm+J5gZ0="
-      },
-      {
-        "icon": "https://m.media-amazon.com/images/M/MV5BN2EzYTk2YjktZWMxMC00NGIwLWEzMTMtNTc2NWVjOTQ4ZTY2XkEyXkFqcGdeQXVyNTcyNTg3Nzc@._V1_QL75_UY281_CR46,0,190,281_.jpg",
-        "name": "Amy Winehouse- Glastonbury (2007)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4SnIcTlSDJVV3KA4IxTsjN3W8wFF78EZHQ2wXMNupYHl4UJlXlntR03aK/Yluamr2B9H8tWu90bruGemV5vNCs+L38Ah0C8ZHhRRASbWF4cx"
-      },
-      {
-        "icon": "https://m.media-amazon.com/images/I/71QkIBfByvL._AC_UF894,1000_QL80_.jpg",
-        "name": "Alice in chains- New York (1996)",
-        "uri": "QRLOUxifGhpOOBBfph9hk85d1RGT/00SL6hKuHF00usSg9R8e33W/hDMAnBn0CnTBi8WG23vWfjU0JUHy2Lw4XZs/5nsZyipvX03xM04DyIRZo6MJXhdp7ahUpad3XcSYf/CW9keq6gylpeg5d997NOY6DrNBLSc4jkqouB7/0gBAIj4wvgTW4IENJFBiKxJ"
       }
     ]
   },
