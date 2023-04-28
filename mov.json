@@ -4,6 +4,26 @@
     "mode": true,
     "lista": [
       {
+        "name": "Quasi (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mpiOgZL3rkKPHLvEZv1jm8aJm6l.jpg",
+        "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkQ6V/dHJ5EHDhTSYtBwI/or2g77Ksl8XgUvnZVZ8b+48TwTpfFAVtYqudpLVVYft+1TdwoyMSKHnXAT03ePHKiw=="
+      },
+      {
+        "name": "The Trade (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXvGdQrEqBtZ5nS4rRBssWZZI4v.jpg",
+        "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkkBEum4+V4CE7BgQLlv38fzQWciVqRRY4zbcGAATddCkzgZ/nsYxzpHsrjqUtj70u02ivFiSsKnEpjJxQKa330g=="
+      },
+      {
+        "icon": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/6LY7NTWMFJHFPJ5LJMYPNAF2IE.jpg",
+        "name": "Power Ranger (2023)",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFU15aQJBQQhJlI3nPkeaZViUu8j4+kAAJQpS6U3pdLwsNP0BSw7jnRvoGPCXDkwDMg=="
+      },
+      {
+        "name": "Power Rangers: Ayer, hoy y siempre (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qj1NrdMSm2xinqchBDD23U83vj8.jpg",
+        "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkibON9+PzgEJDO5ptIxqiHzHUfKceOWL0JlwXuAyTDnSDy7DbWq46GAhN6IIDa/8Ww03K4Z5rbPKE0T5a8krZIw=="
+      },
+      {
         "icon": "https://static.wikia.nocookie.net/doblaje/images/d/d2/Malcolm_X_DVD.jpg/revision/latest/scale-to-width-down/350?cb=20220918130703&path-prefix=es",
         "name": "Malcon X (1992)",
         "uri": "FJBxDQxMoEhA4k/uJsHVtlslcVrKqVYF1KyHS0czI4k4t+s0U5VsGmMTBt8RwVX04RmDq5sYdwJkzoQgVhAMHp0epy1uumisM1HCA677Pgc="
@@ -12394,6 +12414,31 @@
     "name": "Anime Peliculas\n10 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "name": "The Girl from the Other Side (2022",
+        "icon": "https://m.media-amazon.com/images/M/MV5BOWEzMmUwNWUtZDc2OC00NGYwLThhMDAtODMzZGYxNjZlMzFkXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFQ/46G6O2IxJEJWb63bXkJuFl49fZ/h76ESbV+zzK2WvqluTArzpgcrN7iJGZdTv797HNpI9y0ckBfmYdczIwTg="
+      },
+      {
+        "name": "Mobile Suit Gundam Hathaway (2021)",
+        "icon": "https://static.wikia.nocookie.net/gundam/images/6/65/Gundam_Hathaway_Poster_2.jpg/revision/latest?cb=20201203063848&path-prefix=es",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFWUk6kLm3WjEYWUWj1IZdqalLpDs26KDaohOonLWtP93"
+      },
+      {
+        "name": "Demon Slayer (2019)",
+        "icon": "https://i.imgur.com/MEFBG8c.png",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWBCzEf/7E4tLQ4g4wp+2iEWxFVTTbtxcnTJkCbUQvABjw=="
+      },
+      {
+        "name": "Demon Slayer (2019)",
+        "icon": "https://i.imgur.com/MEFBG8c.png",
+        "uri": "MjG3Yt3vALhxCxaflmhAeMKEKKR+fmAsP7aiufEbA20pdAkM1hk3wlDB1257vVE2HhkbrsbbURhEf1wbrFl3eNDQdEnVVos5eXrx5CPrnj2rKuPO5G6sSYI6Xstc6gtH3GB2btaJQmOnq1BZt3z6ZZ0mwMJSOG2gI5aR6VUzlGg="
+      },
+      {
+        "name": "DS Rumbo a la Aldea de los Herreros (2023)",
+        "icon": "https://static.esplay.one/movie/cover/original/rzAShiFrU6tSSr9gLD5AxKKwtOo.webp",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWC4dPiIZP/0sHxFLB4dubPKngyphUzdVz8+d4v33Lr97Q=="
+      },
       {
         "name": "DS Rumbo a la Aldea de los Herreros (2023)",
         "icon": "https://static.esplay.one/movie/cover/original/rzAShiFrU6tSSr9gLD5AxKKwtOo.webp",
