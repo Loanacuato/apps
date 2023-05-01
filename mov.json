@@ -1,41 +1,41 @@
 [
   {
-    "name": "AGREGADO RECIENTE\n14 Peliculas",
+    "name": "AGREGADO RECIENTE\n38 Peliculas",
     "mode": true,
     "lista": [
       {
         "name": "SCREAN VI(2023)",
-        "ico": "https://i.imgur.com/ZrzaiJm.png",
+        "icon": "https://i.imgur.com/ZrzaiJm.png",
         "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTfGDRq4O2HgKcFizDc9xH8acp1pWvmWqqDFklpf1f3t/YWWdOSv4iwogI62nUP7OQ=="
       },
       {
         "name": "Los Caballeros del Zodiaco: Saint Seiya – El inicio\n(2023)",
-        "ico": "https://image.tmdb.org/t/p/w185/tBiUXvCqz34GDeuY7jK14QQdtat.jpg",
+        "icon": "https://image.tmdb.org/t/p/w185/tBiUXvCqz34GDeuY7jK14QQdtat.jpg",
         "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFS5EYpX7CQMsUiEQzwkD3zXA1O1yozwXjpx3i04CZFtRCljzIz7vJzXyFk7Hxd6kAg=="
       },
       {
         "name": "La isla de las muñecas (2023)",
-        "ico": "https://www.pelisplus.lat/wp-content/uploads/2023/04/sqfMynwPxlgPzba8JsAHphx8pXS-200x300.jpg",
+        "icon": "https://www.pelisplus.lat/wp-content/uploads/2023/04/sqfMynwPxlgPzba8JsAHphx8pXS-200x300.jpg",
         "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTfGDRq4O2HgKcFizDc9xH90PDOw6SCZZog614QSYXYZLeY1FWdfxbyZsjhkqZ6sfQ=="
       },
       {
         "name": "Peter Pan y Wendy (2023)",
-        "ico": "https://www.pelisplus.lat/wp-content/uploads/2023/04/eelbIlq9Iv4Hg9WPSHwuqNij1eo-200x300.jpg",
+        "icon": "https://www.pelisplus.lat/wp-content/uploads/2023/04/eelbIlq9Iv4Hg9WPSHwuqNij1eo-200x300.jpg",
         "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFags9eWGjt5gEQRULb1/6yK9MzDr07NmT2+wWQ6zfPJy"
       },
       {
         "name": "Alias (2023)",
-        "ico": "https://www.pelisplus.lat/wp-content/uploads/2023/04/rmlYg0HdVQDvvNlWishWT2WdxkE-202x300.jpg",
+        "icon": "https://www.pelisplus.lat/wp-content/uploads/2023/04/rmlYg0HdVQDvvNlWishWT2WdxkE-202x300.jpg",
         "uri": "aqjOEhWtVS9CYLQkJfIDWfsEMpdYOb8r7wzFomyVxUZ5MnuHDmL3cthzk8SvoqQdNWAGqmpinADNUBdglAg4zQ=="
       },
       {
         "name": "Quasi (2023)",
-        "ico": "https://i.imgur.com/IsawIkt.png",
+        "icon": "https://i.imgur.com/IsawIkt.png",
         "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkQ6V/dHJ5EHDhTSYtBwI/or2g77Ksl8XgUvnZVZ8b+48TwTpfFAVtYqudpLVVYft+1TdwoyMSKHnXAT03ePHKiw=="
       },
       {
         "name": "The Trade (2023)",
-        "ico": "https://i.imgur.com/gCQnuU1.png",
+        "icon": "https://i.imgur.com/gCQnuU1.png",
         "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkkBEum4+V4CE7BgQLlv38fzQWciVqRRY4zbcGAATddCkzgZ/nsYxzpHsrjqUtj70u02ivFiSsKnEpjJxQKa330g=="
       },
       {
@@ -45,7 +45,7 @@
       },
       {
         "name": "Power Rangers: Ayer, hoy y siempre (2023)",
-        "ico": "https://i.imgur.com/JLGShUW.png",
+        "icon": "https://i.imgur.com/JLGShUW.png",
         "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkibON9+PzgEJDO5ptIxqiHzHUfKceOWL0JlwXuAyTDnSDy7DbWq46GAhN6IIDa/8Ww03K4Z5rbPKE0T5a8krZIw=="
       },
       {
@@ -552,7 +552,7 @@
     ]
   },
   {
-    "name": "SERIES\n118 Series",
+    "name": "SERIES\n114 Series",
     "mode": true,
     "lista": [
       {
@@ -8214,7 +8214,7 @@
     ]
   },
   {
-    "name": "SERIES INFANTILES\n5 Series",
+    "name": "SERIES INFANTILES\n6 Series",
     "mode": true,
     "lista": [
       {
