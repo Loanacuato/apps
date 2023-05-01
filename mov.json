@@ -4,13 +4,38 @@
     "mode": true,
     "lista": [
       {
+        "name": "SCREAN VI(2023)",
+        "ico": "https://i.imgur.com/ZrzaiJm.png",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTfGDRq4O2HgKcFizDc9xH8acp1pWvmWqqDFklpf1f3t/YWWdOSv4iwogI62nUP7OQ=="
+      },
+      {
+        "name": "Los Caballeros del Zodiaco: Saint Seiya – El inicio\n(2023)",
+        "ico": "https://image.tmdb.org/t/p/w185/tBiUXvCqz34GDeuY7jK14QQdtat.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFS5EYpX7CQMsUiEQzwkD3zXA1O1yozwXjpx3i04CZFtRCljzIz7vJzXyFk7Hxd6kAg=="
+      },
+      {
+        "name": "La isla de las muñecas (2023)",
+        "ico": "https://www.pelisplus.lat/wp-content/uploads/2023/04/sqfMynwPxlgPzba8JsAHphx8pXS-200x300.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTfGDRq4O2HgKcFizDc9xH90PDOw6SCZZog614QSYXYZLeY1FWdfxbyZsjhkqZ6sfQ=="
+      },
+      {
+        "name": "Peter Pan y Wendy (2023)",
+        "ico": "https://www.pelisplus.lat/wp-content/uploads/2023/04/eelbIlq9Iv4Hg9WPSHwuqNij1eo-200x300.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFags9eWGjt5gEQRULb1/6yK9MzDr07NmT2+wWQ6zfPJy"
+      },
+      {
+        "name": "Alias (2023)",
+        "ico": "https://www.pelisplus.lat/wp-content/uploads/2023/04/rmlYg0HdVQDvvNlWishWT2WdxkE-202x300.jpg",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWfsEMpdYOb8r7wzFomyVxUZ5MnuHDmL3cthzk8SvoqQdNWAGqmpinADNUBdglAg4zQ=="
+      },
+      {
         "name": "Quasi (2023)",
-        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mpiOgZL3rkKPHLvEZv1jm8aJm6l.jpg",
+        "ico": "https://i.imgur.com/IsawIkt.png",
         "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkQ6V/dHJ5EHDhTSYtBwI/or2g77Ksl8XgUvnZVZ8b+48TwTpfFAVtYqudpLVVYft+1TdwoyMSKHnXAT03ePHKiw=="
       },
       {
         "name": "The Trade (2023)",
-        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXvGdQrEqBtZ5nS4rRBssWZZI4v.jpg",
+        "ico": "https://i.imgur.com/gCQnuU1.png",
         "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkkBEum4+V4CE7BgQLlv38fzQWciVqRRY4zbcGAATddCkzgZ/nsYxzpHsrjqUtj70u02ivFiSsKnEpjJxQKa330g=="
       },
       {
@@ -20,7 +45,7 @@
       },
       {
         "name": "Power Rangers: Ayer, hoy y siempre (2023)",
-        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qj1NrdMSm2xinqchBDD23U83vj8.jpg",
+        "ico": "https://i.imgur.com/JLGShUW.png",
         "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkibON9+PzgEJDO5ptIxqiHzHUfKceOWL0JlwXuAyTDnSDy7DbWq46GAhN6IIDa/8Ww03K4Z5rbPKE0T5a8krZIw=="
       },
       {
@@ -530,6 +555,44 @@
     "name": "SERIES\n118 Series",
     "mode": true,
     "lista": [
+      {
+        "name": "El Amor despues del Amor",
+        "icon": "https://i.imgur.com/nastNdB.png",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFX8WKbvuzzBWCjVucIqxNk7nybyYB+30JJWDQK+BELQ8b7IhjHcYW2N9QDU2xIH1uw=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFX8WKbvuzzBWCjVucIqxNk7nybyYB+30JJWDQK+BELQ8PGd110IYURXQTE2FKS+plA=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFX8WKbvuzzBWCjVucIqxNk7nybyYB+30JJWDQK+BELQ8fGoxyjn/TY+vCZkM/iStGw=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFX8WKbvuzzBWCjVucIqxNk7nybyYB+30JJWDQK+BELQ8v+L2F/O18vq41Q2KUG9f7w=="
+          },
+          {
+            "name": "Capitulo 5 ",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFX8WKbvuzzBWCjVucIqxNk7nybyYB+30JJWDQK+BELQ8ZnpEhbLT7ypeF8T0khuc/w=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFX8WKbvuzzBWCjVucIqxNk7nybyYB+30JJWDQK+BELQ8oVu9vq9s2nz/TmUL1Ssb6w=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFX8WKbvuzzBWCjVucIqxNk7nybyYB+30JJWDQK+BELQ8A47IeALhfukjv0LrQSp8Aw=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFX8WKbvuzzBWCjVucIqxNk7nybyYB+30JJWDQK+BELQ8Xzru6XE+QVwJ7DOBesR4/w=="
+          }
+        ]
+      },
       {
         "name": "Ringo Gloria y Muerte",
         "icon": "https://i.imgur.com/Dsiadgc.jpg",
