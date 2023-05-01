@@ -11284,112 +11284,252 @@
     "mode": true,
     "lista": [
       {
-        "name": "temporada 1 de Demon Slayer",
-        "icon": "https://i.imgur.com/CqQOOK5.png",
+        "name": "Demon Slayer Kimetsu no Yaiba",
+        "icon": "https://i1.wp.com/animeyt.es/wp-content/uploads/2021/04/1619117015-1234-99889.jpg",
         "temporada": [
           {
             "name": "CAPITULO 1",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcPGP0E6uTc5mgcHZfQI7NHSzvpNUHM2i+n+LD2KBqSTQ=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV+RtTWMXQ7xHjNz1MXZIL/T"
           },
           {
             "name": "CAPITULO 2",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfX4Gg1BQszmJp47vehvW5NB4V0qHtBDBmaHwlcoLvSww=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV8fwckknZEO6Tohvib0JFCu"
           },
           {
             "name": "CAPITULO 3",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfkaFIoWBBg/bu+C7gmFb8NMBSqOhYa92B5un0Ahi0FAg=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV9guSBWQxU47BkOywCzNui1"
           },
           {
             "name": "CAPITULO 4",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIdqUOrneh3YqVtSGXk70hpdCepCGA+v7ulMnEAqpSfZew=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV+WXYFDrfW9i6q3w9BqHImk"
           },
           {
             "name": "CAPITULO 5",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcV26GUpV2jTOF3ekFBlGguY0IE9v4vuSLq8QB01Y0C9A=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV8jNpp5Rq3wksoOFrtNBdWs"
           },
           {
             "name": "CAPITULO 6",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcswet/L0Od+22T1glZlqNZo9gzhq6Qrrx/6lXCDzP9+Q=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV+9cFql7mk+DBUBT7TUd8Ju"
           },
           {
             "name": "CAPITULO 7",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIdGWQ5eBiH3BrQFrb2z536cY+lG6ONd2g9vz2TLyWxilg=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV8J29uW6+UT/svQpgCcfhcO"
           },
           {
             "name": "CAPITULO 8",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIdgPapVP/EVn9crTAdl8kjLU9UEbHyLevA7PH/3lm3GAA=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV8BjP3yGfh1nXK0JpycZ9H0"
           },
           {
             "name": "CAPITULO 9",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIeRoZWpLQIu/LQqg4lvZAaFC8zdnyKfSADRq9kl2jyFRg=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV9qw9mM3uZla8mReylBO9Hj"
           },
           {
             "name": "CAPITULO 10",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfE6H+EyNzrTAV2Iystk1DNq3m4MTKU2yumhz0tAKweDQ=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV8mxxQ3mdPSjVz13k3+dce2"
           },
           {
             "name": "CAPITULO 11",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcxXk4JeuFxCA44oFULjRClE42z+ZCx32n7LL7vkSX4Bg=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWAM3OOt/o3w95L/MX7e4T342ryCIWuGMGno3EDfojLYOQ=="
           },
           {
             "name": "CAPITULO 12",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIczCmm/225DGGFqMdZazmHOY/LFHMmk8HYTBX4pHyzLvA=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDXskP2OfzL+FlGkGb4ihcuBTybGUpy7l9qjCCOH7zPPA=="
           },
           {
             "name": "CAPITULO 13",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfwrv+NmqoSLHQN5SiP8DbJG1XixCjdhcMdzfOzx5m2bA=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWBTCV8lFKY3MjaFwnrT80UnBjXGJ8/H6sq7U61vNQGdIg=="
           },
           {
             "name": "CAPITULO 14",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIdvNvCYTvWQzTnzSc9mUm8cZUveq/fvmAvrR2G6eQdh+A=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWCvS4og5RH+TSY5r9q/HgVw5nHTCVzOgcr96gEeCCS+PQ=="
           },
           {
             "name": "CAPITULO 15",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIeK3jIehKe1p1SlJQ9upucOBVh8vIPok1g7L5N1sBbvfA=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWB1siFKLIvG7xduP+O29wIy9vD9t8r3iXHeYelyUb7gIA=="
           },
           {
             "name": "CAPITULO 16",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfbAjMsCu3gKd/m7acs/sBgVrHi7wjVzuhKqW5YGVXJ6w=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDC8HQv8FkTuUtGGFK42VC7nZ+f556OV/Phi1Z35rkFmg=="
           },
           {
             "name": "CAPITULO 17",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIeHDWdcNDJ7pFeW1pBAb/nlkN/ZN6u9FjfkyNyKQhzoLw=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWBJwCbSCqr1AclGrkNC+vWHFXf9wrByYuPTp/4Va16hZA=="
           },
           {
             "name": "CAPITULO 18",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIf8lrxdnl83V9bSv86qo5IekV0FG+boQHDQvl1xwFD2dw=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWCCMqw/yKhgz8u4x6RW8nfd5OtOf4gRtRdNHhDyc6PaEA=="
           },
           {
             "name": "CAPITULO 19",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIeKYPNDsiuF0OE8pUBWk/ftz4RfpS2kdn4ocKVczdLgEg=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWAJFMgdXWc6KIyzll74Jgo2haV1La923tHukxgPHK2T8A=="
           },
           {
             "name": "CAPITULO 20",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfCZclOzoy3j1hGLS0DfOyiYMEjoxPHsZywWe8xsOLk2g=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWB0xS1FPDXjETg4TzGa4BTDUcWB8SAhh2byRFJr7eahKA=="
           },
           {
             "name": "CAPITULO 21",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfdIrCYFkwIm2t+61Az3B6dD/Dx8sssMenP33kd+7Mfkg=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDyU1bc0jG91/4f9XK8wHupn9Y7NdwbopkVgpo67ZPQBw=="
           },
           {
             "name": "CAPITULO 22",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfuH0eZX1/gd2Pa71cbCQMfJNw624vnSNbY+gMJmJikcg=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWD7DlGVZD8JL1drOxmu2EDfPuTDVC4gavjDxXaFzCeahg=="
           },
           {
             "name": "CAPITULO 23",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcj+3G2P3vjPbPHOsoh+aZRwrtVdxwWDzM3H4WlV5zV1w=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWAmlDYhmuCPtkMyI9PUWpQuEBgTK3gAEmFn/IoHRKyMzw=="
           },
           {
             "name": "CAPITULO 24",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIe6gajqu7hIB1BcZJM3oSWwd8fUps5nH7+amiwUho8P1g=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWCc3XEg75/D1Qqi7cXBRmetI5h7e7sply0D3ZNOOdfKkg=="
           },
           {
             "name": "CAPITULO 25",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIfP5sEzYXpyHPiVrUTFuLm4lZb/YoUEOS3hb/Hlv+rNYA=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWC32pIw+cm2SFuReigvXjkJjvyvG5I2ZV6WTPpc2+h0Rg=="
           },
           {
             "name": "CAPITULO 26",
-            "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQF6HJRLdyEEsP9iJd6Mu3e3sluF1M3i3ObwiV95oGRaEy18Jx5dtTLA3J6KIsSw2rb7F1dZ207qOnUkxRe7iuSNQYiSKv4ojQFS6drRjnXIcGwvyCloPv5rYYebWoaB8BXUsfZj4aC+9t/I+l+iCv+A=="
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDc8JkumA/iqOqGGTrZL/HYTk5rEDjHCyhRfP4jRhy8cA=="
+          }
+        ]
+      },
+      {
+        "name": "Kimetsu no Yaiba: El Tren Infinito",
+        "icon": "https://i0.wp.com/animeyt.es/wp-content/uploads/2021/10/obLgnPvqdtWs.jpg",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7+9IcL8uAORnYadBQMKPjjQ=="
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7iTJKt0BDzc0m4C0jPhvSKA=="
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7Ze5p1dqezgMTv8+46D1cQA=="
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7d8DkRCB1MkoMDGqSryNzQw=="
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7uM0VBeTPdH6G2zw9cwswgg=="
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7HrspHMAmmN/w43b7R1h2bQ=="
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7zj3n8Pityv4hNZ9NmEa9lA=="
+          }
+        ]
+      },
+      {
+        "name": "Kimetsu no Yaiba: Mugen Ressha-hen Arc",
+        "icon": "https://www.anime-jl.net/storage/animes_tumbl/kimetsu-no-yaiba-mugen-ressha-hen-arc-tv-cover-dxe.jpg",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7+9IcL8uAORnYadBQMKPjjQ=="
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7iTJKt0BDzc0m4C0jPhvSKA=="
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7Ze5p1dqezgMTv8+46D1cQA=="
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7d8DkRCB1MkoMDGqSryNzQw=="
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7uM0VBeTPdH6G2zw9cwswgg=="
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7HrspHMAmmN/w43b7R1h2bQ=="
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDLat2lCOqkrOODS9M/FQy7zj3n8Pityv4hNZ9NmEa9lA=="
+          }
+        ]
+      },
+      {
+        "name": "Kimetsu no Yaiba: Yuukaku-hen",
+        "icon": "https://www.anime-jl.net/storage/animes_tumbl/kimetsu-no-yaiba-yuukaku-hen-espanol-latino-cover-ele.jpg",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDWNDw59O2e3RcKZ20/DA6i"
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWCMxjLQFPSPJiQ2+qB9zYII"
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWBn6sDR/vJmSMMzj4dCPsQD"
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWCVRT9xeY4XNt92ifbvbjy3"
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWAYOM1VxmkActN2xzBmsDCC"
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWAq+MNCP1afeVBNB23pDwKV"
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWBM1f7qaTJIdddtrcTE2ha2"
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDsJdsZHvpzGUMfgJK8Ha9C"
+          },
+          {
+            "name": "CAPITULO 9",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWAF9qLzNSSt2Wp30yXTbBAX"
+          },
+          {
+            "name": "CAPITULO 10",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV9Zm3hrQ2gbCVF9CORtzoXO"
+          },
+          {
+            "name": "CAPITULO 11",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFV6kpXFTA6zRP1ah/F5hMV8VqYbTwydM90EwUdIqHmwS"
+          }
+        ]
+      },
+      {
+        "name": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+        "icon": "https://www.anime-jl.net/storage/animes_tumbl/kimetsu-no-yaiba-katanakaji-no-sato-hen-espanol-latino-cover-hdc.jpg",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWBM0OAD+DY0JrfDdgp0fI6O"
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWAvedZ4aQhuVL4SFw7pzc9x"
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWCALPFYh3VPwiIBRaKtFmc7"
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWDdwlMk+BdPvy8s6+cBPCbG"
           }
         ]
       },
