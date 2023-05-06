@@ -814,6 +814,13 @@
         "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/LpBElouyvaLMCh9IERyGVgNSA2uCoLCALMphqdIkWT/u0AmTcmYI/6lSewoWvNQJA8Gi8Q0kOfJpHREU7CXWVelQ1Dixci4eOH1Q4w+/Tjdw=="
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/espnpremium.png",
+        "name": "ESPN PREMIUM OP3",
+        "drm_scheme": "clearkey",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mLpoZfA/cSkuc/APvkeV785otqZPi8s4Q0CF65ypE4oAmWhN4oM5Rc3YI6BbtDNrxtGJM58ee0TTtuKQnwvEEn4+8wuqK431Xumc9AOJyxy6w==",
+        "drm_license_url": "JIB4gpA2GP7vD0NnVcq2PAeX+IchYQgSbY2U6yfSsMkZ+7zyv8rumicyfMAYEmNG"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/tntsports.png",
         "name": "TNT SPORTS",
         "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKn1B8JGHAuOR3ClKPUURq8CyRfoGktzqomttow8L/PFTELPOnZ7EhsB7ur/8MJWGpZkhuZx3Z7j3a3sU9y9dPd8qsFnYrb/rcRQivvPQU6FvQ==",
@@ -825,6 +832,20 @@
         "name": "TNT SPORTS OP2",
         "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKn1B8JGHAuOR3ClKPUURq8CyRfoGktzqomttow8L/PFTELPOnZ7EhsB7ur/8MJWGpZkhuZx3Z7j3a3sU9y9dPd8qsFnYrb/rcRQivvPQU6FvQ==",
         "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/K8wzla4sRsxLP3vBjm/1OYBghj+DVFslRPq+ylSeEorY9p2Eue1MPx7Nk3aZZzRLzzHzGnHKOhxdycEjQzTNE9oV4f3X1Nn0oV51gkSwM0Ug==",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/tntsports.png",
+        "name": "TNT SPORTS OP3",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVwtvmCTp5rM6kvX4XduF9N8DGKNwg+HhwKLyGnYG9c1A==",
+        "drm_license_url": "JIB4gpA2GP7vD0NnVcq2PGIF1ZWzj9u8yHtqTnqPfqA=",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/tntsports.png",
+        "name": "TNT SPORTS OP4",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mKDU5cc8zkfU+Bv8CNDomBO3Immk8F8Oe/aqJs1za0Hi1j2xgbzLn7a5oTeuxZe2hFzra2mqRfwjihGop4JsHEq",
+        "drm_license_url": "JIB4gpA2GP7vD0NnVcq2PJAFUgu8Ta8orDBrcGL9AxIK0UyUHx5YMuXCUFWfftr5",
         "drm_scheme": "clearkey"
       },
       {
@@ -3535,6 +3556,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.ytimg.com/vi/7G2ZTa1O3yk/maxresdefault.jpg",
+        "name": "RADIO SENSACION - 97.3 MHZ",
+        "uri": "zRT/R7bDLF/9eqz9jytTFwcjbjiVbLCLztPsNstfAZvTOWCQ5RrBtlnmDoMidnif\n\n"
+      },
+      {
         "icon": "https://aermultinet.com/iptv/logos/retrohit.png",
         "name": "RETRO HIT 1027 FM",
         "uri": "qfG1qjeFfPZKWDs9eMxwk7bJKzTr046V1pERZRE9kABi7eYkAMKkmqq4MpzzYZMEDLd+CTPzxPcEoBH965X5Eg=="
@@ -5207,64 +5233,74 @@
         "uri": "E+p2D/c4Tz9H2lGrfORPYcRlYX0uIbcqQmeWLhIufd9fvrn4y/F7sIhpj/t5BxhbTjnEqSUDfgPAFJfVBYZKtQ=="
       },
       {
-        "icon": "https://tn.com.ar/resizer/4OeDl11Q-xyFrUDRF-rdNSsZHKM=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/KILRLVCASHYASPR4IXOGBXX2V4.jpg",
-        "name": "LOS SIMPSONS",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4egMZGrJl8+r4xcE5hs8Yebg=="
+        "icon": "http://static.tvar.io/imagenes/pinguinosdemadagascar.jpg",
+        "name": "Los pingüinos de Madagascar",
+        "uri": "40x7g7hkccM3aNRJjOk+2h/08oqjbQ27ZybI4Dzh7laaaftQBk1y4lo9Zp5Ey5cn"
       },
       {
-        "icon": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2010/06/24/e1ad7f5db0d9.jpg",
-        "name": "FUTURAMA",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4eej1DuS4m3b/JScSKky2TYQ=="
+        "icon": "http://static.tvar.io/imagenes/johnnybravo.jpg",
+        "name": "Johnny Bravo",
+        "uri": "40x7g7hkccM3aNRJjOk+2p1A8BBvi8y8vJr4baOIx7xNL8x62o1dOgfyF6JN1uLT"
       },
       {
-        "icon": "https://ichef.bbci.co.uk/news/640/cpsprodpb/13167/production/_107738187_10_cc_1920x1080.jpg",
-        "name": "CASO CERRADO",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4ewr00hqcBczg7O8+zmVi51g=="
+        "icon": "http://static.tvar.io/imagenes/loschicosdelbarrio.jpg",
+        "name": "Los chicos del barrio",
+        "uri": "40x7g7hkccM3aNRJjOk+2tjO0zZFbFcS5jGEFEB7LnU7DtQEf+YqHtSh8CmFH9wx"
       },
       {
-        "icon": "https://pbs.twimg.com/profile_images/1288126943112527881/sZCymdnW_400x400.jpg",
-        "name": "ENRRIQUE EL ANTIGUO",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4eaD/lKPfnVmjET10usw1qbQ=="
+        "icon": "http://static.tvar.io/imagenes/eddy.jpg",
+        "name": "Ed, Edd y Eddy",
+        "uri": "40x7g7hkccM3aNRJjOk+2vO3p5NCAs/qLpbE8Be7+Ukfi8iW7ikB5Z1Vj1fEcCvg"
       },
       {
-        "icon": "https://i.ytimg.com/vi/hX-wsKPvPhs/hqdefault.jpg",
-        "name": "CUÑADOS",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4eT3MrvFD00C9EQS8AN3J0FQ=="
+        "icon": "http://static.tvar.io/imagenes/bilymandy.jpg",
+        "name": "Billy y Mandy",
+        "uri": "40x7g7hkccM3aNRJjOk+2o55J9t34C6QKftp8iYXMKP+sUoWTGwbbxTmIIR22owj"
       },
       {
-        "icon": "https://i.ytimg.com/vi/PVrmJZu0QSA/hqdefault.jpg",
-        "name": "NO ES LO QUE PARECE",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4efK0FI3E7Vh61knsx4rpARQ=="
+        "icon": "http://static.tvar.io/imagenes/dexter.jpg",
+        "name": "Dexter",
+        "uri": "40x7g7hkccM3aNRJjOk+2glZqkRN4Bv//Lk1kYJPEveOv70c7j+FHeZZg7X3fErX"
       },
       {
-        "icon": "https://depor.com/resizer/qcL5tpQkAgec0Siyue3kXVDJjk0=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/GWPQ6ECINNGJ3GKSBYILKO5QTE.jpg",
-        "name": "BOB ESPONJA",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4eImeRMG2ARbavRQi4DQDfDA=="
+        "icon": "http://static.tvar.io/imagenes/chicasuperpoderosas.jpg",
+        "name": "Chicas superpoderosas",
+        "uri": "40x7g7hkccM3aNRJjOk+2lbuZ1iPoEWz/xq7tmwBIMEhZPRNr1P+DkX57tKNXetn"
       },
       {
-        "icon": "https://http2.mlstatic.com/D_NQ_NP_638591-MLA53787219858_022023-O.jpg",
-        "name": "SPIDERMAN ANIMADO",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4erMu7mBnFntY4AQSpCxbEBg=="
+        "icon": "http://static.tvar.io/imagenes/lapequenalulu.jpg",
+        "name": "La pequeña lulu",
+        "uri": "40x7g7hkccM3aNRJjOk+2o/wiROvw1jJhQQkx9mEJlTBjqWgNU1yIWETyLl3Wfs2"
       },
       {
-        "icon": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/77d6dd74a26f742069df49091bba332292970a7329a989c3bc5cc496911a5db6._UY500_UX667_RI_V_TTW_.jpg",
-        "name": "CHESPIRITO",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4eniPGZDDGVuMbId1Znh5Epw=="
+        "icon": "http://static.tvar.io/imagenes/breakingbad.jpg",
+        "name": "Breaking bad",
+        "uri": "gZoLXESq7RwTEos/+k+RcpXAJVlmboteiT7nDM749ptppNqn83IO3Dc4GsSKM2II"
       },
       {
-        "icon": "https://image.tmdb.org/t/p/w250_and_h141_face/mcnCaHvHnoPqEoFEeCo5Qys3E5r.jpg",
-        "name": "GRUPO INCREIBLE",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4eyVYN7ecx3bCjVF9BrjDmsg=="
+        "icon": "http://static.tvar.io/imagenes/drhouse.jpg",
+        "name": "Dr. House",
+        "uri": "40x7g7hkccM3aNRJjOk+2oRzbap1AE8mx2t5LEZg7SMMjmITzLPK/LeF+eKFJixy"
       },
       {
-        "icon": "https://i.pini2mg.com/originals/f3/a7/a9/f3a7a966a8b08a8f8a23eb2982704c55.jpg",
-        "name": "el inspector",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4exmhyTCVoC6Nd6mHe0PGZ8A=="
+        "icon": "http://static.tvar.io/imagenes/ben10.jpg",
+        "name": "Ben 10",
+        "uri": "40x7g7hkccM3aNRJjOk+2q97AY9cgHL9XwJ3L1fe/w/Ih2Vckd/efAf/uZnFu6Md"
       },
       {
-        "icon": "https://i.pinimg.com/236x/a2/49/e9/a249e904c5083c28b1d6c80cca75ea18.jpg",
-        "name": "Los pitufos",
-        "uri": "jA/+N1a0iCmluRzW3yHeWHUEGUFLMSKlp2Iy9bneKSnZd6ECEbp+sIEGVdAj8x4ePe7K0GOpIVS5mjHT081udA=="
+        "icon": "http://static.tvar.io/imagenes/jorgelcurioso247.png",
+        "name": "Jorge el curioso",
+        "uri": "Rkw354Kyt9gUhq10fD373Hu0r2PWgogoSFTMRt07KXX/RpoP+5QtnLcwmYzwN5ZG"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/thexfiles.jpg",
+        "name": "Los expedientes secretos x",
+        "uri": "40x7g7hkccM3aNRJjOk+2pCglKV83/e3GIg3/JJMUIr3qtEdFjpCUAYG7378o5cA"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/losanosmaravillosos247.jpg",
+        "name": "Los años maravillosos",
+        "uri": "40x7g7hkccM3aNRJjOk+2vp4n/VspVNezM0xNOfWQChXGrVQliGuFQeimrsleMgU"
       },
       {
         "icon": "https://lastfm.freetls.fastly.net/i/u/770x0/ca2d2812040f4f4bab149f5d68c32da3.jpg",
@@ -5315,11 +5351,6 @@
         "icon": "https://es.web.img3.acsta.net/pictures/19/02/15/17/18/5227942.jpg",
         "name": "LOS SIMPSONS",
         "uri": "gZoLXESq7RwTEos/+k+RctTEnOtEGxKbtfuQWOKAR9SdAbeO/sD/mTVyiW/yGuhx"
-      },
-      {
-        "icon": "https://es.web.img3.acsta.net/pictures/19/02/15/17/18/5227942.jpg",
-        "name": "LOS SIMPSONS OP2",
-        "uri": "JIB4gpA2GP7vD0NnVcq2PFh/xA6+Mm9v1FLgOROdddGz2PnL4Y6YcxaiPnNAbJK8"
       },
       {
         "icon": "http://x.playerlatino.live/dragonball.png",
