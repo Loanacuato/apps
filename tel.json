@@ -823,7 +823,9 @@
       {
         "icon": "https://static.dplay.tech/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM OP4",
-        "uri": "QG0geTlWnbwERfJbicHB+OEPkCMtuP2sQsWoq0+qHI81Fb74hjCttXqHyzcKGyX3"
+        "drm_scheme": "clearkey",
+        "uri": "FD4WoXokbETpXJWepUQcr+gB2xFt9Q/tNKY7BHgio8POUmAlPnVoZHaa7XsKyalT",
+        "drm_license_url": "JIB4gpA2GP7vD0NnVcq2PCkFQFtmiU8ROt9MA/jNC/YLRFqNzjmO48eY/n3kiSpc"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/tntsports.png",
