@@ -821,6 +821,12 @@
         "drm_license_url": "JIB4gpA2GP7vD0NnVcq2PAeX+IchYQgSbY2U6yfSsMkZ+7zyv8rumicyfMAYEmNG"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/espnpremium.png",
+        "name": "ESPN PREMIUM OP4",
+        "drm_scheme": "clearkey",
+        "uri": "QG0geTlWnbwERfJbicHB+OEPkCMtuP2sQsWoq0+qHI81Fb74hjCttXqHyzcKGyX3"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/tntsports.png",
         "name": "TNT SPORTS",
         "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKn1B8JGHAuOR3ClKPUURq8CyRfoGktzqomttow8L/PFTELPOnZ7EhsB7ur/8MJWGpZkhuZx3Z7j3a3sU9y9dPd8qsFnYrb/rcRQivvPQU6FvQ==",
