@@ -358,6 +358,11 @@
         "uri": "2ypEHixITLx1oPrJcKs0W0y0/dkoYQkRebkMZjUWNggbmoqpGumhImfGRLQosz/x6eYHMAY6aISLZGefT/7uLcdGo/NsUOxNDzZrWiBMBz4="
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/canal9mendoza.png",
+        "name": "CANAL 9 DE MENDOZA",
+        "uri": "74dGg2EIRs63ic9NUo1OjI8jcYwrXB4cEYiID7P8Dyh6A9S/3xtHt5rl29HrBFdRFnrPZtlGzKcokQx0UxoKr2NAFkH1TYrQoNGXXXn8YBwXo4qWLgyNcOJB2EEviBGjrOHhNJsaeIyUryFoFGg+xA=="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/sietemendoza.jpg",
         "name": "Canal 7 Mendoza",
         "uri": "eaw87ntVDVFR7f+hnJqHlDFwetpBA4wgaHpf3dpPAYFpfx3Xkn+WUr4XIKd32G2f"
@@ -1433,32 +1438,11 @@
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwy53k7R8J1iJ+EPFC4TJ02qwTNdf15bwIR2PNfeso1Z7dLO0dY6IYN39PJJYZkMpgy6Wik57EEgnfF2cSLOIkpV4eFf7l+4Yh9szzh1XydM/"
       },
       {
-        "icon": "https://static.flow.com.ar/images/881/CH_LOGO/350/500/0/0/30164333072684.png",
-        "name": "HBO 2 OP2",
-        "drm_scheme": "clearkey",
-        "uri": "XxLRdt2lHZYH4ivykzOdm4neXrFXeDYejOWBZr3k2GQH4Md8gG2FNt/p3KIksWei9uBf+/wv3APtLJ+QkTIeyg==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw0UEDC9XISSSLJm+8hHhEtZw7PPELBP82tkdvegscGq+9frK7/fTy0gEuSl+F8iZ+dodvDjpDu4HqSfJn3eDcpA4KIvc4ooMPuzuXeyDKYvJ"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/882/CH_LOGO/60/40/350/500/9358483307335.png",
-        "name": "HBO FAMILY OP2",
-        "drm_scheme": "clearkey",
-        "uri": "TYyfNJ40HoPTo3KquZRT6+oyCZP9rvdZfmdTEijeMQRKFi3IlIrxgL/E33QfRbgyuPt4m6XpPwqRNUY+ceYBtQ==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwxdIjMAN5TY/VKvq4C1ko2VomA76MEM3UGWyu8A8WLyPihjdrc1ENf8we2zjCu2b8222bQlsEvtVEeDIUDDcQ5CpoRuruvqr26ae5bDB/L5K"
-      },
-      {
         "icon": "https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
         "name": "HBO PLUS OP2",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWzwu8O88UncrfmOJsZw8/NnyhtNQYDaJCDdmSy+vZmEw==",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwxPfnK9PqmBEjWe3ctcQRJJVaVPTkM6NoC5gNj4v0byB4Ix9XzaUWBrG/jZ+BsgQr77ERIVZQKBQsBqpKz3BrkArrOVCIHep00G8MZrg5rce"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/884/CH_LOGO/350/500/0/0/1793376207500.png",
-        "name": "HBO SIGNATURE OP2",
-        "drm_scheme": "clearkey",
-        "uri": "TYyfNJ40HoPTo3KquZRT6+oyCZP9rvdZfmdTEijeMQTxG++sv8NGdfkQVRTxTKhf4Zh3vwSEpmBPh7k/xLbN3w==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw5nDXZ7GcRv13lGkQGLSUNE2iEagHwrvhageWVpcnOEUY9u/6w4ehCYnaer0Rc3aiUmQjiZ8tEuIBkUp4DiXQJ6R0rKY+vI5zkPY0Lh5zcgu"
       },
       {
         "icon": "https://static.flow.com.ar/images/704/CH_LOGO/350/500/0/0/931513860712.png",
@@ -1692,6 +1676,13 @@
         "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpZ+KjiGR+umuZ9iEB6jpsI7x26+pMNelfR\nPpLisQ0x2HUkNjAmnFzRI2Z2HKJtoUc=",
         "drm_scheme": "clearkey",
         "drm_license_url": "I1U3zOxD6SrRP+dTVuvOugHk1Txu024JC4bp2EHGPwZXmD0TVKedjp7m7SUwfxZi"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/europa.png",
+        "name": "EUROPA EUROPA",
+        "drm_scheme": "clearkey",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mKfCIvGOCuqqnr3ADB9mpC7vVjp1Qqtm17w1CPu5pSXCGcmYWBinvmtDfUyc/oUV4OexObtybqUQ8xgI0pO4Npu",
+        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/IIrt0nMSrza5CudCkz8slMR/0o5/FrKCKM8RAiyoh8TOScfobiw2gHyXbMSi9ce7d9FSWYvuFFFHJsKLSt53y/L4i6zftsqBUgXsEuz2Q4gg=="
       },
       {
         "name": "TBS",
