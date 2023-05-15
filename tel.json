@@ -17,7 +17,7 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png?=4",
         "name": "AMERICA TV",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9lJKLu4a3Gp7ZYmUky1kwpNwGY20VoX8yB7VLACLYRBpHK+Y8sNOzw6cf0MR2/j0Kvjx9Z9Y9Dmlft+PASwZ/uY6inzWwkkWyJZX1EDbL9tU",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mKGUcV64p9952KYrqELhEzaZH+5G87diHiD7MfsMcCsjQOITyopiE0hLQGCpLm0YFPE6qmECdpCkTj18DktuXkJ",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw1hLRMnzUMAevw319vjThr8F3wQWzRhhQn0FybIRWZtP3uvuHnYeAqD5zQPAAGuLyV+lzi9JMH4lZtfM4Nqt3xwkGSGkqi3EKfNRrVuBvNML"
       },
       {
@@ -35,7 +35,7 @@
       {
         "icon": "https://static.dplay.tech/imagenes/tvp.png",
         "name": "TV PUBLICA",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/g5RaPEAFqXjTc9EvHEaqSqo74/pbfFCZfNaZG4KuAy7hLl1x/Ksg2OpDIwVirjinj1ohhR3XrRmhnVv+S6TBVI",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mI72JQOV5lu5Df5nnRqKKustAD5yWhSqizdxNIS/TRzqcnoPjghHP7+Rd9/olqBL7wK1nBd3HyT2rRFdlFSPjit",
         "drm_scheme": "clearkey",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pe8HWN9VV/fbAeuLuCv79Iy"
       },
@@ -118,7 +118,7 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",
         "name": "LN+",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/j1YIxhVQpjFyp4AlLoz2ZRhRati9Kbllw4bym6VSo0A7vJV4zcuteBmP6Y54wsMQ4uZZc7OhFiidkYg8qYa7fQ",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mK8qDt4yvaPDYjEvuBZeAdi5NOYGJdOYDEUalIPNeK9yz+iSsBzXsyIhbKcOJUoIw+KERU3wKqz+oIUnDYyAV8L",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfBV/JO71Gm6WwTippXzQ+d"
       },
       {
@@ -137,14 +137,14 @@
         "icon": "https://www.foromedios.com/uploads/monthly_2016_11/large.Encuentro.png.deccb9064823e717962cf70838ecc508.png",
         "name": "ENCUENTRO TV",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/hBmRyqjAL6aCIck1OLUrdBJmb5BAx8KFtqfcVGFuB61riSvXlcpSabbhj2ehFuMpuxg/TaDWihFmFqmaMw1WSK",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mKfCIvGOCuqqnr3ADB9mpC7RoS8m83okyOvyCdC+7v1wamGMcQxeBX4QYleqDSxAYx+clNQP/pioi0ZWpG5fHqB",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PdHGYQrDjQOSKeqbe0rIrDm"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Logocanalrural2016.png/revision/latest/scale-to-width-down/250?cb=20170805004919",
         "name": "CANAL RURAL",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/g5RaPEAFqXjTc9EvHEaqSqRIVG5d6B5U9uUy6TI0xX7EVWIi3H2cit002AS62+7P5i0l7JnckPvAyvgmSdeqK/",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mI72JQOV5lu5Df5nnRqKKusBh1DHL/paacE9v8VqcR7+54zcOlsWdhrIE8043i+YBQY9IFXMPrTq4sjKncaJwQZ",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PeDatFDHi4LvpRip6hN9OnF"
       },
       {
@@ -1205,7 +1205,7 @@
         "icon": "https://static.dplay.tech/imagenes/cartoonito.png",
         "name": "CARTOONITO",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/h5A5C4TsHU/EtDurhJC58lCb59hwEqOf1ZkQfVRply0u5B5unGpk4jDUJ87otBRwqEz8d78JdN0OK3j/CzK8gr",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mJ9ISX9Tecdwflpp9q67lLPaLSsedsEa9idJN8eAoCLU5unZty9V4PJZk3GiYGEcelZ/Yci7HpWJKfs2PU/P8NgWAzBYBWzTa4iek45MUT+B3mtuPyuWBfAP5wbXIV6Jpc=",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PcwPeEBwm7juWpADFi3Oil2"
       },
       {
@@ -1219,21 +1219,21 @@
         "icon": "https://static.dplay.tech/imagenes/dkid.png",
         "name": "DISCOVERY KIDS",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jCLcZvO0Zir9KlbSjOA7UIqm8q/DJYw6XDJ0VycCDIIKKO8TbyaARXI69oZ2HV7407VnvssVubcGo1WXsy6VO6SrDtC8F/9yFcyMtmuHGbWw==",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mLgIaMgHP+NRL5xSBPVIEQniThi7l8KArjRZpzNu4AaSmTtegfpXRBIH7v7F3k1AgYOn3tIwQONVtBmsnOPnFUQKphKfaXNVsNcV8TgHEDLfA==",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfkAHFdK7oxp+SKPnYWtpAC"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/disneych.png",
         "name": "DISNEY CHANNEL",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/hipHAccoLFA4XHoTI/L1/yIc8ZMhr7crR6ww1huj7ewWhHwgbP6b2H44iMcpGxo9wwdE7OS+ZQSsZSkFiJl+vGNFZW/QQM9i+AOSNUTRfdpA==",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mIKv9fksacna1t3MH7OsKMpj7ZUUGBqhMw/Jun9OIeGy1UFwkKUo+CDjhXwLlKYs+OjHTu7PY89rd0NHNJXYD5j75UDxbRQhMybuyfyRBwn+A==",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PdfDip3H9oiZeJpGWNOAWXOlJ82rqWl1YXPu/cMqySh3g=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/disneyjr.png",
         "name": "DISNEY JUNIOR",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/ggvFWk1TIHd4MiQlDPBMGyKXWSFZ8AO7EM+J3ehaYqIZ5kLy/ZP123zC3vo/Kpdd0j4HkA8OBepOiFiAMplPd7",
+        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mIQ+uW/xBJJduHXts2psqworLVxw0I0jim5IydydPQpVHMwalbgv2yIkkrXTTrQkqh6iMaeZCePLyuH+0w9Isdy",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfXmRnaqSH9zPSAQkwSvtdg"
       },
       {
@@ -1436,14 +1436,14 @@
         "icon": "https://static.flow.com.ar/images/881/CH_LOGO/350/500/0/0/30164333072684.png",
         "name": "HBO 2 OP2",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/imNoh+anaa2KcLCg+ErgWYL6SFw8O3g57CWnSQeM+Z8trHsnWWKYxzrpFuVh0ZF5k=",
+        "uri": "XxLRdt2lHZYH4ivykzOdm4neXrFXeDYejOWBZr3k2GQH4Md8gG2FNt/p3KIksWei9uBf+/wv3APtLJ+QkTIeyg==",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw0UEDC9XISSSLJm+8hHhEtZw7PPELBP82tkdvegscGq+9frK7/fTy0gEuSl+F8iZ+dodvDjpDu4HqSfJn3eDcpA4KIvc4ooMPuzuXeyDKYvJ"
       },
       {
         "icon": "https://static.flow.com.ar/images/882/CH_LOGO/60/40/350/500/9358483307335.png",
         "name": "HBO FAMILY OP2",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/imNoh+anaa2KcLCg+ErgWYHc0PwcZ0m4W/qFCRxAOOcZIv/exgJRdiiuqS7bfsVaXAXhPWHSkG20gLnS2P1/Qu",
+        "uri": "TYyfNJ40HoPTo3KquZRT6+oyCZP9rvdZfmdTEijeMQRKFi3IlIrxgL/E33QfRbgyuPt4m6XpPwqRNUY+ceYBtQ==",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwxdIjMAN5TY/VKvq4C1ko2VomA76MEM3UGWyu8A8WLyPihjdrc1ENf8we2zjCu2b8222bQlsEvtVEeDIUDDcQ5CpoRuruvqr26ae5bDB/L5K"
       },
       {
@@ -1457,7 +1457,7 @@
         "icon": "https://static.flow.com.ar/images/884/CH_LOGO/350/500/0/0/1793376207500.png",
         "name": "HBO SIGNATURE OP2",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/imNoh+anaa2KcLCg+ErgWYD2A6UyKWwJ/AmO8x2Eh82i1nUwFJ/Ds59LIuMzBaafUgZKN5+gkWs4KdkVXxEFcO",
+        "uri": "TYyfNJ40HoPTo3KquZRT6+oyCZP9rvdZfmdTEijeMQTxG++sv8NGdfkQVRTxTKhf4Zh3vwSEpmBPh7k/xLbN3w==",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw5nDXZ7GcRv13lGkQGLSUNE2iEagHwrvhageWVpcnOEUY9u/6w4ehCYnaer0Rc3aiUmQjiZ8tEuIBkUp4DiXQJ6R0rKY+vI5zkPY0Lh5zcgu"
       },
       {
@@ -2947,34 +2947,6 @@
         "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2do9d0E4C0WL8OPIXYJP3sZAmzfEB+9V4Anj\nUyWvDhyN/hyBrgIG046pN1mr+HDydHWs+lRdf4ilVcHevk1M0e4w",
         "drm_scheme": "clearkey",
         "drm_license_url": "I1U3zOxD6SrRP+dTVuvOuuZzV8lfEeSOM9tNZ8LeJmPha3PMF7f43OUHMJ4c6t7+"
-      },
-      {
-        "icon": "https://i.pinimg.com/originals/03/cb/63/03cb63b4d535f60a02b20545360fe029.jpg",
-        "name": "CANAL 1",
-        "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jsKknQ7gvEIDG/eoVMa3mEhNKj13SqMNoGY7lJZ1vqe5xyeozMqRQLXIknZMmkqfE3SQIzt0Jv2fxRsL2g+5pYc1crq0xV1UPO7A28WpexIw==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw4sevF7PCwzstgWGFX+x5cCvipIfHDeWQvbLOWMR6xmW1LlXORA9AU6ralavyaENagKllv1lh+49O3fTUU7r3EM+5Y8HVprdcteeg5fOXvOX"
-      },
-      {
-        "icon": "https://dibujosycolores.com/numeros/numero-2/numero-2-1.jpg",
-        "name": "CANAL 2",
-        "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jsKknQ7gvEIDG/eoVMa3mEc+GcUlcHX+o9NDoBKjiMWm03P9NZ+c/i+GCv/0g781Z0t4OU1L1QTwNrdnPtdhh4",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+OeeSYD/7ffZfE6iq8+Kd8Rf78+GdCX1LnnXg2r2AoJEXweSlBT29cf+OVRp8CQr94RhyONwiPuloItYNtOj3T5WG3CpnxTeX1GJ1uynl7Y"
-      },
-      {
-        "icon": "https://dibujosycolores.com/numeros/numero-3/numero-3-1.jpg",
-        "name": "CANAL 3",
-        "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jsKknQ7gvEIDG/eoVMa3mErz4QGumi4o4pxH5ddn0TWhY6uD6BbObybyXMc5hTvA63hdpftb1oAEv3lJA7ctct",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw2zK2T4CZJacOpnBjnDz8dKkJSleWvfHwwD+c6qDD8nQlGe6Rkp8rZ9+jTGMnVSVaMb+wOucpND76dFtwdN7B0GLXKa4WtTfaEBxwtKuAevQ"
-      },
-      {
-        "icon": "https://www.supercoloring.com/sites/default/files/styles/coloring_full/public/cif/2015/10/number-4-coloring-page.png",
-        "name": "CANAL 4",
-        "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9kAROQ9f8SztnFA8a+9Qw/jsKknQ7gvEIDG/eoVMa3mEoECa3xvVtIuGkTJ5TfhnhnqPTC9QJsZXeYYr6V9Zp/vPf+4Xld0NziwaD+pylXcb",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw4jxpkFRrFKLqDZIPWfI1He3Kp7wm97wRkkAvzo+QEda0IpYXPebQUGG3UL/6XnJUzmV2lZqrPbKrh2z1ucbxCmFtPNyS3JFWkaKNERKvYDM"
       },
       {
         "icon": "https://i.postimg.cc/9FKN2s0S/IMG-20230202-WA0016.jpg",
