@@ -4,9 +4,34 @@
     "mode": true,
     "lista": [
       {
-        "name": "El Exorcista del Papa(2023)",
-        "icon": "http://tuvideo.tv/poster/w200/7583231683081137i.jpg",
-        "uri": "FJBxDQxMoEhA4k/uJsHVtoncP18qFCDZseghidOQs0pockTbJrd4baSO1PCF6cXqjmtnVlNLiW1sahrHp1MVd1GKm7SyYPqAKZCY6f+DoZA="
+        "name": "The Covenant (2023)",
+        "icon": "https://cdn1.clickthecity.com/images/movies/poster/600/19120_3.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtsHb5IHETbdCNWl+GZ9jxjca6ihlmZbE3U9UmYLHzrql8p3vrMjUJXtFcS9KmfsDVI1vZgQIB4g/+x9zeUpJjW1DgkgQob3W8kZB6RdErDwArfuOuAWVLRfH376Z5qQqFQ=="
+      },
+      {
+        "name": "Marlowe (2023)",
+        "icon": "https://m.media-amazon.com/images/I/71UWfHeE18L._AC_UF894,1000_QL80_.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtsHb5IHETbdCNWl+GZ9jxjca6ihlmZbE3U9UmYLHzrql8p3vrMjUJXtFcS9KmfsDVHBEU8LjfzSesaXLR61AmzA="
+      },
+      {
+        "name": "Paint (2023)",
+        "icon": "https://m.media-amazon.com/images/I/71UWfHeE18L._AC_UF894,1000_QL80_.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtsHb5IHETbdCNWl+GZ9jxjca6ihlmZbE3U9UmYLHzrql8p3vrMjUJXtFcS9KmfsDVLW5AevbVp9ZQi5d6diC2gY="
+      },
+      {
+        "name": "Posesion infernal (2023)",
+        "icon": "https://losinterrogantes.com/wp-content/uploads/2023/04/posesion-infernal-despertar-2023-pelicula-cartel-640x800.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtsHb5IHETbdCNWl+GZ9jxjca6ihlmZbE3U9UmYLHzrql8p3vrMjUJXtFcS9KmfsDVIrOVZ+uuTi5y2r0Yd6ouPeU7NZashokjRTL2gANkdHE"
+      },
+      {
+        "name": "Royalteen: La princesa Margrethe (2023)",
+        "icon": "https://www.themoviedb.org/t/p/w500/1OJDfBoMXYrkSkLQOqtWD3bHnKX.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtsHb5IHETbdCNWl+GZ9jxjca6ihlmZbE3U9UmYLHzrql8p3vrMjUJXtFcS9KmfsDVBTmrUCyKXHM9uCLtJtO5hSdqqP1ecrqw/anHilnCRQzUTz5F+zY0PlfoVyyxIX/Lg=="
+      },
+      {
+        "name": "Una leccion de amor (2023)",
+        "icon": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d7ec3acc3552b0476370c2854cb4a996c234006a1853c884cecaf1f8d9e7a30f._RI_V_TTW_.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtsHb5IHETbdCNWl+GZ9jxjca6ihlmZbE3U9UmYLHzrql8p3vrMjUJXtFcS9KmfsDVAe28E2UxxuxhFHeeRz7dU7av15f2kIv8it4C4NjePtq"
       },
       {
         "name": "Dungeons y Dragones(2023)",
