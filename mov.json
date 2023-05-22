@@ -1,8 +1,18 @@
 [
   {
-    "name": "AGREGADO RECIENTE\n45 Peliculas",
+    "name": "AGREGADO RECIENTE\n47 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "name": "La Extorcion (2023)",
+        "icon": "http://tuvideo.tv/poster/w200/9319351684549435i.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtsHb5IHETbdCNWl+GZ9jxjexjivEhX4+e0cljFtBWI+VQTv+MgqdLjq40MtKgU4ySaDAMS7IhvxZ1RJLzMvN0gKvlGnYLmoBRuARIM+XoHzZ"
+      },
+      {
+        "name": "El Exorcista del Papa(2023)",
+        "icon": "http://tuvideo.tv/poster/w200/7583231683081137i.jpg",
+        "uri": "FJBxDQxMoEhA4k/uJsHVtoncP18qFCDZseghidOQs0pockTbJrd4baSO1PCF6cXqjmtnVlNLiW1sahrHp1MVd1GKm7SyYPqAKZCY6f+DoZA="
+      },
       {
         "name": "The Covenant (2023)",
         "icon": "https://cdn1.clickthecity.com/images/movies/poster/600/19120_3.jpg",
@@ -729,7 +739,7 @@
             "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3AuHPMFbNZhMsaailaB8K6SQ=="
           },
           {
-            "name": "Capitulo 5 SUB",
+            "name": "Capitulo 5",
             "uri": "iZRsX/B28u7A8VkuQHLYSqo/5OyLZC/N1jbUyLCVItNIojBMy+PEnHGNyUdgSDdQ7hTMCKzXe2ZozfRi12Hu6gBA2nUPG4RpiGdtyDrkhl2TBe/69OdsMPgK+uYwmf3AWEA04aprBEoqLaPuoTabfw=="
           },
           {
@@ -11061,6 +11071,10 @@
           {
             "name": "CAPITULO 6",
             "uri": "FJBxDQxMoEhA4k/uJsHVtobbSZn3gNWqepgoW6se6k0RwxvBfgZ1K5A29khaqaYmhGY5oCNpLXDX6sE0ujTpFTSaItbQBEjyUnU3QujvXWD6xtgRQpJ6GQxVYVhxmmEt"
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtsHb5IHETbdCNWl+GZ9jxjexjivEhX4+e0cljFtBWI+VQTv+MgqdLjq40MtKgU4ySbWbhYpHR9OsYF8zOeH3L/bUJ8zPkYOQx0UyUjUfHm6gyMaem7zD/TcDx6eA53ZQFfHewdUaI94m4pP402u8o9SlefctaIDF4sf1usZ2OP5gJcT35EncJHv5p3FaEnmRaw=="
           }
         ]
       },
@@ -12236,7 +12250,7 @@
     ]
   },
   {
-    "name": "NOVELAS y se van a ir agregando mas\n10 Series",
+    "name": "NOVELAS y se van a ir agregando mas\n14 Series",
     "mode": true,
     "lista": [
       {
@@ -16532,7 +16546,7 @@
         ]
       },
       {
-        "name": "El señor de los cielos",
+        "name": "El señor de los cielos T1",
         "icon": "https://i.imgur.com/U4rKZlj.png",
         "temporada": [
           {
@@ -16830,6 +16844,348 @@
           {
             "name": "CAPITULO 74",
             "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA9rgWOP2XdqIJ\nal3sXlQduA=="
+          }
+        ]
+      },
+      {
+        "name": "El señor de los cielos T2",
+        "icon": "https://flxt.tmsimg.com/assets/p10784770_b_v8_aa.jpg",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAHf+HjjGTWA6q\n+IW3gtZJ+Q=="
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAqU8uQJICu1KM\nFAu2kH2xOQ=="
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAGYPTOVS7NimR\nYkcsVGFAbg=="
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAuNugqKMiQndq\nCOespOd1NA=="
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoANocZ44gYStdG\nel3Sv++45w=="
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoALp9zN+min4te\nGB/KROWSpw=="
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA9zOgjgNXNoLD\nRrnGxlC61g=="
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAXySy378uwDnz\n0rUefEtgHQ=="
+          },
+          {
+            "name": "CAPITULO 9",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAZBY5cjjCWki5\nZpQEEHk9oQ=="
+          },
+          {
+            "name": "CAPITULO 10",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAGHOw/erVFZAd\n2gRp/5+iPQ=="
+          },
+          {
+            "name": "CAPITULO 11",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA6LvWLtdOsy/s\n3MW7jukShw=="
+          },
+          {
+            "name": "CAPITULO 12",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAgrbrzkShr5wy\nOkkia1Br3A=="
+          },
+          {
+            "name": "CAPITULO 13",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAWFmUWXrt/Cg3\nqo2zqF+dew=="
+          },
+          {
+            "name": "CAPITULO 14",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAsC3zDkW+mWPE\nwhTvsEnJNg=="
+          },
+          {
+            "name": "CAPITULO 15",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAopkS8KGQ5xhk\niMAYb5CKjw=="
+          },
+          {
+            "name": "CAPITULO 16",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAtlhAjmkT5TNI\nbwhUIZHRDw=="
+          },
+          {
+            "name": "CAPITULO 17",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA8sRX7Vj/pGUE\nrrnajcLYpA=="
+          },
+          {
+            "name": "CAPITULO 18",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAXWx5W53gtv6n\nB6sCGZajhw=="
+          },
+          {
+            "name": "CAPITULO 19",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAWiOpsYvbf2st\n37zCKUkTXw=="
+          },
+          {
+            "name": "CAPITULO 20",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoApm0UYtO7c0Gm\nNhtg0G0nZw=="
+          },
+          {
+            "name": "CAPITULO 21",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoArBOEO46v9Y7/\nZBdkp0alPg=="
+          },
+          {
+            "name": "CAPITULO 22",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAsF+bwa9wHUhZ\njAIklStQEw=="
+          },
+          {
+            "name": "CAPITULO 23",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAq+LK3bGndR9Y\nk6xpSKin2A=="
+          },
+          {
+            "name": "CAPITULO 24",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAcH5lAfjzkc4b\nICgMkhThKA=="
+          },
+          {
+            "name": "CAPITULO 25",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAMO9FU3+MaXrk\nJ0brDO5Swg=="
+          },
+          {
+            "name": "CAPITULO 26",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAA6kpUCh7esFq\nflKSnh7HwA=="
+          },
+          {
+            "name": "CAPITULO 27",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAs/FW6zmHmCtF\nfB/hQF4rxQ=="
+          },
+          {
+            "name": "CAPITULO 28",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAy/DIso+twHbb\nulWGtkQGFA=="
+          },
+          {
+            "name": "CAPITULO 29",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAAZ6BOtlXJ95/\nlXfG8Sfs5g=="
+          },
+          {
+            "name": "CAPITULO 30",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAdvTUbxKohh5F\nnCiZJteynA=="
+          },
+          {
+            "name": "CAPITULO 31",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAE0ggPs1SJAvb\nnTfrk1ataQ=="
+          },
+          {
+            "name": "CAPITULO 32",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAfNnl/WuDev3Y\nSg/yLgl1ZQ=="
+          },
+          {
+            "name": "CAPITULO 33",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoARzDLDuSMuGGy\niSj6bNzFew=="
+          },
+          {
+            "name": "CAPITULO 34",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoALe/z6WZfOm+i\nJ/RFHAwE6g=="
+          },
+          {
+            "name": "CAPITULO 35",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAQHmpzFWpKSel\n1NTM8TYI8g=="
+          },
+          {
+            "name": "CAPITULO 36",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoARK7y2AYShTeu\nA+6kov1PhQ=="
+          },
+          {
+            "name": "CAPITULO 37",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA423mS4r05o9z\noOVPVwVU0A=="
+          },
+          {
+            "name": "CAPITULO 38",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAOXd+eMQl23Hc\npIu8Wb7oQA=="
+          },
+          {
+            "name": "CAPITULO 39",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAYsxUD+dSatZd\nDPAGNEL/6g=="
+          },
+          {
+            "name": "CAPITULO 40",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA6XdVBjqfe+p3\ntibW8o3xyg=="
+          },
+          {
+            "name": "CAPITULO 41",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAaJ825ypvvZrL\n3pyX0F379A=="
+          },
+          {
+            "name": "CAPITULO 42",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoALlhwtyWolzWw\nfn0xb+pIOg=="
+          },
+          {
+            "name": "CAPITULO 43",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAtRZfA4ldGwM5\nqkFsmSCCNw=="
+          },
+          {
+            "name": "CAPITULO 44",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAjTll7bOCDZPH\nOeo8KKIZ7Q=="
+          },
+          {
+            "name": "CAPITULO 45",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoASIiLW+3fk4iX\nUhbtKdQuog=="
+          },
+          {
+            "name": "CAPITULO 46",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAsZZ/FVehK5ge\n2VY2Jvw4Cw=="
+          },
+          {
+            "name": "CAPITULO 47",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAQXhuqmgqj22n\ni3Zh5jgvbw=="
+          },
+          {
+            "name": "CAPITULO 48",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoArzhh4a8FNufW\n7/C1qLmQAA=="
+          },
+          {
+            "name": "CAPITULO 49",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAfYoolLI/LlUz\n+ube59kyiw=="
+          },
+          {
+            "name": "CAPITULO 50",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAaJD9vylYJ5xW\ndIeG98mxxg=="
+          },
+          {
+            "name": "CAPITULO 51",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA4/TIRUV/iO+0\nerVNHXzS5g=="
+          },
+          {
+            "name": "CAPITULO 52",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAT/i6ywuXayF7\nuHn13dZE2Q=="
+          },
+          {
+            "name": "CAPITULO 53",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAjKzebGbKA6OX\nqOPr8WPTsQ=="
+          },
+          {
+            "name": "CAPITULO 54",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA3fJ9BSYeWdz8\n1Fba2HBweg=="
+          },
+          {
+            "name": "CAPITULO 55",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoANjFmmhOwEUsx\nTV1TnTjP2Q=="
+          },
+          {
+            "name": "CAPITULO 56",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAGC/29KPI733r\nbTow3B4XMQ=="
+          },
+          {
+            "name": "CAPITULO 57",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoApav86MxbqxvM\nzFPDSn02FQ=="
+          },
+          {
+            "name": "CAPITULO 58",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAOtNwmD4yC0pm\nWwp2cg1uwg=="
+          },
+          {
+            "name": "CAPITULO 59",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAQ5Mhmg7iXmpc\ne1pu5Ua5mA=="
+          },
+          {
+            "name": "CAPITULO 60",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoALpPUlHkvmOfz\nshjRVUaLpg=="
+          },
+          {
+            "name": "CAPITULO 61",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAX0okFrkz7dZ8\ndKArmnZvXg=="
+          },
+          {
+            "name": "CAPITULO 62",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAiDowaPoG+dwO\nKWyUPZ8QBg=="
+          },
+          {
+            "name": "CAPITULO 63",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoArWIus80RS51H\nEEHfZqWKuQ=="
+          },
+          {
+            "name": "CAPITULO 64",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAdDr9CNEPT6Sn\nxB11M/5/0g=="
+          },
+          {
+            "name": "CAPITULO 65",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAW79gWX2jsMED\nj4G0gt38Ww=="
+          },
+          {
+            "name": "CAPITULO 66",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAst75CLusjn7N\nENl78o0CQA=="
+          },
+          {
+            "name": "CAPITULO 67",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAHyEEGStHufBh\nUTBrsogqXQ=="
+          },
+          {
+            "name": "CAPITULO 68",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoASRqhvVtGYTLB\no445BkuTOA=="
+          },
+          {
+            "name": "CAPITULO 69",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAS4W4pO0XxqLO\nNJaSQOiW8A=="
+          },
+          {
+            "name": "CAPITULO 70",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAZg/jMVr3HGbE\ndRCqCSdcvg=="
+          },
+          {
+            "name": "CAPITULO 71",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA2BPbp/VC6P8a\nZrgcTkIMvg=="
+          },
+          {
+            "name": "CAPITULO 72",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAV2G3YvUWQXgY\nfiS0E8KH4w=="
+          },
+          {
+            "name": "CAPITULO 73",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA+cinGvoWay0v\n9YfIydtyDA=="
+          },
+          {
+            "name": "CAPITULO 74",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAvgXMJmhYxN3q\nZNyeq1ol+Q=="
+          },
+          {
+            "name": "CAPITULO 75",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAtU5uvwgPGPQZ\nV63EJdvTNg=="
+          },
+          {
+            "name": "CAPITULO 76",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA+9Lyb8DIARyM\njtmEgo4UCw=="
+          },
+          {
+            "name": "CAPITULO 77",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAsqL32QWkHE0a\nfNouel40DQ=="
+          },
+          {
+            "name": "CAPITULO 78",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAMZUax3W2Q7WG\n/enlRG9PYQ=="
+          },
+          {
+            "name": "CAPITULO 79",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoArNvhshCGBWf4\nnKxK93PnYw=="
+          },
+          {
+            "name": "CAPITULO 80",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAIGCrPdQSjULa\nPX30QdeovA=="
+          },
+          {
+            "name": "CAPITULO 81",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAP0r2ICLZ2hpQ\n2nyMnykkLg=="
+          },
+          {
+            "name": "CAPITULO 82",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoA5ziwKdAcQByY\ns50ZG1qB3Q=="
+          },
+          {
+            "name": "CAPITULO 83",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAv6lclkm2+357\nFvY7fCzUSQ=="
+          },
+          {
+            "name": "CAPITULO 84",
+            "uri": "3wXA+MLB+OHxwgzxhXNt4bI6UCK5pT2EwM9L8hGruWHjYBzw8vTxSQ45s99JqRoAA6JFVfze/W06\nLJbrv5EkWA=="
           }
         ]
       }
