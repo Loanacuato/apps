@@ -1244,9 +1244,9 @@
       {
         "icon": "https://static.dplay.tech/imagenes/nick.png",
         "name": "NICK",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2drRqsoVODIIihZyiFgAuNzIJ7boK5GxRk7mGPE1/VfDXcRfBlf8Z9dvtEA4zQ4SZO0k+EFcW2IHvU9Q/0wcKAHD",
         "drm_scheme": "clearkey",
-        "uri": "jwjdtN1vPAWPglxaqI7tfyJC3L7I59e2qhFr0MccNhfRPqe09Jh7cKEKwv81LBTJs/me7R5PLbuX3x1at8GHjq9WUx6xJXwa4FCeHGMakcRIkWDbVlxpHWdU0ohRDmWw",
-        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PevKs64ggOfjs4w1S3YrYVF"
+        "drm_license_uri": "I1U3zOxD6SrRP+dTVuvOumJd7gWzbHYz0lMiqy0LV9mM4U3J0DfUCrAfYsR5J5dP"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/nickjr.png",
@@ -5208,6 +5208,11 @@
         "icon": "https://es.web.img3.acsta.net/pictures/19/02/15/17/18/5227942.jpg",
         "name": "LOS SIMPSONS",
         "uri": "gZoLXESq7RwTEos/+k+RctTEnOtEGxKbtfuQWOKAR9SdAbeO/sD/mTVyiW/yGuhx"
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/pictures/19/02/15/17/18/5227942.jpg",
+        "name": "LOS SIMPSONS OP SI NO ANDA EL 1",
+        "uri": "fKZDeeMII4hzzOisytLJXIvJz9qfPsY8tzGxmkMskeD6SJfagHwW79v2No2SD/3b"
       },
       {
         "icon": "http://x.playerlatino.live/dragonball.png",
