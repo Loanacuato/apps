@@ -4,14 +4,19 @@
     "mode": true,
     "lista": [
       {
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/voAxRv011XHK2qFBXmZKXPj2wWB.jpg",
+        "name": "Guardianes de la Galaxia: Volumen 3 (2023)",
+        "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2smRbOvZm11cRSh9cFmVQclX2pKAmpAovq+daitGNHe0TFa8FnaHZ2OQPNF0KQ0B0DQsTd2l5bMbNc4VhI9asN3QXnERNJRadoNCDjVjhMs2ddoxgY0zCCgS0EnUVCSsFK3gBa17EWUevPsrxhot2DOL"
+      },
+      {
         "name": "Rapido y Furioso X  OP1 (2023)",
         "icon": "https://i.imgur.com/iSNrtEH.png",
         "uri": "FJBxDQxMoEhA4k/uJsHVtsHb5IHETbdCNWl+GZ9jxjexjivEhX4+e0cljFtBWI+VQTv+MgqdLjq40MtKgU4ySd9m3cY1WSV2PYYOHVlobdaRYd4JodxrwgsgKOuyHNAi"
       },
       {
-        "name": "Rapido y Furioso X (2023)",
+        "name": "Rapido y Furioso X  OP1 (2023)",
         "icon": "https://i.imgur.com/iSNrtEH.png",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECLV+bm+fn2u3Cu9MyBP0wPIYjr+8n8Aw6xo1+NdOqlGaq22tLZkRnSDJsPi97i1/vuiWEqA94NXfLZo+b0vX1NcQ7gHniz14BYrnkiAXoU3Q=="
+        "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkgh3CTRVLaGMROX2+BegYs9AzCfkI5A3G8oE0dgNDEd31cxF4VzeP1K67uTrPfv9gxe+gfjdAvBY8EeULwKWdOxSGFoCxQqcblMFYHzfCRks="
       },
       {
         "icon": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bEcAUzv57bdHLoGyjJQkyd8ENUY.jpg",
@@ -156,7 +161,7 @@
       {
         "icon": "https://i.imgur.com/FbcjFZE.jpeg",
         "name": "CREED III (2023)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KECoj8NNnQc91zIud9g21uuwDOa7oGNOXBeq5wruhFH2KHXuvHXPXmHywekW//gxzbAAEW/M6Xcam0kIPs7KRIyCbfGXahSupqH9sn2rO6O1Nw=="
+        "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkGQVWHU+hBqfvWBfEHLmRxDsPatRdqAmgiUC30kTVvCDkqvhd32ZpgQO77c+x4/ZcXYQxU94tITSJFCmZv8206A=="
       },
       {
         "icon": "https://i.imgur.com/5HGDv0u.png",
