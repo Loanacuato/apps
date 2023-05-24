@@ -716,8 +716,8 @@
         "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
         "name": "D-Sport 1",
         "drm_scheme": "clearkey",
-        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkSJC+frttzQQobh7Zygv4AmKPeyeVdi+KsrKrWmpR6/A==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwzqQZ/8q2jUo8lMDSuJq1GhLEIQZpe9ngQelCvgib0F9Pk1+4cnliOtG9yUxLmtQqof2/kPntayws5vHFRwOzLu1pigRNVObOQL9ZEZWnwbk"
+        "uri": "73WN51BCYvKeH5iiGIqm6udDYl0mwPoKk8BSFREqvYWwIO+at+N8gDZOtfQAewqN",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw875adcZp8XqREzmqKGMR0eJLPBdoJyJN30ISaRE8iLph1VAA+eUouL8QCx7wl+ukc5jXLQoW8OcSPkS7zuIvkgTkXGAflzH7xxx/KpYFaSX"
       },
       {
         "icon": "https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg",
@@ -888,11 +888,6 @@
         "icon": "https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",
         "name": "World Poker Tour",
         "uri": "JprSQ9X5a5Bm8tLMUuK7aZEjWNDXNALVNDxXRicfHcL3AfalN0/tbru3sgZn9+xE03tJV1nAko0p\nhKYLRgwiNBueov+dvhPHb5gs4wnCtu9YCEGED8xaB6OZxsNqdfkbdqzF30351BwsGSCBRJX5gQ=="
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/daznf1.png",
-        "name": "DAZN FORMULA 1",
-        "uri": "40x7g7hkccM3aNRJjOk+2g9lXQtEvgaLMHV3Ep/8E5x9aNx6p8Wc+NuYVX1m3GUH"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/daznf1.png",
