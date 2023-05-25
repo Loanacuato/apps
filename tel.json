@@ -713,13 +713,6 @@
         "uri": "qQgxooSYUS7FMPyYAqyIRbJaX4IHMOxcve7DLnykxhQrxJxw7SVCSktvX0U/+Z+FvFVCGA0le1WDVxqHkBc4BuRo5aiLFBf12A648WhKVfQ="
       },
       {
-        "icon": "https://www.directv.com.uy/content/dam/public-sites/channels/610.png",
-        "name": "D-Sport 1",
-        "drm_scheme": "clearkey",
-        "uri": "73WN51BCYvKeH5iiGIqm6udDYl0mwPoKk8BSFREqvYWwIO+at+N8gDZOtfQAewqN",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw875adcZp8XqREzmqKGMR0eJLPBdoJyJN30ISaRE8iLph1VAA+eUouL8QCx7wl+ukc5jXLQoW8OcSPkS7zuIvkgTkXGAflzH7xxx/KpYFaSX"
-      },
-      {
         "icon": "https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg",
         "name": "Tigo sport Bolivia",
         "uri": "l5J+KyHNJkR80SNWEKwR26CtaQx+28PXrvwHAUplwbsRfda0leCLovC8Xjl6ys9W9Qvs4rwZ7j+mU8dWSaMzQ+k3Ny9rPJhOdiWFRBlsGBU="
@@ -754,15 +747,8 @@
         "icon": "http://static.dplay.tech/imagenes/dtv1.png",
         "name": "Dsport 1",
         "drm_scheme": "clearkey",
-        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkSJC+frttzQQobh7Zygv4AmKPeyeVdi+KsrKrWmpR6/A==",
-        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PdlDT3sHwYhNdOiGNznExWa"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/dtv1.png",
-        "name": "Dsport 1 OP2",
-        "drm_scheme": "clearkey",
-        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkSJC+frttzQQobh7Zygv4AmKPeyeVdi+KsrKrWmpR6/A==",
-        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/J68cJ8rUOabVikWHFzQEx8k4sGZN0S66cvvzoanz3mfkD7jdqAAWndXW3UXWx8jc3jJV3orm44vGiHca0HLXRRelN9uumpr8Kvoh/JPULo2g=="
+        "uri": "pgICKgoKXbD4UOHiUHLPHfFswTpzeBIzD7P8XE52lD66WXC3cVmhV0bh9pJx4YPa7g+bKEcYnVPC0Tw3DElUMxfN4D822b7b9M5P+K9c7xw=",
+        "drm_license_url": "KQrYOw1Gkt3DFcBr2spnpfe1AzM3mwqb/kdR+o+ZpMUhU8K9g4p/FCn0RDnAyfYN"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv2.png",
