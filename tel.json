@@ -702,6 +702,13 @@
     "lista": [
       {
         "icon": "https://seeklogo.com/images/S/serie-del-caribe-logo-1792D5E374-seeklogo.com.jpg",
+        "name": "PRUEBA",
+        "uri": "pSFE6tKUwRrmcuesgrLQd553hJKNi6CXP0n0PJ1+ESnUqCKf/nMNNSNn0FYkXp8E",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "b7h9frGudfHZK2f4YTtuzA/mWA+6U6vqsPaV3qR5H7o2/pgOpuiX4msv2En9ALQbYEH5fWl/sE9N30jevCH8tJjoYsqGu5XCi1tcmkjxhBSDmtyPyND5hNszP2OlzuJv"
+      },
+      {
+        "icon": "https://seeklogo.com/images/S/serie-del-caribe-logo-1792D5E374-seeklogo.com.jpg",
         "name": "SERIE DEL CARIBE 2023",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smnpU6dL0qRT3eJDdHUPPvq+cAYMjamNt4BUSrVnZZnxWA==",
         "drm_scheme": "clearkey",
