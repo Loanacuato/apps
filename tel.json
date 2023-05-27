@@ -2487,6 +2487,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.ibb.co/9Y2hFK6/Pringles-Digital.jpg",
+        "name": "Pringles Digital",
+        "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnohXcYxm+bJdWp14OmDN5rOIHIm3Vj9WoRL8FN/9tAmL36UVfT4Q1mgD6MJSv8ZQmE="
+      },
+      {
         "icon": "https://lh3.googleusercontent.com/-5ca98mWuI48/X1BU1VE-fFI/AAAAAAAA5MM/DPmAa2uFmTIH4MOJAVpjUCCClixnPOP7QCK8BGAsYHg/s0/2020-09-02.png",
         "name": "DIOS TE VE KIDS",
         "uri": "3eHJQuhomQ3B7ZhYrB9xpXhGyvsMK1Hehs2OMoU5pU+Ikwc0ygQIBSxMKoVtBQ/vyU/V98kYye5/RztSCj0wiA=="
@@ -3062,21 +3067,6 @@
         "icon": "https://e7.pngegg.com/pngimages/862/837/png-clipart-logo-vevo-advertising-business-music-business-text-trademark.png",
         "name": "VEVO SD",
         "uri": "7vhDukf/dm2xxFqCRRQP7PQMOsMhn3TBWAXNYbWeqza3wxrLuIpLUvnk1VDK5T1TQYl3vbkTOWhTW2gutgKnLXj5Yjp0h7GQ7cZFuClhsrA="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ec/Telehit_2020.png/revision/latest?cb=20201008230521&path-prefix=es",
-        "name": "TELE HIT",
-        "uri": "D2jLokBxFj/Mr0k2a6m34Pw46gJxVUNohgiH3z2uM/90WwOuoujrV7t08rEWiOTgrI0spI7jGcm3/lWhShuh0ZQpCco5OFkA1ZqrArHn53A="
-      },
-      {
-        "icon": "https://afiliados.televisa-networks.com/wp-content/uploads/2020/09/telehit-musica-parrilla.png",
-        "name": "TELE MUSICA",
-        "uri": "D2jLokBxFj/Mr0k2a6m34OahWbLQNCRBBBuEChptqU8j+YE6iNRBphEh0MhoSsDJ2rzkgnBGQZmmSfoc//JkQYRqN9DE5u2Roh32Kp+7BUA="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/8/85/Telehit_M%C3%BAsica_Plus_2020.png/revision/latest?cb=20201012210842&path-prefix=es",
-        "name": "TELE MUSICA PLUS",
-        "uri": "D2jLokBxFj/Mr0k2a6m34K0VTOAewRXKmC6Cxq9aDJqDMtCHkNIE8d6hQ7LGmH1A7qLA59yngX0xJW0hFgkU15T4P4SEbZ1X7fWAgBg3zzI="
       },
       {
         "icon": "https://directostv.teleame.com/wp-content/uploads/2018/04/TV-Pop-Chile-en-vivo-Online.png",
