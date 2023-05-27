@@ -3489,11 +3489,11 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://static.tvar.io/imagenes/trecepy.png",
-        "name": "TRECE",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
+        "name": "TELEFUTURO PY",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9lJKLu4a3Gp7ZYmUky1kwpN9lckSZSm7tKx8VJE/HoChf0VADHTkDDjvapo5sLswyGowo2c+CyZ4VuPAubnItx7UhZrv9pCQV6vs9CTyarUm",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwwuS85PoR84yCOxlowkPGZfKfbwlqRybRYYgRgm/mdMRa5fo3+WOS3OIeCcI7GjerLeZuLmPvtNziBzmcrBjeuxcaUHjQaXiACiZ22R9YazP"
+        "uri": "U0F0KrZQY+s8tTJ7qxbYlZgc/w+nZzITb1WDAX97JjHfO3Jyy6T+hXNCSLBZx9wkeZ3xgvaDXeQUiUfr5EK8y0IuWyWwzPWznT+5OPmsqTAI0fTVR4vUdYqbeNFLeRTx",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PeHy+0BLwu5DN4Qh+Be+1Ar"
       },
       {
         "icon": "https://static.tvar.io/imagenes/unicanalpy.png",
@@ -3539,14 +3539,14 @@
         "icon": "https://static.tvar.io/imagenes/paravision.png",
         "name": "PARAVISION",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9lJKLu4a3Gp7ZYmUky1kwpP2iZrbMsQYLDgdX+UjthOiC6fyoKjPqkLOeMJlexwUWMYMwpcIRs57yYh8ioLwwnczM1O1Qqcv1MwmBSaShOU3",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRww+WvPI5e24kaTOa60lHmbh15ngegUg05P1l3TcLJosafc+Wm/9Q6fJOVkad0fpIxGksC2YhmvYk9IZLJjwTLCHGGTgz+VIH9GXTkCaAA2ET"
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dp27h3LmV79OK9eX0JAdgiZjZeGHwsdYpMUET118GfRVoTl63lkeA77GAfzU96EDcBVtT7r4xCWjIbPh+4+4QnD",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfPIvDUvvmv/pwAOEyiqogB"
       },
       {
         "name": "SNT",
         "icon": "https://static.tvar.io/imagenes/snt.png",
         "drm_scheme": "clearkey",
-        "uri": "hSfzDHrQ+u4mu42iSsVD9lJKLu4a3Gp7ZYmUky1kwpOPGlrBy5kEVrTkOajC1+iWlQGUGTksM9c34qw8lJYo9I5SbFTVpq6aFnRw7WPB6w2nkwdNU2RHcyS4mzwWeyw/",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqrnytlRvF20zCKwcOrfNditkp0Uvacy+Q0Cv9UGvmZZCkaU9lXK9OoBewYVW4OB/1GKzufKRQPvLwXL0HI46Q3",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw8DZpgSo+6O94dT+gwlBRBjIUOsffqzUi23WGeaW0NjCAyCNZ8TKEqnRh3phWllBy93mjUXBNIyewIMulrT0UacneH41PVUXf+km1fUnc1Gg"
       },
       {
@@ -3604,11 +3604,11 @@
         "uri": "76Wkrp7B5W7fEMAwxf6Dg32akMhEAgWtxQ0AUNP1OXuK/c7bKrhzdAn5olPQrQDFrzGFyujeVZ/Y+vldtdL8dg=="
       },
       {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
-        "name": "TELEFUTURO PY",
-        "uri": "jwjdtN1vPAWPglxaqI7tf9hwuDqRqlRpJwcE5Q5uTuw9MvGV661JrOAeuuRrhT0E1RkQzpqmEAx+HG3mWH/18knyxHfvzLfDXzBfsl6ZGhu+dnfqdstkJXp4rhUXz2v1SimMXpNXgROmMBHzjDALEQ==",
+        "icon": "https://static.tvar.io/imagenes/trecepy.png",
+        "name": "TRECE",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqrnytlRvF20zCKwcOrfNditkp0Uvacy+Q0Cv9UGvmZZCkaU9lXK9OoBewYVW4OB/1GKzufKRQPvLwXL0HI46Q3",
         "drm_scheme": "clearkey",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwwc0F37MhGbnCOemDI6JJPpAZrj+yK59k5hqwopqM5dVcHg42gwnzGMkd9Asa7AnUvry2MstV6xeeKC+UohqgFQEEwvP9k56c7jmvoVIsr6X"
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PclolXROVnryzgxwLN7jZAd"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
