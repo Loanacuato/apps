@@ -751,25 +751,18 @@
         "drm_license_url": "WUpbdVOTsSN8/X2tueHZ2SsZJ9rddF2xlt7nJwlanDQ9/mO4hvoe5PUW3UfrQpz2BVsP/dB8Jb0tpDyz+lndvKhLld63+TRPXJhxL2s3yUI9unzPb07/RMM45jOBdjWQpZ3/YcI/Y2YepKckYXZajH0eM2jewKZDroCMOpq5QRc="
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/dtv1.png",
+        "icon": "http://static.tvar.io/imagenes/dtv1.png",
         "name": "Dsport 1",
         "drm_scheme": "clearkey",
-        "uri": "pgICKgoKXbD4UOHiUHLPHfFswTpzeBIzD7P8XE52lD66WXC3cVmhV0bh9pJx4YPa7g+bKEcYnVPC0Tw3DElUMxfN4D822b7b9M5P+K9c7xw=",
-        "drm_license_url": "KQrYOw1Gkt3DFcBr2spnpfe1AzM3mwqb/kdR+o+ZpMUhU8K9g4p/FCn0RDnAyfYN"
+        "uri": "mE1HknBiC6w90R89CUBLxjKsKMMt+A5KGX7mzH4aR5WvNGz63njIi58ZPIxTJ/t9",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZLp7H8bRssbBC0VaJsfTUk"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/dtv2.png",
+        "icon": "http://static.tvar.io/imagenes/dtv2.png",
         "name": "Dsport 2",
         "drm_scheme": "clearkey",
-        "uri": "ASOgYgTbt+xgq+EVBpD0mhfCc5kfkiYbAX31v4lPv2mbGB7sgPQ7WYZNC7GZYdHh",
-        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PdAkwrRiIV33cz5kA5VD+aX"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/dtv2.png",
-        "name": "Dsport 2 OP2",
-        "drm_scheme": "clearkey",
-        "uri": "ASOgYgTbt+xgq+EVBpD0mhfCc5kfkiYbAX31v4lPv2mbGB7sgPQ7WYZNC7GZYdHh",
-        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/Jn+IEpDuHDm8sMKWnGf63UXbuqZA24lw0/kBxsvx5YO+MlEhsm005eMh4ACqTb4f/V5UTy+vhWlsPf49bIi4c4S826aoFTB8NNb6dFOCIAvA=="
+        "uri": "mE1HknBiC6w90R89CUBLxtkflFcQ//ZZw4Wc7Hxl+EwJ7Fje02uX0i2uNHQ0hRBD",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZwMNPuXEn/RHMvgP2wFDEg"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv3.png",
