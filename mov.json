@@ -5,6 +5,11 @@
     "lista": [
       {
         "icon": "https://likefilmdb.ru/static/images/film/7/62866.jpg",
+        "name": "COHERENCIA (2019)",
+        "uri": "31wsKWuHBmRpGVxLnDdjX4LY9Yx3u8mBuvgqWTDhBQXTtP4NWENBNG+meSgdLH2evm8TLQBkNW78UwIJyFnTbUO6BPVVBROb03Gy7Z3Sv/D/2/VxzVwZFSu+fepZyHpxgK9p1dVoi7VslZzAzFCNjQ=="
+      },
+      {
+        "icon": "https://likefilmdb.ru/static/images/film/7/62866.jpg",
         "name": "TESLA (2020)",
         "uri": "cFQ6B6hc489/i3eoCJ3pJ8lzRhIh6OFeL3+AM4N0J+yuPKpRxKEBvOXsxIWtk7Ux5/oIW0erzrWyK0i0vWTPUhS3x5FQXnRYeQ0ENU6/LlMiryFdJscKcZ8zlC30LzqTcIYKOkvGvp0xPLEPUxSCEzTkKnd0jhGDp/JxbQMYUvyctaYQeRLxKnFlQ5fKfP8+t3XDoakX7Xl3wHen7iRcJsTP9E49eHVSI+2Y5Y4eHZDGUFxp4tXPw+P+LAPIQOaIcKN+5XTtJ4VW+2C4YEcEw9J+MS3oXN9q2v65weFq0AJxsbpfVEETSyxzsJXamK9c1WxrDzrFdv7/Yeqpu67YFhzD0d+gnNXVuMI1hJ/w/V9qId+Kp5KZTPO+YOmvKPjEmjf+B5OhKc9HCEom/R+qPQ=="
       },
@@ -11154,6 +11159,10 @@
           {
             "name": "CAPITULO 7",
             "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXCgoLX+kmC3utFsi52copPWue/YNwVtn6Ooc4k/y22sSw=="
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXC7vK69BzYM0j7Xk8lEmCLP/pFAWrjhhJ/+HZ31u5IKCA=="
           }
         ]
       },
