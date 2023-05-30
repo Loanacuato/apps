@@ -752,17 +752,20 @@
       },
       {
         "icon": "http://static.tvar.io/imagenes/dtv1.png",
-        "name": "Dsport 1",
-        "drm_scheme": "clearkey",
-        "uri": "mE1HknBiC6w90R89CUBLxjKsKMMt+A5KGX7mzH4aR5WvNGz63njIi58ZPIxTJ/t9",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZLp7H8bRssbBC0VaJsfTUk"
+        "name": "Dsport ",
+        "uri": "IU9XvXT2t1H7nO4rTARmhTP9xAtcH9OgB31LCutvmmR57TchxfOLdkFKVkws/03Y60osoPZcIvtOLKh/tkO+uQ=="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/dtv2.png",
-        "name": "Dsport 2",
+        "icon": "http://static.tvar.io/imagenes/dtv1.png",
+        "name": "Dsport ",
+        "uri": "IU9XvXT2t1H7nO4rTARmhTP9xAtcH9OgB31LCutvmmRWSaF29yLYwWV5zbJ3eHmHlFJIrP5+FgKTQYCTBZ0n5Q=="
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/dtv3.png",
+        "name": "Dsport ",
         "drm_scheme": "clearkey",
-        "uri": "mE1HknBiC6w90R89CUBLxtkflFcQ//ZZw4Wc7Hxl+EwJ7Fje02uX0i2uNHQ0hRBD",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZwMNPuXEn/RHMvgP2wFDEg"
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw5fjXLiFPgNX5+EO8+Hfdel7L96If2hLWLpYJcqiiOAO4sypwvuAP7aSB4uHUvYY6G1gfLZjinOrvTkOODYSS9DijDotw8zesWfNh16yDL8/"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv3.png",
