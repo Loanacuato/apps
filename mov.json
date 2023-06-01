@@ -631,6 +631,128 @@
     "mode": true,
     "lista": [
       {
+        "name": "Pose T1",
+        "icon": "https://static.wikia.nocookie.net/netflix/images/0/03/Pose.jpg/revision/latest?cb=20200621173013",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "k3AuwVHIV9sAVJy6SrEujnp+qZIDXIVZZ0F13sRvsrAY4ESNpgDDexT2nWJIruPbx2SqpTwUm0kZabbETbJ1UoOW6caSVspchA3V3el5W0zSmDWV+Wgr7ktgRAEVQn7czAkhdnY6bDtRzb4VwxuPyw=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "d2U+Qt8BamGZDAleiHULR3Xr0QoDr2Fkf8QYTjE1wNAym5WlrQUre0dY9b5rhcp/5aryfps1SW0okDZpsNkzt0d/agCO4WZfvpIXKYofL64eZRgyIhmrqx0jbw5scAionN7WgD0tMc0OlMegqUm21w=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "MhkkAcVlc2w/3yRPCUxIrc+RlTnpr2MBPWYhsZRCpKhGiacCn0Mo1OB7mFwCfaW2fs0ZSHyVPrHEd/2ofARiaSgdOOF0yipXN14/y3V0mNVcTCTM6UhWq+v68AEakxkUzUrOvvmDurbmjYhK58poXw=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "Emo77Py9MBbcmgS610cgC88SwbLr2uDfLqH1MU/cLujjUzWiSpJw9fIWh+VcbMWvRkyZ7gsBVx/WRRZvmrAVsgxKrNJbXmcwmhzwXgZ9mOfd3tjcnhm8lyUmGgsLzssb08FNxNn7Vqd0MC6aoN/11A=="
+          },
+          {
+            "name": "Capitulo 5 ",
+            "uri": "yoadAaxKZVpNS89f3HdkeNmjmgXsSqeqfmmHmBPUsyZgfxp5ujnkMcsaFr3UtlubVEDoRO7Rj++opGERbsQFF7Yovt02yw7kixmpWcfVuaIUD3SwdpIBxFQmXLlGLeGMY0dmCgytcUg+II2aj5rnGA=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "+5n4O57YaiojDeLAxYqeG7d8MsP4aJnWmpVX/rlebnAe3YKz6dn7SLM+BR8+63KAM+jU94h/AH+6fW75OhelFF1enwcxzzJinGuo/GnVQqMqeVm7LJummsiNXHeAwU19Xt479Kgsg1rGXdRYH4GCEg=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "/ykihxH9Wx+rnqLkzmdTalT9ssCLxho/2piEKWPtNnPUo0m4aGaS05KH9adocybX4tLLM42mlZJ/drxFAkX759xWtWCEm9qfBZGUZLt9SfqkQgQovFZvxs/vs+TPbX89/Fxgo1MT+10DQfORPybZ6Q=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "Ix+v4aW8f1YcHfXo6AH1+AkLOHsLkcZKObPVIWq5gOU+Ow3FpZvGHwF3W4qiGPYzTEMAjPB8yyp8fC3O4ojdsO78QENMkVbmtYI/iQRvA9jwnGq/OLIINxt0xzIZdOBEFHkqvJSuLoxArO9xQLvuEg=="
+          }
+        ]
+      },
+      {
+        "name": "Pose T2",
+        "icon": "https://images.justwatch.com/poster/127860185/s592/temporada-2",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "w96K1Hofjl/l8CLOgddna7JWJ+g7yPKbDX0DB4gHbYsOU30NTaHg9/h7nn/VUoq/YJZqj8WkeXMa9kus2mZO9MSlGaaQcDCyGFQy/GVaHB2Pk+TFM5ipDe7MR8sEVuMkFS+EqesxePCNF4RXWCKlZg=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXBsouwJukpDg+v5qBVXb/PFOtzYiMsT1+y3e6WKWABExJY7DZ1kn0Ul3qmxBxaZ1iQ="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "TbR9qt/VtH42BZWC0r9jXnEwX8q9JNNl6InKh8ONMrU02Yl6YkQVzbO/9Z9pJag9GeH8asFNGiFXdO6cVM/HXObo09Y72e0qanR510+wBj1+Kz+YtZ7BgQUk5CqZ6P/XH00R+OAxwiARffQhZ2y86oa6+3zE2dFcrPUmL2we8XvLjiEjQXCTW8nPbSfpjAUNQA+DvxYGWKqx01X9cY2PfKRtTDhZkXI4o8d6VVOgZpnwa7o38n0c0F8/KFMkfuP3k0eRW0W01bG2Yqbkm4/OXB0lNDiMS4Tlik3nfi1ZZRFO15AQL86UiZhVQVSCePEciKwxbmgDSSTdGAFbHaWxdrFh2FHiGXWKIAa9KaPuKE5AShyBNcQOnAqk2Z4r5hsZZAzY+cT3IDqsdyMwcAX4Cw=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "az+nm024+tseAC62BYDMY/ax+T9ipyQkR50SBEOZYWXoeQhMbumU2aaC1JVm723MwVms+8xbGkuHP/fdZiK8wc8EaLsBPb2LWb0y96b/TzHqKfO25jQmwaufUl68K6KXUPq6Wj90xIkzPbMpt6gQ3q0C9zy1mEaE811y8qSVQoL3FA2i6d/H6wRapHRdyUx6GNMHWO74nmZs58fjVfm2lMlXubfKUKq3+npsZ0FIh9Zrq2iURbgwvc2WKnKY/W6QgaLPYAHD0SBFGOS2WPSdPJKWdWtCtNMX9UxFHW101NA2cjYzcOwAFNHQRVqs1BE8tcjr9TC4TIw0hbDLe2XBAeLsDxYbclCjb6JTNvrzYdqsT8XBqWtBsXiSUXsNxuRsKkSafdDObxM7sADFU/bJfQ=="
+          },
+          {
+            "name": "Capitulo 5 ",
+            "uri": "E7Tk2oEZgdb4CDRxG2r2WW5MMpPoRpp012Q0YSsWr5IFx3+3IG2DcPjoI1S2RrMNSDPQYMNkDwt/KcS1PTnqTedwtTvVngfMMkdTdlIf0Fh98rNf3lh8IS29971j6FXDPswe2tHk4gSSCUVRnJaiJg+6d7o3LT0ZwxyzZkwoqTaggcTdHcYBysr6wW/r/Dkr9u7byHZfYMMufAE3bgGs9Vbw4KHRvH2BMfITAgeUUdp7lPNkHnvsTTFuhBaxW/SN9JU+7rK7AGXDdSKGo22edKs+9pyZfMw/wrKjisZjwydOsLmyniXIFBwq7anIJtb9XFvxhl9tGr5ZTIdXCkmtd6ly2Ty8l3XZXvGB9MB/gMhAkrtKu7tBEKn8kgDSKy6L7X4psvXp1m9LAyuu+/B4Iw=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "NGznRNjpRyj4gO8CWFFiahKT/LYSDBc3FYbtphsgKrp7JZCpldNrMC3t2zTFAC9kgT+1Gf7H4zt+7bEKnCo9gwbWdWGOQeetZghhiQehAQjAqR+Yu+GkfcCtD3NNP2LrGXZ5G26yPSdzd2HIhI1cWJB75jMYTdA+QkY0bNPVe4J1QnCySEKYwL6ULsZFeeQGvCOZUp9U+1XxaJK0nA3EgJKfcY9/DITHcp0tv1MqxliDeOCBHR01OnhBzrw5lxva2w49/s9THdjYduJPbgfDn6Z26pULmO/c/D3qW2Irigi1dOSHVxuGaB+cY1AN3L2gtdNnAgZE16WSE521sFAHdfzaOn2tGwJapv5HnMXIz5WqQZholoTNoY6qeLbodBddz0yQ7+iRogL7tF/mDQQ6XA=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "qdX0pOcJK0rOaITsLG97uWJxGwV/8Kz1lrusBUTB0d7i0ETL30cr65zsyyq86/+IFF0shMak6hXiCX+wfuK1dszKI1adfNlGiM4tESVOONWwDuzcQR6xHXVriAPo6L0Ic81QBwBUZOpKxW+XlWHQcqEgkxEFm8nEnEwBOWwLvWJ5RLhdbof12RiFh8rayCeAdIE52BDK5Ax6XN6jllGhERy3pqcj8j7yF51d0HO1/QhUfx7hPh2bobzJKbiUvcnvXN4nuBk3U42nGymGl0ScpbnxDPdKUhW+8KfpiBtHRF8/MGcvEnX0/tF1liqBnW6wL0SzsMc5O5bjzniLxUrrYsqucsz7Cj+YGv4PfZAvFfmG258HHHwAKtVv19ZBhJs/8S1qQEqRpsxoYgVRkjuP1w=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "TGxgAu0wot7mZVSFsWxlFZhQPnXp4t5/OWQV1aK6xxx4ByYcOYP31iFzKcALD0RLciDFft80FyOG2GdrKvx0ksNiciDnYTB3XTHqqgmEEdScPJYqJ5w21vlPTzgR5sFNlH/t5xFHadSqsAQ2kICdAic3P8i6//P7jL8ZDKoq5HowemhQ02SJewfQ0g3fzINn9mxhKXIceZlNK51l9/+Wh4cxNoDLs8nTSMhIW7Mw2H8UwDgNeIDw2N+XqwlcKDHptD3dYAhouY/DVVd2tleCJKFVGeRuQijaODQvFI5S5Y15t3UR0/Cxcbg1eIPtjIS2TFG7627XL5xT9N3NXek4GY16wc2V4qCu47iSUPYzxhv0C3UGVsGNcf5Trt3PEaoeVqtJlMcSta3UpTvFPuhNQQ=="
+          },
+          {
+            "name": "Capitulo 9",
+            "uri": "T8XZw1RKtW/i3SZSVmjX0eHvtVguNRQ/J2q70J/Abe0qpNEuGQ6bsg4HQZoZMJLBSYNay2uSKo4oiRkOS+ZAesTmHmMAUhClzlY20GXBpATz/I0+ma8xVFoH1Pcmobi7P7wRrNnQ1HjdLrlC32t6kCZkJKMkBnf/WPKYyKGStJ5tkOC21ejFX3u3zSn3Lhljy+ds3cLXaaJ6DvaLsGP4AGa0bH6o4wo5Mn/EHmn3rzAoxv6P58xqKuRvn8uz0B5lmvE4OkmI89+xs+Y+c5UDWrDyuQJjWTuJGUeqXupRmhTeqP5VBXqdSyMVkYP8p9E6fojyHyAuHAErKMhG3w6K031UA0GYGidpDLIXkUhxgInOgWGJqlnX7GVimFSA5k/NBXnyp2HyExIUWOYK3W12nA=="
+          },
+          {
+            "name": "Capitulo 10",
+            "uri": "PS8hZs+jQaDXMpRHMINCAPSU7Ja2gG/pKdtMESKt/PPLDGrEKbO8HvP+x6OJ3yCLtABN4bJMGvrL760pe2+wZZ6moMiJWOzA4k0Bnt6sZE55O4birhDPaRRtSWSPP5J4oXY3vRHFZe4i0yF2iwfy74EFViFBzWpW5URY3N2poysPXn7rlegiWSu4uI7jHjrjl0Gl8A9uORngeNlMoJeCG8nrHn1vqj733x5Aqh7jW4LIMACFw4wMttnKXbbDRaj0zpf3YKJQYy3OPVR5Hxzaqqn7mWksAOombOHoLkxADW+3AtcWzmrYhgEh7dyD0c/slh1y88TdaUn8JMr9IVB/YHRMbQ6vlsVcSWuT6S8AksGY2ZtZLBVXvp1xX2VO6AFkRzNm8m7Z0U3V0dGn4gC2CQ=="
+          }
+        ]
+      },
+      {
+        "name": "Pose T3",
+        "icon": "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/324371/324371_173x252.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "YiXAOMhOM96kGw4+XbcP/7sxGwYC5C6coV7Hc6XpLmxEerqK/2AR/IKSKKm5DzaSxTe25z2Z1z0WefS72LMWO4m4WAbywTwK14UX3P4ISvEVOwuu/H4jliVEGirR8UJCT26e7tLUBH6fn/qUzAZkMICGwn1FaFast5ZlbEGDowE1X+53K2Ls5scJhFgEDS31tIXXbUU/PZX0l6yRAaYdNc1ZhGhu5e2pS1Q6E8eYM05n+TGlfReAOrPcwBCjrEJ4NL0dEDVtmoP057eMFb+C5o0poG5GWEXsRUBtFVCnsIYJZeIQvFkGwJU6J7tMflzlRaaG0hpy94cMGhcDrx7z6VY+eRzpAjO9PtS+vUIjcJp0aMMZlc2Gyse9H0i+n5Ay3XLmiU3C4/qjdgfLUgehdQ=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "jC+fJjeYSfXPipPSTIysBLZNpNkrCNjBCF/s8zRey7fA+vVtJBlvAMsPh04V9d0Z/EKhVhqJJMAyCzF+rZYnvNxPLtGKnyDolG37tGXMZBbx5Ee1Ox6Jxa+qwd5dDUxmT4Vu1Nn5ykK2YmD9bkqBgHNbSSDQd/f1zRDkSvSuN+Kng8/4GexJsVbsjkeZDn1ZiDLqhghTXnVfNtyVzbmpqoo0KB4TY5Byz+BSLfVvperLbdgCour021dq6j2XwC7LqFqpbBbd0uFoNrRnS59qt24E+LNQaxM+50CtfIvWse6yBIjC2ispm2Nf0umSZuDLReBIiOuYJevwnRei9I/QSg8PN7li9xADVV4U9Nl+8EGZZiMDzjV6tTU0mmMC89DiiwT/2MioTMqjt8+zZpnsGw=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "MC5qd7l8FGsWddF/nKoaf7g07HRVcn11S5RO9LIsNn1OAWSmeCi6saZqJ2s9i8DGWK0tq0cNZxbMnYmMHZF6TGd7m2Au3YQcCdbSvBzeDd0WXtKl/PA89Ul9e3opiw5rlGjxHps5Kgu6YIwYT67Hko4IbTv4dsho2lkWVhtr3afxgN32fLI5hn/+RjUZX4p/e2Bd78f8x1t0IemqLs2aWBugsWGl8pCBcaIHTOj6CH5YZRgRMWEFvAAfaEjA3WSixE83bHGYr8LJgWS/krcTAq4fX1kdbIXy09B8HISkQPgzrmQ4QCGTh+mthJQE/L6Tare/pu5EeslC2b5uWVNGSI4ysiHynsTpskUlbQ1rdEXFBFp0pBygjP6VyMxd08E39XZ7ybv2e/cxxUA5DRi/qQ=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "SH9yPD3PhxjyyRbwIrIhAiXndyOwXO4iyMueuw9WJsCyITPkOY37BTB+NV+eUCosH76kLKf7xzTXgZyPrKsPRsgKTfT01NnKcoXJzsPhei2LOaJ/oHeTOO56+jFydPKnhWLPdXbJKPzwyi5TbujX6H57l1ZWgRYcCz0PQNTlivFHZ2Oj/MI0ttu0D1voMwpHRJ0g8DNloQFN2GyCarzdrhI9Jrkcp11PhcRTK65UETEsik83TYP76kKl4X0VPrka96MjNXR73b1oFZGpQ87oOSrFvJlWavOwr0XXLpI2j6q+LH8r0wytZNbC88DXQ3KsQ2GytzSwzo0lGoB0zRMZfK4h5gAF1BDJmEcHnM8IYfEnSgSun26n8nnsGq2l/ji9Q1mNXE0zT0VFdNE6KIFMPQ=="
+          },
+          {
+            "name": "Capitulo 5 ",
+            "uri": "sv/iNFomMwvApBrPyVteKpzhXzwnclbypN8bYF+xjwbaOun1uGdMDiSaaoMnjpstE1bXcw5fPmgf8i9mgOIaX9BJFfjpu+y/05aqL15LwIfxy4oPWri5pn7J+n5XuvDZCQL8NEkiMGrqKsVMX2Q9+LHOpgVXuzRkX5RnNb4q+G1LQ45O8881Z1XtHhsfT9UnYwMRMQ6AK20ekitVihrP3nFDlN/V9AX1AmlUjbwJ0TeF7BG6EWQQjDeGlIAGcBRCIAFwvUIoEqBeiP4DcpvPlu4npM4HGMIwGz3xxyHgPnUzLgMFjaTPYG7X77XH6ORIXIs1LQsURz01l4OzmgQ/aR5trQru+7QDap7y5lB/+EWV4Gu1A1m8WtuJyxc3mcjrkV1HQqX8RG96Az7G3ouSQQ=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "xUx8KXLEYhdyTww1ulOl1Vd0vKEswiERYWgpn2ADRTcycJoN8d+01uL/gjkt29qL7GqNBSFhdk8BpnPkZVmkuYsFipCpOkzgCoJ9ujx8t/FfHnghW+Gxnz+SjQTyUOeUYkvv06nd9pNyYLlqyXzI9Hbm3cKDdAIHJTLWvNp5+AmZ51LCI+JDQsJpkkI8hAAP6wIeAZyA3CoE9ch4yZGz439mnJ/XpaQ6l2TxKo1qm8NKWMGVOX9b3qORkSltipbLuTMrO5donGyF54/iFHd12jL93N8RpejuobmdqK9EiC3YJdt2zCAcg9i0e4JC3DJV/NpsD95bMxhoW4ekASYztzrQ/HKg9m1DNGah82bj3bxnIODWrwlYJ+zi2ZOZ/rWNqYWGhcvC63TaAVOAthRDKA=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "DJwJVkInETFaoBr3A08gd4scT6xdNDh1lcNn8slje6Zm4dbd3m0vCIL/yg3DX1m8Y0gIl6CbWTMe03hiz/lTbZtZE7kT32TtaS0W6VHQzJycHRTYWwsmalQxp9W4pbURmoAM2cRsQYrUDZWz9JIQjYEkRZAVS8ZTsE50VXLeyDAK4+LbGD8EAyfXeMXK8JMFWEfaGCEYuHMiwQTn74utUNJVQVg0WhvaQ6QyXQdRmZtZTBU+juNwSr9VzoTdhlMSHQ344Id1bJrbM12D/0Hkn4f0nJz1zfmybNuNRWVDmbB1jbZ8/gjKIsP9lkMNtXWRpd2ml2cUyMA58gRnkfyzaqHMOiXQXkqDWOHOCYW8xEquTpf973gbgGnmGxc7vZc89aAM25aHxk4Fa+BoZtaZxA=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "qdX0pOcJK0rOaITsLG97uWJxGwV/8Kz1lrusBUTB0d7i0ETL30cr65zsyyq86/+IFF0shMak6hXiCX+wfuK1dszKI1adfNlGiM4tESVOONWwDuzcQR6xHXVriAPo6L0Ic81QBwBUZOpKxW+XlWHQcqEgkxEFm8nEnEwBOWwLvWJ5RLhdbof12RiFh8rayCeAdIE52BDK5Ax6XN6jllGhERy3pqcj8j7yF51d0HO1/QhUfx7hPh2bobzJKbiUvcnvXN4nuBk3U42nGymGl0ScpbnxDPdKUhW+8KfpiBtHRF8/MGcvEnX0/tF1liqBnW6wL0SzsMc5O5bjzniLxUrrYklvfegWEbUMnkQz9WDYBOCk1vbB93OO4mjRBCmg2enxRPSPyP0UsmXuBCj/n9RVQw=="
+          }
+        ]
+      },
+      {
         "name": "El Amor despues del Amor",
         "icon": "https://i.imgur.com/nastNdB.png",
         "temporada": [
