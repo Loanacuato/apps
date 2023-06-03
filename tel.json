@@ -761,6 +761,13 @@
         "uri": "IU9XvXT2t1H7nO4rTARmhTP9xAtcH9OgB31LCutvmmRWSaF29yLYwWV5zbJ3eHmHlFJIrP5+FgKTQYCTBZ0n5Q=="
       },
       {
+        "name": "Dsport 1",
+        "ico": "https://ivotv.xyz/panel/ico/deportes/directvsports.png",
+        "uri": "JIB4gpA2GP7vD0NnVcq2PO+WvcR38DlM+70rRoWb+h4=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/JrnVXXqedWlcbCm65ZkiRG68WHhQxVALPDXnKgG6uqDB0mEKkjrEfHXtHsj4kgZg+8whVWze3n1b+2z7ahiWBHbgoBucpdXPla2YsGs/Uxuw=="
+      },
+      {
         "icon": "http://static.dplay.tech/imagenes/dtv3.png",
         "name": "Dsport ",
         "drm_scheme": "clearkey",
