@@ -3606,9 +3606,9 @@
       {
         "icon": "https://static.tvar.io/imagenes/trecepy.png",
         "name": "TRECE",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dqrnytlRvF20zCKwcOrfNditkp0Uvacy+Q0Cv9UGvmZZCkaU9lXK9OoBewYVW4OB/1GKzufKRQPvLwXL0HI46Q3",
+        "uri": "hSfzDHrQ+u4mu42iSsVD9hIGWK2DGl7MzHI5oNC5rHs2wkSLy/fP4TP14K3qUk+5VjqshQMXmDUBFhXYgyraICVF2fVZhBSIi9IbWV2iqt21yTDDgioq5mlny7rpfb4w",
         "drm_scheme": "clearkey",
-        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PclolXROVnryzgxwLN7jZAd"
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwwuS85PoR84yCOxlowkPGZfKfbwlqRybRYYgRgm/mdMRa5fo3+WOS3OIeCcI7GjerLeZuLmPvtNziBzmcrBjeuxcaUHjQaXiACiZ22R9YazP"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
@@ -4210,19 +4210,24 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+        "name": "13 Prime",
+        "uri": "+Z0YJAmTfMweMw+2n3yqlPmhx1hukSmiP1fLojUpex9TrdCTofvxT1UfsEjkXmdVbHkVCIih+1+OM8XKViwgh3ya1/WgRGRlvZBTQ+5mBo4="
+      },
+      {
         "icon": "https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png",
         "name": "TELE SERIES",
-        "uri": "74dGg2EIRs63ic9NUo1OjAArJM69XItHtCUg+7WUfP19zLAuJLPAK9aNe8Um4TgA3XM0fG+KmtrkGwvGmoxSCg=="
+        "uri": "bFsBZ/lXwHXE5i6iRydYRGuv+xIx9iXl8e0JAj3NuXiO9N/JpIwIHCapjxZE7RWAsfPyLfg8ks1TCFhvRoDfODeBDExHzwHdE2Mf9W1rG3M="
       },
       {
-        "icon": "https://i.ibb.co/dB9xBTM/trececl.png",
-        "name": "TRECE",
-        "uri": "74dGg2EIRs63ic9NUo1OjAArJM69XItHtCUg+7WUfP2I8RBskEyW8Pp/V5Mi+SU34xS2ctCZVNGvn2qkwB8DMw=="
+        "icon": "https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png",
+        "name": "TELE SERIES",
+        "uri": "+Z0YJAmTfMweMw+2n3yqlPmhx1hukSmiP1fLojUpex8vaCi9iqPzQIAfDPtd4mlf2iQdxQ8zTtk2NI0fQaT3Mla7O4zve1G0C4EkRzK8w8Q="
       },
       {
-        "icon": "https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png",
-        "name": "Mundo de la musica",
-        "uri": "AOLqpr59v0CwTaJSWHJQ/L/A4APz4+nn1jpbAVV2+tRybhCkaNKB9bzLA/FjqztCy9ocvf4gN64iXhhsEs2plw=="
+        "icon": "https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png",
+        "name": "13 ENTRETENCION CHILE",
+        "uri": "+Z0YJAmTfMweMw+2n3yqlPmhx1hukSmiP1fLojUpex/X50EznGbxLonu8uVRyW2UHQ6tArCMzqlA4lhCPoqCHlmz8HQJsp83jL0ASStbTGQ="
       },
       {
         "icon": "https://i.imgur.com/IkbtlmX.png",
@@ -4237,14 +4242,9 @@
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwxj/hswEuf2dp5XCgXGHXdDZB2sAFVUGKghKhclwKL8lq6U5ECY3Nf6FbC97JGsXNfbqp2JW3ine4uJRgt/QBl4xUItaL01jslqGuc80u5hy"
       },
       {
-        "icon": "https://www.m3u.cl/logo/1235_Origen_TV.png",
-        "name": "Origen tv",
-        "uri": "8fvlyU6hH4sQWCw66i5u7gy52thNT5T7LeF9wV48znkPJyXdnsae4k5Otsio2QgzGeLV6bHKyPD/II8kEMvhiA=="
-      },
-      {
-        "icon": "https://www.m3u.cl/logo/1241_TV_Norte_Digital.png",
-        "name": "Norte tv",
-        "uri": "oguPBdu6Mi1FJEbE4a5Q4rhMLbUuG+t9RmPDbxeXozUonZblh6thGLgCylKwMqMGyyM8hcmp4aZSYrxDeAX+e2qTPSYMQpg09RFvjuhDu6M="
+        "icon": "https://i2.paste.pics/a49dfcb76b5d0413f88658b1a8b2716f.png",
+        "name": "toca hits",
+        "uri": "TCp8pQL43OipnYWvWu46uUYjumpnCFNoUmO7LRTrqxIvXigZxAOOJ88hWD8QESkYLnY8KXih+Of1x6WTy7Nz0A=="
       },
       {
         "icon": "https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png",
@@ -4262,16 +4262,6 @@
         "uri": "74dGg2EIRs63ic9NUo1OjAArJM69XItHtCUg+7WUfP3zLLgTq9R3VVTjgd4AKJyLpnbDxsplTJseDU72HQ1lLQ=="
       },
       {
-        "icon": "https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png",
-        "name": "Chilenoticia",
-        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/Mlp33IF9U6U5QLa80i9dEkDnO57j7w2G9Xr7tnrUnpdac8="
-      },
-      {
-        "icon": "https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png",
-        "name": "Chilevision",
-        "uri": "L0nhrjGOdxOlT5pGHRZkKgI8IzNH4WHWPaVxWJPMJWZ5+d+Y0Jo5SsGNrexH/MlpBS/HWj7yEaPhY9Akp3zrDGgkTXVGe3/h+0jvJkjV5eP7xyDBaqc2KR3lnSO/hnpg"
-      },
-      {
         "icon": "https://canalrtv.cl/wp-content/uploads/2020/07/logo-se%C3%B1alonline.png",
         "name": "ñuble rtv",
         "uri": "0kI2kDBFbNhZCa4XOcrlJdq8A1BtLvFjQzFhyBlfDDrxCBEPodtzdLKOFJw6tjS8dkxL1avvv7+YgemR0UMvuA=="
@@ -4280,11 +4270,6 @@
         "icon": "https://www.hola.com/build/front/es/images/logo.png",
         "name": "Hola play",
         "uri": "aZQatXcqeqy3aTjo1Zk0aAxphaSskgIhCd0xgioKSEK4//tBJvi3jqRWtuJ5iqKoQ/We6hIKd55rHDy/JTmpkw=="
-      },
-      {
-        "icon": "https://canalesdominicanos.live/template/images/radios/delta-tv-canal-50.png",
-        "name": "Delta",
-        "uri": "U6v0p/bLluShgcAx9AA6eCy83pN1BhP9vIleMTA1aiK/BGIaOXfG3Bco02Unes4FxXEg0TV758omN39m8EEcn2Dcg3hcS3c2iOS0tAJabjo="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png",
@@ -4327,16 +4312,6 @@
         "uri": "VyatwloZVVLt9txgijeYBppffKtymVkQsh6/3KdpeoelgJIf6I4reu/mUdik5yBgCpoxRr3PxfCTuGFhZC4CkFrk0NCa8HjYqwrBQCXxquM="
       },
       {
-        "icon": "http://logo.vconline.cl/logotv.jpg",
-        "name": "VC ONLINE",
-        "uri": "vKTQhauW6Yrk67Hqp0oZfirx3rtx/h/AGzMEbT7bXLUJsVk5EIOjFpN+2QwTUBv3lo7MIqI2WZOFMhzLPa9e7BjebmRYHrGJiIgaWFKGTAI="
-      },
-      {
-        "icon": "https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg",
-        "name": "PORTAL FOXMIX",
-        "uri": "r/pHo2AVsoXJ/ARNOXi2FinsJDRVRJE/gV8H/8Tpd0KHsoi8tvZFSIj6ofUj2vEbFMBmkHDLWPEODyYZx/wvEemrcEBZizGEK3X8J/p6olWQ6gsg/eE/JlfS7PEWch5qLw9F/vj4R11w3tp1gyclZQ=="
-      },
-      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile.png/1200px-C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile.png",
         "name": "CAMARA DE DIPUTADOS",
         "uri": "injrfK1UPNSuSYeQHblqPThEKY1JpAA8dd3sw6K+ajLR6RPylBpnHJb5q81pENVzT8/3O6+LcL/TByOC50Aqig=="
@@ -4345,11 +4320,6 @@
         "icon": "https://photos.live-tv-channels.org/tv-logo/santiago-tv-canal-36-3997.jpg",
         "name": "TELEMILENIO",
         "uri": "Jiwm0/cAPOyIVFq43bRvshNA9b5DKYDhhnMnqsjUZry6d8OKFQ02bpABTVko5zMpl9S+C0pSt+gERZAfojfwN1CHtB4nkL/pDTDRyUSgyHc="
-      },
-      {
-        "icon": "https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj",
-        "name": "CHILECITO TV",
-        "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJP5yfJvQkMvGTg6WE7HLQvMHKQ1Ef0xgWinDfiC7pyXGw=="
       },
       {
         "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f4198d87d89cb9c37e5131ce79f122c9.webp",
