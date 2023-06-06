@@ -1,8 +1,23 @@
 [
   {
-    "name": "AGREGADO RECIENTE\n53 Peliculas",
+    "name": "AGREGADO RECIENTE\n58 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "icon": "http://tuvideo.tv/poster/w200/6116981682805235i.jpg",
+        "name": "Heroe de dos mundos (2021)",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWe95f+/zNaL5YGc29EJFsCDksWkLiEE4HGqZvHh9cJQQZlTc8Vvs1ZHrYb+UchWbyA=="
+      },
+      {
+        "icon": "http://tuvideo.tv/poster/w200/10981101685756862i.jpg",
+        "name": "Blood & Gold (2023)",
+        "uri": "0OpRl5W8am64X6Gjs75XNSzyk2iuJtb/7jIUF14dJAp07oe6bvwu35TBgR67KCzCiyv/Di2c3eWg5yZ6unv0NJj/dShT+c1SMw0exawxoF2/mtn6fwEadoPh9jsa4zSZAfwpI0fwb8HmaIlFyCA5CXhiORdG0Wp1vtJYpU4yh0L9Frzov3B3gmP1l6pQG7eeaN8udwxJf7FGK1wv61XLC99qHv6qLe3nDr+9D+3DFBmGg5dBVyCzWcaToqoA2jOVPcTtmWmQRFE7jl8XCARLLAu05yB27cKrCUCWhlJDjqtFRsPtgs9DYHVJhQLo76hoCK1y7Ht81lVD1XVj1HV0l9gh9kAtPNSClcRN1Ad1nuNBZcA888WnbuZPQD6XfVtRy3HImsWSThbMwAYEMOZj7g=="
+      },
+      {
+        "icon": "https://media.filmelier.com/tit/kl9x67/poster/el-ultimo-vagon_vNOq_3Y.jpeg",
+        "name": "El último vagón (2023)",
+        "uri": "PvWQDdbSRNobL7P+BShb58c8omrOxsutcTIku4oNdLqvQ3C2F+o5/rogIFNH5t642x2+vZdSuu7QCUlxik1ka5SiWABmE4JxIv6HPZWKmp7BOPO6N2IwpUUPaW+98cS8XgbBOBJg6FHAs7uadm8rAyZRdd1RWPv446VJG83dcA98FXkTszksw5dl+xjexSgZZ2Pyl9evB4Fu0qERmlWxHafpAxunOdoUbTjBbtP0d40a3CcZLsw7yMgZmsWGbQolwI6tqEV1DlOVzOLjaBs3cdNWHL3ft+JEo2Iijj3m+kZjrMzfQdCWEg689tO6/q9Wrewus1+gqYXi4NCQVa6sm5tKiQCsJQ3IQhCMjWbPtODSN3dY5piXwyH1BciId29iJsFi/uhjWzEH//wcejRPag=="
+      },
       {
         "icon": "https://i.imgur.com/xJo0IoX.png",
         "name": "La Sirenita (2023)",
@@ -32,6 +47,11 @@
         "name": "Rapido y Furioso (2023)",
         "icon": "https://i.imgur.com/iSNrtEH.png",
         "uri": "JfsKxeFI64HUmg4jJNbC3hRvxccQBMrd7r+IF50u2skykThCS2KX0MvaAOEHRhmkgh3CTRVLaGMROX2+BegYs9AzCfkI5A3G8oE0dgNDEd31cxF4VzeP1K67uTrPfv9gxe+gfjdAvBY8EeULwKWdOxSGFoCxQqcblMFYHzfCRks="
+      },
+      {
+        "name": "Rapido y Furioso (2023)",
+        "icon": "https://i.imgur.com/iSNrtEH.png",
+        "uri": "aqjOEhWtVS9CYLQkJfIDWSeRlxFcoo6mfHZrhoD5A4owYCm3CwBa/OaW2wnP2p1B"
       },
       {
         "icon": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bEcAUzv57bdHLoGyjJQkyd8ENUY.jpg",
@@ -3290,7 +3310,7 @@
           },
           {
             "name": "CAPITULO 3",
-            "uri": "SoNnDd4VcAjWWUpUbXqCsYdTcWJzeVLEhlMc+wejvfpgF0qKu90+yaXuI6bxZ0b1OpotqEBPtgo3WfAvhKvtr+ZfcY0/jOPRqkMBpMdGnqDlrN3/opY43AiQjQtOOfUmUtP5vcQzk26Rt9bQBTETZr8kZs6X+Lp6x/HM3cNKsajS6/NOvNYX5adiHGqRHihUbN/LVYUBkR69CROhJLa4N7wo2I463sFNVzEl5rAw6/dWY6duKZLVFeF++dYbkHD/a+w0taEc5dKvv18+ugC2ZLS2dRH5HJ5wigZ2rNlKHnBw2Qe6jVczcC/ZJaE0ABX1Cbh4BubpUrNayYP7nE3s2qdDM9lSM7ssSWbPbblxrxQr6Yv+ujUG0rdQr/bboAagtDl1fpfxt40/NtjYkvnczQ=="
+            "uri": "SoNnDd4VcAjWWUpUbXqCsYdTcWJzeVLEhlMc+wejvfpgF0qKu90+yaXuI6bxZ0b1OpotqEBPtgo3WfAvhKvtr+ZfcY0/jOPRqkMBpMdGnqDlrN3/opY43AiQjQtOOfUmUtP5vcQzk26Rt9bQBTETZr8kZs6X+Lp6x/HM3cNKsajS6/NOvNYX5adiHGqRHihUbN/LVYUBkR69CROhJLa4N7wo2I463sFNVzEl5rAw6/dWY6duKZLVFeF++dYbkHD/a+w0taEc5dKvv18+ugC2ZLS2dRH5HJ5wigZ2rNlKHnBw2Qe6jVczcC/ZJaE0ABX1Cbh4BubpUrNayYP7nE3s2qdDM9lSM7ssSWbPbblxrxQr6Yv+ujUG0rdQr/bboAagJ6TtD/aK7mQ4BBpQ3GOP6g=="
           },
           {
             "name": "CAPITULO 4",
@@ -11285,6 +11305,10 @@
           {
             "name": "CAPITULO 8",
             "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXC7vK69BzYM0j7Xk8lEmCLP/pFAWrjhhJ/+HZ31u5IKCA=="
+          },
+          {
+            "name": "CAPITULO 9",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXD65g/0xW0b3YemapgNQ62DpZqGO5sNxFTHXt5uH5DvSA=="
           }
         ]
       },
