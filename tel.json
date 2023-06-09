@@ -3489,13 +3489,6 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
-        "name": "TELEFUTURO PY",
-        "drm_scheme": "clearkey",
-        "uri": "U0F0KrZQY+s8tTJ7qxbYlZgc/w+nZzITb1WDAX97JjHfO3Jyy6T+hXNCSLBZx9wkeZ3xgvaDXeQUiUfr5EK8y0IuWyWwzPWznT+5OPmsqTAI0fTVR4vUdYqbeNFLeRTx",
-        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PeHy+0BLwu5DN4Qh+Be+1Ar"
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/unicanalpy.png",
         "name": "UNICANAL",
         "drm_scheme": "clearkey",
@@ -3519,7 +3512,17 @@
         "name": "TELEFUTURO",
         "drm_scheme": "clearkey",
         "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mJkncZWI0rBIWFGf1z12RJ1cLzuuxG2xicSipPiwwRWGtLgkJjYHpFYi6/9/DWfJ4M4typmqqUFBwrOOovF2hEy",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwwc0F37MhGbnCOemDI6JJPpAZrj+yK59k5hqwopqM5dVcHg42gwnzGMkd9Asa7AnUvry2MstV6xeeKC+UohqgFQEEwvP9k56c7jmvoVIsr6X"
+        "drm_license_url": "JIB4gpA2GP7vD0NnVcq2PGiJlVcY6Z6dFquFvaASmTpiTAB7Ot9Or8bh4SXxz8zs"
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
+        "name": "TELEFUTURO OP2",
+        "uri": "u/EJUT1xCG8GYBBjmhCyiEwmv/tq71zipRYara3UfH5TwsXmKlydfA+WnVplR9aUBjtE7pRcUAZApawAtPrTB8cxJDlfWYtQE34GC1UWQmcYUSuujFhridH23MQBGnnm"
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8du26qUVhw0wWpqdLB3KBQIRV7DPzXpGh6kgrbjHgBY1tbISHIn7J3frKeJAWyR76h0&usqp=CAU",
+        "name": "Central TV",
+        "uri": "i0A4T1b7NYR5+DR5cJm8NGKY7cbuhPqsCIx4jTZuSejFHuFsX6fVEHBaNwKsRYnbe+wBbTWDwIgO2lfOV9qRuRsSbgFKkuSw69rV0uOI++I="
       },
       {
         "icon": "https://static.tvar.io/imagenes/latele.png",
@@ -3609,11 +3612,6 @@
         "uri": "hSfzDHrQ+u4mu42iSsVD9hIGWK2DGl7MzHI5oNC5rHs2wkSLy/fP4TP14K3qUk+5VjqshQMXmDUBFhXYgyraICVF2fVZhBSIi9IbWV2iqt21yTDDgioq5mlny7rpfb4w",
         "drm_scheme": "clearkey",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwwuS85PoR84yCOxlowkPGZfKfbwlqRybRYYgRgm/mdMRa5fo3+WOS3OIeCcI7GjerLeZuLmPvtNziBzmcrBjeuxcaUHjQaXiACiZ22R9YazP"
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Telefuturo_2014.png/revision/latest/scale-to-width-down/200?cb=20200821234959&path-prefix=es",
-        "name": "TELEFUTURO OP2",
-        "uri": "u/EJUT1xCG8GYBBjmhCyiEwmv/tq71zipRYara3UfH5TwsXmKlydfA+WnVplR9aUBjtE7pRcUAZApawAtPrTB8cxJDlfWYtQE34GC1UWQmcYUSuujFhridH23MQBGnnm"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/unicanalpy.png",
