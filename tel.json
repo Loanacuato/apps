@@ -1234,7 +1234,7 @@
         "name": "NICK",
         "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2drRqsoVODIIihZyiFgAuNzIJ7boK5GxRk7mGPE1/VfDXcRfBlf8Z9dvtEA4zQ4SZO0k+EFcW2IHvU9Q/0wcKAHD",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "I1U3zOxD6SrRP+dTVuvOumJd7gWzbHYz0lMiqy0LV9mM4U3J0DfUCrAfYsR5J5dP"
+        "drm_license_url": "I1U3zOxD6SrRP+dTVuvOumJd7gWzbHYz0lMiqy0LV9mM4U3J0DfUCrAfYsR5J5dP"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/nickjr.png",
