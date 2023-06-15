@@ -1,8 +1,13 @@
 [
   {
-    "name": "AGREGADO RECIENTE\n63 Peliculas",
+    "name": "AGREGADO RECIENTE\n64 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://www.ecartelera.com/carteles/13700/13799/001_m.jpg",
+        "name": "Amigos por siempre (2018)",
+        "uri": "IHo0xOwW20Lipmqi4OEc6NAPY9DjLK/X2NNBp6iWN5tMjhfJqH76E5sVVy0yLBMmJacs4CD/N7DNrBgHyXEVkeXOv4gPl8O9OjeNW+sYxkRVGnTXPiADRLXJedMPxMtHFWkE4FPNEHTvWICEBu4cmQ=="
+      },
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS78PxsaMSCC9UVPIFG3iHPlPpfwm-CAq-buHiUwEHyA6O5peJYP-8bYeFqgmO6ua_NGag&usqp=CAU",
         "name": "Los hijos de otros (2022)",
@@ -675,6 +680,94 @@
     "name": "SERIES\n114 Series",
     "mode": true,
     "lista": [
+      {
+        "name": "The Walking Dead T1",
+        "icon": "https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs2.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F148%2F184%2Fthe-walking-dead-1.jpg&nuevoancho=150&medio=abc",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "PvWQDdbSRNobL7P+BShb58c8omrOxsutcTIku4oNdLqvQ3C2F+o5/rogIFNH5t642x2+vZdSuu7QCUlxik1ka5SiWABmE4JxIv6HPZWKmp7BOPO6N2IwpUUPaW+98cS8XgbBOBJg6FHAs7uadm8rAyZRdd1RWPv446VJG83dcA98FXkTszksw5dl+xjexSgZZ2Pyl9evB4Fu0qERmlWxHafpAxunOdoUbTjBbtP0d40a3CcZLsw7yMgZmsWGbQolwI6tqEV1DlOVzOLjaBs3cdNWHL3ft+JEo2Iijj3m+kaipsiDaD3vhVVlBA1dFMjjW61w9QFai1ZshbGKUagno1gysvXwyMW0QXHoLPtbRchwUfJURvGKikpp1fikAL/OuXnJtSRQf60ZQ2iHZOoKEQ=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXCB7WCw80fb8xbBV1IGiaDSmLlSG5r0nhjlf0FpJ1bSYA=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXCB7WCw80fb8xbBV1IGiaDSB54fJORnH8AOxIwNILQC8Q=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "cqwUZSOupCfY6fSGL38g3Ojv1Wz22NEmui3eaE6m5QE1jMn0QXj1ZzrvcSLGJn1fnU1MaVs0jjNiRH4MGUX6qoh2yMuTbxzPDeDE23iong6vKuC3eaUYieFRoR+xzVbXQ4U4a0m4eSYXJXkBRWcVFKqHtyGfPV+9/OmgwWHVVlv8+lF7M0fQ0y8OeAfz2FwJZT9LUQ5lbFPzGzR3wVaLo9IIUc8VSIwwSPS7wlRxkhYsOsBOmLZeZeyVurtFXQnflnsiGLQrR2qjN+Tvx60HTeSyQH6gWyLuqPKQdWQMA6G+zsGgvsKNH+uThif0KJcInfgCyZalW52wrM/CVs5JdFGQyLcaVj5Jo5j7fYjjo/gwDSuWRaCgj3ISA1qEyTNJj1ClwbaackIYxR5I/tfUag=="
+          },
+          {
+            "name": "Capitulo 5 ",
+            "uri": "q3xK0EzLJpI4sYVqahUltExaCLQ1o1Z1BMoicd8ZtDvuInFC5oNMsLe8ccSdmnxS2dritSkceQLv9Anil5kiY7cIphjkHNu5Lwih/kNvB55GgKIQd6lB0SQzgwE5RyoX9/uQxThA1HzXQoKDtBVHlwjEvyHdINKNvMjdvB6fGlusRng7fMyo8tWduqUKZpRdJ9Focyc8QG2968iwn9oSWiif8PNxNXkAoEnfRC9WJEDnNqIiMRZYJsh8FnUCuLkkxbZaffAoGDkHBTXXIfVJSQ1UqIxblatJhsi5bun8/hQtMcvpHz9cQHRlm7v3CvpP0v925PtQ/FTycOpCtobhjITElkTDg+H3aDvTOHMQfSvc/7dz/F2qRGaVUuRbYJUGCcTr2/AGNEDz+/JaNwWP9w=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXDEG3CQ3O+rus/L+4c2ESCh4ve+/0tfQgXLsbVMT3aIBQ=="
+          }
+        ]
+      },
+      {
+        "name": "The Walking Dead T2",
+        "icon": "https://m.media-amazon.com/images/I/51ZW5WVusyL._AC_UF1000,1000_QL80_.jpg",
+        "temporada": [
+          {
+            "name": "CAPITULO 1",
+            "uri": "6Eif5jbFM+hQhlcYiBBmLTXTCcxrz/H3dtjsXZQXD0vhR03DPJ14uYWYPfmvlmmYOyMJhwSkzFee4gWHxF1aw707wHm5SjZlvrrwWYkzxmLHD4JLpWCeWML1+mFk1zbFRrZrOWoAd7DhBbMbwPdHwws4xov0QfswHZmjKsQqxFhJLuk636HaT7PjzJwznffdv0ugiNQhnKZKLM9VqmxRoz9HppmsGEJLQ2Ax9fGUiE9fJKO6fqyVS6ahmBl6TE74Eogc0C5fXM5YSgoJtzjCVbQ70QNt1QSS/4LY/JgXtmMSD698muhDgqTcFTrJSYc61xaPyJ4KRMEU6PJwhqCQ5R9nUll0gv+Hmp2NPucE2uSuvqcMoMSRcixdzxAk5NWlMdxZNVZKcbJz/9oqMEmAdA=="
+          },
+          {
+            "name": "CAPITULO 2",
+            "uri": "PwDkTVV4Ugy3AoHguLHJshAWf3/6L2DjNicMkwgN+swRUkN2itnygNSbMz5/cA8fMG+2k0wfndP9NgoY++TTMbOeN8VYrD9DGpOWXs4GaA81lB2HscmgEdA8CEeCyhGq2jlup5lx+MFjfwdVpqpMUoZMaSIEgVn8ZG30vDBu3W3YPxo01jsknpT0kBy+A3tM4I34VaWv2Ki2zQ5+DuakTKub4XN08+5e/noMd+1qlo3NaxI7OlbQwFFl2BlF1RLvQ3E1qUnGC+WvtHEOytU00xxQLnRolbITFkRZKxaw0QtLN1k/bkOWGeaOVy2WdBm/6ytRFplphRyeUn7ura95JFJPo2gdmjZN6ZJYUuHcyufwsx64SQzAAgVYRBcnmWbxFi4HCtdW1k2J1cDao2rVAg=="
+          },
+          {
+            "name": "CAPITULO 3",
+            "uri": "YnFvigsEpYvAzFjE8MjDYhlYUZGMXatgCqNGzfgPedMF9KGimffXacDu6UX5WgIKbltZR7VFqXKBOr+rq2WCtcQtywg+oRnVUfmmzzUMH4Aq20EANemk3pwF7mKWHEsGMKxtFS7VJYykgM1QZXxVnm6ZvNlppZZ0dIl+134qAMOudJjcQxulAWwHqSU+Ut00J7xk73dmWu5fxjD6DdAgtmdSF/DLK+rbS7PZahfxP91LPfsoqZRtqkV7RgGlHniwWQzhEGYvYzr8/8gxhmFHC5XuX6W3nbg/RazrbXBGTFewJXmgwz/mdfXa1tClBZSoRDOL9cbHSJ5eQiHIOE/9DiKICDRn9JXqM715v/ePpolrWs45+iGxfBJxLck6Em0bz84lxoA78huio8hAZ35UKA=="
+          },
+          {
+            "name": "CAPITULO 4",
+            "uri": "ILDJOL88bxcYNYtdBR0CIy5/eykEQZX9cY0itB5TGm3jSZ0K5N9ZPJ83G3ksBodZ8h4vRpHo+CHv5q+Dcy5GfS/MiULip/NHOrjholprDi/XnXfOjyUFqCC45OcQowKM5ug7xOFLyO0heBONI05TqEAJ/RQmo7h1h8WY9p6gT9AtN6//nMB/FJFuj2RzvuFLDYACyCbELHjwvJ3CkhLZSNV+WOKE3/SAF4l/JmOQGiaHGEGgQ6ChVWP5pRJvGeK5mpwAt6MmivGZjELy0/flYVIMS435x4IZMmlu7tVBph3jRNapTz9Z+2zLFxiIay5T5eho0lEQj1MZhn9Vj+e0AXHxZagCcOgmMa4rFcZJxpeSmuhsNKCGUkOnnazPPtmVNQmR/1JMhLF7BKZkRBSG5g=="
+          },
+          {
+            "name": "CAPITULO 5",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXAaxYMv4tW1mTN0UAExk6d4SWw1hAUvH+U80rrUv7Fing=="
+          },
+          {
+            "name": "CAPITULO 6",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXAaxYMv4tW1mTN0UAExk6d4yDgWcRP+ZQvR6GkU3dJxVg=="
+          },
+          {
+            "name": "CAPITULO 7",
+            "uri": "Gx2RMzthAL7MoKmeMFp9WJGqUVeYcGMK/rHzjQ2rNdhGDj/Z/r1O1nNa9vozof6ShRg7MARb8b6KrtjKJrWtt29cqhdgGnPS8yna4aLn+rXrgSobGVeq33JJoZ10zbhUjXGz4IM0JXrKcslktYF/7Q=="
+          },
+          {
+            "name": "CAPITULO 8",
+            "uri": "w+iDb5v6/+rUBT4M0QpxjBh/97JZEh4a6iH4dTfAtKQ1n83DNAtXT2u7v1k5J/urujBNfvG0xooBBotoHLe9LlhLHX3muW5+jC8RNpHTA588qnpurqGH5PiftRC4KDyfFNYYCu6bC+bTARhyUDer+Q=="
+          },
+          {
+            "name": "CAPITULO 9",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXAaxYMv4tW1mTN0UAExk6d4j/4oTpuvyjnruiH7w1RKBA=="
+          },
+          {
+            "name": "CAPITULO 10",
+            "uri": "FJBxDQxMoEhA4k/uJsHVtuhTvOfe6bRxGBlWAYFHUXAaxYMv4tW1mTN0UAExk6d4i98dZmwK1HEjRVPTAjGOVQ=="
+          },
+          {
+            "name": "CAPITULO 11",
+            "uri": "/NYlJhKM/q2j5jduAqPUU5QcbRYwiXDYB2SSps+00GCZ6ISSHSLbFMxpe7JPW0WeAvvjKIbCxr1xpWtXldn7lGyPTpq5P1hv9oH/m7hZwk2PHiBEQGlrAk67xTmNImAgsyy7uiCL5YOKWuxjG1H33A=="
+          },
+          {
+            "name": "CAPITULO 12",
+            "uri": "w96K1Hofjl/l8CLOgddna7JWJ+g7yPKbDX0DB4gHbYs5qOUrM923DkboCSkbiczK9NaK2fVl1DqTPpiqtCSU2/VnpKRXwYpOxYmb37ra/UlVxdcy8D0EpDhlN3UnAjCQOSo/SPk3HfLdjUtKFTmpgQ=="
+          },
+          {
+            "name": "CAPITULO 13",
+            "uri": "SUEiQ6mEYzpeF79HjsQJGn3jut1Z52yYUwGCYv6JlqzGdLXZhYIQ1iDC28BO3/Zt1FHOrOzrBDzmi/YiVA0lIklGo1FWV2Jra2e86nPRXkLQOSGbg+ABPZLDkwnCYuRyc4Kb29vAKrVAXZJXyW0C4Q=="
+          }
+        ]
+      },
       {
         "name": "Pose T1",
         "icon": "https://static.wikia.nocookie.net/netflix/images/0/03/Pose.jpg/revision/latest?cb=20200621173013",
