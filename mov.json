@@ -1,8 +1,28 @@
 [
   {
-    "name": "AGREGADO RECIENTE\n66 Peliculas",
+    "name": "AGREGADO RECIENTE\n70 Peliculas",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://static.toiimg.com/thumb/100268009.cms?width=170&height=240&imgsize=14944",
+        "name": "Extraction 2 (2023)",
+        "uri": "0OpRl5W8am64X6Gjs75XNSzyk2iuJtb/7jIUF14dJAp07oe6bvwu35TBgR67KCzCiyv/Di2c3eWg5yZ6unv0NJj/dShT+c1SMw0exawxoF2/mtn6fwEadoPh9jsa4zSZAfwpI0fwb8HmaIlFyCA5CXhiORdG0Wp1vtJYpU4yh0L9Frzov3B3gmP1l6pQG7eeaN8udwxJf7FGK1wv61XLC99qHv6qLe3nDr+9D+3DFBmGg5dBVyCzWcaToqoA2jOVPcTtmWmQRFE7jl8XCARLLAu05yB27cKrCUCWhlJDjqs9BXq41ZjqoCFNvdAbO8pl/7GQUFRMjLbQEltfLkRPnNLpjTWJBJMG2M9P/ktgBkQrwOKpsJE2BSMqcvbf6pUA6Wmjm+HdMnYER1TD2zI3ZQ=="
+      },
+      {
+        "icon": "https://media-prod.fangoria.com/images/Wrath_Of_Becky_11x17_Alt_v2.width-800.jpg",
+        "name": "The Wrath of Becky (2023)",
+        "uri": "PvWQDdbSRNobL7P+BShb58c8omrOxsutcTIku4oNdLqvQ3C2F+o5/rogIFNH5t642x2+vZdSuu7QCUlxik1ka5SiWABmE4JxIv6HPZWKmp7BOPO6N2IwpUUPaW+98cS8XgbBOBJg6FHAs7uadm8rAyZRdd1RWPv446VJG83dcA98FXkTszksw5dl+xjexSgZZ2Pyl9evB4Fu0qERmlWxHafpAxunOdoUbTjBbtP0d40a3CcZLsw7yMgZmsWGbQolwI6tqEV1DlOVzOLjaBs3cdNWHL3ft+JEo2Iijj3m+ka1aKltotU1/6hTSV63k2xrm0V/htiBIvnRpdqaE4SrO78fBvLVcHDmDyn36sjhUY/ySdI6Q+0JqvgQBPl5q7gGCbDi5FzDVSo7WB008MKXwQ=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/I/81IP4HuQrcL._AC_UF1000,1000_QL80_.jpg",
+        "name": "Range Runners (2019)",
+        "uri": "0U7astK4GftUGpu5ky0hlPKjcsN0rU8k88uJdz9Q41ngq18D2rmfPbQDhEwfUU8XSq3mr+tmh5qtTVsHp2K6pVscsTLUUCFJzuqGHhPRcqQQfy8PfmUNFV6b116PrLJtPyUXgmq4He5ji2gelQ70e89ZlMxfxhFRkO6ROACJQbcgRI64JXxwn+GgOSByTCC3cmdwbbFzqmeUFJfk+0fHadMJAOEilZBkrvBSft/9VjAyi1hGH+NJZ2VPV6M8NQaWWDtjHR16N6Zz9hxVorRRbeIT+ZTvsdA553goeBEV57h6OYXXW4QiW0qskJwyH3D++bTfHJpJeONcomUwB17hEtusYK4FJD9p71XjNZYoYEmiQRUOXC5OL9ILvzWLCtUswJoy2mT988SJYa66eno1QA=="
+      },
+      {
+        "icon": "https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_44295_97.jpg",
+        "name": "Eradication (2022)",
+        "uri": "UQSCQ/aQZL1PQJktVX+62QFWWW61KZhIoFy19oiEJ6me+NAIfWDZWaO8hJyO1s6ZkgHS1X58E5maeLInbzPwnBg+qi0TPKQuW7B1NxaDiTcboXaBoGN2qPA/hmHcWyK0hW7k5Y5CmkKErKPs0mkTG8p1Dhiy0CHKXNzy/t9WtDTskkT5fPLERCviJ00OyPLFogzhxpBAmKfs6fEL6Q6GWLFb9x+vApo7GgVbaYaBTgz1OQLYeackL6yx/Wnz7Wp+55B8mNDJdL1MI75dYWARIA4ZTdKL5wfoBmS9eQlFJWNcmgJdIBTfMUVJDY4gH46noRQ2WfhLIgiJZeK4ajCEM3EvJSPB7MLU8COZ3/HUQJNDcMYdgJ2LLbEfv/SUrFSop7HWlIqYu2FKhUi9a28uSg=="
+      },
       {
         "icon": "https://image.tmdb.org/t/p/w185/nqaSA9MW9nZLbl7NKVDlTQ2Fwwo.jpg",
         "name": "Black clover: La espada del rey mago (2023)",
@@ -342,12 +362,12 @@
       {
         "icon": "https://w4.cuevana3.ai/wp-content/uploads/2022/07/ex-casados-60785-poster-225x300.jpg",
         "name": "Excasados (2021)",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDuSr+uP74lpluEsllYg8DGXprYEjvmSXmTZA/AfrC3MbGiLPegIskxHw672QL+NukZOhPwPHcMIU82gHjIWjaTobwfGlyXXZ6XXNRk+F/LlQ=="
+        "uri": "o2WRxLrnqMMbQrkjP8+uqGJCPHeTmGkxt58RluMhSPR2flN1UzmaPHGujjkyFkjp53hPHR+JM1yp6YwdGiwqHi9kg9m7aBKNoTcCyfv8uhgOThRCmiNN+hN+A3wP20BYvTrh8XXAlp6SOhhcw+uveQ9QKQyk2/XzAeF92ZqFYL9yFtIxM7bVRaBDyS9X+dg5eXbJflAJtAhEeAWJ3WUCB1OveXlcWy/Kb9HZZuEech+LTXHSj9moGYtsmfYpKnY4eYv3TIS+oNIaCzynItxwOy0uyCcJL3eoMwezrfgrR9QYxO5FNqPG2Foeq/rW9K3J/UKlsGBAfXxhZCwgJP2IXIB9cZR3vlCsJHsxvu9dWNhTq195TMglZb/ZBXslO+eB/1SrNXg5kAgOtwxF+RKJ+Q=="
       },
       {
         "icon": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyJHCpzODvzVbN5jA2qxdWR9fTM.jpg",
         "name": "El suplente",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEDK3sPsgZ0szjVGKrw/Guj3u7UYgn/xAQK4Zf43+H+0Sm8G0iXLGQgSxy0CfZC+H9YXBPhMX4SGAeMk7ucKKmOjO2ce0Sp4w0VJlrmsVhPUtw=="
+        "uri": "az+nm024+tseAC62BYDMY/ax+T9ipyQkR50SBEOZYWXoeQhMbumU2aaC1JVm723MwVms+8xbGkuHP/fdZiK8wc8EaLsBPb2LWb0y96b/TzHqKfO25jQmwaufUl68K6KXUPq6Wj90xIkzPbMpt6gQ3q0C9zy1mEaE811y8qSVQoL3FA2i6d/H6wRapHRdyUx6GNMHWO74nmZs58fjVfm2lMlXubfKUKq3+npsZ0FIh9Zrq2iURbgwvc2WKnKY/W6QgaLPYAHD0SBFGOS2WPSdPJKWdWtCtNMX9UxFHW101NAx3KXSLiHqHFhnSiKLsRd+0FeNbqQViC9SeKyQWFIGlRJ2+XqqInpq0mv4Z9rqXx9i/OhH/9+3zmzJptef11y3DCyKHOrJSYAB1chDnoonmw=="
       },
       {
         "icon": "http://tuvideo.tv/poster/w200/8487631675283769i.jpg",
@@ -362,7 +382,7 @@
       {
         "icon": "https://i.imgur.com/q9lmVCw.jpg",
         "name": "30 noches con mi ex",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZoLfPlPs6Ga/xGk5MczH8Q/x5VZctllDgcqOKL7FyK78"
+        "uri": "0U7astK4GftUGpu5ky0hlPKjcsN0rU8k88uJdz9Q41ngq18D2rmfPbQDhEwfUU8XSq3mr+tmh5qtTVsHp2K6pVscsTLUUCFJzuqGHhPRcqQQfy8PfmUNFV6b116PrLJtPyUXgmq4He5ji2gelQ70e89ZlMxfxhFRkO6ROACJQbcgRI64JXxwn+GgOSByTCC3cmdwbbFzqmeUFJfk+0fHadMJAOEilZBkrvBSft/9VjAyi1hGH+NJZ2VPV6M8NQaWWDtjHR16N6Zz9hxVorRRbeIT+ZTvsdA553goeBEV57gDRfNFO/ruyJTBHcoXCUvdWoxTx1nJJg35N4zY9VC9jBBZPRMEtpJjqFyWL0gBCDNv2oOqAJ0LwRlZ2loNe1gyZwO7eKY1IENj29wdIm2Pcw=="
       },
       {
         "icon": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/oOYHNkJ73DDhVTH3qF8YeKp9dcW.jpg",
@@ -377,7 +397,7 @@
       {
         "icon": "https://elcotidiano.es/wp-content/uploads/2022/10/argentina_1985-cartel-10669.jpg",
         "name": "Argentina 1985",
-        "uri": "Fd7VYd+Xm/S6VMHJ32eqZuii0xkuPbzp43koHgdFyy6ZNLiDlgvjSqRWmeV1q1dL"
+        "uri": "WM/SGcIav4TQVtTYOMrfJau0/TLRJEx3i2LkFz5Pk4c5EdaMK0ppyGJyFu8rugMfHkLvzW0TeY27j8q+LDZ8E6eFygoMARzow7uDc4l9F+vPAzyaeDTG4GFDmK70UY9KMQXInNeaR9dU9QHe5kBFzrYOyr8PPVechHzU5LpHq1WVgkDE5KYrxqZug5spEF2mGojEMEMG+4BIRc1enG3qiUnOSb7rIV1mci8b4qcuPVOZmnNUdLDxepIwHVGNfjm3wM2vMXh84Qh/6pr2i12ohd+m4sB/E7Z6Y/Cxna2RpwEIl+py+rjojmQrEnOaNFR9fKmfrfPnct2OQRSjCGR7NhQxXkWPXvOPV2THWNydHLSesu2KY5+BZ+YMOQA+7Tc18/tJremm2V7AqC6oHjwH5Q=="
       },
       {
         "icon": "https://m.media-amazon.com/images/I/71q1hNoOXML._SL1211_.jpg",
@@ -32505,7 +32525,7 @@
       {
         "icon": "https://2.bp.blogspot.com/-3ZWRZ1U4_F0/TdS1-HR7sSI/AAAAAAAAATI/MVfpfJW1QTw/s1600/caperucita-roja-a-quien-tienes-miedo.jpg",
         "name": "Caperucita Roja a quién tienes miedo",
-        "uri": "JfsKxeFI64HUmg4jJNbC3tNfFuvKFEBf76KnqdP1KEAvX/BQlyjiE/rHs2AJAvX9h+vBLzWMC1/MD07x+Yet43g2Hkz2Y5JHlC8si2OwVbl63Ovnrk5CNCsDviMwXnU5rXZpQGaGuHRAL/lTePYV20P3Z/fhOTLe73kYo8WNGJiuZveadA/zcR3+9oVNnXchVivQdG2bLwGN3uWBy0sd3w=="
+        "uri": "sv/iNFomMwvApBrPyVteKpzhXzwnclbypN8bYF+xjwbaOun1uGdMDiSaaoMnjpstE1bXcw5fPmgf8i9mgOIaX9BJFfjpu+y/05aqL15LwIfxy4oPWri5pn7J+n5XuvDZCQL8NEkiMGrqKsVMX2Q9+LHOpgVXuzRkX5RnNb4q+G1LQ45O8881Z1XtHhsfT9UnYwMRMQ6AK20ekitVihrP3nFDlN/V9AX1AmlUjbwJ0TeF7BG6EWQQjDeGlIAGcBRCIAFwvUIoEqBeiP4DcpvPlu4npM4HGMIwGz3xxyHgPnUhEYpNrGs64soJGnTrt8JFFMPezJdUuMBBC4r95oOv9jJ3N3HQszrM5f+PnUNKkBs/UiUd4HXvTasUkX1pZC1ROEYRSh87K6gKNHpOgLkppw=="
       },
       {
         "icon": "https://static.filmin.es/images/media/29697/3/poster_0_3.png",
