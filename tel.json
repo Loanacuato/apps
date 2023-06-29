@@ -2822,9 +2822,14 @@
       },
       {
         "icon": "https://static.tvar.io/imagenes/tlnovela.png",
+        "name": "TL NOVELA OP1",
+        "uri": "YFfeEylWq05Z0jwdpaWBqylgZ1nZx+uf9lNRgLB9SXfHS55sno0GavYAZxy2IL+O0MedzqfxROHxJLqmxWjifg=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/tlnovela.png",
         "name": "TL NOVELA",
-        "drm_scheme": "clearkey",
         "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bJiHMd+tJ36PSfZ6i8v0/JjbJkbvkUjmvuJsILuSDlkq4waX/RInu6BUL6d2tg20nQ==",
+        "drm_scheme": "clearkey",
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw8SmokmzOm1Iqv0AMA/zheuSRkyV//M+7+ujzmMj4vc/TAJT7Vzcp+QkxV6b3jtLyuu3MggR5eQPM15fCHDmYUVecXnBV6FJWl4Hprua3pB/"
       },
       {
