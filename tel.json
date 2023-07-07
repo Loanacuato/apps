@@ -389,7 +389,7 @@
       },
       {
         "icon": "https://static.dplay.tech/imagenes/canal13sanluis.png",
-        "name": "CANAL 13 - SAN LUIS",
+        "name": "13 San Luis",
         "uri": "ktNPE88DYayiYjdHWR/UMN6mTB7yaayfite2EivBkRzmU3Nvw0sJ3UCDoF6Sl1yG9yCEOcG3/G1ZDGcsh/n5nPpiKI+3Gkk8J6aZyb+cvR4="
       },
       {
@@ -680,7 +680,7 @@
         "uri": "bFs+dsm6AwiAaA//kk0zbheUPp6MOTPbF8qxAmM7fJP5yfJvQkMvGTg6WE7HLQvMHKQ1Ef0xgWin\nDfiC7pyXGw=="
       },
       {
-        "icon": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-13-san-luis.png",
+        "icon": "https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/chunklist_w1188793182_b499152.m3u8?WebM3UCL",
         "name": "13 San Luis",
         "uri": "ktNPE88DYayiYjdHWR/UMN6mTB7yaayfite2EivBkRzmU3Nvw0sJ3UCDoF6Sl1yGbhtn/cpRqqbO\nAbz4AfeuGPCnd9EjcJueQyb02WzVtNvkHigZcBiE/RqLTJZY0p3c"
       },
@@ -728,11 +728,6 @@
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfE9FbSLrK7fx6GwzLPskjh"
       },
       {
-        "icon": "https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png",
-        "name": "City Sport",
-        "uri": "qQgxooSYUS7FMPyYAqyIRbJaX4IHMOxcve7DLnykxhQrxJxw7SVCSktvX0U/+Z+FvFVCGA0le1WDVxqHkBc4BuRo5aiLFBf12A648WhKVfQ="
-      },
-      {
         "icon": "https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg",
         "name": "Tigo sport Bolivia",
         "uri": "l5J+KyHNJkR80SNWEKwR26CtaQx+28PXrvwHAUplwbsRfda0leCLovC8Xjl6ys9W9Qvs4rwZ7j+mU8dWSaMzQ+k3Ny9rPJhOdiWFRBlsGBU="
@@ -746,20 +741,6 @@
         "icon": "https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg",
         "name": "Tigo sport GT",
         "uri": "l5J+KyHNJkR80SNWEKwR26CtaQx+28PXrvwHAUplwbsRfda0leCLovC8Xjl6ys9W9Qvs4rwZ7j+mU8dWSaMzQ+k3Ny9rPJhOdiWFRBlsGBU="
-      },
-      {
-        "icon": "https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg",
-        "name": "Tigo sport OP3",
-        "uri": "hs3dtdtVpX4bycgt64ciVoPc/70bqP0Xb0u+5m1jO/OHUJjPAp7hS1WS26qRLZAI3L76oTyGtR7MZaO0jVqvgA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "WUpbdVOTsSN8/X2tueHZ2ffgiZJl9p3fyCRG4DLHze9AsqGZ+4cED8ojT8owUR51ZYjqKrSfacaG2ODZvcJT9UiRtv6nLAzqIG39Lgrc59SPzc01pb2DC9dkBZVb67Mgl1vwVvW2pkblUrruqz8642imTZay1rfdVx/Vi/leMTQ="
-      },
-      {
-        "icon": "https://pbs.twimg.com/profile_images/1500834232544997376/E0kDiSK5_400x400.jpg",
-        "name": "Tigo sport OP4",
-        "uri": "hs3dtdtVpX4bycgt64ciVoPc/70bqP0Xb0u+5m1jO/PyygPu/uoFIKH7PTeqng76F8A7P9R64REurH6ITsoMYg==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "WUpbdVOTsSN8/X2tueHZ2SsZJ9rddF2xlt7nJwlanDQ9/mO4hvoe5PUW3UfrQpz2BVsP/dB8Jb0tpDyz+lndvKhLld63+TRPXJhxL2s3yUI9unzPb07/RMM45jOBdjWQpZ3/YcI/Y2YepKckYXZajH0eM2jewKZDroCMOpq5QRc="
       },
       {
         "name": "Dsport 1",
@@ -953,11 +934,21 @@
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PckKffvRC/LQ2+0z28KQ/nR"
       },
       {
+        "icon": "https://static.flow.com.ar/images/278/CH_LOGO/350/500/0/0/294103520718.png",
+        "name": "ESPN 2 HD OP2",
+        "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5rvftvFSFE9/ULEgBLDn1imcSh//+0Ivu4y8WNNPmnvfw=="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/espn3.png",
         "name": "ESPN 3 HD",
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKlSuYQZy3ZB1MKQYPrWAGkCwxEjgxoQipph2MdvtWQfug1oUCa09Irc6ciWfPNYw4BeiK6crTtmXwm/8MyOdnBY",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfDFGH/vCdeIYRo9wwr/2pu"
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/72/CH_LOGO/350/500/0/0/29145259072020.png",
+        "name": "ESPN 3 HD OP2",
+        "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5r+zuacLkFTHVgXY9059LzDhem48Y6RG6GzHeKjas9xXg=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
@@ -974,24 +965,16 @@
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PegwOzGk9sP53HQFufsXEld"
       },
       {
-        "icon": "https://static.flow.com.ar/images/278/CH_LOGO/350/500/0/0/294103520718.png",
-        "name": "ESPN 2 HD",
-        "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5rvftvFSFE9/ULEgBLDn1imcSh//+0Ivu4y8WNNPmnvfw=="
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/72/CH_LOGO/350/500/0/0/29145259072020.png",
-        "name": "ESPN 3 HD",
-        "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5r+zuacLkFTHVgXY9059LzDhem48Y6RG6GzHeKjas9xXg=="
-      },
-      {
         "icon": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/54300512071132.png",
-        "name": "ESPN EXTRA",
+        "name": "ESPN EXTRA OP2",
         "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5pSKn1574y2e/8L68ENWGeq/cTSBLQVZG0Hf+Pyg6yK+A=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/prowrestling/images/b/b3/Claro_Sports.png",
         "name": "CLARO SPORTS",
-        "uri": "WlCRWq3Jjheqe7Vpd2XUhgtPqBNR4UavZUH4Lw657TXvtdbzpLqzqVQH3b5w4WFX3A7FjZSV3JfjvFeAQxrb6qMtcuhRCRquC3bhMdkzPU20Jqo/foJdELXnB3jm5efm"
+        "drm_scheme": "clearkey",
+        "uri": "cS0t9QZwdGHQ/vPkBNg2+B2Owau1t0kUDfheOj3L5ZRx7XK7SJxM/s09xcxBgmRUWWprbgl8MgGV4kAioIG1bDxuWzYM3ZGxxkthpXpDHv+ldHjlzLIqFSgXgPEmnZLvq9uf6WjPURvdTw3vsWzg4sx0nAyVdwNLY9D/3OkzqV8=",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+PoPZNx6IbnCkzHBSqz9L4DdQnZ06IywTs04O2xsqrlM4KHd9r42d4X2xZfuJNbxVasHp4g5bJGVzc2ulaF7HV/vi0Olf92Vg9OSpdSkqmO"
       },
       {
         "icon": "https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
@@ -1001,6 +984,11 @@
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfKbpMAqEGjAmDCxZkyuOiW"
       },
       {
+        "icon": "https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
+        "name": "FOX SPORTS OP2",
+        "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5os/CFoI6zHQSastbagb//2b1e1DtjCMhGTsWT+5f6NLA=="
+      },
+      {
         "icon": "https://www.foromedios.com/uploads/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png",
         "name": "FOX SPORTS 2 ",
         "drm_scheme": "clearkey",
@@ -1008,21 +996,16 @@
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pd63Tt4qzErC/fCXZKdzZmN"
       },
       {
+        "icon": "https://www.foromedios.com/uploads/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png",
+        "name": "FOX SPORTS 2 OP2",
+        "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5riRrTuuG6YrxNgsr2J/Ma4ozxxKGlfKnMwE58AWBHBtw=="
+      },
+      {
         "icon": "https://www.foromedios.com/uploads/monthly_2023_02/Fox_Sports_3_Argentina_2023.thumb.png.d222c9770073d72e2dd7aa568dbc2d3d.png",
         "name": "FOX SPORTS 3",
         "drm_scheme": "clearkey",
         "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKlSuYQZy3ZB1MKQYPrWAGkCQLPQbgYp6uxBqHxokUHSK+23N3jKmwJ2yzCiUYmsF5EaVslsKFZAKT+xtlP7Cjt3",
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pe9B9+mZPtmaNkaA27C9i+I"
-      },
-      {
-        "icon": "https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
-        "name": "FOX SPORTS OP2",
-        "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5os/CFoI6zHQSastbagb//2b1e1DtjCMhGTsWT+5f6NLA=="
-      },
-      {
-        "icon": "https://www.foromedios.com/uploads/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png",
-        "name": "FOX SPORTS 2 OP2",
-        "uri": "JbSwzw2pMAnllxtbW7VCk+TnBp4PX9uW2ueCIFuy+5riRrTuuG6YrxNgsr2J/Ma4ozxxKGlfKnMwE58AWBHBtw=="
       },
       {
         "icon": "https://www.foromedios.com/uploads/monthly_2023_02/Fox_Sports_3_Argentina_2023.thumb.png.d222c9770073d72e2dd7aa568dbc2d3d.png",
