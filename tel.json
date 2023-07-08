@@ -1394,41 +1394,6 @@
         "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PcINJxf9xZ3ik69l34VNIFf"
       },
       {
-        "icon": "https://static.flow.com.ar/images/68/CH_LOGO/350/500/0/0/8527518907875.png",
-        "name": "HBO OP2",
-        "drm_scheme": "clearkey",
-        "uri": "iQE5UD32nT8/AcvUGsXHhUhs7QDF8nBcmU4iAkf1oKWGvjMp+e58af4L5npLlyjEb+a2yHSVSRW/1fPJnxHVjg==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwy53k7R8J1iJ+EPFC4TJ02qwTNdf15bwIR2PNfeso1Z7dLO0dY6IYN39PJJYZkMpgy6Wik57EEgnfF2cSLOIkpV4eFf7l+4Yh9szzh1XydM/"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
-        "name": "HBO PLUS OP2",
-        "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWzwu8O88UncrfmOJsZw8/NnyhtNQYDaJCDdmSy+vZmEw==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRwxPfnK9PqmBEjWe3ctcQRJJVaVPTkM6NoC5gNj4v0byB4Ix9XzaUWBrG/jZ+BsgQr77ERIVZQKBQsBqpKz3BrkArrOVCIHep00G8MZrg5rce"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/704/CH_LOGO/350/500/0/0/931513860712.png",
-        "name": "HBO MUNDI OP2",
-        "drm_scheme": "clearkey",
-        "uri": "iQE5UD32nT8/AcvUGsXHhUhs7QDF8nBcmU4iAkf1oKXnFcXZ6ntwDtjCW/AZIr26LskECTweopQvd1N4pMSGnQ==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6Kn1cLq21S/TSSDXx/rEhet3MUBMYSpnzsPh81kcauzvGY5rNFekcKfCGbytPoPlHdWLMnbC3kMwYDQBpHWpogTmqEs2sQI2GCl9alfkN51"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/1441/CH_LOGO/350/500/0/0/71702634073927.png",
-        "name": "HBO POP OP2",
-        "drm_scheme": "clearkey",
-        "uri": "iQE5UD32nT8/AcvUGsXHhUhs7QDF8nBcmU4iAkf1oKUkmjbKif22n7CqejmC7SJXGwM2QdHonQRFzhNKE3SPOg==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw2JBEalArAh/TPgpiT3hyFu+LfuMq3eQWDAkI5mnnjOQ8vUheTuE9nFRKPht61l+CHCtYlhAaOIjQShuFOs+4Ycm9QiD0R79asZscUJxBfEZ"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/705/CH_LOGO/350/500/0/0/7754024707334.png",
-        "name": "HBO XTREME OP2",
-        "drm_scheme": "clearkey",
-        "uri": "iQE5UD32nT8/AcvUGsXHhUhs7QDF8nBcmU4iAkf1oKX7P79/hmWKYIlUMN8cyNgCle2/KJ0G4SOwSNGN74nvFd0+dWZzry6roAdWsgjd0Sc=",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw0M21iIWLKkxArKk/a0VSXz0pMGX45JnlDLupAi/Cn5c+EHMIEUlTUeDWPi6ex/ByZaENk/BAxv/U8gRHDVwUOW0OV7igXYdoOhdZXtg3hHo"
-      },
-      {
         "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
         "name": "UNIVERSAL CINEMA",
         "uri": "fDtQS8tTKvHnfGjPy942i1FnXlg0GcMYidjPs86Ju5gy+hcNfI7TWrYUmgFWe9qORxfbUcZ10Mc2xafuyTKX0Q==",
@@ -2541,9 +2506,9 @@
       {
         "name": "HISTORY",
         "icon": "https://static.flow.com.ar/images/301/CH_LOGO/60/40/350/500/68362124071499.png",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpN6FxyXuc78a9nJ0zk/GtrJbUnqpvC69dL\nqDnN+DzlXWPVDZwiIU0b6p6mOZ5uR84EF7oDNb2NzT+Zq+Ix8oLE",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dpN6FxyXuc78a9nJ0zk/GtrJbUnqpvC69dLqDnN+DzlXWPVDZwiIU0b6p6mOZ5uR84EF7oDNb2NzT+Zq+Ix8oLE",
         "drm_scheme": "clearkey",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw+pSt6jX5BE4hPLjnnfa5teLHlpl6NT69MdKMToAEsZUFBpEHAhc6enlrTBfFO8FWXaA2Gt/uGudVmu7tnJAiX9F9rjdeHgwalDohP0d4aUM"
+        "drm_license_url": "8PzQu9VBEO8c21FIQcFBdDoulWgZgPuYBViuKMmhMywkij41Q/XyZciwl9rb+2TCDKKdCpXBGtBvm+FlftYQ8rPx4QxdH6Xj8nnefweQ0UTLJABETJ5sqFpgaTZtZ0sUZwLzaPb9wj1mmupZALt0juDfd7rnYpSg60j9JCsXt2nr6kYSL+zX/97T+8nUQnEKhO8J3qp+Irhf0AD4NN92cQ=="
       },
       {
         "name": "HISTORY 2",
