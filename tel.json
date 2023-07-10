@@ -3476,8 +3476,33 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.imgur.com/Wfi0WRE.png",
+        "name": "Tele 8 Mercedes",
+        "uri": "iS9w6I0LUkutpQ5Ft5u1Ex4tqNxGKtsh8ZAj+KoesL8DiNfkN9yIO82hltYmHGx2Vhb05ZfQd8g1xCRqXWrVZev22yNQKdvAFSuq+Dwjn+0="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/5d/La_Red_Uruguay_2018.png/revision/latest/scale-to-width-down/200?cb=20200825011821&path-prefix=es",
+        "name": "La Red",
+        "uri": "bUa5M2PCyPfgpzpeo0OiqliRXc1iX5ZJ3px0xf9YKpYSnghP6D9sDA1ze1HWUN5+1CwYnkBNHEqMR8wjGvgaqQ=="
+      },
+      {
+        "icon": "https://i.imgur.com/pRhfuxs.png",
+        "name": "LATINOKIDS TV",
+        "uri": "AOLqpr59v0CwTaJSWHJQ/L/A4APz4+nn1jpbAVV2+tStBYpyys8wdvNoJlKEnT+j+dw9bGYtQTwfeOCZL5blDQ=="
+      },
+      {
+        "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/352e33e766ec2e3d17271c7faeac54c4.webp",
+        "name": "MVTV",
+        "uri": "sVPVsEFSWG8MGvAA5qiAdBE/ntxQ5YpcGWkNY5uZ7EEIj+3VcMRuDhz+fciSSbqIK8BZkBJyT7X9tCctdS7jNj0XwQUm+cR+C+i/RpHJGPM="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/7/7d/LogoRTVUruguay2012.png",
+        "name": "RDTV",
+        "uri": "ODEQvHMVwmTqbdEI6aJKF/JAMpWKKrtDAmDocLEIKfbxXG0ox4u6GC6RSrw3xnNdTWKiTA9c7KdKUneC+hll3mIrS6ElHnoyeWGiGz1/7Lc="
+      },
+      {
         "icon": "https://i.ibb.co/Tbhgmz4/UCL.png",
-        "name": "ULC",
+        "name": "UCL",
         "uri": "e/qkQ1OiIbPTIpqzE6nqYdrn9+8QA3/FvJhaPDhgaSw5m+Lv+8KhIi59TtyLYOgXLyysVNqdwN6jl3RIsqb5pg=="
       },
       {
@@ -3527,24 +3552,34 @@
         "uri": "mq0MV1iSU3/MhTaNU6Nti6zdiqHGlWJhSvFEYr+2Ad5pjqaE/XW25te2tSzQx7J07ODoaDwcDcqemC/iLRZlkA=="
       },
       {
-        "icon": "https://adma.tmsimg.com/assets/s67236_ll_h15_ab.png?w=360&h=270?w=100",
-        "name": "STARZ CINEMA HD",
-        "uri": "7fLreniMn5fwzmDDC4Vh/9eIMPP8v/2u+/s4gfa2FAtW6qDCAfqZzae17cmFVvTp1fBlGfAkf9UjGcFwAjuOJQ=="
+        "icon": "https://i.imgur.com/q4TZut7.png",
+        "name": "1001 Noites",
+        "uri": "tBbX02bWlSs9zIs70mF/MM/sZB0I4yc/3ZO97OsczPLW0PGyMZfvzDy7vffjfnENaxia4xFFAbvBHS6Ed/VkRSmsnUVPWUIpe6bCg/P3fbQ="
       },
       {
-        "icon": "https://www.adlatina.com/uploads/img/bra.logo_foxsports570-13.jpg",
-        "name": "fox sport",
-        "uri": "7fLreniMn5fwzmDDC4Vh/9eIMPP8v/2u+/s4gfa2FAtW6qDCAfqZzae17cmFVvTpdxfTtlczlWA/E6GJfle9Ow=="
+        "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/be062d76223bf6b8b12f89cd2161eb4b.webp",
+        "name": "adesso tv",
+        "uri": "tBbX02bWlSs9zIs70mF/MM/sZB0I4yc/3ZO97OsczPIbOSGuyYk7WBnKqKGtwKAHuVvM+btObbiwSn9gLpuwFIyrU8jPUcZcRQM8Jo2ueC8="
       },
       {
-        "icon": "https://tvonlinegratis.com/wp-content/uploads/2014/01/sporttv-500x500.jpg",
+        "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/37a7f2bbd24082bb8f947686020c3e82.webp",
         "name": "sportv",
-        "uri": "7fLreniMn5fwzmDDC4Vh/9eIMPP8v/2u+/s4gfa2FAtW6qDCAfqZzae17cmFVvTpJTbE+z9VwhSadkcCK8pxhQ=="
+        "uri": "pgwDs6xHNExdwlHOLw66t6Xp1NYtNKEWqJAG3Ast93wbjs7NXGshnCkj+AtW1k/LG7HTCJGV+zEJNacDsOXx8w=="
       },
       {
-        "icon": "https://img.sport-tv-guide.live/images/stations/a1240.png",
-        "name": "sportv 2",
-        "uri": "7fLreniMn5fwzmDDC4Vh/9eIMPP8v/2u+/s4gfa2FAtW6qDCAfqZzae17cmFVvTpm2bCWTYsO8hsM6ZKWGtYOQ=="
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLYzE1-EFZa1n9SIKA98TcJzwlrscFPOP5w&usqp=CAU",
+        "name": "Alpha Channel",
+        "uri": "VL0MSY1fPQY+4IJaATjfte2xcw5ZPo2TVdPfQim0Hz0qKxP66iMFgX4h/wHheolSVCpTr2DHv+WzQCJZRIfRlVFX/JTbVT2ekvs4f3kG/XY="
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLYzE1-EFZa1n9SIKA98TcJzwlrscFPOP5w&usqp=CAU",
+        "name": "band",
+        "uri": "Jfpk9yUdNEvef5rn8mxB08zB25HPd0eySoQTeBFHp2RKYbwbZXB/8BWjNX/yA8t21TlSvLQumEaNNtHgRF7OXg==",
+        "drm_headers": [
+          {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0 "
+          }
+        ]
       },
       {
         "icon": "https://seeklogo.com/images/B/band-logo-B923FE7226-seeklogo.com.png",
