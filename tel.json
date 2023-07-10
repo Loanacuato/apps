@@ -711,6 +711,18 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://seeklogo.com/images/S/serie-del-caribe-logo-1792D5E374-seeklogo.com.jpg",
+        "name": "prueba",
+        "uri": "JIB4gpA2GP7vD0NnVcq2PKMpuJJOepSgmFwEWBfhSoHNsA+hsmccPRM98wD5UqY3",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw875adcZp8XqREzmqKGMR0eJLPBdoJyJN30ISaRE8iLph1VAA+eUouL8QCx7wl+ukc5jXLQoW8OcSPkS7zuIvkgTkXGAflzH7xxx/KpYFaSX"
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png",
+        "name": "PRUEBA",
+        "uri": "pb4PLfHaHQxLwV8uDvyRDt7nIStqorsvZZ/E9FewHahA192HQdnX7JxnwcBwiAL0X0ZsJMiIu8l4hiO4vRIU/fNfeE5AlDWBO8PCqgLCffcKW0b9FxINYzalRUh/TcMEpxMfkvtASFZcg0PuLFSsEE9sWn9+mA1fHrIKt1qgUnmfWMsw4pvhNIO0dqIcdgiY1Kl23Sv5WwPvX850UjLs0/XmEJvoBNJ2NgU/I+TbpUI4y9ZblHVhKhEm3eYNa05d9nYJR44+PTEh3uXFemFBP66VPpOq8OqQG62OxQ/xSITTSRYKsLJDWCI5ACPRjOQ54sdsrSAVfilclusYthxm6To97J7s10V7WoM3mQGcgfJ1IskEuvZ7vCJxyE1xZz5darXqd30VQe8bQpXH4SkYG3kQP6QThBnadbTvqXosnHQlq0Tbug6U8eL2EedsOxqegM5cNs4FppyXyVLjb+F//z3xi8r54TyJYbfHEGKPAU/WUDqv6jO3Q95nPfiHFFDdgqQQNqdSc+A3PBFB271x4HaLB6hw2uQtZSXfKxZ52rhv1X/plIF+wxyWJqn7YiVhkwnuBFgQQW/LsqDFU++lhdl+hLZO9rz8WZ4IqxcfKuScEdZ6dAulwDXtksK17j9YdZ35CIBgc5i7l12l1/r+sHnEy75yJEJqjF6EoggMp551mgmeBr1M7Do3R4oOt0VZ++t7x/6vS5/Z195Xb2No+XfLiPSYqM1H8OavXjORw86LZOgDEPNSeuyX7aUCvPWk84/UZeFSX2kZi51rlwynBlMkCrsRjKDH5goumCQuZ3IaDJ3bqMO8fdQexlTfMS/WHOKXT/GcEyD4rqQUkhmL3ekyjA119QiWLjwdwAIAyeLG0DkwH5V0eCvtKxrx0m3aUhEbsYZs1AC6nMW6Na4OegyBFx/EVHGez4HA80NuJvmJqyg+NYFnbfwl7FjIONmC7A85xCH0tS95MPFha55rDWlLwyIerlpj5MsiRAywZbdI/o4Fq/zo4WbuPSAyy5J7imACU2y10zMa0eB7L1gF1NBIPtebOzvXH8CdJKVUguIPT04h6bgKnVXrhjRZHxWvGtIlRjCH2c1jgAckOssCq2iyrXgk2WpPkzGG9cRiPdwLPnvMpH7b2EWJF7r3pm6+BWZwEVzC390RdOKNNmmttibuyfgutaDF5W1iCdmAPGLnyf3EM6AQ0gafC195fwwK5QpqO/+ntJ+XNmfhdezmzQ1pxLU4kKQyF0SYZ/LdQOtuGwtqLpWTln5X3DVpMLI9OJwdpf6NT6OSv+aujezKYkOht21v4J0wjD8lNywZce21QVjRVs+vIFAorjxNZXAn1ChtMuEda8WM4Hxrc/roHgwNsVHAXHrT8dUCdRcewEDSAdCvaB1bc6xJDvJlYuvXL5AinqSrlBMTbcsfWpTcx6OPGIkwcWcWRWGvxWMDwA40zlEMbZgj1ebwp46rD8Yrp3+0hD8zJvvaFWxVhOk7nbHJ0j2eIh6d9m52bvuQ5VgBhMDHkz7/VabvgGE834dxFOoxUvd25Ca1jHaWhL9m30cSSTPOeqc/PBckq0wR+mugnqh/n6Q2rI7QV5AqqIEqGIIh6dKvCgSUEFglucC8FxsyARuJa37748p25j9cxrPQHKPpWFJPrXmjabSqvBtFYSOPH32RUO6dOfpVSOuKpBs7YLvnaQIs7+NZCJPzAz/xBPiy+u4lVNI3pMYM9RNNZK4KQzXLDl7LrCII7+B1yQ=="
+      },
+      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png",
         "name": "TCS+",
         "uri": "QrstaA/Wl54Xy7hEGTPelLdhAgiuLCQU/thF5yDIjTcVWYVyOl1mk7w/nwGeL0ZTAordr86skUtYOsXihkHpMSM8vmjmZgL2DrBcI2c4XELwfTUBwZDeR/T50lzHUE9J0IsxCsx1zSWGJ/5OMpqTPDuVV+nWBPtC7+M6yw/LE+8opedvE/jFe8La9kjG0+L9"
