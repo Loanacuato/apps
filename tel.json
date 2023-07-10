@@ -2525,23 +2525,35 @@
     "lista": [
       {
         "icon": "https://i.imgur.com/CkV6sB9.png",
-        "name": "TLNOVELAS",
+        "name": "UNIVISION TLNOVELAS",
         "uri": "5WRdua2uDxUYxUBCbvWp+6ZXUkJcOZ6j0GQSctqU93ZO+Y5tqf7BD3GQBQFxzSm6"
       },
       {
         "icon": "https://i.imgur.com/CkV6sB9.png",
-        "name": "TLNOVELAS op2",
+        "name": "UNIVISION TLNOVELAS op2",
         "uri": "8WYgOOh6b5eLTclIt/C27pkQ/YMuiD508NC01ppTRGFsqdBB1DmYESL/aLxT7CwfOdaA/Ce3Blu4IxX7nT1BKQ=="
       },
       {
         "icon": "https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png",
-        "name": "TLNOVELAS",
-        "uri": "8WYgOOh6b5eLTclIt/C27pkQ/YMuiD508NC01ppTRGFsqdBB1DmYESL/aLxT7Cwf2MI5/y0jmyZU8JXGim9+Cg=="
+        "name": "TLNOVELAS ",
+        "uri": "JIB4gpA2GP7vD0NnVcq2PBciggc6+6LOXvtsYqSXNcCX6DR7AwIcZYLAtJAXVnLQ"
       },
       {
         "icon": "https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png",
         "name": "TLNOVELAS OP2",
+        "uri": "8WYgOOh6b5eLTclIt/C27pkQ/YMuiD508NC01ppTRGFsqdBB1DmYESL/aLxT7Cwf2MI5/y0jmyZU8JXGim9+Cg=="
+      },
+      {
+        "icon": "https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png",
+        "name": "TLNOVELAS OP3",
         "uri": "BbDHrUyzkqkLlCyt6JZi3jAsD5XRZqkS+kNSnTLCjwZIkhGWqnT7VpBlMRZrLgBJ8acYEuWb7sP4sUdrHD3Sv/0+YIxjLbnaMvRyYdNaDnI="
+      },
+      {
+        "icon": "https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png",
+        "name": "tlnovelas",
+        "uri": "CNkMxdKH7X9uRVUdhgCc1QWy1D0rx8JQT2eQYfbpuzZiJV7seJ8sdbNhkNUonTcjs4whNM7ZvSMY886gqohQbA==",
+        "drm_license_url": "c8heTzL0MsIBH2tFLsP+G4a8zwwfY5Vxz+LV3VvyuY6WcV0Ofhq8PEAx+XI5QHWgtt9Mi12fsnLjUr7kcApwiDft/+ljKfxOc6hoL55/9a7bx+vL+NtZ90uJ4Z0qP2ZpcatUWJMY/KfjPwLlWlhrBF3WyvQOMoe8XLoCTwZbkw8=",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.tvar.io/imagenes/bravotv.png",
@@ -3172,6 +3184,11 @@
       },
       {
         "icon": "https://static.tvar.io/imagenes/telemundoint.png",
+        "name": "TELEMUNDO",
+        "uri": "JIB4gpA2GP7vD0NnVcq2PIGIAKXQwctFeDK/k8jf07QyEwXYvnrvXLCVG/N50bGQ"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/telemundoint.png",
         "name": "TELEMUNDO INTERNACIONAL",
         "drm_scheme": "clearkey",
         "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mIPUHI7cyO9NwxZi8mLC69Up8InK6PMqWH9HE7FHwe5n8e+B+W1i2cLZbdWzmr71mGjDAB9RzsE+c3eu3XgRQ8n",
@@ -3572,21 +3589,6 @@
         "uri": "VL0MSY1fPQY+4IJaATjfte2xcw5ZPo2TVdPfQim0Hz0qKxP66iMFgX4h/wHheolSVCpTr2DHv+WzQCJZRIfRlVFX/JTbVT2ekvs4f3kG/XY="
       },
       {
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLYzE1-EFZa1n9SIKA98TcJzwlrscFPOP5w&usqp=CAU",
-        "name": "band",
-        "uri": "Jfpk9yUdNEvef5rn8mxB08zB25HPd0eySoQTeBFHp2RKYbwbZXB/8BWjNX/yA8t21TlSvLQumEaNNtHgRF7OXg==",
-        "drm_headers": [
-          {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0 "
-          }
-        ]
-      },
-      {
-        "icon": "https://seeklogo.com/images/B/band-logo-B923FE7226-seeklogo.com.png",
-        "name": "BAND",
-        "uri": "7fLreniMn5fwzmDDC4Vh/9eIMPP8v/2u+/s4gfa2FAtW6qDCAfqZzae17cmFVvTp+Z2/zY7d7GONxxZI+eurnA=="
-      },
-      {
         "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/ac8c5fc2-b457-4784-8911-6b8cecd2b12d.png",
         "name": "TNT SPORTS BRASIL",
         "uri": "gCTzQvT0Nk9JKa9A+tC0JVYjBLXe9WTjaXHomCVTmyLA2K6Y+M/dLn7+h6PfWBXhLmmozowOvywEqDLWk8Twwg=="
@@ -3622,9 +3624,9 @@
         "uri": "pgwDs6xHNExdwlHOLw66t6Xp1NYtNKEWqJAG3Ast93zPlXA27/zEEm+QfhioIPLLzMIuBFs7wEgNJ2jk2CMH/eGFzlY1qIZA/yC4WSoITp8="
       },
       {
-        "icon": "https://img1.freepng.es/20180626/izq/kisspng-goinia-sistema-brasileiro-de-televiso-tv-serra-pbs-5b32f2c5be2ae0.3107410515300656057789.jpg",
-        "name": "SBT SERRA DOURADA",
-        "uri": "4YDA02lBj/aiFJis0GFQqmGOJaGlQDL2MwUDOLMVvixCk51tmc9/cxQbYflhjFAiYAMSPMgy0nKVFlpevpX0/XZJuhDFQJhrhYQjX+imBitGGf8iFqmFJqHz6UA1IVhj"
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Rede_Massa_Flat.jpg/revision/latest?cb=20190405220541",
+        "name": "SBT Rede Massa",
+        "uri": "Hj0ifBoAJXX1tk8j0mIJ9Rua4KXMpBAdcRA65inZSsWpSM4mmEi1cBrdFejfXL/lnpvN8L5OdGQ8kd8HE7tvpig+HxltsOuUNli+QFuMhUw="
       },
       {
         "icon": "https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg",
@@ -3632,9 +3634,9 @@
         "uri": "pgwDs6xHNExdwlHOLw66t6Xp1NYtNKEWqJAG3Ast93wbjs7NXGshnCkj+AtW1k/L4nojjUyHxRY6sRTFaYeqOg=="
       },
       {
-        "icon": "https://play-lh.googleusercontent.com/UGXTMajQzEpLMZgCM02kEA6b3q_UZjQXJWdFMhPwmUcpN77tyS5dPv2MRIy6IVmMEw=w240-h480-rw",
-        "name": "TV GAZETA",
-        "uri": "giQle6dMRZVaUZvz+Cl4Di8BZxKiZnITTx2RlEnfZdjqLYLSfCo1buk9PexpwO8KtUV37xr3tRsvT606+sp0AQ=="
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/ba/RedeTV%21_TO_2019.png/revision/latest?cb=20200502053751",
+        "name": "RedeTV! Tocantins",
+        "uri": "yF0EdVd+88DHMuZ8sYWbp98nithK/8ra19AEXtGHTOUf+/CVfgHn+LeRnrba5Yb27rVvFxDEpDcnhQ325iWIvMkqzP8HerxksEJOuw6Gil4="
       },
       {
         "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7b0be1e3ddbc37ae133fd52e75a94fe0.webp",
@@ -3661,9 +3663,9 @@
         "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw6LI0UUnX16CZQiXKNw4Wfw6Bz28lt6Q3wgdx79PorsyBBM6Pu1vTw3+46LXrjH7SFnXxu/F8Wt0BwFLXzeQojTWKvSSV1Hq7kj3RzUi50pi"
       },
       {
-        "icon": "https://3.bp.blogspot.com/-TiWSY2rIWqg/WvYAGpVBBzI/AAAAAAAAyn0/YcghPYoIE8M95rgj2q55x1QzqClYmn-cwCLcBGAs/s320/combate-play.jpg",
-        "name": "Combate",
-        "uri": "7fLreniMn5fwzmDDC4Vh/9eIMPP8v/2u+/s4gfa2FAtW6qDCAfqZzae17cmFVvTppVdQAdnbrIKvNugzx9zOSQ=="
+        "icon": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7faf25d0fff391c39eb21e2374503e89.webp",
+        "name": "Nova era TV",
+        "uri": "hmgigOHu3VzUzImKNhK9eGFRnqQPtVwx/YyEaV52Buhce6+LiOuSY72R3SNAp3SZw3YpAwbJOBeDFu6EXPdttQ=="
       }
     ]
   },
