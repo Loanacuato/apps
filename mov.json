@@ -746,8 +746,8 @@
     "mode": true,
     "lista": [
       {
-        "name": "Pose T1",
-        "icon": "https://static.wikia.nocookie.net/netflix/images/0/03/Pose.jpg/revision/latest?cb=20200621173013",
+        "name": "Barrabravas",
+        "icon": "https://i.imgur.com/ai9rbmV.png",
         "temporada": [
           {
             "name": "Capitulo 1",
@@ -780,6 +780,44 @@
           {
             "name": "Capitulo 8",
             "uri": "Ix+v4aW8f1YcHfXo6AH1+AkLOHsLkcZKObPVIWq5gOU+Ow3FpZvGHwF3W4qiGPYzTEMAjPB8yyp8fC3O4ojdsO78QENMkVbmtYI/iQRvA9jwnGq/OLIINxt0xzIZdOBEFHkqvJSuLoxArO9xQLvuEg=="
+          }
+        ]
+      },
+      {
+        "name": "Pose T1",
+        "icon": "https://static.wikia.nocookie.net/netflix/images/0/03/Pose.jpg/revision/latest?cb=20200621173013",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "JIB4gpA2GP7vD0NnVcq2PMv+0Y1lJgq7QTFcz2eBfAa1q4paBYFNZXNDXAL4lB76"
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "JIB4gpA2GP7vD0NnVcq2PMv+0Y1lJgq7QTFcz2eBfAYuzO6mDwJqX258pFITJJXV"
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "JIB4gpA2GP7vD0NnVcq2PMv+0Y1lJgq7QTFcz2eBfAaPyZP/rAZNIGYH9mnt0t1w"
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "JIB4gpA2GP7vD0NnVcq2PMv+0Y1lJgq7QTFcz2eBfAbqfjW+0EtmSESf1L14yK1U"
+          },
+          {
+            "name": "Capitulo 5 ",
+            "uri": "JIB4gpA2GP7vD0NnVcq2PMv+0Y1lJgq7QTFcz2eBfAbRlUjETKm9yoiU229y7TaT"
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "JIB4gpA2GP7vD0NnVcq2PMv+0Y1lJgq7QTFcz2eBfAZjON5UOOAX2/4Ja9C08KI7"
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "JIB4gpA2GP7vD0NnVcq2PMv+0Y1lJgq7QTFcz2eBfAbjYdxMP/AtM0Lv18xj4PNb"
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "JIB4gpA2GP7vD0NnVcq2PMv+0Y1lJgq7QTFcz2eBfAZv+u/N4eVUvEI88F3Y5jaD"
           }
         ]
       },
