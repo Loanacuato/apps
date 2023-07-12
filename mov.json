@@ -746,6 +746,36 @@
     "mode": true,
     "lista": [
       {
+        "name": "Montecristo",
+        "icon": "https://i.imgur.com/ZyK6IKO.png",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWb2di1vFMIvoWb1bjWlyn6qPQSOowkvbKoHeHaE2tYHiTXEZ+m/b9F8kx0YjT0Zn9A=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWUnjslgNhuTbKl4MWP3bZyjPyQDHJSOr4+Zf1SobCp/9evDDup2XHcYbFHdPt+hSgA=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWb2di1vFMIvoWb1bjWlyn6qHHgXmQdTIs6aagvpK+afgd7UXqq+G8cJePI3lUc9BlA=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWb2di1vFMIvoWb1bjWlyn6pwen9jxoJ9XilX9ZXGaUAt62M5WoxVJARPoYOkf4vuSg=="
+          },
+          {
+            "name": "Capitulo 5 ",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWUnjslgNhuTbKl4MWP3bZygaZ+axE9Phe8RbEbdvy2GZVjRqDljlP9Lt+K7uAzqZ1g=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWUnjslgNhuTbKl4MWP3bZyjETKU0PWWNVpirp2mB2U3My1F2UtLnP8fwjb2vkufbCg=="
+          }
+        ]
+      },
+      {
         "name": "Barrabravas",
         "icon": "https://i.imgur.com/ai9rbmV.png",
         "temporada": [
@@ -3439,7 +3469,7 @@
           },
           {
             "name": "CAPITULO 2",
-            "uri": "kmOS9KRdXtGNkjnT+c5NQlc34V53wwMKspvFOyAW2Xb7EFiHGaKloi5QpAQJmYDHPB5OcRUB3hLlrZu/7l6UU8qPU4X4u9E5TabGaOCnLDHm8X1PgBXIouO7FSKll4tCzOvLTf2TfQGW/ssAI9n19A=="
+            "uri": "0U7astK4GftUGpu5ky0hlPKjcsN0rU8k88uJdz9Q41ngq18D2rmfPbQDhEwfUU8XSq3mr+tmh5qtTVsHp2K6pVscsTLUUCFJzuqGHhPRcqQQfy8PfmUNFV6b116PrLJtPyUXgmq4He5ji2gelQ70e89ZlMxfxhFRkO6ROACJQbcgRI64JXxwn+GgOSByTCC3cmdwbbFzqmeUFJfk+0fHadMJAOEilZBkrvBSft/9VjAyi1hGH+NJZ2VPV6M8NQaWWDtjHR16N6Zz9hxVorRRbeIT+ZTvsdA553goeBEV57jIWwytSy6eq/ScEpUHrSkoMFOfSFrQunPVdow6XU/vpato1BDPIQZ4k9xd3U0yIk8VCqx6PSimHvjC0REhkXblqrkKj1u9MONFozSW1c96+w=="
           },
           {
             "name": "CAPITULO 3",
@@ -8071,6 +8101,84 @@
     "name": "SERIES INFANTILES\n6 Series",
     "mode": true,
     "lista": [
+      {
+        "name": "Chip y Dale: la vida en el parque",
+        "icon": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/56FB253B097FE709AB2BE60F4CF31C1C30C276DB5A3ADA60E8F965D33D040AF5/scale?width=506&aspectRatio=2.00&format=jpeg",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaTy57paT6voVFTMU1Ppcp4Zmh+W+C2QhBj1oA3oldFveXZ9Nf1rgatRYAw9PhLP/w=="
+          },
+          {
+            "name": "Capitulo. 2",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfcdKZT7eGzXCcgKFWsjH+G05LPHx4SkeW7MxuYNveSMbOy9g+QI80he/2vpcVb9kw=="
+          },
+          {
+            "name": "Capitulo. 3",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfcdKZT7eGzXCcgKFWsjH+GpllV2ABwaUccMwXOFK1M3QaZV/a/MmXM/LZgHlKW2uQ=="
+          },
+          {
+            "name": "Capitulo. 4",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaTy57paT6voVFTMU1Ppcp5+NIxWhO7zad0Oe5K9PmzqZiDPtQu0mAp79yoJRnkwAA=="
+          },
+          {
+            "name": "Capitulo. 5",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfcdKZT7eGzXCcgKFWsjH+FM+7ubJszuwJM1meR5i4fcdv404bOG0sImlF48+L+iQA=="
+          },
+          {
+            "name": "Capitulo. 6",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfcdKZT7eGzXCcgKFWsjH+EGz0sQQcg5deVymUeoE60a1AZ36tfEjPwwL/eQeYdpaA=="
+          },
+          {
+            "name": "Capitulo. 7",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaTy57paT6voVFTMU1Ppcp7v+XkPNp0tAp5fw0cGMCKQ+7G/wU5NcbjFtMxwRNUsgg=="
+          },
+          {
+            "name": "Capitulo. 8",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfcdKZT7eGzXCcgKFWsjH+EdFoNzqI8F/yJE20BmpHzmpMAjz0BAb1gDnp/zb5znqw=="
+          },
+          {
+            "name": "Capitulo. 9",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaTy57paT6voVFTMU1Ppcp6oMYq05gBOcRsLTRT0aEeO+4Rdum24K1emCRd8DNQrxQ=="
+          },
+          {
+            "name": "Capitulo. 10",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfcdKZT7eGzXCcgKFWsjH+EFrutIWtF+3U1naHVLQcH4/iEzLw9my8gJYjcLf4IsEQ=="
+          },
+          {
+            "name": "Capitulo. 11",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaTy57paT6voVFTMU1Ppcp4U08Xg8S5VsXbTRD0Tzt/ZFW0KYicLWWpoIllvYwDbDw=="
+          },
+          {
+            "name": "Capitulo. 12",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfcdKZT7eGzXCcgKFWsjH+F0KkmA72LY9H256vRg9+QA8Agcp1rT6bL5IdlAB6fuAQ=="
+          },
+          {
+            "name": "Capitulo. 13",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaTy57paT6voVFTMU1Ppcp7kAr5SHtrdaaOm1iSKI2aeZ9lSrSYrQA0ZPGhbvGBbFg=="
+          },
+          {
+            "name": "Capitulo. 14",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfcdKZT7eGzXCcgKFWsjH+HKKDpX1B+/EH94Hjhl3tEzX6TCuFeDqyx23z4WQDurpQ=="
+          },
+          {
+            "name": "Capitulo. 15",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaTy57paT6voVFTMU1Ppcp42LHw439prYlp+i/Bwu001+WjCENwBfHZY9ZO642gnjQ=="
+          },
+          {
+            "name": "Capitulo. 16",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfcdKZT7eGzXCcgKFWsjH+EOCZ+q3TCDW6PL0MVcOK7gD9hDdzJaTMNkmW96gm1KzA=="
+          },
+          {
+            "name": "Capitulo. 17",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWaTy57paT6voVFTMU1Ppcp5ZrghjgqcWGQs8lD6qT1ejHnkJZ3ARQjyoKykiNkbumg=="
+          },
+          {
+            "name": "Capitulo. 18",
+            "uri": "aqjOEhWtVS9CYLQkJfIDWfcdKZT7eGzXCcgKFWsjH+HBDLsl95fVVnwwk8SjfE8GDqrkW1M2hjDP8ieH4//NEA=="
+          }
+        ]
+      },
       {
         "name": "Sonic Prime",
         "icon": "https://m.media-amazon.com/images/M/MV5BNjlmYzZmM2QtNGQwYS00NWZlLWExZGEtOGM0NjYxNGFjNWU1XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg",
