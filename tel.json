@@ -711,6 +711,13 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://cdn2.sfntv.xyz/webp/logos/fsportp.webpS",
+        "name": "MSL",
+        "uri": "FkUtLeYaHW/jz8OLWgJ9bEUMMPgsfDHMRcOD4j5Oa/796ioqF8iaiF5e4+BIwfvGGouTEisoiLpBOBBrHjufPouf5J7653/rmwB84YJ6usy+tZER1RdUNl2g1o0lBBFMGq5U7W/fzpVwfb0gIRNBjOAwZOcdDrGbRpnFEYXV31I=",
+        "drm_scheme": "widevine",
+        "drm_license_url": "VSXneukDoLJ15XDUUlNSDSVeHHQkj3zuAwBkbumfiv+c49FefbV5wrYCnDpcH0kkkRUGcb5f0kImcz0/mAIs5UClqbNivYuqJuQm2mqlaqsNltCIzWRvRVJKt93toYz9MLet2NehMF1Odzm3CJeP+A=="
+      },
+      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png",
         "name": "TCS+",
         "uri": "QrstaA/Wl54Xy7hEGTPelLdhAgiuLCQU/thF5yDIjTcVWYVyOl1mk7w/nwGeL0ZTAordr86skUtYOsXihkHpMSM8vmjmZgL2DrBcI2c4XELwfTUBwZDeR/T50lzHUE9J0IsxCsx1zSWGJ/5OMpqTPDuVV+nWBPtC7+M6yw/LE+8opedvE/jFe8La9kjG0+L9"
