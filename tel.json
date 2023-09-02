@@ -778,50 +778,20 @@
         "icon": "https://static.dplay.tech/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
-        "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKnMA7M9t7JPulocxcBcNniNMNv2EHg6PvWbzGEImQn4KKvvtue4EfqSxyN6KI46HW1tPwEm9ylrlEWFwcHWDuDR04ZYgcowz0Z9BCpTV+v+zuMvC6rCHKHPHuxYrcxkCL0=",
-        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1PfcCdrYRcRgdPdiWMHbkT4N/lprikc3pjh5WcKWtDvOcQ=="
-      },
-      {
-        "icon": "https://static.dplay.tech/imagenes/espnpremium.png",
-        "name": "ESPN PREMIUM OP2",
-        "drm_scheme": "clearkey",
-        "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKnMA7M9t7JPulocxcBcNniNMNv2EHg6PvWbzGEImQn4KKvvtue4EfqSxyN6KI46HW1tPwEm9ylrlEWFwcHWDuDR04ZYgcowz0Z9BCpTV+v+zuMvC6rCHKHPHuxYrcxkCL0=",
-        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/LpBElouyvaLMCh9IERyGVgNSA2uCoLCALMphqdIkWT/u0AmTcmYI/6lSewoWvNQJA8Gi8Q0kOfJpHREU7CXWVelQ1Dixci4eOH1Q4w+/Tjdw=="
-      },
-      {
-        "icon": "https://static.dplay.tech/imagenes/espnpremium.png",
-        "name": "ESPN PREMIUM OP3",
-        "drm_scheme": "clearkey",
-        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dra548eFeFqwm/Ogur+vq+19qpfbGFK1zKchAUBDijdsT5BsHelyt1zEQG95SG9ULl4oty7C8DjGgnjb3uOCo1Taql6y5XuWUKd6IH2Nzs/3A==",
-        "drm_license_url": "JIB4gpA2GP7vD0NnVcq2PAeX+IchYQgSbY2U6yfSsMkZ+7zyv8rumicyfMAYEmNG"
-      },
-      {
-        "icon": "https://static.dplay.tech/imagenes/espnpremium.png",
-        "name": "ESPN PREMIUM OP4",
-        "drm_scheme": "clearkey",
-        "uri": "G3OYAsvwtSv059sQiz6Fh6hJlp4f6Wzwwxg55ZgR5mLpoZfA/cSkuc/APvkeV785otqZPi8s4Q0CF65ypE4oAmWhN4oM5Rc3YI6BbtDNrxtGJM58ee0TTtuKQnwvEEn4+8wuqK431Xumc9AOJyxy6w==",
-        "drm_license_url": "JIB4gpA2GP7vD0NnVcq2PCkFQFtmiU8ROt9MA/jNC/YLRFqNzjmO48eY/n3kiSpc"
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2dra548eFeFqwm/Ogur+vq+19qpfbGFK1zKchAUBDijdsT5BsHelyt1zEQG95SG9ULlPsCgQOQMcoT3vQlm7eh5xZJEFnOpIbSkw9jRvgxyRVQ==",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfxT9PA9vmI/fAIh/8B4eiLd1/qXk9gdq3dSGLrGsZN+m"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/tntsports.png",
         "name": "TNT SPORTS",
-        "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKn1B8JGHAuOR3ClKPUURq8CyRfoGktzqomttow8L/PFTELPOnZ7EhsB7ur/8MJWGpZkhuZx3Z7j3a3sU9y9dPd8qsFnYrb/rcRQivvPQU6FvQ==",
-        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXfyXdEOSYl4s0wcz3hp1a1Pd6z0alcIvMB13PKBE/xVMQ",
+        "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2doZRxQPZu3uiDiSabIJZoB87vC52Dvy4xwHp3dXup4E5GdA8JP1kzjJ6aBaQdvodB+xgTPt9tbRxpvnH4sY6qvC",
+        "drm_license_url": "w7KLmvgoTEs3L1fYiEtXf0TXsOLVI1z9Z5ld+vuKNf9bcmGX3JPQFSRiLHnskNEf",
         "drm_scheme": "clearkey"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/tntsports.png",
-        "name": "TNT SPORTS OP2",
-        "uri": "jwjdtN1vPAWPglxaqI7tf816y2qaXT9IZ6pmI4TkrKn1B8JGHAuOR3ClKPUURq8CyRfoGktzqomttow8L/PFTELPOnZ7EhsB7ur/8MJWGpZkhuZx3Z7j3a3sU9y9dPd8qsFnYrb/rcRQivvPQU6FvQ==",
-        "drm_license_url": "bLg3e4m9KbRfgRY9x5aahT5gBjyVwqv3XNds9bjpW/K8wzla4sRsxLP3vBjm/1OYBghj+DVFslRPq+ylSeEorY9p2Eue1MPx7Nk3aZZzRLzzHzGnHKOhxdycEjQzTNE9oV4f3X1Nn0oV51gkSwM0Ug==",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
-        "name": "TNT SPORTS HD",
-        "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVwtvmCTp5rM6kvX4XduF9N8DGKNwg+HhwKLyGnYG9c1A==",
-        "drm_license_url": "5cqXdmLSOezRAsiZ4bqRw5FkXVix4bHdvQzqoarBXhuWjJh6Uu+Oy8v6+C9z00TzMf+sOtAvhCaD2wIWJZeeq2zQivdJttb7yQlcK+XUjyNhU8IU82ReGeGoKjX2KEkj"
+        "name": "TNT SPORTS",
+        "uri": "TfhSHcurc+Tgoa37m05pyeSspiSXTctbnEZxcypU6W3i9NSsXFxvelibQQ11jSr1LJO5YbnQJ2cwY/5HUNoj6n6L/umKKdu1xUQOuUowF2RuM5apIaghXLNaa453/uv4szHfjF7J768x4c0okQSzzA=="
       },
       {
         "icon": "https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png",
